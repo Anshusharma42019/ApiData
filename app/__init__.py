@@ -15,11 +15,7 @@ def create_app():
     app = Flask(__name__)
     app.register_blueprint(content_bp)
 
-    # Home route
-    @app.route('/')
-    def home():
-      print("Home route accessed")  # This will confirm if the home route is hit
-      return jsonify({"message": "Welcome to the API Home!"})
+  
 
 
     return app
