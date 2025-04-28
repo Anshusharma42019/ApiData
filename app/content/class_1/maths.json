@@ -1,0 +1,111 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Math-Magic",
+  "chapters": [
+    {
+      "unit": 1,
+      "title": "Shapes and Spaces",
+      "video_title": "Shapes & Spaces - Full Chapter Explanation, Exercise & Worksheet | Class 1 Maths Chapter 1",
+      "video_url": "https://www.youtube.com/watch?v=7KP1KD8SkYg&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=1",
+      "channel": "Magnet Brains",
+      "duration": "2:09:02"
+    },
+    {
+      "unit": 2,
+      "title": "Numbers From One to Nine",
+      "video_title": "Numbers From One to Nine - Full Chapter Explanation, Exercise & Worksheet | Class 1 Maths Chapter 2",
+      "video_url": "https://www.youtube.com/watch?v=cx4qIHN-GmE&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=2",
+      "channel": "Magnet Brains",
+      "duration": "3:04:22"
+    },
+    {
+      "unit": 3,
+      "title": "Addition",
+      "video_title": "Addition - Full Chapter Explanation, Exercise & Worksheet | Class 1 Maths Chapter 3",
+      "video_url": "https://www.youtube.com/watch?v=lKvUp1jbq74&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=3",
+      "channel": "Magnet Brains",
+      "duration": "2:04:07"
+    },
+    {
+      "unit": 4,
+      "title": "Subtraction",
+      "video_title": "Subtraction - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 4",
+      "video_url": "https://www.youtube.com/watch?v=TuItZAiAwRc&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=4",
+      "channel": "Magnet Brains",
+      "duration": "2:08:11"
+    },
+    {
+      "unit": 5,
+      "title": "Numbers from Ten to Twenty",
+      "video_title": "Numbers from Ten to Twenty - Full Chapter Explanation, Exercise & Worksheet | Class 1 Maths Chapter 5",
+      "video_url": "https://www.youtube.com/watch?v=jb_1gOfU4c0&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=5",
+      "channel": "Magnet Brains",
+      "duration": "3:49:08"
+    },
+    {
+      "unit": 6,
+      "title": "Time",
+      "video_title": "Time - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 6",
+      "video_url": "https://www.youtube.com/watch?v=S-hALLpsYk0&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=6",
+      "channel": "Magnet Brains",
+      "duration": "55:50"
+    },
+    {
+      "unit": 7,
+      "title": "Measurement",
+      "video_title": "Measurement - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 7",
+      "video_url": "https://www.youtube.com/watch?v=Dj3ohBMZwLQ&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=7",
+      "channel": "Magnet Brains",
+      "duration": "1:31:51"
+    },
+    {
+      "unit": 8,
+      "title": "Numbers from Twenty One to Fifty",
+      "video_title": "Numbers from Twenty One to Fifty - Full Chapter Explanation and Worksheet | Class 1 Maths Chapter 8",
+      "video_url": "https://www.youtube.com/watch?v=RbolpOLGjdQ&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=8",
+      "channel": "Magnet Brains",
+      "duration": "1:12:12"
+    },
+    {
+      "unit": 9,
+      "title": "Data Handling",
+      "video_title": "Data Handling - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 9",
+      "video_url": "https://www.youtube.com/watch?v=3EPugJgHpc4&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=9",
+      "channel": "Magnet Brains",
+      "duration": "46:31"
+    },
+    {
+      "unit": 10,
+      "title": "Patterns",
+      "video_title": "Patterns - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 10",
+      "video_url": "https://www.youtube.com/watch?v=vzyWYlLnisM&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=10",
+      "channel": "Magnet Brains",
+      "duration": "1:39:28"
+    },
+    {
+      "unit": 11,
+      "title": "Numbers",
+      "video_title": "Numbers - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 11",
+      "video_url": "https://www.youtube.com/watch?v=qnqE1iJLTFo&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=11",
+      "channel": "Magnet Brains",
+      "duration": "1:09:14"
+    },
+    {
+      "unit": 12,
+      "title": "Money",
+      "video_title": "Money - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 12",
+      "video_url": "https://www.youtube.com/watch?v=YsFZ2lnUIg4&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=12",
+      "channel": "Magnet Brains",
+      "duration": "1:04:11"
+    },
+    {
+      "unit": 13,
+      "title": "How Many?",
+      "video_title": "How Many? - Full Chapter Explanation, Exercise and Worksheet | Class 1 Maths Chapter 13",
+      "video_url": "https://www.youtube.com/watch?v=0p6CIG8-qDY&list=PLVLoWQFkZbhX0yhin2ynxbUciVLaA_5CW&index=13",
+      "channel": "Magnet Brains",
+      "duration": "46:42"
+    }
+  ]
+}

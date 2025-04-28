@@ -1,0 +1,1688 @@
+{
+    "class": 7,
+    "subject": "Social Studies (SST)",
+    "source": "NCERT Curriculum",
+    "total_chapters": 30,
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Environment",
+        "questions": [
+          {
+            "question": "What is the definition of environment?",
+            "options": {
+              "A": "Only natural resources",
+              "B": "Behavior of individuals",
+              "C": "Natural and human-made elements",
+              "D": "Only living beings"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What are the components of the environment?",
+            "options": {
+              "A": "Only living beings",
+              "B": "Climate and topography",
+              "C": "Plants, animals, water, and earth",
+              "D": "Only vegetation"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Why is environmental conservation necessary?",
+            "options": {
+              "A": "For rural development",
+              "B": "To maintain natural balance",
+              "C": "For deforestation",
+              "D": "To earn money"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What does renewable resource mean?",
+            "options": {
+              "A": "Resources that deplete over time",
+              "B": "Resources that can be continuously replenished",
+              "C": "Resources that never change",
+              "D": "Resources that are only water sources"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the role of humans in the environment?",
+            "options": {
+              "A": "Only to destroy",
+              "B": "To protect and improve",
+              "C": "To leave waste",
+              "D": "To absorb resources"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Inside our Earth",
+        "questions": [
+          {
+            "question": "What is the Earth's core primarily made of?",
+            "options": {
+              "A": "Water",
+              "B": "Iron and Nickel",
+              "C": "Sand",
+              "D": "Clay"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What layer of the Earth do we live on?",
+            "options": {
+              "A": "Inner Core",
+              "B": "Outer Core",
+              "C": "Mantle",
+              "D": "Crust"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is the mantle primarily composed of?",
+            "options": {
+              "A": "Liquid Iron",
+              "B": "Granite",
+              "C": "Magma and Silicate rocks",
+              "D": "Coal"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "How deep is the Earth's crust?",
+            "options": {
+              "A": "5-70 kilometers",
+              "B": "100 kilometers",
+              "C": "10 kilometers",
+              "D": "200 kilometers"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the lithosphere?",
+            "options": {
+              "A": "The water layer of the Earth",
+              "B": "The layer of soil and rocks",
+              "C": "The gas surrounding the Earth",
+              "D": "The molten layer"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Our Changing Earth",
+        "questions": [
+          {
+            "question": "What causes earthquakes?",
+            "options": {
+              "A": "Ocean waves",
+              "B": "Human activity",
+              "C": "Tectonic plate movements",
+              "D": "Natural disasters only"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is erosion?",
+            "options": {
+              "A": "Formation of rocks",
+              "B": "Wearing away of the Earth's surface",
+              "C": "Plant growth",
+              "D": "Volcanic activity"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What role do rivers play in shaping the landscape?",
+            "options": {
+              "A": "Creating valleys and deltas",
+              "B": "Only transporting fish",
+              "C": "Generating electricity",
+              "D": "Nothing"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the result of volcanic activity?",
+            "options": {
+              "A": "Mountain formation",
+              "B": "Soil erosion",
+              "C": "Destruction of forests",
+              "D": "Flooding"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What happens during a landslide?",
+            "options": {
+              "A": "Rivers overflow",
+              "B": "Soil and debris fall down a slope",
+              "C": "Earthquakes occur",
+              "D": "Lakes are formed"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Air",
+        "questions": [
+          {
+            "question": "What is the composition of air?",
+            "options": {
+              "A": "Oxygen and Helium",
+              "B": "Nitrogen and Oxygen",
+              "C": "Carbon Dioxide and Nitrogen",
+              "D": "Hydrogen and Oxygen"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the primary function of oxygen in the air?",
+            "options": {
+              "A": "To help with combustion",
+              "B": "Photosynthesis",
+              "C": "For respiration",
+              "D": "To cool the atmosphere"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What are greenhouse gases?",
+            "options": {
+              "A": "Gases that trap heat in the atmosphere",
+              "B": "Gases that pollute the air",
+              "C": "Gases released by plants",
+              "D": "Gases used in refrigeration"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which layer of the atmosphere is closest to Earth?",
+            "options": {
+              "A": "Stratosphere",
+              "B": "Troposphere",
+              "C": "Mesosphere",
+              "D": "Thermosphere"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is air pressure?",
+            "options": {
+              "A": "Weight of air in a given area",
+              "B": "Amount of moisture in the air",
+              "C": "Temperature of the air",
+              "D": "Speed of the wind"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Water",
+        "questions": [
+          {
+            "question": "What percentage of the Earth's surface is covered by water?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "30%",
+              "D": "90%"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the primary source of water for humans?",
+            "options": {
+              "A": "Oceans",
+              "B": "Rivers",
+              "C": "Groundwater",
+              "D": "Rainwater"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is freshwater?",
+            "options": {
+              "A": "Water from the ocean",
+              "B": "Water that is drinkable",
+              "C": "Water with high salinity",
+              "D": "Water that is polluted"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What process describes the movement of water from the surface to the atmosphere?",
+            "options": {
+              "A": "Condensation",
+              "B": "Precipitation",
+              "C": "Evaporation",
+              "D": "Transpiration"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What are glaciers?",
+            "options": {
+              "A": "Large amounts of frozen water",
+              "B": "Rivers of flowing water",
+              "C": "Ponds of stagnant water",
+              "D": "Artificial lakes"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Natural Vegetation and Wildlife",
+        "questions": [
+          {
+            "question": "What is biodiversity?",
+            "options": {
+              "A": "Diversity of plants and animals",
+              "B": "Only animal species",
+              "C": "Only plant species",
+              "D": "Only human impact"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the main threat to wildlife?",
+            "options": {
+              "A": "Overpopulation",
+              "B": "Habitat destruction",
+              "C": "Natural disasters",
+              "D": "Migration"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What are the key factors in determining vegetation?",
+            "options": {
+              "A": "Temperature and rainfall",
+              "B": "Wind speed",
+              "C": "Soil color",
+              "D": "Soil weight"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is not a type of forest?",
+            "options": {
+              "A": "Tropical Rainforest",
+              "B": "Temperate Forest",
+              "C": "Desert Forest",
+              "D": "Coniferous Forest"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the importance of forests?",
+            "options": {
+              "A": "Production of oxygen",
+              "B": "Carbon storage",
+              "C": "Habitat for wildlife",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Human Environment: Settlement, Transport, and Communication",
+        "questions": [
+          {
+            "question": "What is a settlement?",
+            "options": {
+              "A": "A rural or urban community",
+              "B": "Only cities",
+              "C": "Only villages",
+              "D": "A natural habitat"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How do transport systems influence settlements?",
+            "options": {
+              "A": "By increasing population",
+              "B": "By decreasing trade",
+              "C": "By isolating communities",
+              "D": "By enhancing connectivity"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What role does communication play in society?",
+            "options": {
+              "A": "Only to convey information",
+              "B": "Creating barriers",
+              "C": "Promoting culture and interaction",
+              "D": "Nothing"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which factor is not influencing human settlement?",
+            "options": {
+              "A": "Geography",
+              "B": "Climate",
+              "C": "Politics",
+              "D": "Cosmetics"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Why is transport important for trade?",
+            "options": {
+              "A": "It reduces costs",
+              "B": "It increases distance",
+              "C": "It has no impact",
+              "D": "It prevents goods from moving"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Human Environment Interactions: Tropical & Subtropical Region",
+        "questions": [
+          {
+            "question": "Why is the tropical region known for diverse wildlife?",
+            "options": {
+              "A": "It has extreme temperatures",
+              "B": "It has abundant rainfall",
+              "C": "It has vast deserts",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a key characteristic of subtropical regions?",
+            "options": {
+              "A": "Extreme cold",
+              "B": "High humidity",
+              "C": "Moderate temperatures",
+              "D": "Dry deserts"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which trees are commonly found in tropical forests?",
+            "options": {
+              "A": "Coniferous",
+              "B": "Deciduous",
+              "C": "Evergreen",
+              "D": "Cactus"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of the following is not a tropical crop?",
+            "options": {
+              "A": "Rice",
+              "B": "Wheat",
+              "C": "Sugarcane",
+              "D": "Banana"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do tropical regions typically export?",
+            "options": {
+              "A": "Fruits and spices",
+              "B": "Furniture",
+              "C": "Minerals",
+              "D": "Machinery"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Life in Temperate Grasslands",
+        "questions": [
+          {
+            "question": "What is a characteristic feature of temperate grasslands?",
+            "options": {
+              "A": "High trees",
+              "B": "Flat terrain with grasses",
+              "C": "Desert land",
+              "D": "Marshy land"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What type of climate do temperate grasslands have?",
+            "options": {
+              "A": "Tropical",
+              "B": "Arid",
+              "C": "Moderate with seasonal changes",
+              "D": "Polar"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which animal is commonly found in temperate grasslands?",
+            "options": {
+              "A": "Elephant",
+              "B": "Tiger",
+              "C": "Bison",
+              "D": "Koala"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the primary activity of people living in temperate grasslands?",
+            "options": {
+              "A": "Forestry",
+              "B": "Agriculture and grazing",
+              "C": "Mining",
+              "D": "Fishing"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following crops are grown in temperate grasslands?",
+            "options": {
+              "A": "Rice",
+              "B": "Wheat",
+              "C": "Coconut",
+              "D": "Papaya"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Life in Deserts",
+        "questions": [
+          {
+            "question": "What is the main characteristic of desert life?",
+            "options": {
+              "A": "Abundant rainfall",
+              "B": "Scarcity of water",
+              "C": "Dense vegetation",
+              "D": "High population density"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which adaptation helps animals survive in the desert?",
+            "options": {
+              "A": "Thick fur",
+              "B": "Long legs",
+              "C": "Nocturnal behavior",
+              "D": "Large size"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What do people in deserts primarily rely on for water?",
+            "options": {
+              "A": "Rivers",
+              "B": "Wells",
+              "C": "Rainwater collection",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a typical desert plant?",
+            "options": {
+              "A": "Cactus",
+              "B": "Pine",
+              "C": "Oak",
+              "D": "Maple"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What type of animals are commonly found in deserts?",
+            "options": {
+              "A": "Large mammals",
+              "B": "Reptiles and small mammals",
+              "C": "Aquatic animals",
+              "D": "Birds only"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Tracing Changes through a Thousand Years",
+        "questions": [
+          {
+            "question": "What is meant by 'history'?",
+            "options": {
+              "A": "Study of ancient artifacts",
+              "B": "Story of the past",
+              "C": "Fictional narratives",
+              "D": "Future predictions"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why is it important to study history?",
+            "options": {
+              "A": "To learn about the past",
+              "B": "To invent new technologies",
+              "C": "To live in isolation",
+              "D": "To forget traditions"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What do historians primarily focus on?",
+            "options": {
+              "A": "Literature",
+              "B": "Scientific discoveries",
+              "C": "Social events and changes",
+              "D": "Natural landscapes"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which source is commonly used by historians?",
+            "options": {
+              "A": "Textbooks only",
+              "B": "Old manuscripts and artifacts",
+              "C": "Fictional stories",
+              "D": "Modern novels"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What does 'chronology' refer to?",
+            "options": {
+              "A": "Study of historical events",
+              "B": "Arranging events in order of time",
+              "C": "Research in archaeology",
+              "D": "Mapping out countries"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "New Kings and Kingdoms",
+        "questions": [
+          {
+            "question": "What defined a king's status in ancient times?",
+            "options": {
+              "A": "Wealth and power",
+              "B": "Intelligence",
+              "C": "Arts and crafts",
+              "D": "Friendship"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is a 'janapada'?",
+            "options": {
+              "A": "A large kingdom",
+              "B": "A tribe or clan",
+              "C": "An administrative region",
+              "D": "A religious group"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who were the 'rajas'?",
+            "options": {
+              "A": "Merchants",
+              "B": "Kings",
+              "C": "Laborers",
+              "D": "Scholars"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a characteristic of feudalism?",
+            "options": {
+              "A": "Centralized power",
+              "B": "Decentralized authority",
+              "C": "Equality among classes",
+              "D": "Advanced technology"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What contributed to the rise of kingdoms in ancient India?",
+            "options": {
+              "A": "Military conquest and trade",
+              "B": "Isolationism",
+              "C": "Decline in agriculture",
+              "D": "Shortage of resources"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "The Delhi Sultans",
+        "questions": [
+          {
+            "question": "What was the significance of Delhi during the Sultanate period?",
+            "options": {
+              "A": "Cultural hub",
+              "B": "Political center",
+              "C": "Religious site",
+              "D": "Trading post"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who founded the Slave Dynasty?",
+            "options": {
+              "A": "Iltutmish",
+              "B": "Qutb-ud-din Aibak",
+              "C": "Ala-ud-din Khilji",
+              "D": "Balban"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which architectural feature is associated with the Sultans of Delhi?",
+            "options": {
+              "A": "Pyramids",
+              "B": "Havelis",
+              "C": "Mosques",
+              "D": "Cathedrals"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What was the main religion during the Sultanate period?",
+            "options": {
+              "A": "Hinduism",
+              "B": "Christianity",
+              "C": "Islam",
+              "D": "Buddhism"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "How did the Sultans maintain control over their territories?",
+            "options": {
+              "A": "Military strength",
+              "B": "Negotiation",
+              "C": "Isolationism",
+              "D": "Weak governance"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "The Mughal Empire",
+        "questions": [
+          {
+            "question": "Who was the founder of the Mughal Empire?",
+            "options": {
+              "A": "Akbar",
+              "B": "Babur",
+              "C": "Shah Jahan",
+              "D": "Aurangzeb"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the significance of the Red Fort?",
+            "options": {
+              "A": "Religious site",
+              "B": "Royal residence",
+              "C": "Market place",
+              "D": "Training ground"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What was Mughal architecture known for?",
+            "options": {
+              "A": "Simplicity",
+              "B": "Opulence and intricacy",
+              "C": "Minimalism",
+              "D": "Modernity"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which Mughal ruler is known for his policy of religious tolerance?",
+            "options": {
+              "A": "Babur",
+              "B": "Ala-ud-din Khilji",
+              "C": "Akbar",
+              "D": "Shah Jahan"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What was one major consequence of the Mughal Empire's expansion?",
+            "options": {
+              "A": "Cultural exchange",
+              "B": "Isolation from other regions",
+              "C": "Decline in trade",
+              "D": "Decrease in agricultural production"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 15,
+        "chapter_name": "Rulers and Buildings",
+        "questions": [
+          {
+            "question": "What was the purpose of building forts?",
+            "options": {
+              "A": "For recreation",
+              "B": "As military defenses",
+              "C": "As palaces",
+              "D": "As marketplaces"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which city is famous for its historical forts?",
+            "options": {
+              "A": "Delhi",
+              "B": "Jaipur",
+              "C": "Mumbai",
+              "D": "Chennai"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What characteristic features did Mughal architecture have?",
+            "options": {
+              "A": "Clay structures",
+              "B": "Intricate designs and gardens",
+              "C": "Simple designs",
+              "D": "Metallic structures"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which ruler built the Taj Mahal?",
+            "options": {
+              "A": "Aurangzeb",
+              "B": "Shah Jahan",
+              "C": "Akbar",
+              "D": "Babur"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why were temples constructed?",
+            "options": {
+              "A": "For educational purposes",
+              "B": "To honor deities",
+              "C": "As marketplaces",
+              "D": "For residential purposes"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 16,
+        "chapter_name": "Towns, Traders and Craftspersons",
+        "questions": [
+          {
+            "question": "What role did towns play in trade?",
+            "options": {
+              "A": "They were isolated",
+              "B": "Centers of commerce",
+              "C": "Rural areas were more important",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What types of goods were commonly traded in towns?",
+            "options": {
+              "A": "Only agricultural products",
+              "B": "Crafts and textiles",
+              "C": "Minerals only",
+              "D": "Exclusive tourism"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who were the most important members of the trades?",
+            "options": {
+              "A": "Farmers",
+              "B": "Craftspersons and merchants",
+              "C": "Lawyers",
+              "D": "Politicians"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How did towns develop?",
+            "options": {
+              "A": "Through technological advancements",
+              "B": "By reducing trade",
+              "C": "By isolating from each other",
+              "D": "By increasing agriculture"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What was the significance of marketplaces?",
+            "options": {
+              "A": "Social interaction",
+              "B": "Economic exchange",
+              "C": "Cultural activities",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 17,
+        "chapter_name": "Tribes, Nomads and Settled Communities",
+        "questions": [
+          {
+            "question": "What characterizes nomadic lifestyle?",
+            "options": {
+              "A": "Permanent residence",
+              "B": "Moving to find resources",
+              "C": "Settled agriculture",
+              "D": "Industrial work"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a settled community?",
+            "options": {
+              "A": "A group that migrates constantly",
+              "B": "A group that lives permanently in one place",
+              "C": "A hunting tribe",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a characteristic of tribal society?",
+            "options": {
+              "A": "Urban living",
+              "B": "Strong kinship ties",
+              "C": "Technological dependence",
+              "D": "Commercial agriculture"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do nomadic communities primarily rely on?",
+            "options": {
+              "A": "Permanent water sources",
+              "B": "Seasonal migration",
+              "C": "Technological gadgets",
+              "D": "Mass production"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How do settled communities sustain themselves?",
+            "options": {
+              "A": "By trading livestock",
+              "B": "By practicing agriculture",
+              "C": "By hunting only",
+              "D": "By fishing only"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 18,
+        "chapter_name": "Devotional Paths to the Divine",
+        "questions": [
+          {
+            "question": "What is Bhakti movement?",
+            "options": {
+              "A": "A political movement",
+              "B": "A spiritual movement",
+              "C": "A scientific discovery",
+              "D": "A cultural transformation"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who were the key figures in the Bhakti movement?",
+            "options": {
+              "A": "Kings",
+              "B": "Poets and saints",
+              "C": "Rulers",
+              "D": "Merchants"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What was a primary focus of the Bhakti movement?",
+            "options": {
+              "A": "Material wealth",
+              "B": "Devotion to God",
+              "C": "Political power",
+              "D": "Artistic expression"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is not a characteristic of the Bhakti movement?",
+            "options": {
+              "A": "Rejection of rituals",
+              "B": "Emphasis on personal devotion",
+              "C": "Intolerance towards other faiths",
+              "D": "Social equality"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What impact did the Bhakti movement have on society?",
+            "options": {
+              "A": "Increased division",
+              "B": "Promoted social reform",
+              "C": "Discouraged new ideas",
+              "D": "Maintained status quo"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 19,
+        "chapter_name": "The Making of Regional Cultures",
+        "questions": [
+          {
+            "question": "What signifies the development of regional cultures?",
+            "options": {
+              "A": "Isolation from others",
+              "B": "Blending of local practices and traditions",
+              "C": "Uniformity in all cultures",
+              "D": "Political influences only"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which factors contribute to regional culture?",
+            "options": {
+              "A": "Language and customs",
+              "B": "Geographic features only",
+              "C": "Political policies",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How does trade influence regional cultures?",
+            "options": {
+              "A": "It restricts interactions",
+              "B": "It promotes cultural exchanges",
+              "C": "It isolates communities",
+              "D": "It has no impact"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the significance of festivals in regional cultures?",
+            "options": {
+              "A": "To strengthen community bonds",
+              "B": "To promote individualism",
+              "C": "To discourage social participation",
+              "D": "To maintain status quo"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is an example of regional art?",
+            "options": {
+              "A": "Modern sculpture",
+              "B": "Folk traditions",
+              "C": "Industrial design",
+              "D": "Commercial media"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 20,
+        "chapter_name": "18th Century Political Formations",
+        "questions": [
+          {
+            "question": "What characterized the 18th-century political landscape?",
+            "options": {
+              "A": "Stability and peace",
+              "B": "Fragmentation and regional powers",
+              "C": "Centralized authority",
+              "D": "Uniform governance"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following was a major empire during the 18th century?",
+            "options": {
+              "A": "Mughal Empire",
+              "B": "Ottoman Empire",
+              "C": "Russian Empire",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What was a significant change in governance during the 18th century?",
+            "options": {
+              "A": "Increased trade",
+              "B": "Emergence of new regional powers",
+              "C": "Decline of agriculture",
+              "D": "Reduction in wars"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How did colonialism affect regional powers?",
+            "options": {
+              "A": "By strengthening them",
+              "B": "By weakening or controlling them",
+              "C": "By encouraging independence",
+              "D": "By fostering cooperation"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What was a common outcome of the political changes in the 18th century?",
+            "options": {
+              "A": "Increased stability",
+              "B": "Social unrest",
+              "C": "Economic prosperity",
+              "D": "Cultural uniformity"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 21,
+        "chapter_name": "On Equality",
+        "questions": [
+          {
+            "question": "What does equality refer to?",
+            "options": {
+              "A": "Same treatment for everyone",
+              "B": "Equal wealth",
+              "C": "Same beliefs",
+              "D": "Equal growth"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Why is equality important in society?",
+            "options": {
+              "A": "Promotes harmony and justice",
+              "B": "Creates division",
+              "C": "Encourages discrimination",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What instruments help promote equality?",
+            "options": {
+              "A": "Laws and regulations",
+              "B": "Racism",
+              "C": "Corruption",
+              "D": "Discrimination"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which article of the Indian Constitution promotes equality?",
+            "options": {
+              "A": "Article 14",
+              "B": "Article 15",
+              "C": "Article 16",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Discrimination based on race or caste is known as?",
+            "options": {
+              "A": "Justice",
+              "B": "Inequality",
+              "C": "Fairness",
+              "D": "Equity"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 22,
+        "chapter_name": "Role of the Government in Health",
+        "questions": [
+          {
+            "question": "What is the primary role of the government in health?",
+            "options": {
+              "A": "To provide mental health services",
+              "B": "To ensure public health and safety",
+              "C": "To promote personal health",
+              "D": "To limit access to healthcare"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a key public health issue?",
+            "options": {
+              "A": "Education",
+              "B": "Nutrition",
+              "C": "Employment",
+              "D": "Tourism"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is government funding in health used for?",
+            "options": {
+              "A": "For sports only",
+              "B": "For healthcare facilities and services",
+              "C": "For entertainment",
+              "D": "For private sectors only"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a public health initiative?",
+            "options": {
+              "A": "Vaccination programs",
+              "B": "Private hospitals",
+              "C": "Luxury healthcare",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Health policies should focus on?",
+            "options": {
+              "A": "Preventive healthcare",
+              "B": "Only curative services",
+              "C": "Just hospitals",
+              "D": "More private clinics"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 23,
+        "chapter_name": "How the State Government Works",
+        "questions": [
+          {
+            "question": "What is the primary function of the state government?",
+            "options": {
+              "A": "To rule all the nations",
+              "B": "To govern a specific state",
+              "C": "To control local bodies",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a responsibility of the state government?",
+            "options": {
+              "A": "Maintaining law and order",
+              "B": "Conducting foreign affairs",
+              "C": "Managing defense",
+              "D": "Funding national projects"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How does the state legislature function?",
+            "options": {
+              "A": "Only in emergencies",
+              "B": "By passing laws",
+              "C": "By collecting taxes",
+              "D": "By making treaties"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What does the Chief Minister do?",
+            "options": {
+              "A": "Leads the state government",
+              "B": "Acts as the head of the state",
+              "C": "Is merely a figurehead",
+              "D": "Conducts investigations"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is commonly discussed in the state assembly?",
+            "options": {
+              "A": "Daily life issues of citizens",
+              "B": "International relations",
+              "C": "Family matters",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 24,
+        "chapter_name": "Growing Up as Boys and Girls",
+        "questions": [
+          {
+            "question": "What is a significant aspect of growing up?",
+            "options": {
+              "A": "Only physical changes",
+              "B": "Emotional development",
+              "C": "Increased pressure only",
+              "D": "Education only"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a challenge faced by adolescents?",
+            "options": {
+              "A": "Understanding relationships",
+              "B": "Maintaining a balanced diet",
+              "C": "Making new friends",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What role does education play during adolescence?",
+            "options": {
+              "A": "Only to pass exams",
+              "B": "To develop critical thinking and skills",
+              "C": "To avoid responsibilities",
+              "D": "To socialize only"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is peer pressure?",
+            "options": {
+              "A": "Pressure from friends to conform",
+              "B": "Pressure from teachers",
+              "C": "Pressure based on academics",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is important for adolescents?",
+            "options": {
+              "A": "Physical appearance only",
+              "B": "Mental health",
+              "C": "Social media presence",
+              "D": "Long-term friendships"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 25,
+        "chapter_name": "Women Change the World",
+        "questions": [
+          {
+            "question": "What is the role of women in social change?",
+            "options": {
+              "A": "Advocates for justice",
+              "B": "Maintaining traditions only",
+              "C": "Supporting patriarchal norms",
+              "D": "Promoting isolation"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which movement focused on women's rights?",
+            "options": {
+              "A": "Civil Rights Movement",
+              "B": "Feminist Movement",
+              "C": "Labor Movement",
+              "D": "Environmental Movement"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What was a significant achievement for women's rights?",
+            "options": {
+              "A": "More restrictions",
+              "B": "Right to vote",
+              "C": "Less education",
+              "D": "Increased discrimination"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How do women contribute to the economy?",
+            "options": {
+              "A": "Only as homemakers",
+              "B": "As active participants in the workforce",
+              "C": "By simply avoiding work",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What barriers do women face today?",
+            "options": {
+              "A": "Equal opportunities",
+              "B": "Gender discrimination and stereotypes",
+              "C": "Total freedom",
+              "D": "Affirmative action only"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 26,
+        "chapter_name": "Understanding Media",
+        "questions": [
+          {
+            "question": "What is the role of media?",
+            "options": {
+              "A": "Only entertainment",
+              "B": "To inform and educate",
+              "C": "To create confusion",
+              "D": "To invade privacy"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which type of media is most prevalent today?",
+            "options": {
+              "A": "Print media",
+              "B": "Digital media",
+              "C": "Radio",
+              "D": "Television only"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What does 'media literacy' mean?",
+            "options": {
+              "A": "Understanding and analyzing media content",
+              "B": "Learning to read",
+              "C": "Only using digital devices",
+              "D": "Ignoring media altogether"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How can media influence public opinion?",
+            "options": {
+              "A": "By spreading misinformation",
+              "B": "By providing accurate information",
+              "C": "Only through advertisements",
+              "D": "By avoiding critical issues"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the impact of social media?",
+            "options": {
+              "A": "Promotes isolation",
+              "B": "Encourages networking and connections",
+              "C": "Reduces communication",
+              "D": "Increases misinformation"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 27,
+        "chapter_name": "Understanding Advertisements",
+        "questions": [
+          {
+            "question": "What is the primary purpose of advertisements?",
+            "options": {
+              "A": "To entertain",
+              "B": "To inform customers about products",
+              "C": "To confuse consumers",
+              "D": "To promote minimalism"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which type of advertisement appeals to emotions?",
+            "options": {
+              "A": "Informative ads",
+              "B": "Emotional appeal ads",
+              "C": "Direct response ads",
+              "D": "Classified ads"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is misleading advertising?",
+            "options": {
+              "A": "Ads that provide accurate information",
+              "B": "Ads that exaggerate benefits",
+              "C": "Ads that are boring",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How can consumers protect themselves against misleading ads?",
+            "options": {
+              "A": "By ignoring all ads",
+              "B": "By researching products",
+              "C": "By believing everything",
+              "D": "By following trends blindly"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What impact do advertisements have on society?",
+            "options": {
+              "A": "Only negative",
+              "B": "Promote consumption and brand awareness",
+              "C": "Discourage innovation",
+              "D": "Have no impact"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 28,
+        "chapter_name": "Markets Around Us",
+        "questions": [
+          {
+            "question": "What is a market?",
+            "options": {
+              "A": "Only a physical space for buying and selling",
+              "B": "A place where buyers and sellers interact",
+              "C": "Only an online shopping platform",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What types of goods can be found in a market?",
+            "options": {
+              "A": "Only luxury goods",
+              "B": "Only food items",
+              "C": "All kinds of goods and services",
+              "D": "Only second-hand items"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the role of prices in a market?",
+            "options": {
+              "A": "To confuse consumers",
+              "B": "To determine supply and demand",
+              "C": "To increase profits only",
+              "D": "To standardize products"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How do markets facilitate economic growth?",
+            "options": {
+              "A": "By limiting consumer choices",
+              "B": "By encouraging trade and commerce",
+              "C": "By reducing competition",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a common challenge in markets?",
+            "options": {
+              "A": "Saturation",
+              "B": "Lack of variety",
+              "C": "Price fluctuations",
+              "D": "None of the above"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 29,
+        "chapter_name": "A Shirt in the Market",
+        "questions": [
+          {
+            "question": "What is the product discussed in this chapter?",
+            "options": {
+              "A": "Shirt",
+              "B": "Pants",
+              "C": "Hat",
+              "D": "Belt"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the chapter illustrate about production?",
+            "options": {
+              "A": "It's solely manual",
+              "B": "Involves multiple processes and labor",
+              "C": "Only takes place in factories",
+              "D": "Doesn't require resources"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What role do workers play in the production process?",
+            "options": {
+              "A": "None",
+              "B": "Vital contributors",
+              "C": "Only overseers",
+              "D": "Only suppliers"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How is demand determined in the market?",
+            "options": {
+              "A": "By consumer needs and preferences",
+              "B": "Only by advertising",
+              "C": "By availability only",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is a significant factor affecting the cost of the shirt?",
+            "options": {
+              "A": "Quality of fabric",
+              "B": "Color choice",
+              "C": "Only brand name",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 30,
+        "chapter_name": "Struggle for Equality",
+        "questions": [
+          {
+            "question": "What does the struggle for equality refer to?",
+            "options": {
+              "A": "Fighting against inequality and discrimination",
+              "B": "Maintaining the status quo",
+              "C": "Promoting one group over another",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Who are commonly involved in the struggle for equality?",
+            "options": {
+              "A": "Activists and leaders",
+              "B": "Only government officials",
+              "C": "Citizens only",
+              "D": "Exclusively scholars"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What are common methods used in the struggle for equality?",
+            "options": {
+              "A": "Peaceful protests and advocacy",
+              "B": "Violence",
+              "C": "Complete isolation",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is a key outcome of the struggle for equality?",
+            "options": {
+              "A": "Continued discrimination",
+              "B": "Greater social justice",
+              "C": "Increased division",
+              "D": "Loss of rights"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why is awareness important in the struggle for equality?",
+            "options": {
+              "A": "To maintain silence",
+              "B": "To educate others and promote understanding",
+              "C": "To encourage apathy",
+              "D": "To promote misinformation"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      }
+    ]
+  }

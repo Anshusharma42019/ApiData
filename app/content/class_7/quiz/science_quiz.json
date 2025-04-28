@@ -1,0 +1,567 @@
+{
+    "class": "Class 7",
+    "subject": "Science",
+    "book": "NCERT",
+    "quiz_questions": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Nutrition in Plants",
+        "quiz_questions": [
+          {
+            "quiz_question": "What process do plants use to prepare their own food?",
+            "options": {
+              "1": "Photosynthesis",
+              "2": "Respiration",
+              "3": "Digestion",
+              "4": "Assimilation"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What do plants primarily use to absorb sunlight?",
+            "options": {
+              "1": "Roots",
+              "2": "Leaves",
+              "3": "Flowers",
+              "4": "Branches"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which gas is a byproduct of photosynthesis?",
+            "options": {
+              "1": "Carbon Dioxide",
+              "2": "Oxygen",
+              "3": "Nitrogen",
+              "4": "Hydrogen"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What pigment is responsible for photosynthesis?",
+            "options": {
+              "1": "Chlorophyll",
+              "2": "Melanin",
+              "3": "Carotene",
+              "4": "Hemoglobin"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Where does photosynthesis mainly occur in plants?",
+            "options": {
+              "1": "Stems",
+              "2": "Roots",
+              "3": "Leaves",
+              "4": "Flowers"
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Nutrition in Animals",
+        "quiz_questions": [
+          {
+            "quiz_question": "Which of the following is not a type of nutrition found in animals?",
+            "options": {
+              "1": "Heterotrophic Nutrition",
+              "2": "Autotrophic Nutrition",
+              "3": "Saprophytic Nutrition",
+              "4": "Parasitic Nutrition"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is an example of a parasitic animal?",
+            "options": {
+              "1": "Cow",
+              "2": "Lion",
+              "3": "Tapeworm",
+              "4": "Eagle"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which organ in mammals is primarily responsible for digestion?",
+            "options": {
+              "1": "Stomach",
+              "2": "Liver",
+              "3": "Heart",
+              "4": "Brain"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What do herbivores primarily eat?",
+            "options": {
+              "1": "Meat",
+              "2": "Plants",
+              "3": "Both",
+              "4": "None"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which nutrient is essential for energy?",
+            "options": {
+              "1": "Vitamins",
+              "2": "Proteins",
+              "3": "Carbohydrates",
+              "4": "Minerals"
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Fibre to Fabric",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is the primary source of natural fiber?",
+            "options": {
+              "1": "Silk",
+              "2": "Plastic",
+              "3": "Nylon",
+              "4": "Cotton"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Which process is used to convert fibers into fabric?",
+            "options": {
+              "1": "Weaving",
+              "2": "Sewing",
+              "3": "Knitting",
+              "4": "Dyeing"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is a synthetic fiber?",
+            "options": {
+              "1": "Cotton",
+              "2": "Wool",
+              "3": "Nylon",
+              "4": "Silk"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which animal produces silk?",
+            "options": {
+              "1": "Sheep",
+              "2": "Camel",
+              "3": "Silkworm",
+              "4": "Rabbit"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the benefit of using synthetic fibers?",
+            "options": {
+              "1": "They are biodegradable.",
+              "2": "They are mostly waterproof.",
+              "3": "They are expensive.",
+              "4": "They are difficult to produce."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Heat",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is the unit of heat?",
+            "options": {
+              "1": "Joule",
+              "2": "Watt",
+              "3": "Kelvin",
+              "4": "Celsius"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the process of heat transfer without direct contact called?",
+            "options": {
+              "1": "Conduction",
+              "2": "Convection",
+              "3": "Radiation",
+              "4": "Insulation"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which substance is the best conductor of heat?",
+            "options": {
+              "1": "Wood",
+              "2": "Metal",
+              "3": "Plastic",
+              "4": "Glass"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the boiling point of water?",
+            "options": {
+              "1": "100°C",
+              "2": "0°C",
+              "3": "50°C",
+              "4": "25°C"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What happens to solids when they are heated?",
+            "options": {
+              "1": "They harden.",
+              "2": "They melt.",
+              "3": "They ignite.",
+              "4": "They evaporate."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Acids, Bases and Salts",
+        "quiz_questions": [
+          {
+            "quiz_question": "What property do acids generally have?",
+            "options": {
+              "1": "Taste bitter",
+              "2": "Taste sour",
+              "3": "Feel slippery",
+              "4": "Are good conductors of electricity"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the pH level of neutral substances?",
+            "options": {
+              "1": "0",
+              "2": "7",
+              "3": "14",
+              "4": "4"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which of the following is a strong acid?",
+            "options": {
+              "1": "Vinegar",
+              "2": "Lemon juice",
+              "3": "Hydrochloric acid",
+              "4": "Baking soda"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What forms when an acid reacts with a base?",
+            "options": {
+              "1": "Salt and water",
+              "2": "Gas and ash",
+              "3": "Energy and light",
+              "4": "Smoke and vapour"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Which of these is a common base?",
+            "options": {
+              "1": "Vinegar",
+              "2": "Lemon juice",
+              "3": "Sodium hydroxide",
+              "4": "Lactic acid"
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Physical and Chemical Changes",
+        "quiz_questions": [
+          {
+            "quiz_question": "Which of the following is an example of a chemical change?",
+            "options": {
+              "1": "Ice melting",
+              "2": "Sugar dissolving in water",
+              "3": "Burning wood",
+              "4": "Chopping vegetables"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What characterizes a physical change?",
+            "options": {
+              "1": "New substances are formed.",
+              "2": "No new substances are formed.",
+              "3": "Energy is absorbed.",
+              "4": "It is irreversible."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is rusting of iron an example of?",
+            "options": {
+              "1": "Physical change",
+              "2": "Chemical change",
+              "3": "Biological change",
+              "4": "Mechanical change"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which of the following is a reversible change?",
+            "options": {
+              "1": "Cooking food",
+              "2": "Melting ice",
+              "3": "Burning paper",
+              "4": "Rusting iron"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What happens during a chemical change?",
+            "options": {
+              "1": "Substances absorb heat.",
+              "2": "Substances change shape.",
+              "3": "New bonds form.",
+              "4": "Only mass changes."
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Weather, Climate & Adaptations of Animals to Climate",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is weather?",
+            "options": {
+              "1": "Long-term atmospheric conditions.",
+              "2": "Short-term atmospheric conditions.",
+              "3": "A seasonal trend.",
+              "4": "Uniform temperature."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What affects climate?",
+            "options": {
+              "1": "Altitude",
+              "2": "Latitude",
+              "3": "Vegetation",
+              "4": "All of the above"
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "Which of the following adaptations helps animals survive in cold climates?",
+            "options": {
+              "1": "Migration",
+              "2": "Hibernation",
+              "3": "Camouflage",
+              "4": "Coloration"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is a common feature of deserts?",
+            "options": {
+              "1": "High rainfall",
+              "2": "High temperatures",
+              "3": "Rich vegetation",
+              "4": "High humidity"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which instruments are used to measure temperature?",
+            "options": {
+              "1": "Barometer",
+              "2": "Anemometer",
+              "3": "Thermometer",
+              "4": "Hygrometer"
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Winds, Storms and Cyclones",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is a cyclone?",
+            "options": {
+              "1": "A type of storm.",
+              "2": "A desert phenomenon.",
+              "3": "A mountain formation.",
+              "4": "A weather measurement."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What direction do cyclones generally rotate in the Northern Hemisphere?",
+            "options": {
+              "1": "Clockwise",
+              "2": "Counterclockwise",
+              "3": "Random direction",
+              "4": "Lateral"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which instrument is used to measure wind speed?",
+            "options": {
+              "1": "Barometer",
+              "2": "Anemometer",
+              "3": "Thermometer",
+              "4": "Hygrometer"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the main cause of winds?",
+            "options": {
+              "1": "Differences in temperature and pressure.",
+              "2": "Earthquakes.",
+              "3": "Human activities.",
+              "4": "Water bodies."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What type of pressure results in calm weather?",
+            "options": {
+              "1": "High pressure",
+              "2": "Low pressure",
+              "3": "Changing pressure",
+              "4": "Fluctuating pressure"
+            },
+            "correct_answer": "1"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Soil",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is soil made of?",
+            "options": {
+              "1": "Rock and minerals",
+              "2": "Organic matter",
+              "3": "Water",
+              "4": "All of the above"
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "What type of soil is best for agriculture?",
+            "options": {
+              "1": "Sandy soil",
+              "2": "Clay soil",
+              "3": "Loamy soil",
+              "4": "Salty soil"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is topsoil?",
+            "options": {
+              "1": "The deepest layer of soil.",
+              "2": "The uppermost layer of soil.",
+              "3": "A layer of clay.",
+              "4": "A type of rock."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which soil is known for drainage?",
+            "options": {
+              "1": "Clay",
+              "2": "Sandy",
+              "3": "Loamy",
+              "4": "Peaty"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which factor is most important for soil formation?",
+            "options": {
+              "1": "Temperature",
+              "2": "Time",
+              "3": "Organic content",
+              "4": "Water"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Respiration in Organisms",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is respiration?",
+            "options": {
+              "1": "Process of breathing.",
+              "2": "Process of obtaining energy.",
+              "3": "Process of digestion.",
+              "4": "Process of growth."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What gas do humans exhale during respiration?",
+            "options": {
+              "1": "Oxygen",
+              "2": "Nitrogen",
+              "3": "Carbon Dioxide",
+              "4": "Hydrogen"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is aerobic respiration?",
+            "options": {
+              "1": "Respiration without oxygen.",
+              "2": "Respiration in plants only.",
+              "3": "Respiration with oxygen.",
+              "4": "Respiration in small animals."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Where does respiration take place in cells?",
+            "options": {
+              "1": "Nucleus",
+              "2": "Cytoplasm",
+              "3": "Mitochondria",
+              "4": "Ribosomes"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the byproduct of aerobic respiration?",
+            "options": {
+              "1": "Glucose",
+              "2": "Lactate",
+              "3": "Water and carbon dioxide",
+              "4": "Oxygen"
+            },
+            "correct_answer": "3"
+          }
+        ]
+      }
+    ]
+  }

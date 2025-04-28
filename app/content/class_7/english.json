@@ -1,0 +1,78 @@
+{
+    "class": "Class 7",
+    "subject": "English",
+    "book": "Honeycomb",
+    "video_explanations": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Three Questions",
+        "video_duration": "1:29:33",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=IBsEStHX2E4"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "A Gift of Chappals & The Rebel",
+        "video_duration": "2:05:05",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=hUATSxWe3Rg"
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Gopal and the Hilsa Fish",
+        "video_duration": "1:27:08",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ox-aC8UuExQ"
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "The Ashes That Made Trees Bloom",
+        "video_duration": "2:08:06",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=9MF2vBSZ4fM"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Quality",
+        "video_duration": "1:41:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=sRFrDuvAiwc"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Expert Detectives",
+        "video_duration": "1:22:47",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=x5cgsLV3XPM"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "The Invention of Vita-wonk",
+        "video_duration": "1:15:31",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=iVrePCuq_2s"
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Fire: Friend and Foe",
+        "video_duration": "1:33:24",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=2KhfQUO4b64"
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "A Bicycle in Good Repair",
+        "video_duration": "1:24:37",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=XG8t_-1vBG0"
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "The Story of Cricket",
+        "video_duration": "1:33:25",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=5Ql36HiysUU"
+      }
+    ]
+  }
+  

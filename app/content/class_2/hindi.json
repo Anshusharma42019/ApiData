@@ -1,0 +1,131 @@
+{
+  "class": 2,
+  "subject": "Hindi",
+  "book": "Rimjhim 2",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Oont Chala - ऊँट चला",
+      "content": "This chapter tells the story of a camel walking in the desert. The camel moves in a rhythmic manner, and the children learn about the animal and its journey. The lesson also teaches them how to appreciate nature and animals.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=pV7rMmwf808&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=2"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Bhalu Ne Kheli Football - भालू ने खेली फुटबाल",
+      "content": "This chapter talks about a bear playing football with other animals. It teaches children about teamwork and sportsmanship in a fun and engaging way.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=vz7d3CkOElI&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=3"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Miyaun Miyaun - म्याऊँ म्याऊँ",
+      "content": "This chapter is about the sounds animals make. The story focuses on a cat, which says 'Miyaun' and interacts with other animals. It's a fun way to learn about animal sounds.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=UjkEQN6Yn_4&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=4"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adhik Balvan Kaun? - अधिक बलवान कौन?",
+      "content": "This chapter is about a competition to see who is the strongest among different animals. The story teaches children the importance of courage and strength in a playful manner.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=o9g3KX3ogN0&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=5"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Dost Ki Madad - दोस्त की मदद",
+      "content": "In this chapter, a group of friends helps each other out of difficult situations. It teaches children the value of friendship and the importance of helping others.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=J8WBBWIi63M&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=6"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Bahut Hua - बहुत हुआ",
+      "content": "This chapter talks about a situation where something is going on for too long, and it needs to stop. It helps children understand the concept of limits and self-control.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=PgMHSFWqePc&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=7"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Meri Kitab - मेरी किताब",
+      "content": "The story is about a child who loves reading books and explores the joy of learning. The chapter emphasizes the importance of books and knowledge.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=jeswnZrkzt0&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=8"
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Titli Aur Kali - तितली और कली",
+      "content": "This chapter tells the story of a butterfly and a flower. The interaction between the two teaches children about nature, growth, and the beauty of life.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=19-4-TS8EkA&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=9"
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "Bulbul - बुलबुल",
+      "content": "In this chapter, the story of a bulbul bird singing in a garden is told. The bird’s melody spreads joy, teaching children the significance of music in nature.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=VYDGQga729s&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=10"
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "Meethi Sarangi - मीठी सारंगी",
+      "content": "The story in this chapter talks about the sweet sound of the sarangi, an instrument. It explains how music can touch hearts and bring happiness.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=uM0VsZ4gB6Q&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=11"
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "title": "Tesu Raja Beech Bazar - टेसू राजा बीच बाज़ार",
+      "content": "This chapter is about a king who goes to the market. The story involves different characters and teaches children about the concept of leadership and helping others.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=twaQFmtp9Jo&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=12",
+        "https://www.youtube.com/watch?v=X___rM-T5qw&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=13"
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "Bus Ke Neeche Bagh - बस के नीचे बाघ",
+      "content": "This chapter is about a tiger hiding under a bus. It’s a funny and adventurous tale that teaches children about the importance of safety and caution.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=I3KcuMBIDRg&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=14",
+        "https://www.youtube.com/watch?v=PiiUCQOKc4Q&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=15"
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sooraj Jaldi Aana Ji - सूरज जल्दी आना जी",
+      "content": "This chapter revolves around the sun and how it brings warmth and light. Children learn about the sun's importance and its impact on daily life.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=1-vOzqbyw38&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=16"
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "title": "Natkhat Chuha - नटखट चूहा",
+      "content": "The story is about a mischievous mouse and its playful activities. It teaches children about the nature of animals and the concept of being mischievous.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=BUiib5EPTpg&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=17",
+        "https://www.youtube.com/watch?v=nT1ULHgs_8M&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=18"
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "title": "Ekki Dokki - एक्की दोक्की",
+      "content": "This chapter is a fun and playful story about two characters. It helps children understand the joy of play and friendship.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=KSIacO5KqMs&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=19",
+        "https://www.youtube.com/watch?v=1D7jK5FmEs4&list=PLVLoWQFkZbhUONcyMQCIcZXlyTvq07Z_5&index=20"
+      ]
+    }
+  ]
+}

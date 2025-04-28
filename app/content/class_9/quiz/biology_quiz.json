@@ -1,0 +1,343 @@
+{
+    "subject": "Biology",
+    "class": "9",
+    "board": "CBSE",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "The Fundamental Unit of Life",
+        "questions": [
+          {
+            "quiz_question": "What is considered the basic unit of life?",
+            "options": {
+              "1": "Organ",
+              "2": "Cell",
+              "3": "Tissue",
+              "4": "Organism"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which part of the cell controls its activities?",
+            "options": {
+              "1": "Cell wall",
+              "2": "Nucleus",
+              "3": "Cytoplasm",
+              "4": "Cell membrane"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What do you call the jelly-like substance within the cell?",
+            "options": {
+              "1": "Protoplasm",
+              "2": "Chromatin",
+              "3": "Lysosome",
+              "4": "Chloroplast"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Which type of cell lacks a nucleus?",
+            "options": {
+              "1": "Eukaryotic",
+              "2": "Prokaryotic",
+              "3": "Plant",
+              "4": "Animal"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which organelle is known as the powerhouse of the cell?",
+            "options": {
+              "1": "Lysosome",
+              "2": "Mitochondria",
+              "3": "Ribosome",
+              "4": "Golgi apparatus"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Tissues",
+        "questions": [
+          {
+            "quiz_question": "What are the two main types of plant tissues?",
+            "options": {
+              "1": "Meristematic and Permanent",
+              "2": "Parenchyma and Collenchyma",
+              "3": "Xylem and Phloem",
+              "4": "Epidermis and Cortex"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Which tissue is responsible for transport in plants?",
+            "options": {
+              "1": "Parenchyma",
+              "2": "Xylem",
+              "3": "Cortex",
+              "4": "Ground tissue"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What type of tissue connects muscles to bones?",
+            "options": {
+              "1": "Epithelial",
+              "2": "Nervous",
+              "3": "Connective",
+              "4": "Muscle"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which type of epithelial tissue is specialized for absorption?",
+            "options": {
+              "1": "Ciliated",
+              "2": "Squamous",
+              "3": "Columnar",
+              "4": "Cuboidal"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the main characteristic feature of cardiac muscle?",
+            "options": {
+              "1": "Voluntary control",
+              "2": "Involuntary control",
+              "3": "Multi-nucleated",
+              "4": "Lacks striation"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Diversity in Living Organisms",
+        "questions": [
+          {
+            "quiz_question": "What is the science of classifying organisms called?",
+            "options": {
+              "1": "Botany",
+              "2": "Ecology",
+              "3": "Taxonomy",
+              "4": "Genetics"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which of the following is a characteristic of living organisms?",
+            "options": {
+              "1": "Ability to reproduce",
+              "2": "Ability to become fossilized",
+              "3": "Ability to be classified",
+              "4": "Ability to decay"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the largest group of living organisms?",
+            "options": {
+              "1": "Plants",
+              "2": "Animals",
+              "3": "Fungi",
+              "4": "Bacteria"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which kingdom do unicellular organisms belong to?",
+            "options": {
+              "1": "Animalia",
+              "2": "Plantae",
+              "3": "Monera",
+              "4": "Fungi"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the basic unit of classification?",
+            "options": {
+              "1": "Species",
+              "2": "Genus",
+              "3": "Family",
+              "4": "Order"
+            },
+            "correct_answer": "1"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Why Do We Fall Ill",
+        "questions": [
+          {
+            "quiz_question": "What is the primary cause of diseases?",
+            "options": {
+              "1": "Genetic inheritance",
+              "2": "Microorganisms",
+              "3": "Environmental factors",
+              "4": "Dietary deficiencies"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which type of disease is caused by pathogens?",
+            "options": {
+              "1": "Genetic disorder",
+              "2": "Nutritional disorder",
+              "3": "Infectious disease",
+              "4": "Psychosomatic disorder"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What term is used for a disease that spreads easily from person to person?",
+            "options": {
+              "1": "Non-communicable",
+              "2": "Chronic",
+              "3": "Contagious",
+              "4": "Genetic"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which of the following is a non-communicable disease?",
+            "options": {
+              "1": "Flu",
+              "2": "Cancer",
+              "3": "Tuberculosis",
+              "4": "Measles"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the role of vaccination?",
+            "options": {
+              "1": "Cure diseases",
+              "2": "Prevent diseases",
+              "3": "Diagnose diseases",
+              "4": "None of the above"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Natural Resources",
+        "questions": [
+          {
+            "quiz_question": "What are natural resources?",
+            "options": {
+              "1": "Man-made resources",
+              "2": "Resources obtained from nature",
+              "3": "Resources that are processed",
+              "4": "Resources that are consumed"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which of the following is a renewable resource?",
+            "options": {
+              "1": "Coal",
+              "2": "Natural gas",
+              "3": "Solar energy",
+              "4": "Petroleum"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What percentage of the Earth's surface is covered by water?",
+            "options": {
+              "1": "50%",
+              "2": "70%",
+              "3": "90%",
+              "4": "30%"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which natural resource is essential for all life forms?",
+            "options": {
+              "1": "Soil",
+              "2": "Water",
+              "3": "Air",
+              "4": "All of the above"
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "What type of resource is wood?",
+            "options": {
+              "1": "Non-renewable",
+              "2": "Renewable",
+              "3": "Synthetic",
+              "4": "Inexhaustible"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Improvement in Food Resources",
+        "questions": [
+          {
+            "quiz_question": "What does high-yield variety (HYV) of seeds refer to?",
+            "options": {
+              "1": "Seeds that produce maximum output",
+              "2": "Seeds that need less water",
+              "3": "Seeds that require less care",
+              "4": "Seeds that are smaller in size"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Which of the following is a primary goal of improving food resources?",
+            "options": {
+              "1": "Increased crop yield",
+              "2": "Reduced soil fertility",
+              "3": "Higher prices for farmers",
+              "4": "Greater consumption of pesticides"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is organic farming?",
+            "options": {
+              "1": "Farming without chemicals",
+              "2": "Farming with synthetic fertilizers",
+              "3": "Farming using GMOs",
+              "4": "Farming on a large scale"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is a significant challenge in improving food production?",
+            "options": {
+              "1": "Water scarcity",
+              "2": "Technological advancement",
+              "3": "Government policies",
+              "4": "Increasing labor force"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the role of fertilizers in food production?",
+            "options": {
+              "1": "Decrease yield",
+              "2": "Enhance soil nutrients",
+              "3": "Increase pests",
+              "4": "Reduce plant growth"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      }
+    ]
+  }

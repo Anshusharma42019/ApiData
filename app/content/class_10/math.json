@@ -1,0 +1,93 @@
+{
+    "subject": "Mathematics",
+    "class": "10",
+    "board": "CBSE",
+    "channel": "CBSE Guidance",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Real Numbers",
+        "duration": "2:29:26",
+        "url": "https://www.youtube.com/watch?v=PVZPLTQmSOM"
+      },
+      {
+        "chapter_no": 2,
+        "title": "Polynomials",
+        "duration": "1:10:34",
+        "url": "https://www.youtube.com/watch?v=kyYV5S5Aw7c"
+      },
+      {
+        "chapter_no": 3,
+        "title": "Pair of Linear Equations in Two Variables",
+        "duration": "2:32:14",
+        "url": "https://www.youtube.com/watch?v=48mVq7ZxRxM"
+      },
+      {
+        "chapter_no": 4,
+        "title": "Quadratic Equations",
+        "duration": "1:56:31",
+        "url": "https://www.youtube.com/watch?v=QHdJ-OKeZYU"
+      },
+      {
+        "chapter_no": 5,
+        "title": "Arithmetic Progressions",
+        "duration": "2:29:41",
+        "url": "https://www.youtube.com/watch?v=PIhMiOwpT94"
+      },
+      {
+        "chapter_no": 6,
+        "title": "Triangles",
+        "duration": "3:34:12",
+        "url": "https://www.youtube.com/watch?v=O6P6VLSeXrE"
+      },
+      {
+        "chapter_no": 7,
+        "title": "Coordinate Geometry",
+        "duration": "1:23:00",
+        "url": "https://www.youtube.com/watch?v=RSsEGNoYpS0"
+      },
+      {
+        "chapter_no": 8,
+        "title": "Introduction to Trigonometry",
+        "duration": "2:20:30",
+        "url": "https://www.youtube.com/watch?v=cGSKh8PDHPM"
+      },
+      {
+        "chapter_no": 9,
+        "title": "Some Applications of Trigonometry",
+        "duration": "58:13",
+        "url": "https://www.youtube.com/watch?v=LgqxovVDZt8"
+      },
+      {
+        "chapter_no": 10,
+        "title": "Circles",
+        "duration": "1:54:50",
+        "url": "https://www.youtube.com/watch?v=alNqvqOp4zE"
+      },
+      {
+        "chapter_no": 11,
+        "title": "Areas Related to Circles",
+        "duration": "1:51:55",
+        "url": "https://www.youtube.com/watch?v=wAwzBP5lgq8"
+      },
+      {
+        "chapter_no": 12,
+        "title": "Surface Areas and Volumes",
+        "duration": "3:17:59",
+        "url": "https://www.youtube.com/watch?v=trqkeHKEMGM"
+      },
+      {
+        "chapter_no": 13,
+        "title": "Statistics",
+        "duration": "2:49:30",
+        "url": "https://www.youtube.com/watch?v=G5RXYAqTFjU"
+      },
+      {
+        "chapter_no": 14,
+        "title": "Probability",
+        "duration": "1:41:11",
+        "url": "https://www.youtube.com/watch?v=zAz3QDUzKx8"
+      }
+    ]
+  }
+  

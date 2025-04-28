@@ -1,0 +1,134 @@
+{
+    "class": "Class 7",
+    "subject": "Mathematics",
+    "book": "NCERT",
+    "video_explanations": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Integers",
+        "video_duration": "4:45:31",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://youtu.be/61tKuZINf_A?si=dhGiffnhhg1ZAxi2"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Fraction and Decimals",
+        "video_parts": [
+          {
+            "part": 1,
+            "video_duration": "1:56:53",
+            "video_url": "https://www.youtube.com/watch?v=zwq5L1E--nM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=2"
+          },
+          {
+            "part": 2,
+            "video_duration": "3:59:21",
+            "video_url": "https://www.youtube.com/watch?v=B5oPeb6neSs&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=3"
+          },
+          {
+            "part": 3,
+            "video_duration": "5:54:55",
+            "video_url": "https://www.youtube.com/watch?v=g1tBYT7XEwk&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=4"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Data Handling",
+        "video_parts": [
+          {
+            "part": 1,
+            "video_duration": "2:23:50",
+            "video_url": "https://www.youtube.com/watch?v=cvaNThiFx_c&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=5"
+          },
+          {
+            "part": 2,
+            "video_duration": "3:16:40",
+            "video_url": "https://www.youtube.com/watch?v=d6U3LVN5pFE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=6"
+          },
+          {
+            "part": 3,
+            "video_duration": "5:39:48",
+            "video_url": "https://www.youtube.com/watch?v=qfT8qQ5g9IM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=7"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Simple Equations",
+        "video_duration": "3:20:54",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=NwbKmhEE1WA&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=9"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Lines and Angles",
+        "video_duration": "2:13:00",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=pNYUzZRJJgU&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=12"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "The Triangle and Its Properties",
+        "video_duration": "3:30:48",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=OmIEGpNQSU0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=14"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Algebraic Expressions",
+        "video_duration": "1:28:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=x_97EHtNYqM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=16"
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Congruence of Triangles",
+        "video_duration": "1:25:49",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=jjhsQY2Fe3s&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=17"
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Comparing Quantities",
+        "video_duration": "3:53:31",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=rgyTMZL6ii0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=19"
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Practical Geometry",
+        "video_duration": "2:51:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=th_rb0vwy7Q&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=21"
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Perimeter and Area",
+        "video_duration": "4:31:05",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=9k4GVfziqk8&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=22"
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "Algebraic Expressions",
+        "video_duration": "3:12:22",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=0HR6jaJfKqg&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=23"
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "Exponents and Powers",
+        "video_duration": "2:49:35",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=KH436yfdPcY&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=24"
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "Visualising Solid Shapes",
+        "video_duration": "1:53:45",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=510LMwfuWtE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=25"
+      }
+    ]
+  }
+  

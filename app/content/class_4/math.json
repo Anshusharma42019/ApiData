@@ -1,0 +1,120 @@
+{
+    "class": 4,
+    "subject": "Maths",
+    "book": "Math-Magic",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Building with Bricks",
+        "video_links": [
+          "https://www.youtube.com/watch?v=0JPLxcI6HVY"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 2,
+        "title": "Long and Short",
+        "video_links": [
+          "https://www.youtube.com/watch?v=T-q77tX13ZQ"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 3,
+        "title": "A Trip to Bhopal",
+        "video_links": [
+          "https://www.youtube.com/watch?v=w4NdKeXMsPw"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 4,
+        "title": "Tick Tick Tick",
+        "video_links": [
+          "https://www.youtube.com/watch?v=92D_Ehb1za0"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 5,
+        "title": "The Way The World Looks",
+        "video_links": [
+          "https://www.youtube.com/watch?v=jJDyeUZ8cp8"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 6,
+        "title": "The Junk Seller",
+        "video_links": [
+          "https://www.youtube.com/watch?v=LEV3Z4MhSzI"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 7,
+        "title": "Jugs and Mugs",
+        "video_links": [
+          "https://www.youtube.com/watch?v=xvA2VYkxodI"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 8,
+        "title": "Carts and Wheels",
+        "video_links": [
+          "https://www.youtube.com/watch?v=4Iob5JN7xik"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 9,
+        "title": "Halves and Quarters",
+        "video_links": [
+          "https://www.youtube.com/watch?v=VgXaSKIJ8lU"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 10,
+        "title": "Play With Patterns",
+        "video_links": [
+          "https://www.youtube.com/watch?v=uxCi3_Kekh8"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 11,
+        "title": "Tables and Shares",
+        "video_links": [
+          "https://www.youtube.com/watch?v=AtjQuliM4N0"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 12,
+        "title": "How Heavy? How Light?",
+        "video_links": [
+          "https://www.youtube.com/watch?v=sxUmIXRKOBw"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 13,
+        "title": "Fields and Fences",
+        "video_links": [
+          "https://www.youtube.com/watch?v=nY_7IXrY1Ic"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 14,
+        "title": "Smart Charts",
+        "video_links": [
+          "https://www.youtube.com/watch?v=K8ujm87UV4U"
+        ],
+        "channel": "Magnet Brains"
+      }
+    ]
+  }
+  

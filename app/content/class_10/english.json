@@ -1,0 +1,59 @@
+{
+    "subject": "English",
+    "class": "10",
+    "board": "CBSE",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "A Letter to God",
+        "url": "https://www.youtube.com/watch?v=g7ZVR8EzKko&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=1"
+      },
+      {
+        "chapter_no": 2,
+        "title": "Nelson Mandela: Long Walk to Freedom",
+        "url": "https://www.youtube.com/watch?v=mKwPRX7XDr0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=2"
+      },
+      {
+        "chapter_no": 3,
+        "title": "Two Stories About Flying",
+        "url": "https://www.youtube.com/watch?v=0esv8bISwTg&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=3"
+      },
+      {
+        "chapter_no": 4,
+        "title": "From the Diary of Anne Frank",
+        "url": "https://www.youtube.com/watch?v=6wMbERJb_QA&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=4"
+      },
+      {
+        "chapter_no": 5,
+        "title": "The Hundred Dresses – I",
+        "url": "https://www.youtube.com/watch?v=dJsGui5b3PY&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=5"
+      },
+      {
+        "chapter_no": 6,
+        "title": "The Hundred Dresses – II",
+        "url": "https://www.youtube.com/watch?v=ZD3NCIx0PDw&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=6"
+      },
+      {
+        "chapter_no": 7,
+        "title": "Glimpses of India",
+        "url": "https://www.youtube.com/watch?v=BXptgogkGTU&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=7"
+      },
+      {
+        "chapter_no": 8,
+        "title": "Mijbil the Otter",
+        "url": "https://www.youtube.com/watch?v=5UPHz0BZ5O0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=8"
+      },
+      {
+        "chapter_no": 9,
+        "title": "Madam Rides the Bus",
+        "url": "https://www.youtube.com/watch?v=a8lQrEbuNOQ&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=9"
+      },
+      {
+        "chapter_no": 10,
+        "title": "The Sermon at Benares",
+        "url": "https://www.youtube.com/watch?v=SqnQEzIeJQ4&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=10"
+      }
+    ]
+  }
+  

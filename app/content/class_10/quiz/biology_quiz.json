@@ -1,0 +1,341 @@
+{
+    "subject": "Class 10 Biology",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Life Processes",
+        "questions": [
+          {
+            "quiz_question": "What are the basic life processes necessary for survival?",
+            "options": {
+              "1": "Nutrition, respiration, transportation, excretion",
+              "2": "Growth, reproduction, regeneration, movement",
+              "3": "Respiration, reproduction, adaptation, defense",
+              "4": "Communication, locomotion, respiration, digestion"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What process in plants converts sunlight into chemical energy?",
+            "options": {
+              "1": "Cellular respiration",
+              "2": "Photosynthesis",
+              "3": "Transpiration",
+              "4": "Fermentation"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which organelle is responsible for respiration in cells?",
+            "options": {
+              "1": "Nucleus",
+              "2": "Chloroplast",
+              "3": "Mitochondria",
+              "4": "Ribosome"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the primary waste product of cellular respiration?",
+            "options": {
+              "1": "Oxygen",
+              "2": "Carbon dioxide",
+              "3": "Water",
+              "4": "Glucose"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the role of the stomata in plants?",
+            "options": {
+              "1": "Water absorption",
+              "2": "Gas exchange",
+              "3": "Nutrient uptake",
+              "4": "Photosynthesis"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Control and Coordination",
+        "questions": [
+          {
+            "quiz_question": "What system is responsible for control and coordination in the body?",
+            "options": {
+              "1": "Digestive system",
+              "2": "Nervous system",
+              "3": "Circulatory system",
+              "4": "Reproductive system"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What are neurons?",
+            "options": {
+              "1": "Cells responsible for gas exchange",
+              "2": "Cells that detect stimuli",
+              "3": "Cells that process nutrients",
+              "4": "Cells that transmit signals"
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "Which part of the brain is responsible for regulating balance and coordination?",
+            "options": {
+              "1": "Cerebrum",
+              "2": "Cerebellum",
+              "3": "Medulla oblongata",
+              "4": "Thalamus"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "How do hormones influence body functions?",
+            "options": {
+              "1": "By providing energy",
+              "2": "Through neurotransmitters",
+              "3": "By acting as messengers",
+              "4": "By controlling muscle contraction"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the primary function of the endocrine system?",
+            "options": {
+              "1": "To transmit electrical impulses",
+              "2": "To produce hormones",
+              "3": "To circulate blood",
+              "4": "To filter waste"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "How Do Organisms Reproduce?",
+        "questions": [
+          {
+            "quiz_question": "What is the process of reproduction?",
+            "options": {
+              "1": "Production of energy",
+              "2": "Creation of new individuals",
+              "3": "Growth and development",
+              "4": "Breaking down nutrients"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which type of reproduction involves only one parent?",
+            "options": {
+              "1": "Sexual reproduction",
+              "2": "Asexual reproduction",
+              "3": "Cross reproduction",
+              "4": "Hybrid reproduction"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is a key characteristic of sexual reproduction?",
+            "options": {
+              "1": "Involves one parent",
+              "2": "Results in genetically identical offspring",
+              "3": "Involves the fusion of gametes",
+              "4": "Fast and efficient process"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the role of gametes in reproduction?",
+            "options": {
+              "1": "Carry nutrients",
+              "2": "Transfer energy",
+              "3": "Fertilize eggs",
+              "4": "Produce hormones"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "Which method of reproduction is employed by yeast?",
+            "options": {
+              "1": "Budding",
+              "2": "Conjugation",
+              "3": "Fission",
+              "4": "Fragmentation"
+            },
+            "correct_answer": "1"
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Heredity and Evolution",
+        "questions": [
+          {
+            "quiz_question": "What is heredity?",
+            "options": {
+              "1": "Study of evolution",
+              "2": "Transmission of traits from parents to offspring",
+              "3": "Change in species over time",
+              "4": "Variation among species"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Who is known as the father of genetics?",
+            "options": {
+              "1": "Charles Darwin",
+              "2": "Gregor Mendel",
+              "3": "Louis Pasteur",
+              "4": "James Watson"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which of the following is a homozygous genotype?",
+            "options": {
+              "1": "Aa",
+              "2": "AA",
+              "3": "Bb",
+              "4": "AB"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is natural selection?",
+            "options": {
+              "1": "Survival of the fittest",
+              "2": "Random mating",
+              "3": "Human-guided evolution",
+              "4": "Artificial selection"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What represents a recessive allele in genetics?",
+            "options": {
+              "1": "Capital letter",
+              "2": "Small letter",
+              "3": "Pair of letters",
+              "4": "Number"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Our Environment",
+        "questions": [
+          {
+            "quiz_question": "Which of the following is a biotic component of an ecosystem?",
+            "options": {
+              "1": "Water",
+              "2": "Rocks",
+              "3": "Plants",
+              "4": "Soil"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is biodiversity?",
+            "options": {
+              "1": "Variety of living organisms",
+              "2": "Total number of species in one habitat",
+              "3": "Diversity of ecosystems",
+              "4": "All the above"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the primary source of energy for ecosystems?",
+            "options": {
+              "1": "Wind",
+              "2": "Water",
+              "3": "Solar energy",
+              "4": "Geothermal energy"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is an example of a decomposer?",
+            "options": {
+              "1": "Plant",
+              "2": "Fungi",
+              "3": "Consumers",
+              "4": "Producers"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the role of producers in an ecosystem?",
+            "options": {
+              "1": "Consume other organisms",
+              "2": "Perform photosynthesis",
+              "3": "Decompose dead matter",
+              "4": "Provide nutrients to soil"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Management of Natural Resources",
+        "questions": [
+          {
+            "quiz_question": "What is sustainable development?",
+            "options": {
+              "1": "Using resources at a rate faster than they can be replenished",
+              "2": "Meeting the needs of the present without compromising future generations",
+              "3": "Exploiting natural resources",
+              "4": "Ignoring environmental concerns"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Which resource is renewable?",
+            "options": {
+              "1": "Fossil fuels",
+              "2": "Minerals",
+              "3": "Solar energy",
+              "4": "Nuclear energy"
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is conservation?",
+            "options": {
+              "1": "Using more resources",
+              "2": "Preventing loss of biodiversity",
+              "3": "Promoting pollution",
+              "4": "Overexploiting resources"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is an example of non-renewable resources?",
+            "options": {
+              "1": "Coal",
+              "2": "Wind energy",
+              "3": "Sunlight",
+              "4": "Water"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the main purpose of recycling?",
+            "options": {
+              "1": "To create waste",
+              "2": "To conserve resources",
+              "3": "To increase pollution",
+              "4": "To accumulate waste"
+            },
+            "correct_answer": "2"
+          }
+        ]
+      }
+    ]
+  }

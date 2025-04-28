@@ -1,0 +1,60 @@
+{
+    "class": 3,
+    "subject": "English",
+    "book": "Marigold",
+    "medium": "English",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_name": "Good Morning & The Magic Garden",
+        "video_link": "https://www.youtube.com/watch?v=YJ12OePmYos"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_name": "Bird Talk & Nina and the Baby Sparrows",
+        "video_link": "https://www.youtube.com/watch?v=U2n7ul-ladg"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_name": "Little by Little & The Enormous Turnip",
+        "video_link": "https://www.youtube.com/watch?v=3cPVTA7uP54"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_name": "Sea Song & A Little Fish Story",
+        "video_link": "https://www.youtube.com/watch?v=OHGdwk2ksVY"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_name": "The Balloon Man & The Yellow Butterfly",
+        "video_link": "https://www.youtube.com/watch?v=5uRdomGAsXM"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_name": "Trains & The Story of the Road",
+        "video_link": "https://www.youtube.com/watch?v=bB7fa2Yrepo"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_name": "Little Tiger, Big Tiger & Puppy and I",
+        "video_link": "https://www.youtube.com/watch?v=c5tdvnl4Dx0"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_name": "What's in the Mailbox? & My Silly Sister",
+        "video_link": "https://www.youtube.com/watch?v=iZI5riyMnjE"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_name": "Don't Tell & He is My Brother",
+        "video_link": "https://www.youtube.com/watch?v=ChK4-v4Liz8"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_name": "The Ship of the Desert & How Creatures Move",
+        "video_link": "https://www.youtube.com/watch?v=una1CEydT1Y"
+      }
+    ]
+  }
+  

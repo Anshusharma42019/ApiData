@@ -1,0 +1,762 @@
+{
+    "class": "12",
+    "subject": "Mathematics",
+    "batch": "Vijeta Batch",
+    "channel": "NCERT Wallah",
+    "chapters": [
+      {
+        "chapter_name": 1,
+        "title": "RELATIONS AND FUNCTIONS in 1 Shot: All Concepts & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "8:29:50",
+        "url": "https://www.youtube.com/watch?v=Dsg2SwKQi-I",
+        "questions": [
+          {
+            "question": "If A = {1, 2, 3} and B = {4, 5}, how many relations can be defined from A to B?",
+            "options": {
+              "1": "6",
+              "2": "8",
+              "3": "12",
+              "4": "16"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the domain of the function f(x) = 1/(x-2)?",
+            "options": {
+              "1": "All real numbers except 0",
+              "2": "All real numbers except 2",
+              "3": "All real numbers except -2",
+              "4": "All real numbers except 1"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Which of the following is an injective function?",
+            "options": {
+              "1": "f(x) = x² for x ∈ R",
+              "2": "f(x) = 2x + 1",
+              "3": "f(x) = sin(x)",
+              "4": "f(x) = e^x"
+            },
+            "answer": 4
+          },
+          {
+            "question": "If f(x) = x^2 - 3x + 2, what is the value of f(1)?",
+            "options": {
+              "1": "0",
+              "2": "1",
+              "3": "2",
+              "4": "3"
+            },
+            "answer": 3
+          },
+          {
+            "question": "The inverse of the function f(x) = 3x + 4 is given by:",
+            "options": {
+              "1": "(x-4)/3",
+              "2": "(x-3)/4",
+              "3": "(3x-4)",
+              "4": "4 - 3x"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 2,
+        "title": "INVERSE TRIGONOMETRIC FUNCTIONS (ITF) in 1 Shot: All Concepts & PYQs | Class 12th Boards | NCERT",
+        "duration": "6:36:04",
+        "url": "https://www.youtube.com/watch?v=lsHZlZv3XsE",
+        "questions": [
+          {
+            "question": "What is the range of the inverse sine function?",
+            "options": {
+              "1": "0 to π",
+              "2": "0 to 2π",
+              "3": "-π/2 to π/2",
+              "4": "-π to π"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What is the value of sin^-1(1)?",
+            "options": {
+              "1": "0",
+              "2": "π/4",
+              "3": "π/2",
+              "4": "π"
+            },
+            "answer": 3
+          },
+          {
+            "question": "If sin^-1(x) + cos^-1(x) = ?",
+            "options": {
+              "1": "0",
+              "2": "π/2",
+              "3": "π",
+              "4": "1"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the derivative of sin^-1(x)?",
+            "options": {
+              "1": "1/(1 - x^2)^(1/2)",
+              "2": "1/(1 + x^2)",
+              "3": "1 + x^2",
+              "4": "1/x"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the domain of the function tan^-1(x)?",
+            "options": {
+              "1": "x > 0",
+              "2": "All real numbers",
+              "3": "x ≥ 0",
+              "4": "-1 < x < 1"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter_name": 3,
+        "title": "MATRICES in 1 Shot: All Concepts & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "4:47:28",
+        "url": "https://www.youtube.com/watch?v=JUhR0fwNPPs",
+        "questions": [
+          {
+            "question": "What is the order of a matrix with 3 rows and 2 columns?",
+            "options": {
+              "1": "2x3",
+              "2": "3x2",
+              "3": "3x3",
+              "4": "2x2"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If A = [[1, 2], [3, 4]], what is the determinant of A?",
+            "options": {
+              "1": "-2",
+              "2": "2",
+              "3": "4",
+              "4": "5"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following matrices is symmetric?",
+            "options": {
+              "1": "[[1, 2], [3, 4]]",
+              "2": "[[1, 2], [2, 1]]",
+              "3": "[[1, 0], [0, 0]]",
+              "4": "[[0, 1], [1, 1]]"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If A is a 3x3 matrix, how many elements does A have?",
+            "options": {
+              "1": "6",
+              "2": "9",
+              "3": "12",
+              "4": "15"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the product of a 2x3 matrix and a 3x2 matrix?",
+            "options": {
+              "1": "2x2",
+              "2": "3x3",
+              "3": "2x3",
+              "4": "3x2"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 4,
+        "title": "DETERMINANTS in 1 Shot: All Theory & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "4:36:34",
+        "url": "https://www.youtube.com/watch?v=T3qYn52UXTw",
+        "questions": [
+          {
+            "question": "What is the determinant of a 2x2 matrix [[a, b], [c, d]]?",
+            "options": {
+              "1": "ad + bc",
+              "2": "ad - bc",
+              "3": "a + d",
+              "4": "a - d"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If A is a singular matrix, what can we say about its determinant?",
+            "options": {
+              "1": "It is non-zero",
+              "2": "It is zero",
+              "3": "It does not exist",
+              "4": "It is always one"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Which method can be used to calculate the determinant of a matrix?",
+            "options": {
+              "1": "Row reduction",
+              "2": "Laplace expansion",
+              "3": "Gaussian elimination",
+              "4": "All of the above"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the value of the determinant of the identity matrix?",
+            "options": {
+              "1": "0",
+              "2": "1",
+              "3": "-1",
+              "4": "Undefined"
+            },
+            "answer": 2
+          },
+          {
+            "question": "In which scenario does swapping two rows of a matrix change its determinant?",
+            "options": {
+              "1": "Doubles the determinant",
+              "2": "Negates the determinant",
+              "3": "Triples the determinant",
+              "4": "No change"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter_name": 5,
+        "title": "CONTINUITY AND DIFFERENTIABILITY in 1 Shot: All Concepts & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "7:28:08",
+        "url": "https://www.youtube.com/watch?v=HG4M27VaM5Y",
+        "questions": [
+          {
+            "question": "What does it mean for a function to be continuous at a point?",
+            "options": {
+              "1": "It has no breaks or jumps at that point.",
+              "2": "It has a derivative at that point.",
+              "3": "It intersects the x-axis.",
+              "4": "It approaches infinity."
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following functions is discontinuous?",
+            "options": {
+              "1": "f(x) = x²",
+              "2": "f(x) = 1/x",
+              "3": "f(x) = sin(x)",
+              "4": "f(x) = e^x"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the derivative of f(x) = x³?",
+            "options": {
+              "1": "3x²",
+              "2": "2x",
+              "3": "3",
+              "4": "x² + 2"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is required for a function to be differentiable at a point?",
+            "options": {
+              "1": "It must be continuous.",
+              "2": "It must be linear.",
+              "3": "It must have a maximum or minimum.",
+              "4": "No restriction."
+            },
+            "answer": 1
+          },
+          {
+            "question": "What does the Mean Value Theorem state?",
+            "options": {
+              "1": "A function must be continuous.",
+              "2": "A function must be differentiable.",
+              "3": "There exists at least one point where the tangent equals the average rate of change.",
+              "4": "All functions are continuous."
+            },
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "chapter_name": 6,
+        "title": "APPLICATION OF DERIVATIVES in 1 Shot: All Concepts & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "5:12:07",
+        "url": "https://www.youtube.com/watch?v=DuWCTtNwvR4",
+        "questions": [
+          {
+            "question": "What is the derivative of f(x) = 3x² + 4x?",
+            "options": {
+              "1": "6x + 4",
+              "2": "3x + 4",
+              "3": "6x",
+              "4": "4x + 3"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What does the first derivative test determine?",
+            "options": {
+              "1": "Increasing and decreasing behavior of a function.",
+              "2": "Concavity of a function.",
+              "3": "Location of inflection points.",
+              "4": "Maximum or minimum values only."
+            },
+            "answer": 1
+          },
+          {
+            "question": "If f(x) is increasing, what can we say about f'(x)?",
+            "options": {
+              "1": "f'(x) < 0",
+              "2": "f'(x) = 0",
+              "3": "f'(x) > 0",
+              "4": "None of the above."
+            },
+            "answer": 3
+          },
+          {
+            "question": "What is the application of derivatives in real life?",
+            "options": {
+              "1": "Finding areas",
+              "2": "Maximizing profit",
+              "3": "Generating random numbers",
+              "4": "None of the above"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the critical point of the function f(x) = x^3 - 3x?",
+            "options": {
+              "1": "0",
+              "2": "±sqrt(3)",
+              "3": "3",
+              "4": "-1"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 7,
+        "title": "INTEGRALS in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "9:07:01",
+        "url": "https://www.youtube.com/watch?v=lV6oNc10j6Y",
+        "questions": [
+          {
+            "question": "What is the integral of f(x) = 2x?",
+            "options": {
+              "1": "x² + C",
+              "2": "2x² + C",
+              "3": "4x + C",
+              "4": "2x + C"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the definite integral of f(x) = x from 0 to 1?",
+            "options": {
+              "1": "1/2",
+              "2": "1",
+              "3": "3/2",
+              "4": "0"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What does the Fundamental Theorem of Calculus connect?",
+            "options": {
+              "1": "Differentiation and integration",
+              "2": "Limits and continuity",
+              "3": "Linear functions and constants",
+              "4": "None of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the integral of sin(x)?",
+            "options": {
+              "1": "-cos(x) + C",
+              "2": "cos(x) + C",
+              "3": "sin(x) + C",
+              "4": "-sin(x) + C"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the integration rule for power functions?",
+            "options": {
+              "1": "∫x^n dx = (x^(n+1))/(n+1) + C",
+              "2": "∫x^n dx = x^n + C",
+              "3": "∫x^n dx = n/x^(n-1) + C",
+              "4": "None of the above"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 8,
+        "title": "APPLICATION OF THE INTEGRALS in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "3:37:54",
+        "url": "https://www.youtube.com/watch?v=CeMgWziF-eg",
+        "questions": [
+          {
+            "question": "What is the application of integrals in finding area?",
+            "options": {
+              "1": "Definite integrals calculate area under curves.",
+              "2": "Indefinite integrals give exact values.",
+              "3": "Neither definite nor indefinite integrals work.",
+              "4": "Only complex integrals are applicable."
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the area between the curves y = x² and y = x?",
+            "options": {
+              "1": "1/3",
+              "2": "1/2",
+              "3": "0",
+              "4": "1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What can be found using volumes of revolution?",
+            "options": {
+              "1": "Area",
+              "2": "Surface area",
+              "3": "Volume",
+              "4": "All of the above"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the formula for the volume of a solid of revolution?",
+            "options": {
+              "1": "∫π[f(x)]² dx",
+              "2": "∫2πf(x)h dx",
+              "3": "∫f(x) dx",
+              "4": "πr²h"
+            },
+            "answer": 1
+          },
+          {
+            "question": "How do you find area between two functions?",
+            "options": {
+              "1": "Integrate the difference between them.",
+              "2": "Add them together.",
+              "3": "Multiply them.",
+              "4": "Subtract them."
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 9,
+        "title": "DIFFERENTIAL EQUATIONS in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "6:04:53",
+        "url": "https://www.youtube.com/watch?v=JIXx-LOzBN0",
+        "questions": [
+          {
+            "question": "What is a differential equation?",
+            "options": {
+              "1": "An equation involving derivatives.",
+              "2": "An equation without variables.",
+              "3": "An equation that is linear.",
+              "4": "None of the above."
+            },
+            "answer": 1
+          },
+          {
+            "question": "The general solution of a first-order linear differential equation is of the form:",
+            "options": {
+              "1": "C + f(x)",
+              "2": "C - f(x)",
+              "3": "f(x) + C",
+              "4": "f(x) - C"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the order of the differential equation dy/dx + 3y = 0?",
+            "options": {
+              "1": "First",
+              "2": "Second",
+              "3": "Third",
+              "4": "Zero"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What technique is used to solve separable differential equations?",
+            "options": {
+              "1": "Integrating both sides separately.",
+              "2": "Finding an integrating factor.",
+              "3": "Graphical method.",
+              "4": "Substitution method."
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following is not a linear differential equation?",
+            "options": {
+              "1": "dy/dx + 3y = 5",
+              "2": "dy/dx = y² + 4",
+              "3": "dy/dx - y = 10",
+              "4": "dy/dx + y = 0"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter_name": 10,
+        "title": "VECTORS in 1 Shot || FULL Chapter Coverage (Concepts+PYQs) || Class 12th MATHS",
+        "duration": "6:35:28",
+        "url": "https://www.youtube.com/watch?v=TcHMy0QppGY",
+        "questions": [
+          {
+            "question": "What is the dot product of two vectors A and B?",
+            "options": {
+              "1": "A·B = |A||B|cos(θ)",
+              "2": "A·B = |A + B|",
+              "3": "A·B = |A||B|",
+              "4": "A·B = 0"
+            },
+            "answer": 1
+          },
+          {
+            "question": "If A = (1, 2, 3) and B = (4, -5, 6), what is A + B?",
+            "options": {
+              "1": "(5, -3, 9)",
+              "2": "(5, 7, 9)",
+              "3": "(5, -3, 10)",
+              "4": "(5, 5, 9)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the cross product of two parallel vectors?",
+            "options": {
+              "1": "Zero vector",
+              "2": "Equal vectors",
+              "3": "Unit vector",
+              "4": "Non-zero vector"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following represents a unit vector?",
+            "options": {
+              "1": "A/|A|",
+              "2": "|A|",
+              "3": "A·B",
+              "4": "A + B"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the magnitude of the vector A = (3, 4)?",
+            "options": {
+              "1": "5",
+              "2": "7",
+              "3": "1",
+              "4": "0"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 11,
+        "title": "THREE DIMENSIONAL GEOMETRY in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "6:13:09",
+        "url": "https://www.youtube.com/watch?v=9ateilXQNsU",
+        "questions": [
+          {
+            "question": "What is the equation of a line in 3D space?",
+            "options": {
+              "1": "x/a = y/b = z/c",
+              "2": "ax + by + cz + d = 0",
+              "3": "x = y = z",
+              "4": "x² + y² + z² = r²"
+            },
+            "answer": 1
+          },
+          {
+            "question": "How do you represent a point in three-dimensional space?",
+            "options": {
+              "1": "(x, y, z)",
+              "2": "x + y + z",
+              "3": "x² + y² + z",
+              "4": "None of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the distance formula between two points A(x1, y1, z1) and B(x2, y2, z2)?",
+            "options": {
+              "1": "sqrt((x2 - x1)² + (y2 - y1)² + (z2 - z1)²)",
+              "2": "(|x2 - x1|) + (|y2 - y1|) + (|z2 - z1|)",
+              "3": "(x1 - x2) + (y1 - y2) + (z1 - z2)",
+              "4": "None of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the volume of a rectangular prism with sides a, b, and c?",
+            "options": {
+              "1": "abc",
+              "2": "a + b + c",
+              "3": "2(ab + ac + bc)",
+              "4": "a² + b² + c²"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the equation of a sphere with center at the origin?",
+            "options": {
+              "1": "x² + y² + z² = r²",
+              "2": "x + y + z = r",
+              "3": "x² + y² + z = 0",
+              "4": "ax + by + cz = d"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 12,
+        "title": "LINEAR PROGRAMMING in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "2:10:46",
+        "url": "https://www.youtube.com/watch?v=g0Kmgic5C54",
+        "questions": [
+          {
+            "question": "What is the objective function in linear programming?",
+            "options": {
+              "1": "To maximize or minimize a quantity",
+              "2": "To plot the constraints",
+              "3": "To find the feasible region",
+              "4": "To calculate the vertices"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What defines the feasible region in linear programming?",
+            "options": {
+              "1": "Inequalities",
+              "2": "Equations only",
+              "3": "A single point",
+              "4": "None of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is a constraint in linear programming?",
+            "options": {
+              "1": "A limitation on the decision variables",
+              "2": "The desired outcome",
+              "3": "An objective function",
+              "4": "None of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "In two-variable linear programming, how is the solution typically graphically represented?",
+            "options": {
+              "1": "As a point",
+              "2": "As a line",
+              "3": "As an area",
+              "4": "As a surface"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What does the graphical method of linear programming rely on?",
+            "options": {
+              "1": "Analyzing vertices of the feasible region",
+              "2": "Finding derivatives",
+              "3": "Matrix multiplication",
+              "4": "Statistical analysis"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_name": 13,
+        "title": "PROBABILITY in 1 Shot: All Concept & PYQs Covered | Class 12th Boards | NCERT",
+        "duration": "8:04:18",
+        "url": "https://www.youtube.com/watch?v=P6VVruQReys",
+        "questions": [
+          {
+            "question": "What is the probability of an impossible event?",
+            "options": {
+              "1": "0",
+              "2": "1",
+              "3": "0.5",
+              "4": "Depends on the event"
+            },
+            "answer": 1
+          },
+          {
+            "question": "If a die is rolled, what is the probability of rolling an odd number?",
+            "options": {
+              "1": "1/2",
+              "2": "1/3",
+              "3": "1/6",
+              "4": "1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the formula for conditional probability?",
+            "options": {
+              "1": "P(A|B) = P(A and B) / P(B)",
+              "2": "P(A|B) = P(B) / P(A)",
+              "3": "P(A and B) = P(A) * P(B)",
+              "4": "P(A or B) = P(A) + P(B)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the total probability of all possible outcomes?",
+            "options": {
+              "1": "1",
+              "2": "0",
+              "3": "0.5",
+              "4": "Depends on the set"
+            },
+            "answer": 1
+          },
+          {
+            "question": "In a probability distribution, what does the mean represent?",
+            "options": {
+              "1": "Expected value",
+              "2": "Most frequent value",
+              "3": "Maximum value",
+              "4": "Minimum value"
+            },
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  }

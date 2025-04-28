@@ -1,0 +1,84 @@
+{
+  "class": 2,
+  "subject": "Mathematics",
+  "book": "Math-Magic",
+  "medium": "English",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_name": "What is Long, What is Round?",
+      "video_link": "https://www.youtube.com/watch?v=GbV26bmDX-8"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_name": "Counting in Groups",
+      "video_link": "https://www.youtube.com/watch?v=U2n7ul-ladg"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_name": "How Much Can You Carry?",
+      "video_link": "https://www.youtube.com/watch?v=VJlkOtQH2TQ"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_name": "Counting in Tens",
+      "video_link": "https://www.youtube.com/watch?v=LIzg3Ms2Z8c"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_name": "Patterns",
+      "video_link": "https://www.youtube.com/watch?v=QJi_CcnyOBA"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_name": "Footprints",
+      "video_link": "https://www.youtube.com/watch?v=sDH4YvOg1vk"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_name": "Jugs and Mugs",
+      "video_link": "https://www.youtube.com/watch?v=aoCLtWb-wy4"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_name": "Tens and Ones",
+      "video_link": "https://www.youtube.com/watch?v=3byDptXIn3o"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_name": "My Funday",
+      "video_link": "https://www.youtube.com/watch?v=PSIiOSYdn2s"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_name": "Add Our Points",
+      "video_link": "https://www.youtube.com/watch?v=u7Zi5Ftxd6Y"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_name": "Lines and Lines",
+      "video_link": "https://www.youtube.com/watch?v=7NYDOvc62EU"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_name": "Give and Take",
+      "video_link": "https://www.youtube.com/watch?v=P4UCP4To4E8"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_name": "The Longest Step",
+      "video_link": "https://www.youtube.com/watch?v=KKeCDOfmfhI"
+    },
+    {
+      "chapter_number": 14,
+      "chapter_name": "Birds Come, Birds Go",
+      "video_link": "https://www.youtube.com/watch?v=5kuBCIoBX-8"
+    },
+    {
+      "chapter_number": 15,
+      "chapter_name": "How Many Ponytails?",
+      "video_link": "https://www.youtube.com/watch?v=SbbbFrdxB9s"
+    }
+  ]
+}

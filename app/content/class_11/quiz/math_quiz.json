@@ -1,0 +1,802 @@
+{
+    "maths": [
+      {
+        "chapter_no": 1,
+        "title": "Ch 1 Sets: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11 Maths | Final Exam Express",
+        "duration": "2:10:27",
+        "questions": [
+          {
+            "question": "Find the number of elements in the set {1, 2, 3, 4, 5, 6} and {1, 2, 3, 4, 5, 6, 7}.",
+            "options": {
+              "1": "8",
+              "2": "6",
+              "3": "7",
+              "4": "9"
+            },
+            "answer": 3
+          },
+          {
+            "question": "Let A = {1, 2, 3} and B = {3, 4, 5}. Find the symmetric difference of A and B.",
+            "options": {
+              "1": "{3, 4}",
+              "2": "{1, 2}",
+              "3": "{1, 2, 3}",
+              "4": "{1, 2, 3, 4}"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Find the union of the sets {1, 2, 3} and {3, 4, 5}.",
+            "options": {
+              "1": "{1, 2, 3, 4, 5}",
+              "2": "{3, 4}",
+              "3": "{1, 2, 3}",
+              "4": "{1, 2, 3, 4}"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Let A = {1, 2, 3} and B = {3, 4, 5}. Find the intersection of A and B.",
+            "options": {
+              "1": "{}",
+              "2": "{1}",
+              "3": "{2}",
+              "4": "{3}"
+            },
+            "answer": 4
+          },
+          {
+            "question": "Find the number of subsets of the set {1, 2, 3}.",
+            "options": {
+              "1": "8",
+              "2": "6",
+              "3": "4",
+              "4": "3"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "title": "Ch 2 Relations and Functions: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11",
+        "duration": "2:42:34",
+        "questions": [
+          {
+            "question": "Let R be a relation on the set {1, 2, 3} defined by R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 1)}. Find the domain of R.",
+            "options": {
+              "1": "{2, 3}",
+              "2": "{1, 2, 3}",
+              "3": "{1, 2}",
+              "4": "{1, 2, 3, 4}"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Let f be a function defined by f(x) = x^2. Find the range when x ∈ [1, 3].",
+            "options": {
+              "1": "[1, 4]",
+              "2": "[1, 9]",
+              "3": "[1, 2]",
+              "4": "[3, 4]"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Let g be a function defined by g(x) = x^3. What is g(-2)?",
+            "options": {
+              "1": "8",
+              "2": "0",
+              "3": "5",
+              "4": "-8"
+            },
+            "answer": 4
+          },
+          {
+            "question": "If f(x) = 3x + 5, find f(2).",
+            "options": {
+              "1": "6",
+              "2": "11",
+              "3": "9",
+              "4": "7"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Find the number of relations from set A with 3 elements to set B with 2 elements.",
+            "options": {
+              "1": "8",
+              "2": "6",
+              "3": "4",
+              "4": "2"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "title": "Ch 3 Trigonometric Functions: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11 Maths",
+        "duration": "2:42:51",
+        "questions": [
+          {
+            "question": "If sin(x) = 1/2, what are the values of x in the range [0, 2π]?",
+            "options": {
+              "1": "π/3, 2π/3",
+              "2": "π/6, 5π/6",
+              "3": "0, π",
+              "4": "π/4, 3π/4"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If cos(x) = 0, find the possible values of x in the range [0, 2π].",
+            "options": {
+              "1": "0",
+              "2": "π/2, 3π/2",
+              "3": "3π/4",
+              "4": "π"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Calculate tan(45°).",
+            "options": {
+              "1": "1",
+              "2": "0",
+              "3": "2",
+              "4": "∞"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find sin(90° - θ).",
+            "options": {
+              "1": "tan(θ)",
+              "2": "cos(θ)",
+              "3": "sec(θ)",
+              "4": "sin(θ)"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the value of sin^2(θ) + cos^2(θ)?",
+            "options": {
+              "1": "1",
+              "2": "-1",
+              "3": "0",
+              "4": "tan^2(θ)"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "title": "Ch 4 Complex Numbers: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11 Maths",
+        "duration": "1:42:27",
+        "questions": [
+          {
+            "question": "If z = 3 + 4i, find |z|.",
+            "options": {
+              "1": "5",
+              "2": "7",
+              "3": "10",
+              "4": "6"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the conjugate of z = 5 + 6i?",
+            "options": {
+              "1": "5 - 6i",
+              "2": "6 - 5i",
+              "3": "-5 + 6i",
+              "4": "5 + 6i"
+            },
+            "answer": 1
+          },
+          {
+            "question": "If z1 = 2 + 3i and z2 = 4 - 5i, find z1 + z2.",
+            "options": {
+              "1": "6 - 2i",
+              "2": "2 + 5i",
+              "3": "-2 + 2i",
+              "4": "1 + 1i"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Calculate the product z1 * z2 where z1 = 1 + i and z2 = 1 - i.",
+            "options": {
+              "1": "2",
+              "2": "0",
+              "3": "1",
+              "4": "-1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the modulus of the complex number 6 - 8i?",
+            "options": {
+              "1": "10",
+              "2": "14",
+              "3": "8",
+              "4": "6"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "title": "Linear Inequalities | Full Chapter in ONE SHOT | Chapter 5 | Class 11 Maths",
+        "duration": "1:19:38",
+        "questions": [
+          {
+            "question": "Solve the inequality 2x − 3 < 5.",
+            "options": {
+              "1": "x < 4",
+              "2": "x > 4",
+              "3": "x > -4",
+              "4": "x < -4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Solve the inequality 5x + 7 > 2.",
+            "options": {
+              "1": "x < -1",
+              "2": "x > -1",
+              "3": "x > 1",
+              "4": "x < 1"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If x + 2 > 3 and x < 5, what is the solution set?",
+            "options": {
+              "1": "(1, 5)",
+              "2": "(0, 5)",
+              "3": "(2, 5)",
+              "4": "(3, 5)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Solve the inequality 3x + 1 < 2x + 5.",
+            "options": {
+              "1": "x < 4",
+              "2": "x > 4",
+              "3": "x < -4",
+              "4": "x > -4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the solution for -2(x + 3) > 4?",
+            "options": {
+              "1": "x > -1",
+              "2": "x < -1",
+              "3": "x < 1",
+              "4": "x > 1"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "title": "Ch 6 Permutation and Combination: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11",
+        "duration": "2:09:51",
+        "questions": [
+          {
+            "question": "How many ways can 5 different books be arranged on a shelf?",
+            "options": {
+              "1": "120",
+              "2": "60",
+              "3": "80",
+              "4": "100"
+            },
+            "answer": 1
+          },
+          {
+            "question": "In how many ways can 3 students be selected from a group of 10?",
+            "options": {
+              "1": "60",
+              "2": "120",
+              "3": "200",
+              "4": "30"
+            },
+            "answer": 2
+          },
+          {
+            "question": "How many ways can you arrange the letters of the word 'MATH'?",
+            "options": {
+              "1": "12",
+              "2": "24",
+              "3": "20",
+              "4": "16"
+            },
+            "answer": 2
+          },
+          {
+            "question": "How many different groups of 2 can be formed from 5 people?",
+            "options": {
+              "1": "5",
+              "2": "10",
+              "3": "15",
+              "4": "20"
+            },
+            "answer": 2
+          },
+          {
+            "question": "In how many ways can 4 different balls be arranged in a row?",
+            "options": {
+              "1": "12",
+              "2": "60",
+              "3": "20",
+              "4": "24"
+            },
+            "answer": 4
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "title": "Ch 7 Binomial Theorem: Detailed One Shot + MOST IMPORTANT QUESTIONS | Class 11",
+        "duration": "1:18:45",
+        "questions": [
+          {
+            "question": "Expand (x + y)^3.",
+            "options": {
+              "1": "x^3 + 3x^2y + 3xy^2 + y^3",
+              "2": "x^3 + 2xy + y^3",
+              "3": "x^3 + 3xy + y^4",
+              "4": "x^3 + 3xy + y^3"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Expand (2x - 3y)^4.",
+            "options": {
+              "1": "16x^4 - 96x^3y + 216x^2y^2 - 162xy^3 + 81y^4",
+              "2": "0",
+              "3": "16x^4 + 96x^3y + 216x^2y^2 + 162xy^3 + 81y^4",
+              "4": "16x^4 + 96x^3y - 216x^2y^2 - 162xy^3 + 81y^4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the coefficient of x^2 in the expansion of (x + 2)^5.",
+            "options": {
+              "1": "40",
+              "2": "60",
+              "3": "30",
+              "4": "20"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Find the middle term in the expansion of (x + y)^10.",
+            "options": {
+              "1": "C(10, 5) x^5 y^5",
+              "2": "C(10, 4) x^4 y^6",
+              "3": "C(9, 5) x^5 y^5",
+              "4": "C(9, 4) x^5 y^5"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the general term in the expansion of (a + b)^n?",
+            "options": {
+              "1": "T(k) = C(n, k) * a^(n-k) * b^k",
+              "2": "T(k) = C(n+1, k) * a^(n-k) * b^k",
+              "3": "T(k) = C(n, k) * b^(n-k) * a^k",
+              "4": "T(k) = a^k * b^(n - k)"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "title": "Class 11 Maths Ch 8 Sequences & Series: One Shot (With Most Important Questions)",
+        "duration": "1:51:29",
+        "questions": [
+          {
+            "question": "Find the sum of the first 10 natural numbers.",
+            "options": {
+              "1": "60",
+              "2": "55",
+              "3": "50",
+              "4": "100"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the nth term of the arithmetic series 2, 6, 10, ...?",
+            "options": {
+              "1": "2n + 2",
+              "2": "4n - 2",
+              "3": "2n - 2",
+              "4": "4n + 2"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Find the sum of the first n terms of the geometric series: 3, 6, 12, ...",
+            "options": {
+              "1": "3n",
+              "2": "3(2^n - 1)",
+              "3": "6(2^n - 1)",
+              "4": "2n"
+            },
+            "answer": 2
+          },
+          {
+            "question": "If a = 2, d = 3, find the sum of the first 5 terms.",
+            "options": {
+              "1": "35",
+              "2": "45",
+              "3": "25",
+              "4": "50"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the sum of an infinite geometric series with a = 1 and r = 1/2?",
+            "options": {
+              "1": "1",
+              "2": "4",
+              "3": "3",
+              "4": "2"
+            },
+            "answer": 4
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "title": "Ch 9 Straight Lines: One Shot + MOST IMPORTANT QUESTIONS | Class 11 Maths",
+        "duration": "3:31:41",
+        "questions": [
+          {
+            "question": "Find the equation of a line passing through points (1, 2) and (3, 4).",
+            "options": {
+              "1": "y = x + 1",
+              "2": "y - 2 = 1(x - 1)",
+              "3": "y = 2x - 8",
+              "4": "y - 1 = 2(x - 2)"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the slope of the line y = 3x + 2?",
+            "options": {
+              "1": "0",
+              "2": "3",
+              "3": "2",
+              "4": "-3"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Find the intercept form of the line with a slope of 2 and y-intercept 3.",
+            "options": {
+              "1": "y = 2x + 3",
+              "2": "y = 3x - 2",
+              "3": "y = x + 3",
+              "4": "y - 3 = 2x"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the equation of a line that is perpendicular to y = 4x + 1?",
+            "options": {
+              "1": "y = -1/4x + b",
+              "2": "y = 4x + b",
+              "3": "y = -4x + b",
+              "4": "y = 1/4x + b"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Determine the distance between the points (4, 3) and (1, 1).",
+            "options": {
+              "1": "√13",
+              "2": "√10",
+              "3": "√9",
+              "4": "√6"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "title": "Class 11 Maths Ch 10 Conic Sections: Detailed One Shot | Complete Chapter in 1 Video",
+        "duration": "3:05:32",
+        "questions": [
+          {
+            "question": "What is the equation of a circle with center (0, 0) and radius 5?",
+            "options": {
+              "1": "x^2 + y^2 = 25",
+              "2": "x^2 + y^2 = 1",
+              "3": "x^2 + y^2 = 0",
+              "4": "x^2 + y^2 = 5"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the equation of an ellipse with center (0, 0), a = 4, and b = 2?",
+            "options": {
+              "1": "x^2/16 + y^2/4 = 1",
+              "2": "x^2/4 + y^2/16 = 1",
+              "3": "x^2 + y^2 = 16",
+              "4": "x^2 + y^2 = 4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the equation of the hyperbola with center (0, 0) and vertices at (±3, 0).",
+            "options": {
+              "1": "x^2/9 - y^2/4 = 1",
+              "2": "y^2/9 - x^2/4 = 1",
+              "3": "x^2 - y^2 = 1",
+              "4": "x^2/b^2 - y^2/a^2 = 1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the foci of the ellipse x^2/9 + y^2/4 = 1.",
+            "options": {
+              "1": "(±√5, 0)",
+              "2": "(4, 0)",
+              "3": "(±3, 0)",
+              "4": "(3, 3)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the distance between the foci of a hyperbola if the equation is x^2/9 - y^2/16 = 1?",
+            "options": {
+              "1": "10",
+              "2": "8",
+              "3": "12",
+              "4": "4"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter_no": 11,
+        "title": "Class 11 Maths Ch 11 3D Geometry: Detailed One Shot | Complete Chapter in 1 Video",
+        "duration": "1:04:46",
+        "questions": [
+          {
+            "question": "Find the distance between the points (1, 2, 3) and (4, 5, 6).",
+            "options": {
+              "1": "5",
+              "2": "3",
+              "3": "9",
+              "4": "2"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the midpoint of the segment joining points (3, 7, 1) and (1, 5, 4)?",
+            "options": {
+              "1": "(2, 6, 2.5)",
+              "2": "(2, 4, 3)",
+              "3": "(3, 6, 3)",
+              "4": "(1, 2, 4)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the direction ratios of the line passing through (1, 2, 3) and (4, 5, 6).",
+            "options": {
+              "1": "(3, 3, 3)",
+              "2": "(-3, -3, -3)",
+              "3": "(1, 1, 1)",
+              "4": "(4, 5, 6)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the equation of the line joining points (2, 3, 4) and (3, 5, 7)?",
+            "options": {
+              "1": "(x - 2)/1 = (y - 3)/2 = (z - 4)/3",
+              "2": "x + y + z = 1",
+              "3": "x + y - z = 1",
+              "4": "x^2 + y^2 + z^2 = 1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the equation of the plane passing through (1, 1, 1) and normal to the vector (2, 3, 4).",
+            "options": {
+              "1": "2x + 3y + 4z = 9",
+              "2": "x + y + z = 3",
+              "3": "2x + 3y + 4z = 6",
+              "4": "x + y = z"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 12,
+        "title": "Class 11 Maths | Ch 12 Limits & Derivatives One Shot | All Concepts | Most Important Questions",
+        "duration": "3:04:52",
+        "questions": [
+          {
+            "question": "Find the limit: lim x→0 (sin x)/x.",
+            "options": {
+              "1": "1",
+              "2": "0",
+              "3": "∞",
+              "4": "-1"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Find the derivative of f(x) = x^2 at x = 3.",
+            "options": {
+              "1": "9",
+              "2": "6",
+              "3": "3",
+              "4": "5"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Calculate d/dx (3x^3 - 2x + 1).",
+            "options": {
+              "1": "6x^2",
+              "2": "9x^2 - 2",
+              "3": "3x^2 - 2",
+              "4": "2x"
+            },
+            "answer": 3
+          },
+          {
+            "question": "Find the value of the limit: lim x→∞ (1/x).",
+            "options": {
+              "1": "1",
+              "2": "0",
+              "3": "∞",
+              "4": "-1"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Evaluate lim h→0 (f(x+h) - f(x))/h for f(x) = x^2.",
+            "options": {
+              "1": "2x",
+              "2": "x^2",
+              "3": "x",
+              "4": "3x"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "title": "Class 11 Maths NCERT | Ch 13 Statistics One Shot | All Concepts & Most Important Questions",
+        "duration": "3:37:01",
+        "questions": [
+          {
+            "question": "Calculate mean from the data: 2, 3, 5, 7.",
+            "options": {
+              "1": "4.25",
+              "2": "3.25",
+              "3": "5",
+              "4": "4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Calculate median from the data: 2, 5, 8, 9.",
+            "options": {
+              "1": "6.5",
+              "2": "5",
+              "3": "6",
+              "4": "5.5"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Calculate mode from the data: 1, 2, 2, 3.",
+            "options": {
+              "1": "2",
+              "2": "3",
+              "3": "1",
+              "4": "None"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Calculate standard deviation for the data: 2, 4, 6, 8.",
+            "options": {
+              "1": "2",
+              "2": "1",
+              "3": "3",
+              "4": "4"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Calculate coefficient of variation from the data: 2, 4, 6, 8.",
+            "options": {
+              "1": "25%",
+              "2": "50%",
+              "3": "75%",
+              "4": "80%"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "title": "Class 11 Maths Ch 14 Probability One Shot",
+        "duration": "2:24:41",
+        "questions": [
+          {
+            "question": "Calculate probability using formula P(A) = n(A)/n(S) for A with 3 outcomes.",
+            "options": {
+              "1": "0.5",
+              "2": "1/3",
+              "3": "2/3",
+              "4": "1/2"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Calculate probability using formula P(A∪B) = P(A) + P(B) - P(A∩B) for A and B.",
+            "options": {
+              "1": "0.6",
+              "2": "0.2",
+              "3": "0.4",
+              "4": "0.8"
+            },
+            "answer": 3
+          },
+          {
+            "question": "Calculate conditional probability using formula P(A|B) = P(A∩B)/P(B).",
+            "options": {
+              "1": "P(A)",
+              "2": "P(A∪B)",
+              "3": "1",
+              "4": "P(B)"
+            },
+            "answer": 4
+          },
+          {
+            "question": "Calculate independent events using formula P(A∩B) = P(A) * P(B).",
+            "options": {
+              "1": "1",
+              "2": "0",
+              "3": "P(A)",
+              "4": "P(B)"
+            },
+            "answer": 3
+          },
+          {
+            "question": "Calculate dependent events using formula P(A∩B) ≠ P(A) * P(B).",
+            "options": {
+              "1": "P(A∪B)",
+              "2": "1",
+              "3": "P(A)",
+              "4": "P(A) + P(B)"
+            },
+            "answer": 4
+          }
+        ]
+      }
+    ]
+  }

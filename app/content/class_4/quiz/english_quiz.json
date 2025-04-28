@@ -1,0 +1,511 @@
+{
+    "class": 4,
+    "subject": "English",
+    "book": "Marigold",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Wake Up! & Neha's Alarm Clock",
+        "questions": [
+          {
+            "question": "What does the poem 'Wake Up!' tell us to do?",
+            "options": {
+              "A": "Sleep more",
+              "B": "Wake up early and enjoy nature",
+              "C": "Ignore the morning sounds",
+              "D": "Stay in bed"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What problem did Neha face with her alarm clock?",
+            "options": {
+              "A": "It was too loud",
+              "B": "It kept ringing but she didn't wake up",
+              "C": "It didn't ring at all",
+              "D": "It was broken"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who finally woke Neha up?",
+            "options": {
+              "A": "Her mother",
+              "B": "The sunlight",
+              "C": "A bird",
+              "D": "Her teacher"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of these is NOT mentioned in the poem 'Wake Up!'?",
+            "options": {
+              "A": "Bees buzzing",
+              "B": "Dogs barking",
+              "C": "Cows mooing",
+              "D": "Birds singing"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What lesson did Neha learn?",
+            "options": {
+              "A": "Alarm clocks are useless",
+              "B": "We should wake up on our own",
+              "C": "Parents should wake us up",
+              "D": "Sleeping late is good"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "title": "Noses & The Little Fir Tree",
+        "questions": [
+          {
+            "question": "What is special about noses according to the poem?",
+            "options": {
+              "A": "They help us smell",
+              "B": "They stick out on our face",
+              "C": "They come in different shapes",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Why was the little fir tree unhappy?",
+            "options": {
+              "A": "It had no leaves",
+              "B": "Its leaves were needle-like",
+              "C": "It couldn't move",
+              "D": "It was too small"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What did the tree wish for?",
+            "options": {
+              "A": "Golden leaves",
+              "B": "Glass leaves",
+              "C": "Green leaves",
+              "D": "Both A and B"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What happened to the golden leaves?",
+            "options": {
+              "A": "They fell off",
+              "B": "A man stole them",
+              "C": "They turned green",
+              "D": "They grew bigger"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What lesson did the fir tree learn?",
+            "options": {
+              "A": "Be happy with what you have",
+              "B": "Gold is precious",
+              "C": "Change is good",
+              "D": "Leaves are important"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "title": "Run! & Nasruddin's Aim",
+        "questions": [
+          {
+            "question": "What does the poem 'Run!' encourage us to do?",
+            "options": {
+              "A": "Run away from problems",
+              "B": "Enjoy running in nature",
+              "C": "Compete in races",
+              "D": "Avoid walking"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What was Nasruddin known for?",
+            "options": {
+              "A": "His bad archery skills",
+              "B": "His boasting",
+              "C": "His intelligence",
+              "D": "His strength"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How did Nasruddin explain his bad aim?",
+            "options": {
+              "A": "The target moved",
+              "B": "He wasn't trying",
+              "C": "It wasn't his turn",
+              "D": "The bow was faulty"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What does the phrase 'run from the rain' suggest?",
+            "options": {
+              "A": "To escape getting wet",
+              "B": "To enjoy the rain",
+              "C": "To run fast",
+              "D": "To find shelter"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What lesson does Nasruddin's story teach?",
+            "options": {
+              "A": "Practice makes perfect",
+              "B": "Don't boast without skills",
+              "C": "Archery is difficult",
+              "D": "Excuses don't help"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "title": "Why? & Alice in Wonderland",
+        "questions": [
+          {
+            "question": "What is the main theme of the poem 'Why?'",
+            "options": {
+              "A": "Finding answers",
+              "B": "Asking questions",
+              "C": "Childhood curiosity",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "How did Alice enter Wonderland?",
+            "options": {
+              "A": "Through a mirror",
+              "B": "Through a rabbit hole",
+              "C": "By magic spell",
+              "D": "In her dreams"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What strange things did Alice find in Wonderland?",
+            "options": {
+              "A": "Talking animals",
+              "B": "Changing sizes",
+              "C": "Mad Hatter",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Why is asking questions important according to the poem?",
+            "options": {
+              "A": "It helps us learn",
+              "B": "It annoys adults",
+              "C": "It passes time",
+              "D": "It shows intelligence"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What lesson does Alice's adventure teach?",
+            "options": {
+              "A": "Imagination is powerful",
+              "B": "Follow white rabbits",
+              "C": "Eat magic mushrooms",
+              "D": "Avoid strange places"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "title": "Don't Be Afraid of the Dark & Helen Keller",
+        "questions": [
+          {
+            "question": "What does the poem say about darkness?",
+            "options": {
+              "A": "It's scary",
+              "B": "It's just absence of light",
+              "C": "Monsters live there",
+              "D": "We should fear it"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What challenges did Helen Keller face?",
+            "options": {
+              "A": "Blindness",
+              "B": "Deafness",
+              "C": "Both blindness and deafness",
+              "D": "Physical disability"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Who helped Helen Keller learn?",
+            "options": {
+              "A": "Her mother",
+              "B": "Anne Sullivan",
+              "C": "Her father",
+              "D": "A special machine"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How did Helen learn words?",
+            "options": {
+              "A": "Through sign language",
+              "B": "By feeling objects",
+              "C": "Through finger spelling",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is the main message of both stories?",
+            "options": {
+              "A": "Overcome your fears",
+              "B": "Disabilities can be conquered",
+              "C": "Both A and B",
+              "D": "Darkness is bad"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "title": "Hiawatha & The Scholar's Mother Tongue",
+        "questions": [
+          {
+            "question": "Who was Hiawatha?",
+            "options": {
+              "A": "A Native American boy",
+              "B": "A warrior",
+              "C": "A poet",
+              "D": "A king"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What did Hiawatha learn from animals?",
+            "options": {
+              "A": "Their languages",
+              "B": "Their secrets",
+              "C": "Their names",
+              "D": "Their habits"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'The Scholar's Mother Tongue', how did the scholar prove he knew the language?",
+            "options": {
+              "A": "By speaking fluently",
+              "B": "By whispering in the king's ear",
+              "C": "By writing a poem",
+              "D": "By challenging others"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What quality did Hiawatha show?",
+            "options": {
+              "A": "Bravery",
+              "B": "Observation",
+              "C": "Kindness",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What lesson do both stories share?",
+            "options": {
+              "A": "Knowledge is powerful",
+              "B": "Learning takes effort",
+              "C": "Respect all creatures",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "title": "A Watering Rhyme & The Giving Tree",
+        "questions": [
+          {
+            "question": "What is the best time to water plants according to the rhyme?",
+            "options": {
+              "A": "Morning",
+              "B": "Evening",
+              "C": "Afternoon",
+              "D": "Night"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What did the tree keep giving the boy?",
+            "options": {
+              "A": "Apples",
+              "B": "Shade",
+              "C": "Branches",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "How did the boy repay the tree?",
+            "options": {
+              "A": "He didn't",
+              "B": "With money",
+              "C": "By planting seeds",
+              "D": "With love"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the watering rhyme teach?",
+            "options": {
+              "A": "Plant care",
+              "B": "Gardening tips",
+              "C": "Nature's importance",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is the moral of 'The Giving Tree'?",
+            "options": {
+              "A": "Nature gives selflessly",
+              "B": "We should protect trees",
+              "C": "Don't be selfish",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "title": "Books & Going to Buy a Book",
+        "questions": [
+          {
+            "question": "What does the poem 'Books' compare books to?",
+            "options": {
+              "A": "Houses",
+              "B": "Windows",
+              "C": "Doors",
+              "D": "Both B and C"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Where did the children go to buy a book?",
+            "options": {
+              "A": "Library",
+              "B": "Book fair",
+              "C": "Bookshop",
+              "D": "School"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What kind of book did they choose?",
+            "options": {
+              "A": "Story book",
+              "B": "Picture book",
+              "C": "Poetry book",
+              "D": "Science book"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do books give us according to the poem?",
+            "options": {
+              "A": "Knowledge",
+              "B": "New worlds",
+              "C": "Adventures",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What lesson do both chapters teach?",
+            "options": {
+              "A": "Books are valuable",
+              "B": "Reading is fun",
+              "C": "Bookshops are exciting",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "title": "The Naughty Boy & Pinocchio",
+        "questions": [
+          {
+            "question": "Where did the naughty boy go?",
+            "options": {
+              "A": "Scotland",
+              "B": "England",
+              "C": "Ireland",
+              "D": "Wales"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What did Pinocchio want most?",
+            "options": {
+              "A": "To be rich",
+              "B": "To be a real boy",
+              "C": "To travel",
+              "D": "To go to school"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What happened when Pinocchio lied?",
+            "options": {
+              "A": "His nose grew",
+              "B": "He turned to wood",
+              "C": "He got sick",
+              "D": "He forgot things"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What did the naughty boy discover in Scotland?",
+            "options": {
+              "A": "Things were same everywhere",
+              "B": "Scotland was magical",
+              "C": "People were different",
+              "D": "He got lost"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the common lesson in both stories?",
+            "options": {
+              "A": "Be honest",
+              "B": "Don't be naughty",
+              "C": "Learn from experiences",
+              "D": "All of these"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      }
+    ]
+  }

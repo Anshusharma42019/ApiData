@@ -1,0 +1,847 @@
+{
+  "class": 2,
+  "subject": "Mathematics",
+  "book": "Math-Magic",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "What Is Long, What Is Round?",
+      "questions": [
+        {
+          "question": "Which of these objects is round?",
+          "options": {
+            "A": "Book",
+            "B": "Ball",
+            "C": "Pencil",
+            "D": "Ruler"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which shape can roll easily?",
+          "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Cuboid",
+            "D": "Pyramid"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "A banana is an example of:",
+          "options": {
+            "A": "Long object",
+            "B": "Round object",
+            "C": "Flat object",
+            "D": "Square object"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of these is NOT a long object?",
+          "options": {
+            "A": "Train",
+            "B": "Straw",
+            "C": "Plate",
+            "D": "Rope"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "A wheel is this shape:",
+          "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Circle",
+            "D": "Rectangle"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "Counting In Groups",
+      "questions": [
+        {
+          "question": "If 1 bunch has 10 bananas, how many bananas in 3 bunches?",
+          "options": {
+            "A": "10",
+            "B": "20",
+            "C": "30",
+            "D": "40"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How many toes do 5 children have altogether? (1 child = 10 toes)",
+          "options": {
+            "A": "15",
+            "B": "30",
+            "C": "50",
+            "D": "100"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which group shows counting by twos?",
+          "options": {
+            "A": "2, 3, 4, 5",
+            "B": "2, 4, 6, 8",
+            "C": "5, 10, 15, 20",
+            "D": "10, 20, 30, 40"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If 1 packet has 5 pencils, how many pencils in 4 packets?",
+          "options": {
+            "A": "9",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Counting in groups helps us:",
+          "options": {
+            "A": "Count faster",
+            "B": "Write better",
+            "C": "Draw pictures",
+            "D": "Sing songs"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "How Much Can You Carry?",
+      "questions": [
+        {
+          "question": "Which is heavier?",
+          "options": {
+            "A": "Feather",
+            "B": "Brick",
+            "C": "Paper",
+            "D": "Balloon"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What would you use to measure weight?",
+          "options": {
+            "A": "Ruler",
+            "B": "Clock",
+            "C": "Scale",
+            "D": "Thermometer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which container can hold more water?",
+          "options": {
+            "A": "Cup",
+            "B": "Bucket",
+            "C": "Spoon",
+            "D": "Bottle"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If a bag is too heavy, you should:",
+          "options": {
+            "A": "Carry it alone",
+            "B": "Ask for help",
+            "C": "Drag it on ground",
+            "D": "Leave it behind"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is lighter than a book?",
+          "options": {
+            "A": "Desk",
+            "B": "Pencil",
+            "C": "School bag",
+            "D": "Water bottle"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "Counting In Tens",
+      "questions": [
+        {
+          "question": "How many tens make 50?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "10",
+            "D": "50"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What comes after 10 tens?",
+          "options": {
+            "A": "100",
+            "B": "101",
+            "C": "110",
+            "D": "1000"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If 1 bundle has 10 sticks, how many sticks in 7 bundles?",
+          "options": {
+            "A": "17",
+            "B": "70",
+            "C": "700",
+            "D": "10"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which number has 6 tens?",
+          "options": {
+            "A": "16",
+            "B": "60",
+            "C": "6",
+            "D": "600"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Counting by tens from 10: 10, 20, 30, ___",
+          "options": {
+            "A": "31",
+            "B": "35",
+            "C": "40",
+            "D": "300"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "Patterns",
+      "questions": [
+        {
+          "question": "What comes next? 🔴, 🔵, 🔴, 🔵, ___",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟢",
+            "D": "🟡"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Complete the number pattern: 2, 4, 6, ___",
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "10"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which shape completes the pattern? ▲, ■, ▲, ■, ___",
+          "options": {
+            "A": "●",
+            "B": "▲",
+            "C": "■",
+            "D": "▼"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is missing? A, B, C, ___, E",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which pattern grows by adding 5 each time?",
+          "options": {
+            "A": "3, 6, 9, 12",
+            "B": "5, 10, 15, 20",
+            "C": "2, 4, 8, 16",
+            "D": "10, 20, 30, 50"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "Footprints",
+      "questions": [
+        {
+          "question": "Footprints can tell us about:",
+          "options": {
+            "A": "What ate food",
+            "B": "Who walked there",
+            "C": "What time it is",
+            "D": "How old someone is"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which animal has paw prints?",
+          "options": {
+            "A": "Bird",
+            "B": "Dog",
+            "C": "Fish",
+            "D": "Snake"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What can we measure using footprints?",
+          "options": {
+            "A": "Height",
+            "B": "Length",
+            "C": "Weight",
+            "D": "Temperature"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "A line of footprints shows:",
+          "options": {
+            "A": "Where someone walked",
+            "B": "What someone ate",
+            "C": "How old someone is",
+            "D": "What someone said"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which would make the deepest footprint?",
+          "options": {
+            "A": "Ant",
+            "B": "Elephant",
+            "C": "Butterfly",
+            "D": "Mouse"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "Jugs and Mugs",
+      "questions": [
+        {
+          "question": "Which holds more water?",
+          "options": {
+            "A": "Teacup",
+            "B": "Bucket",
+            "C": "Spoon",
+            "D": "Bottle cap"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many small cups (200ml) fill a 1 liter jug?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What do we use to measure liquids?",
+          "options": {
+            "A": "Scale",
+            "B": "Measuring cup",
+            "C": "Ruler",
+            "D": "Clock"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If 1 jug = 5 glasses, then 2 jugs = ___ glasses",
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "15"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which is the best container for drinking water?",
+          "options": {
+            "A": "Plate",
+            "B": "Glass",
+            "C": "Shoe",
+            "D": "Bag"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "Tens and Ones",
+      "questions": [
+        {
+          "question": "How many tens in 47?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "7",
+            "D": "47"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 3 tens + 5 ones?",
+          "options": {
+            "A": "8",
+            "B": "35",
+            "C": "53",
+            "D": "305"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which number has 8 ones and 2 tens?",
+          "options": {
+            "A": "28",
+            "B": "82",
+            "C": "88",
+            "D": "22"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the place value of 5 in 59?",
+          "options": {
+            "A": "Ones",
+            "B": "Tens",
+            "C": "Hundreds",
+            "D": "Thousands"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which shows 6 tens and 0 ones?",
+          "options": {
+            "A": "06",
+            "B": "60",
+            "C": "66",
+            "D": "600"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "My Funday",
+      "questions": [
+        {
+          "question": "How many days in a week?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which day comes after Tuesday?",
+          "options": {
+            "A": "Monday",
+            "B": "Wednesday",
+            "C": "Friday",
+            "D": "Sunday"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If today is Friday, what day was yesterday?",
+          "options": {
+            "A": "Saturday",
+            "B": "Thursday",
+            "C": "Wednesday",
+            "D": "Monday"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which are weekend days?",
+          "options": {
+            "A": "Monday-Tuesday",
+            "B": "Wednesday-Thursday",
+            "C": "Friday-Saturday",
+            "D": "Saturday-Sunday"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How many Sundays in one month?",
+          "options": {
+            "A": "1",
+            "B": "4",
+            "C": "7",
+            "D": "12"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "Add Our Points",
+      "questions": [
+        {
+          "question": "If Team A has 12 points and Team B has 15, who has more?",
+          "options": {
+            "A": "Team A",
+            "B": "Team B",
+            "C": "Equal",
+            "D": "Can't tell"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 7 + 8?",
+          "options": {
+            "A": "12",
+            "B": "15",
+            "C": "17",
+            "D": "20"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If you have 5 marbles and get 4 more, how many total?",
+          "options": {
+            "A": "1",
+            "B": "5",
+            "C": "9",
+            "D": "20"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which symbol represents addition?",
+          "options": {
+            "A": "-",
+            "B": "+",
+            "C": "=",
+            "D": "×"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is zero plus any number?",
+          "options": {
+            "A": "Zero",
+            "B": "Same number",
+            "C": "One more",
+            "D": "Always ten"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "Lines and Lines",
+      "questions": [
+        {
+          "question": "Which is a straight line?",
+          "options": {
+            "A": "Curve",
+            "B": "Zigzag",
+            "C": "Wavy",
+            "D": "Horizontal"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How many sides does a triangle have?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is NOT a type of line?",
+          "options": {
+            "A": "Sleeping",
+            "B": "Standing",
+            "C": "Jumping",
+            "D": "Slanting"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "A rectangle has how many straight sides?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which tool helps draw straight lines?",
+          "options": {
+            "A": "Compass",
+            "B": "Ruler",
+            "C": "Protractor",
+            "D": "Divider"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "Give and Take",
+      "questions": [
+        {
+          "question": "If you have 10 candies and give 3 away, how many left?",
+          "options": {
+            "A": "3",
+            "B": "7",
+            "C": "10",
+            "D": "13"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 15 - 6?",
+          "options": {
+            "A": "5",
+            "B": "9",
+            "C": "10",
+            "D": "21"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which symbol represents subtraction?",
+          "options": {
+            "A": "+",
+            "B": "-",
+            "C": "=",
+            "D": "÷"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If you take away zero from a number:",
+          "options": {
+            "A": "Number becomes zero",
+            "B": "Number stays same",
+            "C": "Number doubles",
+            "D": "Number halves"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 20 - 5?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title": "The Longest Step",
+      "questions": [
+        {
+          "question": "Who can take the longest step?",
+          "options": {
+            "A": "Baby",
+            "B": "Child",
+            "C": "Adult",
+            "D": "Ant"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What do we use to measure length?",
+          "options": {
+            "A": "Clock",
+            "B": "Scale",
+            "C": "Ruler",
+            "D": "Thermometer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which is longer?",
+          "options": {
+            "A": "Pencil",
+            "B": "Classroom",
+            "C": "Eraser",
+            "D": "Notebook"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many centimeters in 1 meter?",
+          "options": {
+            "A": "10",
+            "B": "50",
+            "C": "100",
+            "D": "1000"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which would you measure in meters?",
+          "options": {
+            "A": "Book",
+            "B": "Playground",
+            "C": "Pencil",
+            "D": "Eraser"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title": "Birds Come, Birds Go",
+      "questions": [
+        {
+          "question": "If 5 birds are on a tree and 2 fly away, how many remain?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 10 - 4?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "10",
+            "D": "14"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If 3 birds come back, how many total now? (from Q1)",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number sentence matches '7 birds, 2 leave'?",
+          "options": {
+            "A": "7 + 2",
+            "B": "7 - 2",
+            "C": "7 × 2",
+            "D": "7 ÷ 2"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If all birds fly away, how many remain?",
+          "options": {
+            "A": "Zero",
+            "B": "One",
+            "C": "Same number",
+            "D": "Double"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title": "How Many Ponytails?",
+      "questions": [
+        {
+          "question": "If 1 girl has 2 ponytails, how many ponytails for 3 girls?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is 2 × 4?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "If 5 ponytails need 10 ribbons, how many ribbons per ponytail?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "5",
+            "D": "10"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which operation helps solve 'groups of' problems?",
+          "options": {
+            "A": "Addition",
+            "B": "Subtraction",
+            "C": "Multiplication",
+            "D": "Division"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If 1 ponytail uses 30cm ribbon, how much for 2 ponytails?",
+          "options": {
+            "A": "30cm",
+            "B": "60cm",
+            "C": "90cm",
+            "D": "120cm"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+}

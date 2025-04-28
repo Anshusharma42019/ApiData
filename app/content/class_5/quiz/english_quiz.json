@@ -1,0 +1,567 @@
+{
+    "class": 5,
+    "subject": "English",
+    "book": "Marigold",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Ice Cream Man & Wonderful Waste",
+        "questions": [
+          {
+            "question": "What is the main theme of 'Ice Cream Man'?",
+            "options": {
+              "A": "The joys of summer",
+              "B": "Importance of cleanliness",
+              "C": "Making ice cream",
+              "D": "Farmers' Market"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'Wonderful Waste', what turns waste into importance?",
+            "options": {
+              "A": "Creativity",
+              "B": "Recycling",
+              "C": "Teamwork",
+              "D": "Economy"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the Ice Cream Man sell?",
+            "options": {
+              "A": "Vegetables",
+              "B": "Fruits",
+              "C": "Ice Cream",
+              "D": "Toys"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of the following words is related to waste?",
+            "options": {
+              "A": "Value",
+              "B": "Trash",
+              "C": "Useful",
+              "D": "Important"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a major lesson from 'Wonderful Waste'?",
+            "options": {
+              "A": "Throw everything away",
+              "B": "Use resources wisely",
+              "C": "Never recycle",
+              "D": "Waste is good"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "title": "Team Work & Flying Together",
+        "questions": [
+          {
+            "question": "What is the main focus of 'Team Work'?",
+            "options": {
+              "A": "Working alone",
+              "B": "Collaboration and support",
+              "C": "Competition",
+              "D": "Indifference"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'Flying Together', what do the birds symbolize?",
+            "options": {
+              "A": "Freedom",
+              "B": "Courage",
+              "C": "Unity",
+              "D": "Danger"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is one quality of good teamwork?",
+            "options": {
+              "A": "Selfishness",
+              "B": "Communication",
+              "C": "Jealousy",
+              "D": "Isolation"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What challenges can teamwork help overcome?",
+            "options": {
+              "A": "None",
+              "B": "Individual problems",
+              "C": "Collective tasks",
+              "D": "Competition"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What can teamwork lead to?",
+            "options": {
+              "A": "More confusion",
+              "B": "Success",
+              "C": "Less effort",
+              "D": "Failure"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "title": "My Shadow & Robinson Crusoe Discovers a Footprint",
+        "questions": [
+          {
+            "question": "What does the poem 'My Shadow' describe?",
+            "options": {
+              "A": "The sun",
+              "B": "A friend",
+              "C": "A shadow's behavior",
+              "D": "A dog"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What does Robinson Crusoe discover in the sand?",
+            "options": {
+              "A": "A friend",
+              "B": "A footprint",
+              "C": "A treasure",
+              "D": "A message"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a constant companion of the narrator in 'My Shadow'?",
+            "options": {
+              "A": "His cat",
+              "B": "His shadow",
+              "C": "His spirit",
+              "D": "His friend"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What did Robinson Crusoe feel upon seeing the footprint?",
+            "options": {
+              "A": "Excitement",
+              "B": "Fear",
+              "C": "Indifference",
+              "D": "Joy"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'My Shadow', what does the narrator think about shadows?",
+            "options": {
+              "A": "They are annoying",
+              "B": "They are fun",
+              "C": "They are dark",
+              "D": "They are invisible"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "title": "Crying, My Elder Brother",
+        "questions": [
+          {
+            "question": "Who is the protagonist in 'Crying'?",
+            "options": {
+              "A": "The elder brother",
+              "B": "The narrator",
+              "C": "A friend",
+              "D": "The mother"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'My Elder Brother', what is being cried about?",
+            "options": {
+              "A": "A loss",
+              "B": "A 喜悅",
+              "C": "Failure",
+              "D": "An adventure"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the elder brother teach the narrator?",
+            "options": {
+              "A": "Wisdom",
+              "B": "Selfishness",
+              "C": "Greed",
+              "D": "Rudeness"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How does the elder brother react to situations?",
+            "options": {
+              "A": "With anger",
+              "B": "With calmness",
+              "C": "With joy",
+              "D": "With confusion"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a central theme in this chapter?",
+            "options": {
+              "A": "Family relationships",
+              "B": "Financial success",
+              "C": "Friendship",
+              "D": "Adventure"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "title": "The Lazy Frog & Rip Van Winkle",
+        "questions": [
+          {
+            "question": "What is the main characteristic of the frog in 'The Lazy Frog'?",
+            "options": {
+              "A": "Active",
+              "B": "Lazy",
+              "C": "Cunning",
+              "D": "Helpful"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who is Rip Van Winkle?",
+            "options": {
+              "A": "A lazy man",
+              "B": "An elder",
+              "C": "A child",
+              "D": "A king"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does Rip Van Winkle do for years?",
+            "options": {
+              "A": "Works hard",
+              "B": "Sleeps",
+              "C": "Studies",
+              "D": "Travels"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the consequence of the frog's laziness?",
+            "options": {
+              "A": "Reward",
+              "B": "Failure",
+              "C": "Success",
+              "D": "Friendship"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a lesson learned from 'Rip Van Winkle'?",
+            "options": {
+              "A": "Hard work is important",
+              "B": "Time flies",
+              "C": "Rest is not necessary",
+              "D": "Dreams come true"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "title": "Class Discussion & The Talkative Barber",
+        "questions": [
+          {
+            "question": "What does the class discussion entail?",
+            "options": {
+              "A": "Debate on a topic",
+              "B": "Presentation",
+              "C": "Silence",
+              "D": "Play"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the barber known for?",
+            "options": {
+              "A": "His work",
+              "B": "Being talkative",
+              "C": "His hairstyle",
+              "D": "His shop"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How does the talkative barber affect others?",
+            "options": {
+              "A": "Brings joy",
+              "B": "Annoys them",
+              "C": "Educates them",
+              "D": "Makes them think"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is one topic discussed in class?",
+            "options": {
+              "A": "Man vs. Nature",
+              "B": "Social issues",
+              "C": "Science",
+              "D": "Literature"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What type of lessons are learned from discussions?",
+            "options": {
+              "A": "Practical applications",
+              "B": "Creative thinking",
+              "C": "Self-indulgence",
+              "D": "Indifference"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "title": "Topsy-Turvy Land & Gulliver's Travels",
+        "questions": [
+          {
+            "question": "What is the significance of 'Topsy-Turvy Land'?",
+            "options": {
+              "A": "Confusion",
+              "B": "Adventure",
+              "C": "Logical reasoning",
+              "D": "Friendship"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does Gulliver discover in his travels?",
+            "options": {
+              "A": "New creatures",
+              "B": "Treasure",
+              "C": "People with strange customs",
+              "D": "Secrets of the world"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What kind of adventures does Gulliver have?",
+            "options": {
+              "A": "Challenging",
+              "B": "Fearful",
+              "C": "Boring",
+              "D": "Simple"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is a primary theme in 'Topsy-Turvy Land'?",
+            "options": {
+              "A": "Chaos",
+              "B": "Normalcy",
+              "C": "Love",
+              "D": "Friendship"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What message does 'Gulliver's Travels' convey?",
+            "options": {
+              "A": "Friendship is key",
+              "B": "Explore the world",
+              "C": "Learn from experiences",
+              "D": "Stay home"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "title": "Nobody's Friend & The Little Bully",
+        "questions": [
+          {
+            "question": "What does 'Nobody's Friend' signify?",
+            "options": {
+              "A": "Isolation",
+              "B": "Popularity",
+              "C": "Resilience",
+              "D": "Compassion"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What lessons does 'The Little Bully' teach?",
+            "options": {
+              "A": "Kindness is essential",
+              "B": "Bullying is acceptable",
+              "C": "Popularity matters",
+              "D": "Isolation is key"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What action does Nobody take?",
+            "options": {
+              "A": "Seek friends",
+              "B": "Reveal secrets",
+              "C": "Help others",
+              "D": "Challenge authority"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Who does 'The Little Bully' target?",
+            "options": {
+              "A": "The smallest",
+              "B": "The strongest",
+              "C": "Everyone",
+              "D": "Friends"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the importance of friendship in these stories?",
+            "options": {
+              "A": "It can be broken easily",
+              "B": "It is an option",
+              "C": "It is necessary for happiness",
+              "D": "It is unneeded"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "title": "Sing a Song of People",
+        "questions": [
+          {
+            "question": "What does 'Sing a Song of People' celebrate?",
+            "options": {
+              "A": "Creativity",
+              "B": "Diversity and unity",
+              "C": "Solitude",
+              "D": "Simplicity"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How are people depicted in this chapter?",
+            "options": {
+              "A": "Uniform",
+              "B": "Different yet united",
+              "C": "Indifferent",
+              "D": "Similar in thoughts"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What common elements contribute to unity among people?",
+            "options": {
+              "A": "Conflict",
+              "B": "Cultural differences",
+              "C": "Shared experiences",
+              "D": "Isolation"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What does the song represent?",
+            "options": {
+              "A": "Loss",
+              "B": "Feeling alone",
+              "C": "Harmony",
+              "D": "Divisiveness"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which quality is emphasized in 'Sing a Song of People'?",
+            "options": {
+              "A": "Greed",
+              "B": "Unity",
+              "C": "Anger",
+              "D": "Fear"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "title": "Malu Bhalu & Who Will Be Ningthou?",
+        "questions": [
+          {
+            "question": "What is the main theme of 'Malu Bhalu'?",
+            "options": {
+              "A": "Friendship and kindness",
+              "B": "Betrayal",
+              "C": "Loneliness",
+              "D": "Fear"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Who helps Malu Bhalu?",
+            "options": {
+              "A": "Other animals",
+              "B": "His owner",
+              "C": "Humans",
+              "D": "None"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'Who Will Be Ningthou?', what is at stake?",
+            "options": {
+              "A": "A contest",
+              "B": "Love",
+              "C": "Power",
+              "D": "Friendship"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What quality does Ningthou exhibit in the story?",
+            "options": {
+              "A": "Greed",
+              "B": "Strength",
+              "C": "Wisdom",
+              "D": "Deceit"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What overall lessons can be learned from these stories?",
+            "options": {
+              "A": "Compromise is unnecessary",
+              "B": "Kindness matters",
+              "C": "Selfishness is key",
+              "D": "Solitude is preferred"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,63 @@
+{
+    "subject": "Physics",
+    "class": "9",
+    "board": "CBSE",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Motion",
+        "videos": [
+          {
+            "title": "part 1",
+            "url": "https://www.youtube.com/watch?v=i5ZTwV-r-8o"
+          },
+          {
+            "title": "part 2",
+            "url": "https://www.youtube.com/watch?v=BSEcm9Ehmqo"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Force and Laws of Motion",
+        "videos": [
+          {
+            "title": "Force and Laws of Motion Full Chapter Explanation Class 9 | Class 9 CBSE Physics",
+            "url": "https://www.youtube.com/watch?v=eeG9_f9ELBA"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Gravitation",
+        "videos": [
+          {
+            "title": "Gravitation Full Chapter Class 9 | Class 9 CBSE Physics | Score 95+",
+            "url": "https://www.youtube.com/watch?v=GwX_b9fjIbk"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Work and Energy",
+        "videos": [
+          {
+            "title": "Work, Energy, And Power Full Chapter Class 9 | Class 9 CBSE Physics | NCERT",
+            "url": "https://www.youtube.com/watch?v=38xLDSrMxeE"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Sound",
+        "videos": [
+          {
+            "title": "Sound Full Chapter Class 9 | Class 9 Physics CBSE NCERT",
+            "url": "https://www.youtube.com/watch?v=aynVhvlDYkk"
+          }
+        ]
+      }
+    ]
+  }
+  

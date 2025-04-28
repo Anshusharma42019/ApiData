@@ -1,0 +1,791 @@
+{
+    "class": 4,
+    "subject": "Maths",
+    "book": "Building with Bricks",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Building with Bricks",
+        "questions": [
+          {
+            "question": "What is the basic unit used to build with bricks?",
+            "options": {
+              "A": "Brick",
+              "B": "Cement",
+              "C": "Lumber",
+              "D": "Stone"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If one wall is made of 50 bricks, how many bricks are needed for 4 identical walls?",
+            "options": {
+              "A": "100",
+              "B": "150",
+              "C": "200",
+              "D": "250"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What shapes can be created using bricks?",
+            "options": {
+              "A": "Only squares",
+              "B": "Only triangles",
+              "C": "Various shapes",
+              "D": "Only rectangles"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "How many bricks are there in a stack of 8 rows with 10 bricks each?",
+            "options": {
+              "A": "80",
+              "B": "70",
+              "C": "60",
+              "D": "100"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a brick weighs 2 kg, what is the weight of 25 bricks?",
+            "options": {
+              "A": "50 kg",
+              "B": "40 kg",
+              "C": "30 kg",
+              "D": "20 kg"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "title": "Long and Short",
+        "questions": [
+          {
+            "question": "What is the concept of length used for?",
+            "options": {
+              "A": "To measure time",
+              "B": "To compare sizes",
+              "C": "To describe shapes",
+              "D": "To count objects"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which object is longer: a 30 cm ruler or a 40 cm rope?",
+            "options": {
+              "A": "Ruler",
+              "B": "Rope",
+              "C": "Both are equal",
+              "D": "Neither can be measured"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How many centimeters are in a meter?",
+            "options": {
+              "A": "10",
+              "B": "50",
+              "C": "100",
+              "D": "200"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "If you have a string that is 120 cm long, how many 30 cm pieces can you cut from it?",
+            "options": {
+              "A": "2",
+              "B": "3",
+              "C": "4",
+              "D": "5"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is longer: 250 mm or 2 cm?",
+            "options": {
+              "A": "250 mm",
+              "B": "2 cm",
+              "C": "Both are equal",
+              "D": "Cannot be determined"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "title": "A Trip to Bhopal",
+        "questions": [
+          {
+            "question": "What is the primary focus of the chapter?",
+            "options": {
+              "A": "Transportation",
+              "B": "Travel distance",
+              "C": "Culture",
+              "D": "Geography"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a bus travels at a speed of 60 km/h, how far will it travel in 2 hours?",
+            "options": {
+              "A": "120 km",
+              "B": "100 km",
+              "C": "140 km",
+              "D": "60 km"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How do you calculate travel time?",
+            "options": {
+              "A": "Distance divided by Speed",
+              "B": "Speed divided by Distance",
+              "C": "Distance plus Speed",
+              "D": "Speed plus Distance"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a train covers 300 km in 4 hours, what is its speed?",
+            "options": {
+              "A": "60 km/h",
+              "B": "70 km/h",
+              "C": "75 km/h",
+              "D": "80 km/h"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What distance is covered by a bike at 40 km/h in 3.5 hours?",
+            "options": {
+              "A": "140 km",
+              "B": "150 km",
+              "C": "160 km",
+              "D": "170 km"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "title": "Tick Tick Tick",
+        "questions": [
+          {
+            "question": "What does 'Tick Tick' refer to?",
+            "options": {
+              "A": "A clock",
+              "B": "A timer",
+              "C": "A watch",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "How many seconds are in 5 minutes?",
+            "options": {
+              "A": "60",
+              "B": "300",
+              "C": "500",
+              "D": "150"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What unit is commonly used to measure time?",
+            "options": {
+              "A": "Meters",
+              "B": "Hours",
+              "C": "Kilograms",
+              "D": "Liters"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a clock strikes once every hour, how many times does it strike in 4 hours?",
+            "options": {
+              "A": "4",
+              "B": "5",
+              "C": "6",
+              "D": "7"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is 3 hours and 45 minutes in total minutes?",
+            "options": {
+              "A": "180",
+              "B": "210",
+              "C": "225",
+              "D": "240"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "title": "The Way The World Looks",
+        "questions": [
+          {
+            "question": "What perspective do we use to understand the world?",
+            "options": {
+              "A": "Mathematical",
+              "B": "Geographical",
+              "C": "Historical",
+              "D": "Social"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a map shows a scale of 1:1000, how many meters do 3 cm on the map represent?",
+            "options": {
+              "A": "30 meters",
+              "B": "300 meters",
+              "C": "3 meters",
+              "D": "3000 meters"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which tool is commonly used for navigation?",
+            "options": {
+              "A": "Map",
+              "B": "Book",
+              "C": "Calculator",
+              "D": "Compass"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If you travel 10 km north and then 10 km east, what is the total distance traveled?",
+            "options": {
+              "A": "10 km",
+              "B": "15 km",
+              "C": "20 km",
+              "D": "30 km"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the main continent depicted on most world maps?",
+            "options": {
+              "A": "Asia",
+              "B": "Africa",
+              "C": "Europe",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "title": "The Junk Seller",
+        "questions": [
+          {
+            "question": "What is the main theme of this chapter?",
+            "options": {
+              "A": "Waste management",
+              "B": "Trading",
+              "C": "Economics",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a junk seller sells items for ₹10 each, how much will he earn from selling 15 items?",
+            "options": {
+              "A": "₹100",
+              "B": "₹150",
+              "C": "₹200",
+              "D": "₹50"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How can junk be useful?",
+            "options": {
+              "A": "It cannot be reused",
+              "B": "It can be recycled",
+              "C": "It is always worthless",
+              "D": "It takes up space"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If you collect 5 kg of junk every week, how much will you collect in 4 weeks?",
+            "options": {
+              "A": "20 kg",
+              "B": "15 kg",
+              "C": "10 kg",
+              "D": "25 kg"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What percentage of recycled junk is typically usable?",
+            "options": {
+              "A": "10%",
+              "B": "25%",
+              "C": "50%",
+              "D": "75%"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "title": "Jugs and Mugs",
+        "questions": [
+          {
+            "question": "What do jugs and mugs measure?",
+            "options": {
+              "A": "Length",
+              "B": "Volume",
+              "C": "Weight",
+              "D": "Area"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a jug holds 2 liters of water, how many jugs are needed to fill a 10-liter tank?",
+            "options": {
+              "A": "2",
+              "B": "3",
+              "C": "4",
+              "D": "5"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What would you use a jug for?",
+            "options": {
+              "A": "Holding water",
+              "B": "Writing",
+              "C": "Eating",
+              "D": "Drawing"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a mug can hold 250 ml, how many milliliters are in 4 mugs?",
+            "options": {
+              "A": "800 ml",
+              "B": "1000 ml",
+              "C": "750 ml",
+              "D": "900 ml"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which is heavier: a jug full of water or an empty mug?",
+            "options": {
+              "A": "Jug full of water",
+              "B": "Empty mug",
+              "C": "Both are equal",
+              "D": "It depends on the mug"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "title": "Carts and Wheels",
+        "questions": [
+          {
+            "question": "What is the function of wheels?",
+            "options": {
+              "A": "Make carts move",
+              "B": "Support weight",
+              "C": "Store items",
+              "D": "Help with balance"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a cart has 4 wheels and loses 1, how many wheels are left?",
+            "options": {
+              "A": "2",
+              "B": "3",
+              "C": "4",
+              "D": "5"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do we commonly use carts for?",
+            "options": {
+              "A": "Transportation of goods",
+              "B": "Decoration",
+              "C": "Furniture",
+              "D": "Built-in storage"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If each wheel of a cart costs ₹100, how much do 4 wheels cost?",
+            "options": {
+              "A": "₹400",
+              "B": "₹300",
+              "C": "₹200",
+              "D": "₹500"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the main benefit of using wheels?",
+            "options": {
+              "A": "They are colorful",
+              "B": "They incorporate technology",
+              "C": "They reduce friction",
+              "D": "They are large"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "title": "Halves and Quarters",
+        "questions": [
+          {
+            "question": "What is a half?",
+            "options": {
+              "A": "One-fourth",
+              "B": "One-half",
+              "C": "One-eighth",
+              "D": "One-third"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How many quarters are in a whole?",
+            "options": {
+              "A": "1",
+              "B": "2",
+              "C": "3",
+              "D": "4"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "If you eat half of a pizza with 8 slices, how many slices are left?",
+            "options": {
+              "A": "2",
+              "B": "4",
+              "C": "6",
+              "D": "8"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is 1/4 of 100?",
+            "options": {
+              "A": "10",
+              "B": "20",
+              "C": "25",
+              "D": "30"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "If 2 out of 8 apples are rotten, what fraction of apples are good?",
+            "options": {
+              "A": "1/4",
+              "B": "3/4",
+              "C": "2/4",
+              "D": "1/2"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "title": "Play With Patterns",
+        "questions": [
+          {
+            "question": "What is a pattern?",
+            "options": {
+              "A": "A sequence that repeats",
+              "B": "A random arrangement",
+              "C": "An isolated event",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If the pattern is 2, 4, 6, ___, what is the next number?",
+            "options": {
+              "A": "7",
+              "B": "8",
+              "C": "9",
+              "D": "10"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What are patterns used for?",
+            "options": {
+              "A": "To confuse",
+              "B": "To identify sequences",
+              "C": "To complicate things",
+              "D": "To hide information"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In the pattern A, B, A, B, what comes next?",
+            "options": {
+              "A": "A",
+              "B": "B",
+              "C": "C",
+              "D": "D"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a pattern of shapes is a circle, square, circle, square, what is the fifth shape?",
+            "options": {
+              "A": "Square",
+              "B": "Circle",
+              "C": "Triangle",
+              "D": "Rectangle"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 11,
+        "title": "Tables and Shares",
+        "questions": [
+          {
+            "question": "What does a table show?",
+            "options": {
+              "A": "Numerical data",
+              "B": "Pictures",
+              "C": "Text only",
+              "D": "Ideas"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If 12 people share 48 oranges equally, how many oranges does each person get?",
+            "options": {
+              "A": "3",
+              "B": "4",
+              "C": "5",
+              "D": "6"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is sharing in mathematics?",
+            "options": {
+              "A": "Dividing",
+              "B": "Multiplying",
+              "C": "Adding",
+              "D": "Subtracting"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a table displays data for 5 days, how many entries does it have for each day if 5 entries are made each day?",
+            "options": {
+              "A": "25",
+              "B": "30",
+              "C": "20",
+              "D": "15"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If each entry in a table equals 2 hours of work, how many hours are represented by 6 entries?",
+            "options": {
+              "A": "10 hours",
+              "B": "12 hours",
+              "C": "8 hours",
+              "D": "6 hours"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 12,
+        "title": "How Heavy? How Light?",
+        "questions": [
+          {
+            "question": "What instrument do we use to measure weight?",
+            "options": {
+              "A": "Yardstick",
+              "B": "Scale",
+              "C": "Compass",
+              "D": "Ruler"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If an apple weighs 200 grams, how much do 5 apples weigh?",
+            "options": {
+              "A": "800 grams",
+              "B": "900 grams",
+              "C": "1 kg",
+              "D": "1.5 kg"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is heavier: a kilogram of feathers or a kilogram of bricks?",
+            "options": {
+              "A": "Feathers",
+              "B": "Bricks",
+              "C": "Both are equal",
+              "D": "Neither weighs anything"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "If a box weighs 3 kg and you add 2 kg more, how much does it weigh now?",
+            "options": {
+              "A": "4 kg",
+              "B": "5 kg",
+              "C": "6 kg",
+              "D": "7 kg"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "If you carry 10 kg of weight for 2 hours, how many kilograms will you have carried in total?",
+            "options": {
+              "A": "20 kg",
+              "B": "15 kg",
+              "C": "30 kg",
+              "D": "25 kg"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "title": "Fields and Fences",
+        "questions": [
+          {
+            "question": "What do fences protect?",
+            "options": {
+              "A": "Crops",
+              "B": "Cars",
+              "C": "Animals",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "If a field measures 100 m by 50 m, what is its area?",
+            "options": {
+              "A": "5000 m²",
+              "B": "2500 m²",
+              "C": "1000 m²",
+              "D": "7500 m²"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many feet are in a fence that is 10 m long?",
+            "options": {
+              "A": "30",
+              "B": "20",
+              "C": "25",
+              "D": "35"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "If you plant 5 rows of crops with 10 plants in each row, how many plants do you have in total?",
+            "options": {
+              "A": "50",
+              "B": "60",
+              "C": "40",
+              "D": "30"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If you need 3 meters of fencing for each side of a square field, how much do you need in total?",
+            "options": {
+              "A": "6 meters",
+              "B": "9 meters",
+              "C": "12 meters",
+              "D": "15 meters"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "title": "Smart Charts",
+        "questions": [
+          {
+            "question": "What do charts help us do?",
+            "options": {
+              "A": "Analyze data",
+              "B": "Store data",
+              "C": "Ignore data",
+              "D": "None of the above"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "If a chart shows that 30% of students like maths, what fraction do they represent?",
+            "options": {
+              "A": "1/3",
+              "B": "1/4",
+              "C": "1/5",
+              "D": "2/3"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What type of chart is commonly used to show proportions?",
+            "options": {
+              "A": "Line chart",
+              "B": "Bar chart",
+              "C": "Pie chart",
+              "D": "Table"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "If 25 students are surveyed and 10 like science, what percentage like science?",
+            "options": {
+              "A": "20%",
+              "B": "30%",
+              "C": "40%",
+              "D": "50%"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "How many segments does a pie chart have if there are 5 categories?",
+            "options": {
+              "A": "3",
+              "B": "4",
+              "C": "5",
+              "D": "6"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,567 @@
+{
+    "class": "Class 7",
+    "subject": "English",
+    "book": "Honeycomb",
+    "quiz_questions": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Three Questions",
+        "quiz_questions": [
+          {
+            "quiz_question": "What are the three questions the king wants to answer?",
+            "options": {
+              "1": "What is the most important time?",
+              "2": "Who is the most important person?",
+              "3": "What is the most important task?",
+              "4": "All of the above"
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "Who helps the king find the answers?",
+            "options": {
+              "1": "A hermit",
+              "2": "A scholar",
+              "3": "His advisor",
+              "4": "His friend"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Why does the king want to know the answers?",
+            "options": {
+              "1": "To rule better.",
+              "2": "To feel more confident.",
+              "3": "To be popular.",
+              "4": "To gain wealth."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What does the king realize at the end?",
+            "options": {
+              "1": "The importance of independence.",
+              "2": "The importance of the present.",
+              "3": "The value of wealth.",
+              "4": "The need for power."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "How does the story end?",
+            "options": {
+              "1": "With a celebration.",
+              "2": "With the king's resignation.",
+              "3": "With the king finding peace.",
+              "4": "With a battle."
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "A Gift of Chappals & The Rebel",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is the father's lesson in 'A Gift of Chappals'?",
+            "options": {
+              "1": "The importance of generosity.",
+              "2": "The value of material things.",
+              "3": "The significance of hard work.",
+              "4": "The necessity of education."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Who is the main character in 'The Rebel'?",
+            "options": {
+              "1": "A teacher",
+              "2": "A student",
+              "3": "A politician",
+              "4": "A parent"
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Why does the protagonist rebel?",
+            "options": {
+              "1": "To gain freedom.",
+              "2": "To be accepted.",
+              "3": "To challenge authority.",
+              "4": "To teach a lesson."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What does the gift symbolize in 'A Gift of Chappals'?",
+            "options": {
+              "1": "Love and care",
+              "2": "Wealth",
+              "3": "Selfishness",
+              "4": "Power"
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "How does society view the rebel?",
+            "options": {
+              "1": "With respect.",
+              "2": "With confusion.",
+              "3": "With disdain.",
+              "4": "With admiration."
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Gopal and the Hilsa Fish",
+        "quiz_questions": [
+          {
+            "quiz_question": "What does Gopal want to buy?",
+            "options": {
+              "1": "A new boat.",
+              "2": "A Hilsa fish.",
+              "3": "A horse.",
+              "4": "A house."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What trick does Gopal play on the guards?",
+            "options": {
+              "1": "He dresses as a fisherman.",
+              "2": "He pretends to be a sailor.",
+              "3": "He dresses as a woman.",
+              "4": "He uses a deception."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What does Gopal prove by catching the fish?",
+            "options": {
+              "1": "He is clever.",
+              "2": "He is a good cook.",
+              "3": "He is strong.",
+              "4": "He is brave."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "Why do the townspeople gather around Gopal?",
+            "options": {
+              "1": "They are curious.",
+              "2": "They want to help.",
+              "3": "They want to watch the show.",
+              "4": "They want the fish."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is the moral of the story?",
+            "options": {
+              "1": "Honesty is the best policy.",
+              "2": "Quick thinking can win.",
+              "3": "Patience is a virtue.",
+              "4": "Loyalty to friends matters."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "The Ashes That Made Trees Bloom",
+        "quiz_questions": [
+          {
+            "quiz_question": "What does the story emphasize?",
+            "options": {
+              "1": "Destruction.",
+              "2": "Restoration.",
+              "3": "Indifference.",
+              "4": "Disaster."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Where are the ashes spread?",
+            "options": {
+              "1": "In the sea.",
+              "2": "In the forest.",
+              "3": "In the garden.",
+              "4": "On the mountains."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What happens to the trees in the garden?",
+            "options": {
+              "1": "They die.",
+              "2": "They bloom.",
+              "3": "They wither.",
+              "4": "They become fruitless."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What does the gardener represent?",
+            "options": {
+              "1": "Patience.",
+              "2": "Hope.",
+              "3": "Greed.",
+              "4": "Detachment."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the overall message?",
+            "options": {
+              "1": "Life finds a way.",
+              "2": "Nature must be preserved.",
+              "3": "Beauty is temporary.",
+              "4": "Effort leads to success."
+            },
+            "correct_answer": "1"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Quality",
+        "quiz_questions": [
+          {
+            "quiz_question": "What does the main character emphasize?",
+            "options": {
+              "1": "Quality over quantity.",
+              "2": "Speed of service.",
+              "3": "Cost efficiency.",
+              "4": "Trendy products."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What trade does the main character have?",
+            "options": {
+              "1": "Carpenter.",
+              "2": "Tailor.",
+              "3": "Baker.",
+              "4": "Blacksmith."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What is the protagonist's philosophy?",
+            "options": {
+              "1": "Earn more money.",
+              "2": "Provide the best service.",
+              "3": "Save time.",
+              "4": "Outsource work."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "How does the protagonist view others' work?",
+            "options": {
+              "1": "With disdain.",
+              "2": "With indifference.",
+              "3": "With respect.",
+              "4": "With envy."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What is the major theme of the story?",
+            "options": {
+              "1": "Competition.",
+              "2": "Ethics.",
+              "3": "Integrity.",
+              "4": "Hard work."
+            },
+            "correct_answer": "3"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Expert Detectives",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is the main purpose of the children’s investigation?",
+            "options": {
+              "1": "To find a lost dog.",
+              "2": "To solve a mystery.",
+              "3": "To impress their parents.",
+              "4": "To learn about detective work."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "Who are the main characters in the story?",
+            "options": {
+              "1": "Siblings.",
+              "2": "Friends.",
+              "3": "Neighbors.",
+              "4": "Classmates."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What skills do the children use in their investigation?",
+            "options": {
+              "1": "Physical strength.",
+              "2": "Creative thinking and observation.",
+              "3": "Bribery.",
+              "4": "Technology."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What challenges do they face?",
+            "options": {
+              "1": "Lack of time.",
+              "2": "Adults not believing them.",
+              "3": "Fear of danger.",
+              "4": "Low resources."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What resolves the mystery?",
+            "options": {
+              "1": "A confession.",
+              "2": "Finding evidence.",
+              "3": "A witness.",
+              "4": "Circumstantial evidence."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "The Invention of Vita-wonk",
+        "quiz_questions": [
+          {
+            "quiz_question": "What is Vita-wonk?",
+            "options": {
+              "1": "A health supplement.",
+              "2": "A time machine.",
+              "3": "A magical drink.",
+              "4": "A longevity potion."
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "Who invents Vita-wonk?",
+            "options": {
+              "1": "A scientist.",
+              "2": "A layman.",
+              "3": "An inventor.",
+              "4": "A scholar."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What ethical dilemma does Vita-wonk present?",
+            "options": {
+              "1": "Time travel for personal gain.",
+              "2": "Ignoring health advice.",
+              "3": "Creating dependency.",
+              "4": "Manipulating nature."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What does the invention imply about aging?",
+            "options": {
+              "1": "It is inevitable.",
+              "2": "It can be prevented.",
+              "3": "It is a choice.",
+              "4": "It should be embraced."
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "What consequence does the protagonist face?",
+            "options": {
+              "1": "Becoming famous.",
+              "2": "Facing challenges.",
+              "3": "Regret over his actions.",
+              "4": "Winning an award."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Fire: Friend and Foe",
+        "quiz_questions": [
+          {
+            "quiz_question": "How is fire depicted in the story?",
+            "options": {
+              "1": "As purely destructive.",
+              "2": "As useful yet dangerous.",
+              "3": "As neutral.",
+              "4": "As a source of warmth."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What positive aspect of fire is mentioned?",
+            "options": {
+              "1": "Cooking food.",
+              "2": "Causing harm.",
+              "3": "Setting boundaries.",
+              "4": "Creating waste."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What is a major risk associated with fire?",
+            "options": {
+              "1": "It can be controlled.",
+              "2": "It can cause wildfires.",
+              "3": "It is beneficial.",
+              "4": "It is predictable."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What role does fire play in human civilization?",
+            "options": {
+              "1": "It symbolizes fear.",
+              "2": "It is a tool for survival.",
+              "3": "It creates pollution.",
+              "4": "It divides communities."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What should be prioritized to handle fire responsibly?",
+            "options": {
+              "1": "Use of more fire.",
+              "2": "Education about fire safety.",
+              "3": "Avoidance of fire.",
+              "4": "Expansion of fire activities."
+            },
+            "correct_answer": "2"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "A Bicycle in Good Repair",
+        "quiz_questions": [
+          {
+            "quiz_question": "What does the bicycle symbolize?",
+            "options": {
+              "1": "Freedom.",
+              "2": "Routine maintenance.",
+              "3": "Labor.",
+              "4": "Adventure."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What happens to the bicycle in the story?",
+            "options": {
+              "1": "It is lost.",
+              "2": "It is repaired.",
+              "3": "It is upgraded.",
+              "4": "It is gifted."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "How does the protagonist feel about fixing the bicycle?",
+            "options": {
+              "1": "Frustrated.",
+              "2": "Indifferent.",
+              "3": "Happy.",
+              "4": "Bored."
+            },
+            "correct_answer": "3"
+          },
+          {
+            "quiz_question": "What does the story convey about maintenance?",
+            "options": {
+              "1": "It is important.",
+              "2": "It can be skipped.",
+              "3": "It is costly.",
+              "4": "It is unnecessary."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What lesson does the protagonist learn?",
+            "options": {
+              "1": "To avoid chores.",
+              "2": "To appreciate tools.",
+              "3": "To respect others' belongings.",
+              "4": "To care for his possessions."
+            },
+            "correct_answer": "4"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "The Story of Cricket",
+        "quiz_questions": [
+          {
+            "quiz_question": "How does cricket reflect national identity?",
+            "options": {
+              "1": "Promotes independence.",
+              "2": "Unifies people.",
+              "3": "Divides communities.",
+              "4": "Ignores culture."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What issue does cricket face?",
+            "options": {
+              "1": "Corruption.",
+              "2": "Popularity decline.",
+              "3": "Less funding.",
+              "4": "Global overshadowing."
+            },
+            "correct_answer": "1"
+          },
+          {
+            "quiz_question": "What does cricket symbolize?",
+            "options": {
+              "1": "Destruction.",
+              "2": "Unity.",
+              "3": "Conflict.",
+              "4": "Isolation."
+            },
+            "correct_answer": "2"
+          },
+          {
+            "quiz_question": "What makes cricket unique?",
+            "options": {
+              "1": "Its history.",
+              "2": "Its groups.",
+              "3": "Its players.",
+              "4": "Its complexity."
+            },
+            "correct_answer": "4"
+          },
+          {
+            "quiz_question": "What is a key takeaway from the story?",
+            "options": {
+              "1": "Sport is vital.",
+              "2": "Competition is personal.",
+              "3": "Winning is everything.",
+              "4": "Tradition should be upheld."
+            },
+            "correct_answer": "1"
+          }
+        ]
+      }
+    ]
+  }

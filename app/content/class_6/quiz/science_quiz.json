@@ -1,0 +1,792 @@
+{
+    "class": 6,
+    "subject": "Science",
+    "source": "Magnet Brains YouTube Playlist",
+    "total_chapters": 14,
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Components of Food",
+        "questions": [
+          {
+            "question": "What are the main components of food?",
+            "options": {
+              "A": "Proteins, Carbohydrates, Fats",
+              "B": "Salt, Sugar, Water",
+              "C": "Vitamins, Minerals, Fiber",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is the primary function of carbohydrates?",
+            "options": {
+              "A": "Growth",
+              "B": "Energy",
+              "C": "Repair",
+              "D": "Digestion"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which nutrient is essential for body repair?",
+            "options": {
+              "A": "Carbohydrates",
+              "B": "Fats",
+              "C": "Proteins",
+              "D": "Vitamins"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is a balanced diet?",
+            "options": {
+              "A": "Only vegetables",
+              "B": "Mix of various food items",
+              "C": "Only fruits",
+              "D": "No food items"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What can result from a deficiency in vitamins?",
+            "options": {
+              "A": "Obesity",
+              "B": "Ailments",
+              "C": "Increased energy",
+              "D": "None"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Sorting Materials Into Groups",
+        "questions": [
+          {
+            "question": "What is classification?",
+            "options": {
+              "A": "Arranging materials randomly",
+              "B": "Grouping materials based on similar characteristics",
+              "C": "Throwing away materials",
+              "D": "Collecting all materials"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a reason for sorting materials?",
+            "options": {
+              "A": "For proper management and study",
+              "B": "To make a mess",
+              "C": "To confuse others",
+              "D": "None"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which category would glass belong to?",
+            "options": {
+              "A": "Metal",
+              "B": "Plastic",
+              "C": "Non-metal",
+              "D": "Organic"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Why is it important to sort materials?",
+            "options": {
+              "A": "To waste time",
+              "B": "For better recycling and utilization",
+              "C": "Just for fun",
+              "D": "To avoid accidents"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is NOT a method of classification?",
+            "options": {
+              "A": "By state",
+              "B": "By color",
+              "C": "By size",
+              "D": "By taste"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Separation of Substance",
+        "questions": [
+          {
+            "question": "What does separation of substances refer to?",
+            "options": {
+              "A": "Combining different materials",
+              "B": "Keeping substances together",
+              "C": "Removing one or more components from a mixture",
+              "D": "Throwing away everything"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which method is used to separate a mixture of sand and salt?",
+            "options": {
+              "A": "Evaporation",
+              "B": "Filtration",
+              "C": "Magnetism",
+              "D": "Sedimentation"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is decantation?",
+            "options": {
+              "A": "Pouring off a liquid and leaving the solid behind",
+              "B": "Mixing two substances",
+              "C": "Heating mixtures",
+              "D": "Filtering"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following does NOT involve separation?",
+            "options": {
+              "A": "Sieving",
+              "B": "Dissolving",
+              "C": "Filtration",
+              "D": "Sifting"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What separation technique is used for separating oil and water?",
+            "options": {
+              "A": "Sedimentation",
+              "B": "Filtration",
+              "C": "Using a separating funnel",
+              "D": "Evaporation"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Getting to Know Plants",
+        "questions": [
+          {
+            "question": "Which part of the plant is primarily responsible for photosynthesis?",
+            "options": {
+              "A": "Roots",
+              "B": "Stem",
+              "C": "Leaves",
+              "D": "Flowers"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What type of plant is a cactus?",
+            "options": {
+              "A": "Herb",
+              "B": "Shrub",
+              "C": "Tree",
+              "D": "Succulent"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What do we call plants that grow in water?",
+            "options": {
+              "A": "Aquatic plants",
+              "B": "Desert plants",
+              "C": "Terrestrial plants",
+              "D": "None"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is NOT a type of root?",
+            "options": {
+              "A": "Tap root",
+              "B": "Fibrous root",
+              "C": "Adventitious root",
+              "D": "Supportive root"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Which part of the plant attracts pollinators?",
+            "options": {
+              "A": "Roots",
+              "B": "Leaves",
+              "C": "Stem",
+              "D": "Flowers"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Body Movements",
+        "questions": [
+          {
+            "question": "What are the main functions of bones?",
+            "options": {
+              "A": "Support and protection",
+              "B": "Only support",
+              "C": "Only protection",
+              "D": "Helps in digestion"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What type of joint allows for circular movement?",
+            "options": {
+              "A": "Hinge joint",
+              "B": "Ball and socket joint",
+              "C": "Pivot joint",
+              "D": "Fixed joint"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is an example of a hinge joint?",
+            "options": {
+              "A": "Shoulder",
+              "B": "Elbow",
+              "C": "Hip",
+              "D": "Neck"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What helps us to move our joints?",
+            "options": {
+              "A": "Muscles",
+              "B": "Tendons",
+              "C": "Ligaments",
+              "D": "Both A and B"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What type of movement occurs when walking?",
+            "options": {
+              "A": "Linear",
+              "B": "Rotational",
+              "C": "Translational",
+              "D": "Circular"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "The Living Organisms Characteristics & Habitats",
+        "questions": [
+          {
+            "question": "What is a habitat?",
+            "options": {
+              "A": "A type of plant",
+              "B": "An environment where an organism lives",
+              "C": "A food source",
+              "D": "A kind of soil"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do you call organisms that can live in extreme conditions?",
+            "options": {
+              "A": "Endangered species",
+              "B": "Adaptations",
+              "C": "Extremophiles",
+              "D": "Common organisms"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of the following is a terrestrial habitat?",
+            "options": {
+              "A": "Forest",
+              "B": "Ocean",
+              "C": "Lake",
+              "D": "River"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Adaptation refers to:",
+            "options": {
+              "A": "Change to survive in an environment",
+              "B": "Eating habits",
+              "C": "Reproduction methods",
+              "D": "Growth rate"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which organism is found in aquatic habitats?",
+            "options": {
+              "A": "Frog",
+              "B": "Tiger",
+              "C": "Monkey",
+              "D": "Camel"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Motion and Measurement of Distances",
+        "questions": [
+          {
+            "question": "What is motion?",
+            "options": {
+              "A": "Changing place or position",
+              "B": "Staying still",
+              "C": "Being heavy",
+              "D": "Non-movement"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which unit is used to measure distance?",
+            "options": {
+              "A": "Kilogram",
+              "B": "Meter",
+              "C": "Liter",
+              "D": "Gram"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What type of motion does a spinning top demonstrate?",
+            "options": {
+              "A": "Linear motion",
+              "B": "Rotational motion",
+              "C": "Translational motion",
+              "D": "Random motion"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which tool is commonly used to measure distances?",
+            "options": {
+              "A": "Ruler",
+              "B": "Thermometer",
+              "C": "Barometer",
+              "D": "Compass"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the formula for speed?",
+            "options": {
+              "A": "Distance x Time",
+              "B": "Distance / Time",
+              "C": "Time / Distance",
+              "D": "Time x Distance"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Lights, Shadows and Reflections",
+        "questions": [
+          {
+            "question": "What is light?",
+            "options": {
+              "A": "A form of energy",
+              "B": "A substance",
+              "C": "A color",
+              "D": "A type of wave"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What helps to form shadows?",
+            "options": {
+              "A": "Light",
+              "B": "Water",
+              "C": "Air",
+              "D": "Darkness"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is necessary for reflection to occur?",
+            "options": {
+              "A": "A barrier",
+              "B": "A mirror",
+              "C": "Light",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What type of image is formed in a pinhole camera?",
+            "options": {
+              "A": "Real and inverted image",
+              "B": "Virtual image",
+              "C": "1:1 image",
+              "D": "Colored image"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Where do we see reflections?",
+            "options": {
+              "A": "In mirrors",
+              "B": "In windows",
+              "C": "In still water",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Electricity and Circuits",
+        "questions": [
+          {
+            "question": "What is an electric circuit?",
+            "options": {
+              "A": "A path for electric current",
+              "B": "A path for water",
+              "C": "A pathway for sound",
+              "D": "A manufacturing process"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What are conductors?",
+            "options": {
+              "A": "Materials that allow electricity to flow",
+              "B": "Materials that do not allow electricity",
+              "C": "Heavy materials",
+              "D": "Insulations"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which of the following is a good conductor of electricity?",
+            "options": {
+              "A": "Rubber",
+              "B": "Wood",
+              "C": "Copper",
+              "D": "Glass"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What does a battery do?",
+            "options": {
+              "A": "Stores electrical energy",
+              "B": "Provides heat",
+              "C": "Cools the system",
+              "D": "Secures energy"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Why should we not touch electrical wires with wet hands?",
+            "options": {
+              "A": "We will get electrocuted",
+              "B": "The wire will get damaged",
+              "C": "We will get dirty",
+              "D": "None"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Fun With Magnets",
+        "questions": [
+          {
+            "question": "What do magnets attract?",
+            "options": {
+              "A": "All materials",
+              "B": "Only iron and its alloys",
+              "C": "Gold and silver",
+              "D": "Plastic and rubber"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What are the two types of magnetic poles?",
+            "options": {
+              "A": "North and South",
+              "B": "East and West",
+              "C": "Positive and Negative",
+              "D": "Inward and Outward"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What happens when like poles of two magnets are brought together?",
+            "options": {
+              "A": "They attract each other",
+              "B": "They repel each other",
+              "C": "They combine",
+              "D": "Nothing happens"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is a common use of magnets?",
+            "options": {
+              "A": "Holding papers",
+              "B": "In fridges",
+              "C": "In speakers",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Which of the following is NOT a magnetic material?",
+            "options": {
+              "A": "Iron",
+              "B": "Nickel",
+              "C": "Cobalt",
+              "D": "Wood"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Air Around us",
+        "questions": [
+          {
+            "question": "What is air made of?",
+            "options": {
+              "A": "Only oxygen",
+              "B": "Only nitrogen",
+              "C": "A mixture of gases",
+              "D": "None"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which gas is essential for humans to breathe?",
+            "options": {
+              "A": "Nitrogen",
+              "B": "Carbon Dioxide",
+              "C": "Oxygen",
+              "D": "Hydrogen"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What happens to air when it is heated?",
+            "options": {
+              "A": "It contracts",
+              "B": "It expands",
+              "C": "It becomes cold",
+              "D": "It turns into water"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is NOT a property of air?",
+            "options": {
+              "A": "It occupies space",
+              "B": "It has weight",
+              "C": "It is colorless",
+              "D": "It is visible"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "How do we prove that air is present around us?",
+            "options": {
+              "A": "By using a balloon",
+              "B": "By using a fan",
+              "C": "By blowing candles",
+              "D": "By making sound"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "Garbage In, Garbage Out",
+        "questions": [
+          {
+            "question": "What does garbage refer to?",
+            "options": {
+              "A": "Food waste",
+              "B": "Unwanted materials",
+              "C": "Hazardous materials",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is the impact of littering?",
+            "options": {
+              "A": "Improves aesthetics",
+              "B": "Pollutes the environment",
+              "C": "Grows flora",
+              "D": "None"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following is a method of waste disposal?",
+            "options": {
+              "A": "Burning",
+              "B": "Burying",
+              "C": "Recycling",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What is composting?",
+            "options": {
+              "A": "Burning waste",
+              "B": "Converting organic waste into fertilizer",
+              "C": "Throwing away waste",
+              "D": "None"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which is the best way to manage waste?",
+            "options": {
+              "A": "Litter everywhere",
+              "B": "Reduce, Reuse, Recycle",
+              "C": "Throw it in the ocean",
+              "D": "Burn all waste"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "Food: Where Does It Come From?",
+        "questions": [
+          {
+            "question": "What is the main source of food?",
+            "options": {
+              "A": "Plants",
+              "B": "Animals",
+              "C": "Both",
+              "D": "None"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of the following is a plant product?",
+            "options": {
+              "A": "Milk",
+              "B": "Wheat",
+              "C": "Chicken",
+              "D": "Fish"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do we get from animals?",
+            "options": {
+              "A": "Fruits",
+              "B": "Carbohydrates",
+              "C": "Meat and dairy",
+              "D": "Vegetables"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Where do we get honey from?",
+            "options": {
+              "A": "Bees",
+              "B": "Trees",
+              "C": "Plants",
+              "D": "Flowers"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which process do plants use to make their food?",
+            "options": {
+              "A": "Digestion",
+              "B": "Photosynthesis",
+              "C": "Respiration",
+              "D": "Reproduction"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "Water",
+        "questions": [
+          {
+            "question": "What is the essential function of water?",
+            "options": {
+              "A": "Cools the environment",
+              "B": "Supports life",
+              "C": "Precipitation",
+              "D": "None"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which cycle describes the movement of water?",
+            "options": {
+              "A": "Food cycle",
+              "B": "Water cycle",
+              "C": "Nitrogen cycle",
+              "D": "Carbon cycle"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the main source of fresh water?",
+            "options": {
+              "A": "Lakes",
+              "B": "Oceans",
+              "C": "Rivers",
+              "D": "Rain"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Why is it important to conserve water?",
+            "options": {
+              "A": "No reason",
+              "B": "Scarcity of water",
+              "C": "It is harmful",
+              "D": "Wasting resources"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do we call the process of water changing from liquid to vapor?",
+            "options": {
+              "A": "Condensation",
+              "B": "Sublimation",
+              "C": "Evaporation",
+              "D": "Precipitation"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      }
+    ]
+  }

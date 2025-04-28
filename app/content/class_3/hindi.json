@@ -1,0 +1,191 @@
+{
+  "class": 3,
+  "subject": "Hindi",
+  "book": "Rimjhim 3",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Kakku - कक्कू",
+      "content": "This chapter is about Kakku, a bird with unique traits. It introduces children to the world of nature through fun and creative storytelling.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=cKgjmv2oaRg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=2"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Shekhibaaz Makkhi - शेखीबाज़ मक्खी",
+      "content": "A story of a boastful fly who learns a valuable lesson. It helps children understand the consequences of boasting.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=16no4oiDDzI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=3"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Chand Wali Amma - चाँद वाली अम्मा",
+      "content": "A touching tale of the moon's influence on a mother and child. This chapter emphasizes the beauty of relationships and the magical elements of nature.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=m6caNoRnW54&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=4"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "Man Karta Hai - मन करता है",
+      "content": "A story that captures a child's desire to do things and explore the world around them. It connects with young minds who are full of curiosity.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=iBsuhWWqBA4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=5"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Bahadur Bitto - बहादुर बित्तो",
+      "content": "This chapter tells the story of a brave little boy, Bitto, who faces challenges with courage and determination.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=k9vWG0optHw&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=6"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "Moos Ki Majduri - मूस की मजदूरी",
+      "content": "This chapter narrates the story of a mouse who does hard work for a living, teaching children the value of hard work.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=QjhcEM608eg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=7"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "Humse Sab Kehte - हमसे सब कहते",
+      "content": "A story that portrays the wisdom and advice elders give to children, encouraging them to learn from life experiences.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=JTJpKYQrYvU&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=8"
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Tiptipva - टिपटिपवा",
+      "content": "This chapter tells a whimsical story about a small creature, teaching children how even the tiniest things can make a big difference.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=5S-Ol2UgdXY&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=9"
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "Bandar Baant - बन्दर बाँट (Part 1)",
+      "content": "This part introduces a funny story about monkeys dividing fruits among themselves, illustrating the importance of fairness.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=m2boMa51EnI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=10"
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "Bandar Baant - बन्दर बाँट (Part 2)",
+      "content": "The continuation of the Bandar Baant story, where the monkeys learn a lesson about sharing and kindness.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=wK5w8WCBCo8&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=11"
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "Kab Aaun - कब आऊँ (Part 1)",
+      "content": "This chapter narrates a child's longing to meet someone, teaching children the emotions tied to waiting and longing.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=pG8gtSCDouA&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=12"
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "Kab Aaun - कब आऊँ (Part 2)",
+      "content": "The second part of the story, where the child waits for a loved one to return, emphasizing patience and love.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=l50QCDf1pjI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=13"
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "title": "Kyonjimal Aur Kaise Kaisliya - क्योंजीमल और कैसे कैसलिया",
+      "content": "A playful story about a character named Kyonjimal, who learns through a series of funny and relatable situations.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=5zdVU3ndz90&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=14"
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "Meera Behan Aur Bagh - मीरा बहन और बाघ (Part 1)",
+      "content": "The first part of this chapter introduces a courageous girl named Meera who faces challenges with bravery.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=AvCt39aWuFw&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=16"
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "Meera Behan Aur Bagh - मीरा बहन और बाघ (Part 2)",
+      "content": "The conclusion of Meera’s brave encounter with the tiger, teaching children about courage and determination.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=0Q74EA6ztFc&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=17"
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "title": "Kahani Ki Kahani - कहानी की कहानी",
+      "content": "This is a story about a story itself, making children realize the importance of stories and imagination in everyday life.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=nTjLNAr2upE&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=18"
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "title": "Jab Mujhe Sanp Ne Kata - जब मुझे साँप ने काटा",
+      "content": "A story about a boy who gets bitten by a snake, and his adventure of healing and understanding nature.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=RIMt3KAJ_7Y&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=19"
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "title": "Baccho Ka Patra - बच्चों का पत्र",
+      "content": "This chapter is about the letters children write to others, reflecting their thoughts, desires, and innocence.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=kPs1S2RszxQ&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=20"
+      ]
+    },
+    {
+      "chapter_number": 16,
+      "title": "Mirch Ka Maza - मिर्च का मज़ा",
+      "content": "A humorous chapter about the taste of chili, using the context of a child’s experience with something spicy.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=beNcEjOp6DI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=21"
+      ]
+    },
+    {
+      "chapter_number": 17,
+      "title": "Sabse Accha Ped - सबसे अच्छा पेड़ (Part 1)",
+      "content": "A story about a tree and its significance, emphasizing how nature provides for everyone.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=DxZsXogTRLk&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=22"
+      ]
+    },
+    {
+      "chapter_number": 17,
+      "title": "Sabse Accha Ped - सबसे अच्छा पेड़ (Part 2)",
+      "content": "The continuation of the tree’s story, teaching children the importance of preserving nature.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=2ueX3aZcU2Q&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=23"
+      ]
+    },
+    {
+      "chapter_number": 18,
+      "title": "Pattiyon Ka Chidiyaghar - पत्तियों का चिड़ियाघर",
+      "content": "A fun story about the different creatures that live on tree leaves, helping children understand the importance of nature’s diversity.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=pDJaUcpsRs4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=24"
+      ]
+    },
+    {
+      "chapter_number": 19,
+      "title": "Nana Nani Ke Naam - नाना नानी के नाम",
+      "content": "A nostalgic story about grandparents, showing their importance in a child’s life.",
+      "video_links": [
+        "https://www.youtube.com/watch?v=IYFJ4tfq8jk&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=25"
+      ]
+    }
+  ]
+}

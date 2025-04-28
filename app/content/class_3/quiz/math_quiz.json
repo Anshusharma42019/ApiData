@@ -1,0 +1,441 @@
+{
+    "class": "3",
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter": "What's in a Name?",
+        "questions": [
+          {
+            "question": "What is the value of a number when it is expressed in expanded form?",
+            "options": ["A. Sum of digits", "B. Product of digits", "C. Sum of place values", "D. Place value of each digit"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of the following is the expanded form of 452?",
+            "options": ["A. 400 + 50 + 2", "B. 400 + 45 + 2", "C. 400 + 5 + 2", "D. 4 + 5 + 2"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How do you write the number 729 in expanded form?",
+            "options": ["A. 700 + 20 + 9", "B. 70 + 2 + 9", "C. 700 + 7 + 9", "D. 70 + 7 + 9"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the place value of 6 in the number 563?",
+            "options": ["A. 6", "B. 60", "C. 600", "D. 6 hundred"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which number is expressed as 400 + 30 + 6?",
+            "options": ["A. 403", "B. 436", "C. 406", "D. 436"],
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter": "Toy Joy",
+        "questions": [
+          {
+            "question": "Which of these is the smallest number?",
+            "options": ["A. 12", "B. 5", "C. 18", "D. 9"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a toy costs 50 rupees, how many toys can you buy with 200 rupees?",
+            "options": ["A. 4", "B. 3", "C. 5", "D. 2"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the next number after 29?",
+            "options": ["A. 31", "B. 30", "C. 32", "D. 28"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "How many tens are there in the number 90?",
+            "options": ["A. 9", "B. 10", "C. 5", "D. 11"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is 5 + 7?",
+            "options": ["A. 13", "B. 12", "C. 11", "D. 10"],
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter": "Double Century",
+        "questions": [
+          {
+            "question": "What is the sum of 200 and 100?",
+            "options": ["A. 100", "B. 300", "C. 400", "D. 500"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "How do you express 220 as 2 hundreds and 20?",
+            "options": ["A. 200 + 20", "B. 20 + 200", "C. 22 + 200", "D. 220"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the value of 3 hundreds + 5 tens?",
+            "options": ["A. 350", "B. 400", "C. 250", "D. 300"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "If you add 50 to 150, what is the result?",
+            "options": ["A. 150", "B. 200", "C. 250", "D. 300"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What number is 100 more than 300?",
+            "options": ["A. 400", "B. 500", "C. 350", "D. 600"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter": "Vacation with My Nani Ma",
+        "questions": [
+          {
+            "question": "How many days are there in a week?",
+            "options": ["A. 7", "B. 8", "C. 6", "D. 5"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many weeks are there in a year?",
+            "options": ["A. 52", "B. 50", "C. 12", "D. 48"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the time difference between morning and noon?",
+            "options": ["A. 12 hours", "B. 6 hours", "C. 3 hours", "D. 24 hours"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "If you sleep for 8 hours, how many hours remain in a day?",
+            "options": ["A. 16", "B. 18", "C. 20", "D. 24"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the difference between 2:00 PM and 6:00 PM?",
+            "options": ["A. 4 hours", "B. 5 hours", "C. 3 hours", "D. 6 hours"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter": "Fun with Shape",
+        "questions": [
+          {
+            "question": "Which of these shapes has 4 equal sides?",
+            "options": ["A. Circle", "B. Square", "C. Triangle", "D. Rectangle"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of these shapes is a polygon?",
+            "options": ["A. Circle", "B. Square", "C. Ellipse", "D. Cone"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What do you call a shape with 3 sides?",
+            "options": ["A. Triangle", "B. Square", "C. Circle", "D. Rectangle"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the name of a 4-sided shape with unequal sides?",
+            "options": ["A. Square", "B. Rhombus", "C. Parallelogram", "D. Rectangle"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "How many vertices does a triangle have?",
+            "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter": "House of Hundreds",
+        "questions": [
+          {
+            "question": "What is the value of the digit 6 in 678?",
+            "options": ["A. 6", "B. 60", "C. 600", "D. 6000"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which number has 3 hundreds, 2 tens, and 4 ones?",
+            "options": ["A. 324", "B. 342", "C. 432", "D. 243"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the place value of 5 in the number 568?",
+            "options": ["A. 5", "B. 50", "C. 500", "D. 5 thousand"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is 100 + 50 + 2?",
+            "options": ["A. 152", "B. 162", "C. 120", "D. 1520"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What number is represented by 200 + 30 + 6?",
+            "options": ["A. 206", "B. 230", "C. 236", "D. 263"],
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "chapter": "Raksha Bandhan",
+        "questions": [
+          {
+            "question": "What is the length of a ribbon if it is cut into 4 equal parts, each 5 cm long?",
+            "options": ["A. 10 cm", "B. 20 cm", "C. 25 cm", "D. 30 cm"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the perimeter of a square with side length 7 cm?",
+            "options": ["A. 28 cm", "B. 14 cm", "C. 21 cm", "D. 35 cm"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "If one side of a rectangle is 6 cm, and the other is 4 cm, what is the area?",
+            "options": ["A. 24 sq cm", "B. 10 sq cm", "C. 12 sq cm", "D. 16 sq cm"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "How many sides does a rectangle have?",
+            "options": ["A. 4", "B. 3", "C. 6", "D. 5"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many edges does a cube have?",
+            "options": ["A. 6", "B. 8", "C. 12", "D. 4"],
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "chapter": "Fair Share",
+        "questions": [
+          {
+            "question": "If you divide 12 apples equally among 4 people, how many apples will each person get?",
+            "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If 24 pencils are divided into 6 equal boxes, how many pencils will be in each box?",
+            "options": ["A. 4", "B. 6", "C. 8", "D. 5"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the quotient when 20 is divided by 4?",
+            "options": ["A. 4", "B. 5", "C. 6", "D. 3"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If you divide 36 equally among 9 people, how much does each person get?",
+            "options": ["A. 3", "B. 4", "C. 6", "D. 8"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the remainder when 20 is divided by 6?",
+            "options": ["A. 2", "B. 4", "C. 1", "D. 3"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "chapter": "House of Hundreds-II",
+        "questions": [
+          {
+            "question": "What is the place value of 7 in 738?",
+            "options": ["A. 70", "B. 700", "C. 7", "D. 70"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the expanded form of 435?",
+            "options": ["A. 400 + 30 + 5", "B. 400 + 40 + 5", "C. 400 + 30 + 50", "D. 40 + 300 + 5"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which number comes before 543?",
+            "options": ["A. 540", "B. 542", "C. 541", "D. 545"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the smallest number you can form with the digits 6, 4, and 9?",
+            "options": ["A. 649", "B. 469", "C. 694", "D. 496"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the place value of 4 in 432?",
+            "options": ["A. 400", "B. 40", "C. 4", "D. 4000"],
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "chapter": "Fun at Class Party",
+        "questions": [
+          {
+            "question": "How many people attended the class party if there are 5 tables with 6 students each?",
+            "options": ["A. 30", "B. 36", "C. 25", "D. 40"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If each student at the party eats 2 cupcakes, how many cupcakes will 8 students eat?",
+            "options": ["A. 10", "B. 14", "C. 16", "D. 18"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the total number of chairs if each table has 4 chairs and there are 7 tables?",
+            "options": ["A. 20", "B. 28", "C. 32", "D. 24"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "How many more cupcakes are needed if there are 40 students and each student wants 1 cupcake, but only 25 cupcakes are available?",
+            "options": ["A. 10", "B. 15", "C. 20", "D. 5"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If 15 students share 3 boxes of juice equally, how many boxes does each student get?",
+            "options": ["A. 1/3", "B. 1/2", "C. 1/4", "D. 1"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 11,
+        "chapter": "Filling and Lifting",
+        "questions": [
+          {
+            "question": "How many liters are in 1 kiloliter?",
+            "options": ["A. 100", "B. 1000", "C. 10", "D. 10000"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the total volume if 3 jars contain 5 liters each?",
+            "options": ["A. 10 liters", "B. 12 liters", "C. 15 liters", "D. 20 liters"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which of these is the correct conversion from liters to milliliters?",
+            "options": ["A. 1 liter = 100 milliliters", "B. 1 liter = 1000 milliliters", "C. 1 liter = 10000 milliliters", "D. 1 liter = 100000 milliliters"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a container holds 2 liters of water, how many milliliters does it hold?",
+            "options": ["A. 500 milliliters", "B. 1000 milliliters", "C. 2000 milliliters", "D. 3000 milliliters"],
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the volume of water in 5 bottles if each bottle holds 200 milliliters?",
+            "options": ["A. 800 milliliters", "B. 1000 milliliters", "C. 1200 milliliters", "D. 1500 milliliters"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 12,
+        "chapter": "Give and Take",
+        "questions": [
+          {
+            "question": "If you have 200 rupees and spend 150 rupees, how much is left?",
+            "options": ["A. 50 rupees", "B. 75 rupees", "C. 100 rupees", "D. 150 rupees"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the sum of 45 and 65?",
+            "options": ["A. 100", "B. 105", "C. 110", "D. 115"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If a box costs 50 rupees, how much will 6 boxes cost?",
+            "options": ["A. 250 rupees", "B. 300 rupees", "C. 350 rupees", "D. 400 rupees"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "You buy 3 toys for 80 rupees each. How much money will you need to pay?",
+            "options": ["A. 240 rupees", "B. 250 rupees", "C. 300 rupees", "D. 280 rupees"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How much more money will be needed if you have 150 rupees and want to buy a toy costing 250 rupees?",
+            "options": ["A. 50 rupees", "B. 100 rupees", "C. 150 rupees", "D. 200 rupees"],
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "chapter": "Time Goes On",
+        "questions": [
+          {
+            "question": "What time is 2 hours after 7:00 AM?",
+            "options": ["A. 8:00 AM", "B. 9:00 AM", "C. 10:00 AM", "D. 11:00 AM"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "How many hours are there from 9:00 AM to 3:00 PM?",
+            "options": ["A. 6 hours", "B. 5 hours", "C. 4 hours", "D. 3 hours"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many minutes are in 3 hours?",
+            "options": ["A. 180 minutes", "B. 200 minutes", "C. 240 minutes", "D. 360 minutes"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "What time is 30 minutes before 5:00 PM?",
+            "options": ["A. 4:00 PM", "B. 4:30 PM", "C. 5:30 PM", "D. 6:00 PM"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "How much time is there from 7:30 AM to 9:00 AM?",
+            "options": ["A. 1 hour", "B. 30 minutes", "C. 2 hours", "D. 1 hour 30 minutes"],
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "chapter": "The Surajkund Fair",
+        "questions": [
+          {
+            "question": "What is the total number of stalls at the Surajkund Fair if there are 25 rows and 12 stalls in each row?",
+            "options": ["A. 250", "B. 300", "C. 350", "D. 375"],
+            "correct_answer": "B"
+          },
+          {
+            "question": "If each visitor spends 50 rupees at the fair, how much will 8 visitors spend?",
+            "options": ["A. 300 rupees", "B. 350 rupees", "C. 400 rupees", "D. 450 rupees"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many total visitors will attend if each of the 12 stalls is visited by 25 people?",
+            "options": ["A. 300", "B. 250", "C. 200", "D. 350"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How much is the cost of 3 items if each item costs 120 rupees?",
+            "options": ["A. 360 rupees", "B. 380 rupees", "C. 400 rupees", "D. 340 rupees"],
+            "correct_answer": "A"
+          },
+          {
+            "question": "How many more visitors will be there if 50 more people enter the fair?",
+            "options": ["A. 50", "B. 100", "C. 150", "D. 200"],
+            "correct_answer": "A"
+          }
+        ]
+      }
+    ]
+  }
+  

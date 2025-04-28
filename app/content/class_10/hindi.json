@@ -1,0 +1,112 @@
+{
+    "subject": "Hindi",
+    "class": "10",
+    "book": "Kshitij Part 2",
+    "board": "CBSE",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Surdas Ke Pad",
+        "duration": "41:06",
+        "url": "https://www.youtube.com/watch?v=3phQ-BsnMk4"
+      },
+      {
+        "chapter_no": 2,
+        "title": "Ram Lakshman Parshuram Samvad",
+        "duration": "54:15",
+        "url": "https://www.youtube.com/watch?v=R04Ph9LnQnU"
+      },
+      {
+        "chapter_no": 3,
+        "title": "Dev: Savaiya and Kavitt",
+        "duration": "29:44",
+        "url": "https://www.youtube.com/watch?v=09wNOK2znGM"
+      },
+      {
+        "chapter_no": 4,
+        "title": "Aatmkathya",
+        "duration": "23:02",
+        "url": "https://www.youtube.com/watch?v=R2b_cnmZ4_4"
+      },
+      {
+        "chapter_no": 5,
+        "title": "Utsah Aur At Nahi Rahi",
+        "duration": "19:06",
+        "url": "https://www.youtube.com/watch?v=VAkEyNDCC2c"
+      },
+      {
+        "chapter_no": 6,
+        "title": "Yah Danturit Muskan Aur Fasal",
+        "duration": "21:02",
+        "url": "https://www.youtube.com/watch?v=3qE_BjEjNfs"
+      },
+      {
+        "chapter_no": 7,
+        "title": "Chhaya Mat Chhuna",
+        "duration": "26:22",
+        "url": "https://www.youtube.com/watch?v=7NNG6fMTzEI"
+      },
+      {
+        "chapter_no": 8,
+        "title": "Kanyadaan",
+        "duration": "19:10",
+        "url": "https://www.youtube.com/watch?v=ByyEsO8SSZ0"
+      },
+      {
+        "chapter_no": 9,
+        "title": "Sangatkar",
+        "duration": "22:30",
+        "url": "https://www.youtube.com/watch?v=fHbhQRI-9M8"
+      },
+      {
+        "chapter_no": 10,
+        "title": "Netaji Ka Chashma",
+        "duration": "21:41",
+        "url": "https://www.youtube.com/watch?v=-PQchzrJm5A"
+      },
+      {
+        "chapter_no": 11,
+        "title": "Balgobin Bhagat",
+        "duration": "26:59",
+        "url": "https://www.youtube.com/watch?v=RrKrq6jX-XI"
+      },
+      {
+        "chapter_no": 12,
+        "title": "Lakhnavi Andaaz",
+        "duration": "16:07",
+        "url": "https://www.youtube.com/watch?v=nL3tvfGqQLI"
+      },
+      {
+        "chapter_no": 13,
+        "title": "Manviya Karuna Ki Divya Chamak",
+        "duration": "24:22",
+        "url": "https://www.youtube.com/watch?v=kLf3vBZADpA"
+      },
+      {
+        "chapter_no": 14,
+        "title": "Ek Kahani Yeh Bhi",
+        "duration": "19:34",
+        "url": "https://www.youtube.com/watch?v=dF9m_EU4uYQ"
+      },
+      {
+        "chapter_no": 15,
+        "title": "Stri Shiksha Ke Virodhi Kutarkon Ka Khandan",
+        "duration": "29:20",
+        "url": "https://www.youtube.com/watch?v=MiM45uWECnY"
+      },
+      {
+        "chapter_no": 16,
+        "title": "Naubat khane Me Ibadat",
+        "duration": "25:26",
+        "url": "https://www.youtube.com/watch?v=AGSt2sV8tf0"
+      },
+      {
+        "chapter_no": 17,
+        "title": "Sanskriti",
+        "duration": "24:20",
+        "url": "https://www.youtube.com/watch?v=sCEyxFqsZBA"
+      }
+    ]
+  }
+  

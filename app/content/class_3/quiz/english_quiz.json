@@ -1,0 +1,567 @@
+{
+    "class": 3,
+    "subject": "English",
+    "book": "Marigold",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "Good Morning & The Magic Garden",
+        "questions": [
+          {
+            "question": "What does the child say 'Good Morning' to in the poem?",
+            "options": {
+              "A": "Only people",
+              "B": "Sky, sun, winds and birds",
+              "C": "Only teachers",
+              "D": "Just parents"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'The Magic Garden', what was special about the garden?",
+            "options": {
+              "A": "It had talking animals",
+              "B": "The flowers sang to the children",
+              "C": "It changed colors daily",
+              "D": "It was invisible"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who were the main visitors of the magic garden?",
+            "options": {
+              "A": "Teachers",
+              "B": "Little school children",
+              "C": "Animals",
+              "D": "Fairies"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "The phrase 'breeze is blowing' means:",
+            "options": {
+              "A": "Strong wind",
+              "B": "Gentle wind",
+              "C": "No wind",
+              "D": "Cold wind"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What time of day is mentioned in 'Good Morning'?",
+            "options": {
+              "A": "Evening",
+              "B": "Night",
+              "C": "Morning",
+              "D": "Afternoon"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "title": "Bird Talk & Nina and The Baby Sparrows",
+        "questions": [
+          {
+            "question": "What do the birds think about people in 'Bird Talk'?",
+            "options": {
+              "A": "People can fly",
+              "B": "People are funny",
+              "C": "People are scary",
+              "D": "People are kind"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why was Nina worried in 'Nina and The Baby Sparrows'?",
+            "options": {
+              "A": "She lost her book",
+              "B": "Her window would be closed during holidays",
+              "C": "She didn't like birds",
+              "D": "She was moving houses"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What did Nina's mother do about the sparrows?",
+            "options": {
+              "A": "Closed the window",
+              "B": "Left the window open",
+              "C": "Chased them away",
+              "D": "Built a new nest"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "The birds say people don't have:",
+            "options": {
+              "A": "Wings or feathers",
+              "B": "Eyes or nose",
+              "C": "Houses or food",
+              "D": "Books or pens"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What lesson does Nina's story teach us?",
+            "options": {
+              "A": "To be kind to animals",
+              "B": "Windows should always be closed",
+              "C": "Birds are noisy",
+              "D": "Holidays are boring"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "title": "Little By Little & The Enormous Turnip",
+        "questions": [
+          {
+            "question": "What grows 'little by little' in the poem?",
+            "options": {
+              "A": "A mountain",
+              "B": "An oak tree",
+              "C": "A building",
+              "D": "A river"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why couldn't the old man pull up the turnip alone?",
+            "options": {
+              "A": "It was magic",
+              "B": "It was enormous",
+              "C": "He was weak",
+              "D": "The ground was hard"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who helped the old man finally pull the turnip?",
+            "options": {
+              "A": "Just his wife",
+              "B": "His wife, boy, girl, dog and cat",
+              "C": "Neighbors",
+              "D": "No one"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "The phrase 'little by little' means:",
+            "options": {
+              "A": "Very quickly",
+              "B": "In small stages",
+              "C": "Only once",
+              "D": "With great difficulty"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What lesson does the turnip story teach?",
+            "options": {
+              "A": "Teamwork succeeds",
+              "B": "Turnips are important",
+              "C": "Old people need help",
+              "D": "Animals are strong"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "title": "Sea Song & A Little Fish",
+        "questions": [
+          {
+            "question": "Where did the child find the shell in 'Sea Song'?",
+            "options": {
+              "A": "In a shop",
+              "B": "On the seashore",
+              "C": "In the forest",
+              "D": "At school"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What did the child hear from the shell?",
+            "options": {
+              "A": "A sea song",
+              "B": "A bird call",
+              "C": "A phone ringing",
+              "D": "Nothing"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'A Little Fish', why was the fish unhappy?",
+            "options": {
+              "A": "It was small",
+              "B": "The sea was dirty",
+              "C": "It had no friends",
+              "D": "It couldn't fly"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What happened when the fish got caught?",
+            "options": {
+              "A": "It escaped",
+              "B": "It was eaten",
+              "C": "It grew bigger",
+              "D": "It became happy"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "The main theme of both stories is:",
+            "options": {
+              "A": "Big things are better",
+              "B": "Small things have value",
+              "C": "The sea is dangerous",
+              "D": "Singing is important"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "title": "The Balloon Man & The Yellow Butterfly",
+        "questions": [
+          {
+            "question": "Where does the balloon man stand in the poem?",
+            "options": {
+              "A": "At the market square",
+              "B": "In a park",
+              "C": "Near a school",
+              "D": "At the circus"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the child imagine might happen someday?",
+            "options": {
+              "A": "Balloons will pop",
+              "B": "The man will fly away",
+              "C": "She will buy all balloons",
+              "D": "It will rain balloons"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'The Yellow Butterfly', where did Sonu chase the butterfly?",
+            "options": {
+              "A": "In a garden",
+              "B": "In his house",
+              "C": "Near a pond",
+              "D": "At school"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Why did Sonu let the butterfly go?",
+            "options": {
+              "A": "It bit him",
+              "B": "He felt sorry for it",
+              "C": "His mother told him to",
+              "D": "It wasn't yellow"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Both stories mainly talk about:",
+            "options": {
+              "A": "Being kind to nature",
+              "B": "Buying things",
+              "C": "Dangerous animals",
+              "D": "Color preferences"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "title": "Trains & The Story of the Road",
+        "questions": [
+          {
+            "question": "Where do the trains run in the poem?",
+            "options": {
+              "A": "Through tunnels",
+              "B": "Over mountains",
+              "C": "Across plains",
+              "D": "All of the above"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "What do trains carry according to the poem?",
+            "options": {
+              "A": "Only people",
+              "B": "Only goods",
+              "C": "Passengers and mail",
+              "D": "Only animals"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "In 'The Story of the Road', who woke up the road first?",
+            "options": {
+              "A": "A bicycle",
+              "B": "A crow",
+              "C": "A bus",
+              "D": "A child"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What makes the road busy?",
+            "options": {
+              "A": "Many vehicles and people",
+              "B": "Animals crossing",
+              "C": "Construction work",
+              "D": "Street vendors"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "The main idea of both is:",
+            "options": {
+              "A": "Transportation is important",
+              "B": "Roads should be wider",
+              "C": "Trains are better than buses",
+              "D": "Cities are noisy"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 7,
+        "title": "Little Tiger, Big Tiger & Puppy and I",
+        "questions": [
+          {
+            "question": "In 'Little Tiger, Big Tiger', who was Tim?",
+            "options": {
+              "A": "A big tiger",
+              "B": "A small tiger cub",
+              "C": "A hunter",
+              "D": "A villager"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Why did Tim's mother roar?",
+            "options": {
+              "A": "To scare Tim",
+              "B": "To warn of danger",
+              "C": "Because she was angry",
+              "D": "To call for food"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "In 'Puppy and I', who does the child meet?",
+            "options": {
+              "A": "Only a puppy",
+              "B": "A man, horse and puppy",
+              "C": "Just a horse",
+              "D": "Nobody"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Who does the child finally play with?",
+            "options": {
+              "A": "The man",
+              "B": "The horse",
+              "C": "The puppy",
+              "D": "Alone"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Both stories show:",
+            "options": {
+              "A": "Animals can be friends",
+              "B": "Tigers are dangerous",
+              "C": "Dogs are better than horses",
+              "D": "Children shouldn't talk to animals"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 8,
+        "title": "What's in the Mailbox? & My Silly Sister",
+        "questions": [
+          {
+            "question": "In 'What's in the Mailbox?', what does the child want to do?",
+            "options": {
+              "A": "Buy a mailbox",
+              "B": "Get letters like her parents",
+              "C": "Become a postman",
+              "D": "Write to her teacher"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "How does the child plan to get letters?",
+            "options": {
+              "A": "By writing first",
+              "B": "By stealing them",
+              "C": "By begging",
+              "D": "By buying them"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'My Silly Sister', why is the baby called silly?",
+            "options": {
+              "A": "She can't walk",
+              "B": "She does funny things",
+              "C": "She doesn't talk",
+              "D": "She cries a lot"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What does the baby think about shells?",
+            "options": {
+              "A": "They are food",
+              "B": "They are toys",
+              "C": "They are scary",
+              "D": "They are money"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "Both stories are about:",
+            "options": {
+              "A": "Children's innocent views",
+              "B": "Post office systems",
+              "C": "Sibling rivalry",
+              "D": "Adult responsibilities"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 9,
+        "title": "Don't Tell & He is My Brother",
+        "questions": [
+          {
+            "question": "In 'Don't Tell', what does the child want to do?",
+            "options": {
+              "A": "Grow up faster",
+              "B": "Stay small forever",
+              "C": "Hide from parents",
+              "D": "Stop going to school"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What does the child think adults can do?",
+            "options": {
+              "A": "Everything they want",
+              "B": "Only boring things",
+              "C": "Nothing special",
+              "D": "Just work"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'He is My Brother', why does Meena carry Ravi?",
+            "options": {
+              "A": "He's her younger brother",
+              "B": "He can't walk properly",
+              "C": "He's lazy",
+              "D": "She wants to show strength"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Where are the children going?",
+            "options": {
+              "A": "To school",
+              "B": "To the temple",
+              "C": "To the market",
+              "D": "To the park"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Both stories show:",
+            "options": {
+              "A": "Children's perspectives",
+              "B": "School problems",
+              "C": "Parenting challenges",
+              "D": "Physical disabilities"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 10,
+        "title": "The Ship of the Desert & How Creatures Move",
+        "questions": [
+          {
+            "question": "Why is the camel called the ship of the desert?",
+            "options": {
+              "A": "It looks like a ship",
+              "B": "It carries loads across deserts",
+              "C": "It can swim in sand",
+              "D": "It has sails"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What special features help camels in deserts?",
+            "options": {
+              "A": "Humps and thick eyelashes",
+              "B": "Wings and fins",
+              "C": "Sharp claws",
+              "D": "Loud voice"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "In 'How Creatures Move', how does a lion move?",
+            "options": {
+              "A": "Walks softly",
+              "B": "Runs fast",
+              "C": "Both A and B",
+              "D": "Swims slowly"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "How does a squirrel move?",
+            "options": {
+              "A": "Leaps and runs",
+              "B": "Swims underwater",
+              "C": "Flies high",
+              "D": "Crawls slowly"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Both pieces teach us about:",
+            "options": {
+              "A": "Animal adaptations",
+              "B": "Desert plants",
+              "C": "Human transportation",
+              "D": "Ocean life"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      }
+    ]
+  }

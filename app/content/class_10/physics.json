@@ -1,0 +1,37 @@
+{
+    "channel": "CBSE Guidance",
+    "subject": "Class 10 Physics",
+    "videos": [
+      { 
+        "chapter_number": 1, 
+        "title": "Light Reflection & Refraction Class 10: MASTER This Chapter in One Shot! (CBSE)",
+        "duration": "2:52:51",
+        "url": "https://www.youtube.com/watch?v=DhYVDRaqbH4"
+      },
+      {
+        "chapter_number": 2, 
+        "title": "Master Human Eye and Colourful World Class 10 | One Shot NCERT + Numericals",
+        "duration": "1:21:35",
+        "url": "https://www.youtube.com/watch?v=2vLkP8iW9z8"
+      },
+      {
+        "chapter_number": 3, 
+        "title": "Electricity Class 10 Made Easy! NCERT Explanation + Solved Numericals (CBSE One Shot!)",
+        "duration": "3:26:49",
+        "url": "https://www.youtube.com/watch?v=3qZ1u4v0QWk"
+      },
+      {
+        "chapter_number": 4, 
+        "title": "Magnetic Effects of Electric Current Class 10 One Shot | Complete NCERT Chapter",
+        "duration": "1:29:18",
+        "url": "https://www.youtube.com/watch?v=4fYQ5G6V1xU"
+      },
+      {
+        "chapter_number":5,
+        "title": "Sources of Energy in 30 Minutes | Science Chapter 14 | Class 10th CBSE",
+        "duration": "30:00",
+        "url": "https://www.youtube.com/watch?v=WuerM0oWIqk"
+    }
+    ]
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "class": 4,
+    "subject": "English",
+    "book": "Marigold",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Wake Up! & Neha’s Alarm Clock",
+        "video_links": [
+          "https://www.youtube.com/watch?v=AyrRdUs5xVQ"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 2,
+        "title": "Noses & The Little Fir Tree",
+        "video_links": [
+          "https://www.youtube.com/watch?v=-_lYecNHwGU"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 3,
+        "title": "Run! & Nasruddin’s Aim",
+        "video_links": [
+          "https://www.youtube.com/watch?v=e0SvPMxL-VE"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 4,
+        "title": "Why? & Alice In Wonderland",
+        "video_links": [
+          "https://www.youtube.com/watch?v=r0YnRP_OvhM"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 5,
+        "title": "Don’t Be Afraid of the Dark & Helen Keller",
+        "video_links": [
+          "https://www.youtube.com/watch?v=2PB-ik2FgqA"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 6,
+        "title": "Hiawatha & The Scholar’s Mother Tongue",
+        "video_links": [
+          "https://www.youtube.com/watch?v=wK-AYJ4BphA"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 7,
+        "title": "A Watering Rhyme & The Giving Tree",
+        "video_links": [
+          "https://www.youtube.com/watch?v=M88-jVD_F00"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 8,
+        "title": "Books & Going to Buy a Book",
+        "video_links": [
+          "https://www.youtube.com/watch?v=j0yeqBEu9LY"
+        ],
+        "channel": "Magnet Brains"
+      },
+      {
+        "chapter_number": 9,
+        "title": "The Naughty Boy & Pinocchio",
+        "video_links": [
+          "https://www.youtube.com/watch?v=pdw8NEn9rQg"
+        ],
+        "channel": "Magnet Brains"
+      }
+    ]
+  }
+  

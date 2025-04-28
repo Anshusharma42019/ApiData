@@ -1,0 +1,118 @@
+{
+    "class": 6,
+    "subject": "Mathematics",
+    "type": "OneShot Videos",
+    "source": "BYJU'S - Class 6, 7 & 8 YouTube Playlist",
+    "total_chapters": 12,
+    "total_videos": 12,
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Knowing Our Numbers",
+        "video": {
+          "title": "Knowing Our Numbers | Class 6 | Maths | CHAMPS 2024 | BYJU'S",
+          "url": "https://www.youtube.com/watch?v=n-zJaQzoe8s&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=1",
+          "duration": "32:50"
+        }
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Whole Numbers",
+        "video": {
+          "title": "What are Whole Numbers? | Whole Numbers Grade 6 | Maths | CHAMPS 2024",
+          "url": "https://www.youtube.com/watch?v=Kf58oSQk778&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=2",
+          "duration": "27:21"
+        }
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Playing with Numbers",
+        "video": {
+          "title": "Playing with Numbers | Learn Factors and Multiples with an Activity! | CHAMPS 2024 |",
+          "url": "https://www.youtube.com/watch?v=Fao3gDKK7f0&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=3",
+          "duration": "23:00"
+        }
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Basic Geometrical Ideas",
+        "video": {
+          "title": "Basic Geometrical Ideas in one shot | Class 6 | CHAMPS 2024",
+          "url": "https://www.youtube.com/watch?v=_T-Z6bPpyIk&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=4",
+          "duration": "47:38"
+        }
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Understanding Elementary Shapes",
+        "video": {
+          "title": "Understand Elementary Shapes in One Shot with Formula Cheat Sheet Class 6 Maths | BYJU'S - Class 6",
+          "url": "https://www.youtube.com/watch?v=Vgolb4M6180&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=5",
+          "duration": "50:21"
+        }
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Integers",
+        "video": {
+          "title": "Integers Class 6 Maths in One Shot (Formula Cheatsheet and Examples) | BYJU'S - Class 6",
+          "url": "https://www.youtube.com/watch?v=i7w29DUI6y4&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=6",
+          "duration": "46:13"
+        }
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Fractions",
+        "video": {
+          "title": "Fractions | ONE SHOT | Easiest Explanation | Chapter 7 | Class 6",
+          "url": "https://www.youtube.com/watch?v=VB6fmr3GQ5k&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=7",
+          "duration": "1:03:48"
+        }
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Decimals",
+        "video": {
+          "title": "Decimals Class 6 Maths in One Shot | NCERT Class 6 Maths Chapter 8 | BYJU'S",
+          "url": "https://www.youtube.com/watch?v=7ap_qVv-rhY&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=8",
+          "duration": "57:56"
+        }
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Data Handling",
+        "video": {
+          "title": "Data Handling Class 6 Maths (Chapter 9) in One Shot | BYJU'S - Class 6",
+          "url": "https://www.youtube.com/watch?v=4iOX2zuyYnA&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=9",
+          "duration": "51:31"
+        }
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Mensuration",
+        "video": {
+          "title": "Mensuration Class 6 Chapter 10 in One Shot | BYJU'S - Class 6",
+          "url": "https://www.youtube.com/watch?v=0wob4VIFNw0&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=10",
+          "duration": "1:06:55"
+        }
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Algebra",
+        "video": {
+          "title": "Algebra Class 6 Maths in One Shot (Chapter 11) | BYJU'S - Class 6",
+          "url": "https://www.youtube.com/watch?v=k2o1PPBUdZI&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=11",
+          "duration": "1:01:35"
+        }
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "Ratio and Proportion",
+        "video": {
+          "title": "Ratio and Proportion | Under 45 mins | Chapter 12 | Class 6 | Maths | BYJU'S",
+          "url": "https://www.youtube.com/watch?v=mexZZUUBa1o&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=12",
+          "duration": "36:04"
+        }
+      }
+    ]
+  }

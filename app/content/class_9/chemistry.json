@@ -1,0 +1,117 @@
+{
+    "subject": "Chemistry",
+    "class": "9",
+    "board": "CBSE",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Matter in Our Surroundings",
+        "videos": [
+          {
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=WocaFcl1svQ"
+          },
+          {
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=VYS-FVo6FqY"
+          },
+          {
+            "title": "Part 3",
+            "url": "https://www.youtube.com/watch?v=PzJD1Y9j8qg"
+          },
+          {
+            "title": "Part 4",
+            "url": "https://www.youtube.com/watch?v=4EcqmEgDMzI"
+          },
+          {
+            "title": "NCERT Solutions Part 1",
+            "url": "https://www.youtube.com/watch?v=j95r3Oxasl0"
+          },
+          {
+            "title": "NCERT Solutions Part 2",
+            "url": "https://www.youtube.com/watch?v=tao4PI67Gsg"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Is Matter Around Us Pure?",
+        "videos": [
+          {
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=mv9QOTH5Exs"
+          },
+          {
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=yK7fSLsqTUk"
+          },
+          {
+            "title": "Part 3",
+            "url": "https://www.youtube.com/watch?v=lve-voArw-U"
+          },
+          {
+            "title": "NCERT Solutions",
+            "url": "https://www.youtube.com/watch?v=uBxkD8kiJpE"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Atoms and Molecules",
+        "videos": [
+          {
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=HLhKy0KcGMY"
+          },
+          {
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=Jcpxwlp_I7I"
+          },
+          {
+            "title": "Part 3",
+            "url": "https://www.youtube.com/watch?v=CNzJZja_ef8"
+          },
+          {
+            "title": "Part 4",
+            "url": "https://www.youtube.com/watch?v=lOWiVD8zetA"
+          },
+          {
+            "title": "NCERT Solutions Part 1",
+            "url": "https://www.youtube.com/watch?v=ViufQLjHLuY"
+          },
+          {
+            "title": "NCERT Solutions Part 2",
+            "url": "https://www.youtube.com/watch?v=YnojKzrWcV8"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Structure of Atom",
+        "videos": [
+          {
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=f-U-N5HcP-Y"
+          },
+          {
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=yifgwYxIesc"
+          },
+          {
+            "title": "Part 3",
+            "url": "https://www.youtube.com/watch?v=Cw8co28jtVc"
+          },
+          {
+            "title": "NCERT Solutions Part 1",
+            "url": "https://www.youtube.com/watch?v=UF0Khck5ul4"
+          },
+          {
+            "title": "NCERT Solutions Part 2",
+            "url": "https://www.youtube.com/watch?v=P-clvccPtPM"
+          }
+        ]
+      }
+    ]
+  }
+  

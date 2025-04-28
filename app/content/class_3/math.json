@@ -1,0 +1,80 @@
+{
+    "class": 3,
+    "subject": "Mathematics",
+    "book": "Maths Mela",
+    "medium": "English",
+    "channel": "A TO Z STUDYZ",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_name": "What's in a Name?",
+        "video_link": "https://www.youtube.com/watch?v=4VfyZ662YBU"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_name": "Toy Joy",
+        "video_link": "https://www.youtube.com/watch?v=fIvMT2ikl8I"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_name": "Double Century",
+        "video_link": "https://www.youtube.com/watch?v=wBAQFi1D1IY"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_name": "Vacation with My Nani Ma",
+        "video_link": "https://www.youtube.com/watch?v=k9E3pfRM13I"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_name": "Fun with Shape",
+        "video_link": "https://www.youtube.com/watch?v=mDNUU9F1XdI"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_name": "House of Hundreds",
+        "video_link": "https://www.youtube.com/watch?v=pgihfA34LkQ"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_name": "Raksha Bandhan",
+        "video_link": "https://www.youtube.com/watch?v=gvpJQOvf5cU"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_name": "Fair Share",
+        "video_link": "https://www.youtube.com/watch?v=HF9cIXRMIAA"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_name": "House of Hundreds-II",
+        "video_link": "https://www.youtube.com/watch?v=A9P80LorG6Q"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_name": "Fun at Class Party",
+        "video_link": "https://www.youtube.com/watch?v=nLrLMM-1sCw"
+      },
+      {
+        "chapter_number": 11,
+        "chapter_name": "Filling and Lifting",
+        "video_link": "https://www.youtube.com/watch?v=FLWuXKDtBTY"
+      },
+      {
+        "chapter_number": 12,
+        "chapter_name": "Give and Take",
+        "video_link": "https://www.youtube.com/watch?v=RnlcOfeK0CE"
+      },
+      {
+        "chapter_number": 13,
+        "chapter_name": "Time Goes On",
+        "video_link": "https://www.youtube.com/watch?v=ho0RMdaOOiQ"
+      },
+      {
+        "chapter_number": 14,
+        "chapter_name": "The Surajkund Fair",
+        "video_link": "https://www.youtube.com/watch?v=pn0PluHU3PQ"
+      }
+    ]
+  }
+  

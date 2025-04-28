@@ -1,0 +1,735 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Math-Magic",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "Shapes and Spaces",
+      "questions": [
+        {
+          "question": "Which shape has three sides?",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Rectangle"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How many corners does a square have?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which shape is round with no corners?",
+          "options": {
+            "A": "Triangle",
+            "B": "Circle",
+            "C": "Square",
+            "D": "Rectangle"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we call the space inside a shape?",
+          "options": {
+            "A": "Area",
+            "B": "Line",
+            "C": "Corner",
+            "D": "Side"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of these is a 3D shape?",
+          "options": {
+            "A": "Square",
+            "B": "Circle",
+            "C": "Cube",
+            "D": "Triangle"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "Numbers From One to Nine",
+      "questions": [
+        {
+          "question": "What comes after number 5?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many fingers do you have on one hand?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number comes between 7 and 9?",
+          "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "5"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 3 + 4?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number is the smallest?",
+          "options": {
+            "A": "9",
+            "B": "2",
+            "C": "5",
+            "D": "7"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "Addition",
+      "questions": [
+        {
+          "question": "What is 2 + 3?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If you have 1 apple and get 2 more, how many do you have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which symbol represents addition?",
+          "options": {
+            "A": "-",
+            "B": "+",
+            "C": "=",
+            "D": "×"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is zero plus any number?",
+          "options": {
+            "A": "Zero",
+            "B": "The same number",
+            "C": "One more than the number",
+            "D": "Always ten"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If you add 4 and 4, what do you get?",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "Subtraction",
+      "questions": [
+        {
+          "question": "What is 5 - 2?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If you have 7 candies and eat 3, how many are left?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which symbol represents subtraction?",
+          "options": {
+            "A": "+",
+            "B": "-",
+            "C": "=",
+            "D": "÷"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens when you subtract zero from a number?",
+          "options": {
+            "A": "You get zero",
+            "B": "The number stays the same",
+            "C": "You get one less",
+            "D": "The number doubles"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 9 - 4?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "Numbers from Ten to Twenty",
+      "questions": [
+        {
+          "question": "Which number comes after 10?",
+          "options": {
+            "A": "9",
+            "B": "11",
+            "C": "12",
+            "D": "20"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many is a 'dozen'?",
+          "options": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "20"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 10 + 5?",
+          "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which number is between 14 and 16?",
+          "options": {
+            "A": "13",
+            "B": "15",
+            "C": "17",
+            "D": "18"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 20 - 5?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "16",
+            "D": "18"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "Time",
+      "questions": [
+        {
+          "question": "How many hours are in a day?",
+          "options": {
+            "A": "12",
+            "B": "24",
+            "C": "30",
+            "D": "60"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "The long hand in a clock shows:",
+          "options": {
+            "A": "Hours",
+            "B": "Minutes",
+            "C": "Seconds",
+            "D": "Days"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "When the clock shows 12:00, it is:",
+          "options": {
+            "A": "Morning",
+            "B": "Noon",
+            "C": "Evening",
+            "D": "Night"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many minutes make an hour?",
+          "options": {
+            "A": "30",
+            "B": "60",
+            "C": "100",
+            "D": "12"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What time is it when both hands point to 12?",
+          "options": {
+            "A": "6 o'clock",
+            "B": "12 o'clock",
+            "C": "3 o'clock",
+            "D": "9 o'clock"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "Measurement",
+      "questions": [
+        {
+          "question": "Which is longer?",
+          "options": {
+            "A": "Pencil",
+            "B": "School bus",
+            "C": "Book",
+            "D": "Eraser"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we use to measure length?",
+          "options": {
+            "A": "Clock",
+            "B": "Scale",
+            "C": "Ruler",
+            "D": "Thermometer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which is heavier?",
+          "options": {
+            "A": "Feather",
+            "B": "Brick",
+            "C": "Paper",
+            "D": "Balloon"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we measure in liters?",
+          "options": {
+            "A": "Weight",
+            "B": "Length",
+            "C": "Liquid",
+            "D": "Time"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which is the shortest?",
+          "options": {
+            "A": "Tree",
+            "B": "Ant",
+            "C": "Dog",
+            "D": "Car"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "Numbers from Twenty One to Fifty",
+      "questions": [
+        {
+          "question": "What comes after 29?",
+          "options": {
+            "A": "28",
+            "B": "30",
+            "C": "31",
+            "D": "40"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which number is greater: 35 or 53?",
+          "options": {
+            "A": "35",
+            "B": "53",
+            "C": "Same",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many tens are in 40?",
+          "options": {
+            "A": "1",
+            "B": "4",
+            "C": "10",
+            "D": "40"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 25 + 10?",
+          "options": {
+            "A": "15",
+            "B": "25",
+            "C": "35",
+            "D": "45"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number is between 42 and 44?",
+          "options": {
+            "A": "41",
+            "B": "43",
+            "C": "45",
+            "D": "40"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "Data Handling",
+      "questions": [
+        {
+          "question": "What is data?",
+          "options": {
+            "A": "Numbers",
+            "B": "Information",
+            "C": "Shapes",
+            "D": "Colors"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is used to show data in pictures?",
+          "options": {
+            "A": "Pictograph",
+            "B": "Clock",
+            "C": "Ruler",
+            "D": "Abacus"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If 🍎🍎🍎 represents 3 apples, how many apples does 🍎🍎🍎🍎🍎 represent?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which is a way to collect data?",
+          "options": {
+            "A": "Counting",
+            "B": "Guessing",
+            "C": "Drawing",
+            "D": "Sleeping"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a 'tally mark' used for?",
+          "options": {
+            "A": "Measuring",
+            "B": "Counting",
+            "C": "Drawing",
+            "D": "Writing"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "Patterns",
+      "questions": [
+        {
+          "question": "What comes next? 🔴, 🔵, 🔴, 🔵, ___",
+          "options": {
+            "A": "🔴",
+            "B": "🔵",
+            "C": "🟢",
+            "D": "🟡"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Complete the pattern: 2, 4, 6, ___",
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "10"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which shape completes the pattern? ▲, ■, ▲, ■, ___",
+          "options": {
+            "A": "●",
+            "B": "▲",
+            "C": "■",
+            "D": "▼"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is missing? A, B, C, ___, E",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which number pattern is correct?",
+          "options": {
+            "A": "5, 10, 15, 25",
+            "B": "10, 20, 30, 40",
+            "C": "3, 6, 9, 12, 16",
+            "D": "2, 4, 8, 16, 24"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "Numbers",
+      "questions": [
+        {
+          "question": "What is the smallest two-digit number?",
+          "options": {
+            "A": "1",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number is odd?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "8"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is 30 + 20?",
+          "options": {
+            "A": "10",
+            "B": "30",
+            "C": "50",
+            "D": "60"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which number is even?",
+          "options": {
+            "A": "3",
+            "B": "7",
+            "C": "6",
+            "D": "9"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the largest number here: 25, 52, 15, 51?",
+          "options": {
+            "A": "25",
+            "B": "52",
+            "C": "15",
+            "D": "51"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "Money",
+      "questions": [
+        {
+          "question": "How many paise make one rupee?",
+          "options": {
+            "A": "10",
+            "B": "50",
+            "C": "100",
+            "D": "1000"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which coin is worth the most?",
+          "options": {
+            "A": "50 paise",
+            "B": "₹1",
+            "C": "₹2",
+            "D": "₹5"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "If a toy costs ₹20 and you give ₹50, how much will you get back?",
+          "options": {
+            "A": "₹20",
+            "B": "₹30",
+            "C": "₹40",
+            "D": "₹50"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is NOT a form of money?",
+          "options": {
+            "A": "Coin",
+            "B": "Note",
+            "C": "Leaf",
+            "D": "Card"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is ₹10 + ₹5?",
+          "options": {
+            "A": "₹5",
+            "B": "₹10",
+            "C": "₹15",
+            "D": "₹20"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title": "How Many?",
+      "questions": [
+        {
+          "question": "If there are 5 birds and 3 fly away, how many are left?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many legs do 2 dogs have?",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "If you have 10 chocolates and give 4 to friends, how many remain?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How many wheels does a bicycle have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is 8 + 7?",
+          "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    }
+  ]
+}

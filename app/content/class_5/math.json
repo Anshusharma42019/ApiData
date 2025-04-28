@@ -1,0 +1,106 @@
+{
+    "class": "Class 5",
+    "subject": "Mathematics",
+    "book": "NCERT",
+    "video_explanations": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "The Fish Tale",
+        "video_duration": "3:31:54",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=GZ0sTOA8iNI"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Shapes and Angles",
+        "video_duration": "3:47:33",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=JdFYd5fQmjg"
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "How Many Squares",
+        "video_duration": "5:11:23",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=eZnpHoZom8M"
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Parts and Wholes",
+        "video_duration": "7:47:58",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=7tRaHLK5G9k"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Does It Look the Same?",
+        "video_duration": "6:57:03",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=F1-NDiMvJ-E"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Be My Multiple, I’ll Be Your Factor",
+        "video_duration": "10:01:11",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=qakff2q48aM"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Can You See the Pattern?",
+        "video_duration": "10:33:36",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ndQKpxYRO7g"
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Mapping Your Way",
+        "video_duration": "4:19:43",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=Ni0kq3vts9s"
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Boxes and Sketches",
+        "video_duration": "3:54:44",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ZVlhpUAs3d4"
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Tenths and Hundredths",
+        "video_duration": "9:54:03",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=XQjE5rW9d_U"
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Area and its Boundary",
+        "video_duration": "6:19:36",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=8R0EmjoTuEw"
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "Smart Charts",
+        "video_duration": "4:32:27",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=XQjI7blLM7w"
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "Ways to Multiply and Divide",
+        "video_duration": "14:36:52",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ge1uYkM0YQA"
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "How Big? How Heavy?",
+        "video_duration": "7:05:10",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=JqV54Db5V5I"
+      }
+    ]
+  }
+  

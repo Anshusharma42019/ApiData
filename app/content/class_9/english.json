@@ -1,0 +1,69 @@
+{
+    "class": "9",
+    "subject": "English",
+    "book": "Moments",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "title": "The Lost Child",
+        "duration": "1:31:09",
+        "url": "https://www.youtube.com/watch?v=zPf6SMy7YDs"
+      },
+      {
+        "chapter_no": 2,
+        "title": "The Adventures of Toto",
+        "duration": "1:25:21",
+        "url": "https://www.youtube.com/watch?v=cZAMPlGz3b8"
+      },
+      {
+        "chapter_no": 3,
+        "title": "Iswaran The Storyteller",
+        "duration": "1:34:10",
+        "url": "https://www.youtube.com/watch?v=2Y1_UYDCqnc"
+      },
+      {
+        "chapter_no": 4,
+        "title": "In the Kingdom of Fools",
+        "duration": "1:39:17",
+        "url": "https://www.youtube.com/watch?v=s-3AKkwOvm4"
+      },
+      {
+        "chapter_no": 5,
+        "title": "The Happy Prince",
+        "duration": "1:43:39",
+        "url": "https://www.youtube.com/watch?v=cS06uUgb7wM"
+      },
+      {
+        "chapter_no": 6,
+        "title": "Weathering the Storm in Ersama",
+        "duration": "1:24:13",
+        "url": "https://www.youtube.com/watch?v=Q4XnA_0FVl8"
+      },
+      {
+        "chapter_no": 7,
+        "title": "The Last Leaf",
+        "duration": "1:19:43",
+        "url": "https://www.youtube.com/watch?v=Fx0UQvIl8K0"
+      },
+      {
+        "chapter_no": 8,
+        "title": "A House is not a Home",
+        "duration": "1:49:20",
+        "url": "https://www.youtube.com/watch?v=VKdvOeXz-Q8"
+      },
+      {
+        "chapter_no": 9,
+        "title": "The Accidental Tourist",
+        "duration": "1:38:38",
+        "url": "https://www.youtube.com/watch?v=d4INzA5BLs8"
+      },
+      {
+        "chapter_no": 10,
+        "title": "The Beggar",
+        "duration": "1:54:36",
+        "url": "https://www.youtube.com/watch?v=3bgkmdG_p4g"
+      }
+    ]
+  }
+  

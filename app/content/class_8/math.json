@@ -1,0 +1,136 @@
+{
+    "class": 8,
+    "subject": "Mathematics",
+    "teacher": "Ritik Sir",
+    "channel": "Physics Wallah Foundation",
+    "playlist": "Class 8 Maths All Chapters - One Shot",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Rational Numbers",
+        "youtube_link": "https://www.youtube.com/watch?v=GJnvCdnrgqQ",
+        "duration": "1:27:17",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 2,
+        "title": "Linear Equations in One Variable",
+        "youtube_link": "https://www.youtube.com/watch?v=FdS7KIVfks0",
+        "duration": "1:18:16",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 3,
+        "title": "Understanding Quadrilaterals",
+        "youtube_link": "https://www.youtube.com/watch?v=I3vp_4WIiVo",
+        "duration": "1:27:24",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 4,
+        "title": "Exponents and Powers",
+        "youtube_link": "https://www.youtube.com/watch?v=nfC8ihzSG58",
+        "duration": "1:29:01",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 5,
+        "title": "Mensuration (Part 1)",
+        "youtube_link": "https://www.youtube.com/watch?v=YpP6XEV0B34",
+        "duration": "1:36:22",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 6,
+        "title": "Mensuration (Part 2)",
+        "youtube_link": "https://www.youtube.com/watch?v=ypYpi2QSpao",
+        "duration": "1:51:54",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 7,
+        "title": "Algebraic Expressions and Identities",
+        "youtube_link": "https://www.youtube.com/watch?v=GQqQPY2wEQA",
+        "duration": "1:45:19",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 8,
+        "title": "Factorisation",
+        "youtube_link": "https://www.youtube.com/watch?v=HD3z0c9obrA",
+        "duration": "2:04:12",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 9,
+        "title": "Comparing Quantities (Part 1)",
+        "youtube_link": "https://www.youtube.com/watch?v=7I7Z_ddhUhE",
+        "duration": "1:53:55",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 10,
+        "title": "Comparing Quantities (Part 2)",
+        "youtube_link": "https://www.youtube.com/watch?v=F2Gd_idGHOs",
+        "duration": "1:42:16",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 11,
+        "title": "Direct and Inverse Proportions",
+        "youtube_link": "https://www.youtube.com/watch?v=oCx6f3wNP1w",
+        "duration": "1:22:48",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 12,
+        "title": "Introduction to Graphs",
+        "youtube_link": "https://www.youtube.com/watch?v=vSDZAMsIaZI",
+        "duration": "1:43:55",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 13,
+        "title": "Playing with Numbers",
+        "youtube_link": "https://www.youtube.com/watch?v=3Zs15H-UoIY",
+        "duration": "1:16:10",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 14,
+        "title": "Visualising Solid Shapes",
+        "youtube_link": "https://www.youtube.com/watch?v=PxUHLlnBuCA",
+        "duration": "1:16:26",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 15,
+        "title": "Data Handling",
+        "youtube_link": "https://www.youtube.com/watch?v=01nxKH9PNIs",
+        "duration": "1:41:19",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 16,
+        "title": "Squares and Square Roots",
+        "youtube_link": "https://www.youtube.com/watch?v=HD3z0c9obrA",
+        "duration": "1:40:36",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 17,
+        "title": "Cubes and Cube Roots",
+        "youtube_link": "https://www.youtube.com/watch?v=3nZvOWZhPjQ&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=17",
+        "duration": "1:09:21",
+        "channel": "Physics Wallah Foundation"
+      },
+      {
+        "chapter_number": 18,
+        "title": "Practical Geometry",
+        "youtube_link": "https://www.youtube.com/watch?v=z3gDmpLA1tY&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=18",
+        "duration": "1:06:11",
+        "channel": "Physics Wallah Foundation"
+      }
+    ]
+  }
+  

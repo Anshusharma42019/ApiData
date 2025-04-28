@@ -1,0 +1,802 @@
+{
+    "physics": [
+      {
+        "chapter": 1,
+        "title": "Units and Measurement",
+        "url": "https://www.youtube.com/watch?v=fLeufnY1AwU",
+        "questions": [
+          {
+            "question": "What is the standard unit of mass in the SI system?",
+            "options": {
+              "1": "Kilogram",
+              "2": "Gram",
+              "3": "Newton",
+              "4": "Pound"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following is a base unit in the SI system?",
+            "options": {
+              "1": "Liter",
+              "2": "Celsius",
+              "3": "Second",
+              "4": "Atmosphere"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What is the primary purpose of significant figures in measurement?",
+            "options": {
+              "1": "To represent the precision of a measurement",
+              "2": "To simplify calculations",
+              "3": "To convert units",
+              "4": "To ensure accuracy"
+            },
+            "answer": 1
+          },
+          {
+            "question": "If the length of an object is measured to be 5.45 cm, how many significant figures does this measurement have?",
+            "options": {
+              "1": "3",
+              "2": "4",
+              "3": "5",
+              "4": "2"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the derived unit for density in the SI system?",
+            "options": {
+              "1": "kg/m",
+              "2": "kg/m²",
+              "3": "kg/m³",
+              "4": "m/s"
+            },
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "Motion in a Straight Line",
+        "url": "https://www.youtube.com/watch?v=m8dx27hc5Q0",
+        "questions": [
+          {
+            "question": "What is the acceleration of an object moving with a constant velocity?",
+            "options": {
+              "1": "0 m/s²",
+              "2": "Equal to the velocity",
+              "3": "Constant and non-zero",
+              "4": "Varies with time"
+            },
+            "answer": 1
+          },
+          {
+            "question": "How is displacement defined?",
+            "options": {
+              "1": "Total distance traveled",
+              "2": "Change in position in a straight line",
+              "3": "The overall path length",
+              "4": "The average speed"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What does a velocity-time graph represent?",
+            "options": {
+              "1": "Displacement",
+              "2": "Acceleration",
+              "3": "Speed",
+              "4": "Position"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the formula for calculating average speed?",
+            "options": {
+              "1": "Total distance/Total time taken",
+              "2": "Final velocity - Initial velocity",
+              "3": "Change in position/time",
+              "4": "Total time taken/Total distance"
+            },
+            "answer": 1
+          },
+          {
+            "question": "In free fall, what is the value of acceleration due to gravity approximately?",
+            "options": {
+              "1": "9.8 m/s²",
+              "2": "8.0 m/s²",
+              "3": "10.5 m/s²",
+              "4": "11.2 m/s²"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "Motion in a Plane",
+        "url": "https://www.youtube.com/watch?v=WM_H3b6wOKc",
+        "questions": [
+          {
+            "question": "What type of motion does a projectile experience after being launched?",
+            "options": {
+              "1": "Uniform linear motion",
+              "2": "Uniformly accelerated motion",
+              "3": "Non-uniform motion",
+              "4": "Vertical motion only"
+            },
+            "answer": 2
+          },
+          {
+            "question": "How do you describe the trajectory of a projectile?",
+            "options": {
+              "1": "Straight line",
+              "2": "Circular path",
+              "3": "Parabolic path",
+              "4": "Elliptical path"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What determines the range of a projectile launched at an angle?",
+            "options": {
+              "1": "Launch speed only",
+              "2": "Launch angle only",
+              "3": "Both launch speed and angle",
+              "4": "Air resistance only"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What is the horizontal component of the velocity of a projectile?",
+            "options": {
+              "1": "Changes with time",
+              "2": "Remains constant",
+              "3": "Decreases with time",
+              "4": "Increases with time"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Which formula represents the horizontal motion of a projectile?",
+            "options": {
+              "1": "s = ut + (1/2)at²",
+              "2": "s = vt",
+              "3": "s = 1/2gt²",
+              "4": "s = ut²"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "Laws of Motion",
+        "url": "https://www.youtube.com/watch?v=-t7wCNnJATc",
+        "questions": [
+          {
+            "question": "What is Newton's first law of motion also known as?",
+            "options": {
+              "1": "Law of acceleration",
+              "2": "Law of inertia",
+              "3": "Law of action and reaction",
+              "4": "Law of gravitation"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What does Newton's second law state?",
+            "options": {
+              "1": "F = ma",
+              "2": "F = mv",
+              "3": "F = mg",
+              "4": "F = ma²"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of force in the SI system?",
+            "options": {
+              "1": "Joule",
+              "2": "Newton",
+              "3": "Pascal",
+              "4": "Watt"
+            },
+            "answer": 2
+          },
+          {
+            "question": "In which situation is the net force acting on an object zero?",
+            "options": {
+              "1": "When it accelerates forward",
+              "2": "When it is at rest",
+              "3": "When it moves at constant velocity",
+              "4": "Both b and c"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the relationship between mass and weight?",
+            "options": {
+              "1": "Weight = Mass × Acceleration due to gravity",
+              "2": "Weight = Mass/Acceleration due to gravity",
+              "3": "Weight = Acceleration due to gravity/Mass",
+              "4": "Weight = Mass + Acceleration due to gravity"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "Work, Energy and Power",
+        "url": "https://www.youtube.com/watch?v=vv5aBiAzREk",
+        "questions": [
+          {
+            "question": "What is the unit of work in the SI system?",
+            "options": {
+              "1": "Joule",
+              "2": "Newton",
+              "3": "Watt",
+              "4": "Pascal"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which formula relates work, force, and displacement?",
+            "options": {
+              "1": "W = F × d",
+              "2": "W = F/d",
+              "3": "W = F + d",
+              "4": "W = F - d"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the formula for kinetic energy?",
+            "options": {
+              "1": "KE = 1/2 mv²",
+              "2": "KE = mgh",
+              "3": "KE = mv",
+              "4": "KE = 1/2 mv³"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the definition of power?",
+            "options": {
+              "1": "Work done in a time interval",
+              "2": "Rate of doing work",
+              "3": "Force applied",
+              "4": "Energy expended"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is potential energy?",
+            "options": {
+              "1": "Energy of motion",
+              "2": "Stored energy",
+              "3": "Energy due to friction",
+              "4": "Energy of heat"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "System of Particles and Rotational Motion",
+        "url": "https://www.youtube.com/watch?v=YkVZhoLQrMc",
+        "questions": [
+          {
+            "question": "What is the center of mass of a system?",
+            "options": {
+              "1": "The point that moves as if all mass is concentrated there",
+              "2": "The average position of all particles",
+              "3": "The point where all forces act",
+              "4": "The highest point of the particle system"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is a torque?",
+            "options": {
+              "1": "A force causing rotation",
+              "2": "The rate of change of angular momentum",
+              "3": "The moment of inertia",
+              "4": "Energy of rotation"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which law relates the angular momentum of a system to the torque applied?",
+            "options": {
+              "1": "Law of inertia",
+              "2": "Newton's first law",
+              "3": "Newton's second law",
+              "4": "Conservation of angular momentum"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the unit of angular velocity?",
+            "options": {
+              "1": "rad/s",
+              "2": "m/s",
+              "3": "kg·m²/s",
+              "4": "Newton"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which of the following is the formula for rotational kinetic energy?",
+            "options": {
+              "1": "KE = 1/2 Iω²",
+              "2": "KE = mv²",
+              "3": "KE = Fd",
+              "4": "KE = mgh"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "Gravitation",
+        "url": "https://www.youtube.com/watch?v=ho6IgTr8xi0",
+        "questions": [
+          {
+            "question": "What is the law of universal gravitation?",
+            "options": {
+              "1": "Every particle attracts every other particle",
+              "2": "Force varies with velocity",
+              "3": "Energy is conserved",
+              "4": "Force is constant"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the value of gravitational constant (G)?",
+            "options": {
+              "1": "9.8 m/s²",
+              "2": "6.67 × 10⁻¹¹ N m²/kg²",
+              "3": "1.6 × 10⁻¹⁹ C",
+              "4": "3.14"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What happens to gravitational force as distance increases?",
+            "options": {
+              "1": "Increases",
+              "2": "Decreases",
+              "3": "Remains constant",
+              "4": "Fluctuates"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Which equation represents gravitational potential energy?",
+            "options": {
+              "1": "PE = mgh",
+              "2": "PE = 1/2 mv²",
+              "3": "PE = Fd",
+              "4": "PE = mgh²"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the effect of mass on gravitational force between two objects?",
+            "options": {
+              "1": "Directly proportional",
+              "2": "Inversely proportional",
+              "3": "No effect",
+              "4": "Varies with temperature"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "Mechanical Properties of Solids",
+        "url": "https://www.youtube.com/watch?v=4r_Rw6wMdjo",
+        "questions": [
+          {
+            "question": "What is the definition of elastic limit?",
+            "options": {
+              "1": "Maximum stress without permanent deformation",
+              "2": "Point of structural failure",
+              "3": "Point where a material breaks",
+              "4": "Maximum strain before failure"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What does Young's modulus measure?",
+            "options": {
+              "1": "Stress to strain ratio",
+              "2": "Strain to stress ratio",
+              "3": "Force to area ratio",
+              "4": "Energy to volume ratio"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of pressure in the SI system?",
+            "options": {
+              "1": "Pascal",
+              "2": "Newton",
+              "3": "Joule",
+              "4": "Watt"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What property describes the ability of a solid to deform under stress?",
+            "options": {
+              "1": "Elasticity",
+              "2": "Plasticity",
+              "3": "Brittleness",
+              "4": "Viscosity"
+            },
+            "answer": 2
+          },
+          {
+            "question": "Which material exhibits plastic behavior?",
+            "options": {
+              "1": "Steel",
+              "2": "Rubber",
+              "3": "Glass",
+              "4": "Copper"
+            },
+            "answer": 4
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "Mechanical Properties of Fluids",
+        "url": "https://www.youtube.com/watch?v=N_hDDngtdzM",
+        "questions": [
+          {
+            "question": "What is the definition of viscosity?",
+            "options": {
+              "1": "Resistance of a fluid to flow",
+              "2": "Ability of a substance to float",
+              "3": "Measure of a fluid's density",
+              "4": "Rate of flow of a fluid"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of pressure in a fluid at rest?",
+            "options": {
+              "1": "Pascal",
+              "2": "Newton",
+              "3": "Joule",
+              "4": "Watt"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What forces act on an object submerged in a fluid?",
+            "options": {
+              "1": "Buoyant force",
+              "2": "Gravitational force",
+              "3": "Both a and b",
+              "4": "None of the above"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What does Bernoulli's principle state?",
+            "options": {
+              "1": "An increase in the speed of a fluid occurs simultaneously with a decrease in pressure",
+              "2": "Pressure increases with depth",
+              "3": "Velocity is constant in a closed system",
+              "4": "Maximum pressure occurs at maximum velocity"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the relationship between pressure and volume in a fluid under constant temperature?",
+            "options": {
+              "1": "Inversely proportional",
+              "2": "Directly proportional",
+              "3": "No relationship",
+              "4": "Directly proportional to temperature"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "Thermal Properties of Matter",
+        "url": "https://www.youtube.com/watch?v=7GMpJNCRxac",
+        "questions": [
+          {
+            "question": "What occurs during a phase change?",
+            "options": {
+              "1": "Temperature changes",
+              "2": "Energy is absorbed or released without temperature change",
+              "3": "Density increases",
+              "4": "Pressure decreases"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the specific heat capacity?",
+            "options": {
+              "1": "Energy required to change the temperature of 1 kg of a substance by 1°C",
+              "2": "Energy required to melt a substance",
+              "3": "Energy required to vaporize a substance",
+              "4": "Energy required to compress a gas"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is latent heat?",
+            "options": {
+              "1": "Heat necessary for changing temperature",
+              "2": "Heat required to change the state of a substance",
+              "3": "Heat calculated per unit mass",
+              "4": "Heat released during combustion"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the principle of thermal expansion?",
+            "options": {
+              "1": "Bodies expand on heating",
+              "2": "Bodies contract on cooling",
+              "3": "Both a and b",
+              "4": "None of the above"
+            },
+            "answer": 3
+          },
+          {
+            "question": "What is the temperature at which all molecular motion ceases?",
+            "options": {
+              "1": "0°C",
+              "2": "−273.15°C",
+              "3": "0 K",
+              "4": "1 K"
+            },
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "Thermodynamics",
+        "url": "https://www.youtube.com/watch?v=7dSQM860wes",
+        "questions": [
+          {
+            "question": "What does the first law of thermodynamics state?",
+            "options": {
+              "1": "Energy cannot be created or destroyed",
+              "2": "Energy is always conserve",
+              "3": "Energy is transformed",
+              "4": "All of the above"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of heat in the SI system?",
+            "options": {
+              "1": "Joule",
+              "2": "Calorie",
+              "3": "Newton",
+              "4": "Kilojoule"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is an endothermic process?",
+            "options": {
+              "1": "Absorbs heat from surroundings",
+              "2": "Releases heat to surroundings",
+              "3": "Constant temperature process",
+              "4": "Cooler than surroundings"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is entropy a measure of?",
+            "options": {
+              "1": "Energy consumption",
+              "2": "Disorder in a system",
+              "3": "Work done",
+              "4": "Heat transfer"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What does a negative change in enthalpy (ΔH) indicate?",
+            "options": {
+              "1": "Endothermic reaction",
+              "2": "No reaction",
+              "3": "Exothermic reaction",
+              "4": "Equilibrium"
+            },
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "Kinetic Theory",
+        "url": "https://www.youtube.com/watch?v=2X7XcinHjl8",
+        "questions": [
+          {
+            "question": "What does the kinetic theory of gases state?",
+            "options": {
+              "1": "Gas particles are in constant motion",
+              "2": "Gas particles have no interactions",
+              "3": "Gas particles occupy no volume",
+              "4": "All of the above"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the relationship between pressure and volume at constant temperature?",
+            "options": {
+              "1": "Directly proportional",
+              "2": "Inversely proportional",
+              "3": "Constant",
+              "4": "Depends on the gas"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What happens to the average kinetic energy of gas particles as temperature increases?",
+            "options": {
+              "1": "Increases",
+              "2": "Decreases",
+              "3": "Remains constant",
+              "4": "Fluctuates"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the principle behind the ideal gas law?",
+            "options": {
+              "1": "PV = nRT",
+              "2": "F = ma",
+              "3": "E = mc²",
+              "4": "W = Fd"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of temperature in the SI system?",
+            "options": {
+              "1": "Celsius",
+              "2": "Kelvin",
+              "3": "Fahrenheit",
+              "4": "Rankine"
+            },
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "Oscillations",
+        "url": "https://www.youtube.com/watch?v=eL7s6QvvY7k",
+        "questions": [
+          {
+            "question": "What is a simple harmonic motion?",
+            "options": {
+              "1": "Periodic motion where net force is proportional to displacement",
+              "2": "Random motion with no pattern",
+              "3": "Circular motion",
+              "4": "Motion of a pendulum"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the unit of frequency?",
+            "options": {
+              "1": "Seconds",
+              "2": "Hertz",
+              "3": "Meters",
+              "4": "Newtons"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What is the formula for the period of a simple pendulum?",
+            "options": {
+              "1": "T = 2π√(L/g)",
+              "2": "T = 1/f",
+              "3": "T = 2πf",
+              "4": "T = sqrt(g/L)"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What is the amplitude in oscillatory motion?",
+            "options": {
+              "1": "Max displacement from the equilibrium position",
+              "2": "Distance traveled in one cycle",
+              "3": "Frequency of oscillation",
+              "4": "Speed of oscillation"
+            },
+            "answer": 1
+          },
+          {
+            "question": "Which factors affect the frequency of a simple pendulum?",
+            "options": {
+              "1": "Length of the pendulum",
+              "2": "Mass of the bob",
+              "3": "Amplitude of oscillation",
+              "4": "All of the above"
+            },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "Waves",
+        "url": "https://www.youtube.com/watch?v=qrJJMbGZazg",
+        "questions": [
+          {
+            "question": "What is a wave?",
+            "options": {
+              "1": "A disturbance that transfers energy through a medium",
+              "2": "A continuous movement",
+              "3": "A force applied to an object",
+              "4": "An oscillation of matter"
+            },
+            "answer": 1
+          },
+          {
+            "question": "What type of wave requires a medium for propagation?",
+            "options": {
+              "1": "Electromagnetic waves",
+              "2": "Mechanical waves",
+              "3": "Sound waves",
+              "4": "Both b and c"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the wavelength of a wave?",
+            "options": {
+              "1": "Distance between two consecutive crests",
+              "2": "Distance between two consecutive troughs",
+              "3": "The length of the wave cycle",
+              "4": "All of the above"
+            },
+            "answer": 4
+          },
+          {
+            "question": "What is the unit of frequency?",
+            "options": {
+              "1": "Meters",
+              "2": "Hertz",
+              "3": "Seconds",
+              "4": "Joules"
+            },
+            "answer": 2
+          },
+          {
+            "question": "What occurs when two waves meet and combine?",
+            "options": {
+              "1": "Interference",
+              "2": "Refraction",
+              "3": "Diffraction",
+              "4": "Reflection"
+            },
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  }

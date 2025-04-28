@@ -1,0 +1,78 @@
+{
+    "class": "Class 5",
+    "subject": "English",
+    "book": "Marigold",
+    "video_explanations": [
+      {
+        "unit_no": 1,
+        "chapter_name": "Ice Cream Man & Wonderful Waste",
+        "video_duration": "1:27:50",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=GZ0sTOA8iNI"
+      },
+      {
+        "unit_no": 2,
+        "chapter_name": "Team Work & Flying Together",
+        "video_duration": "1:49:43",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=k5s3oIwzJLw"
+      },
+      {
+        "unit_no": 3,
+        "chapter_name": "My Shadow & Robinson Crusoe Discovers a Footprint",
+        "video_duration": "1:13:47",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=Xfr2ymm7i0g"
+      },
+      {
+        "unit_no": 4,
+        "chapter_name": "Crying & My Elder Brother",
+        "video_duration": "1:28:32",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=goRIv6MzNV4"
+      },
+      {
+        "unit_no": 5,
+        "chapter_name": "The Lazy Frog & Rip Van Winkle",
+        "video_duration": "1:09:21",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=cME3SlumhmE"
+      },
+      {
+        "unit_no": 6,
+        "chapter_name": "Class Discussion & The Talkative Barber",
+        "video_duration": "1:21:42",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=J0USGKyHB7s"
+      },
+      {
+        "unit_no": 7,
+        "chapter_name": "Topsy-Turvy Land & Gulliver's Travels",
+        "video_duration": "1:13:46",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=73aAYrBdvzw"
+      },
+      {
+        "unit_no": 8,
+        "chapter_name": "Nobody's Friend & The Little Bully",
+        "video_duration": "1:16:17",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ythopzOx1UU"
+      },
+      {
+        "unit_no": 9,
+        "chapter_name": "Sing a Song of People",
+        "video_duration": "49:12",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=zGxljTr7j0o"
+      },
+      {
+        "unit_no": 10,
+        "chapter_name": "Malu Bhalu & Who Will Be Ningthou?",
+        "video_duration": "1:09:15",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=swbI5XK8NSw"
+      }
+    ]
+  }
+  

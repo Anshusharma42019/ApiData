@@ -1,0 +1,134 @@
+{
+    "class": "Class 5",
+    "subject": "Hindi",
+    "book": "Rimjhim",
+    "video_explanations": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "राख की रस्सी",
+        "video_duration": "1:06:58",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=aRJwHNwUOOY"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "फसलों का त्योहार",
+        "video_duration": "48:16",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=L5kxPoJQFw4&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=2"
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "खिलौनेवाला",
+        "video_duration": "1:13:51",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=-sZ6YOPsftA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=3"
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "नन्हा फनकार",
+        "video_duration": "52:38",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ER1zaX9g91Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=4"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "जहां चाह वहां राह",
+        "video_duration": "43:21",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=6mzTh2FCcI0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=5"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "चिट्ठी का सफर",
+        "video_duration": "45:17",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=gM7F3W06eTU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=6"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "डाकिए की कहानी, कंवरसिंह की जुबानी",
+        "video_duration": "42:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=HdkFXPdTASM&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=7"
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "वे दिन भी क्या दिन थे",
+        "video_duration": "43:13",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=estrrRZA8iU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=8"
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "एक माँ की बेबसी",
+        "video_duration": "42:21",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=Hzl_Di4UuGs&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=9"
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "एक दिन की बादशाहत",
+        "video_duration": "38:56",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=IKBoQMZHjdo&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=10"
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "चावल की रोटियाँ",
+        "video_duration": "47:33",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=ELuoLkYKv1k&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=11"
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "गुरु और चेला",
+        "video_duration": "57:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=VICDN2lRWN0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=12"
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "स्वामी की दादी",
+        "video_duration": "46:27",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=UT98ISLrg5Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=13"
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "बाघ आया उस रात",
+        "video_duration": "30:05",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=EMTCslP4cpA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=14"
+      },
+      {
+        "chapter_no": 15,
+        "chapter_name": "बिशन की दिलेरी",
+        "video_duration": "46:12",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=el5kvSSLvzY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=15"
+      },
+      {
+        "chapter_no": 16,
+        "chapter_name": "पानी रे पानी",
+        "video_duration": "43:47",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=AsgGky-unfg&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=16"
+      },
+      {
+        "chapter_no": 17,
+        "chapter_name": "छोटी-सी हमारी नदी",
+        "video_duration": "38:03",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=_PiQY3nzjdY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=17"
+      },
+      {
+        "chapter_no": 18,
+        "chapter_name": "चुनौतियाँ हिमालय की",
+        "video_duration": "42:49",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=FscGAvCsmoY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=18"
+      }
+    ]
+  }
+  

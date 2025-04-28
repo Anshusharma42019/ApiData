@@ -1,0 +1,567 @@
+{
+  "class": 1,
+  "subject": "English",
+  "book": "Marigold",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "A Happy Child / Three Little Pigs",
+      "questions": [
+        {
+          "question": "What is the title of the poem?",
+          "options": {
+            "A": "Happy Child",
+            "B": "Little Pigs",
+            "C": "A Happy Child",
+            "D": "Happy Animal"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Who is the main character of the poem?",
+          "options": {
+            "A": "A dog",
+            "B": "A child",
+            "C": "A pig",
+            "D": "A bird"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does the child feel in the poem?",
+          "options": {
+            "A": "Sad",
+            "B": "Happy",
+            "C": "Angry",
+            "D": "Tired"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the child playing with?",
+          "options": {
+            "A": "A ball",
+            "B": "A toy",
+            "C": "A friend",
+            "D": "A dog"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the pig doing in the poem?",
+          "options": {
+            "A": "Running",
+            "B": "Dancing",
+            "C": "Playing",
+            "D": "Sleeping"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "After a Bath / The Bubble, the Straw and the Shoe",
+      "questions": [
+        {
+          "question": "What happens after the child takes a bath?",
+          "options": {
+            "A": "Feels fresh",
+            "B": "Gets dirty",
+            "C": "Starts playing",
+            "D": "Starts reading"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the child feel after a bath?",
+          "options": {
+            "A": "Cold",
+            "B": "Happy",
+            "C": "Tired",
+            "D": "Sad"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Where is the soap in the poem?",
+          "options": {
+            "A": "In the bag",
+            "B": "In the tub",
+            "C": "In the kitchen",
+            "D": "On the bed"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What object is used to create bubbles?",
+          "options": {
+            "A": "A straw",
+            "B": "A shoe",
+            "C": "A towel",
+            "D": "A sponge"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who is the friend of the child in the poem?",
+          "options": {
+            "A": "A dog",
+            "B": "A cat",
+            "C": "A pig",
+            "D": "A toy"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "One Little Kitten / Lalu and Peelu",
+      "questions": [
+        {
+          "question": "What did the kitten do?",
+          "options": {
+            "A": "Climbed a tree",
+            "B": "Caught a mouse",
+            "C": "Ran away",
+            "D": "Sat still"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many kittens are there in the poem?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What color is the kitten in the poem?",
+          "options": {
+            "A": "White",
+            "B": "Black",
+            "C": "Gray",
+            "D": "Brown"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What animal did Lalu and Peelu find?",
+          "options": {
+            "A": "A dog",
+            "B": "A cow",
+            "C": "A tiger",
+            "D": "A cat"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Where does the story take place?",
+          "options": {
+            "A": "In a forest",
+            "B": "On a farm",
+            "C": "In a city",
+            "D": "At the beach"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "Once I Saw a Little Bird / Mittu and the Yellow Mango",
+      "questions": [
+        {
+          "question": "What did the poet see?",
+          "options": {
+            "A": "A tree",
+            "B": "A bird",
+            "C": "A cloud",
+            "D": "A flower"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the bird doing?",
+          "options": {
+            "A": "Flying",
+            "B": "Singing",
+            "C": "Sleeping",
+            "D": "Eating"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What color is the bird in the poem?",
+          "options": {
+            "A": "Yellow",
+            "B": "Red",
+            "C": "Blue",
+            "D": "Green"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did Mittu find?",
+          "options": {
+            "A": "A yellow mango",
+            "B": "A blue balloon",
+            "C": "A green leaf",
+            "D": "A red apple"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who is the main character in the story?",
+          "options": {
+            "A": "Mittu",
+            "B": "Motu",
+            "C": "Mimi",
+            "D": "Micky"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "Merry-Go-Round / Circle",
+      "questions": [
+        {
+          "question": "What is a merry-go-round?",
+          "options": {
+            "A": "A type of tree",
+            "B": "A ride",
+            "C": "A circle",
+            "D": "A game"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What shape is the merry-go-round?",
+          "options": {
+            "A": "Square",
+            "B": "Circle",
+            "C": "Rectangle",
+            "D": "Triangle"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the poet describing?",
+          "options": {
+            "A": "A ball",
+            "B": "A ride",
+            "C": "A toy",
+            "D": "A tree"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the poet want to do?",
+          "options": {
+            "A": "Jump",
+            "B": "Sing",
+            "C": "Play",
+            "D": "Run"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the poet compare the merry-go-round to?",
+          "options": {
+            "A": "A flower",
+            "B": "A ball",
+            "C": "A circle",
+            "D": "A toy"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "If I Were an Apple / Our Tree",
+      "questions": [
+        {
+          "question": "Where is the apple hanging?",
+          "options": {
+            "A": "On the table",
+            "B": "On the ground",
+            "C": "On a tree",
+            "D": "On a plate"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the poet want to be?",
+          "options": {
+            "A": "An orange",
+            "B": "A mango",
+            "C": "An apple",
+            "D": "A banana"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the apple wish to do?",
+          "options": {
+            "A": "Fall on a man",
+            "B": "Go to school",
+            "C": "Run fast",
+            "D": "Climb a tree"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is described in 'Our Tree'?",
+          "options": {
+            "A": "A car",
+            "B": "A bird",
+            "C": "A tree",
+            "D": "A cloud"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What do trees give us?",
+          "options": {
+            "A": "Rocks",
+            "B": "Air and shade",
+            "C": "Rain",
+            "D": "Sunlight"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "A Kite / Sundari",
+      "questions": [
+        {
+          "question": "What is flying in the sky?",
+          "options": {
+            "A": "A balloon",
+            "B": "A bird",
+            "C": "A kite",
+            "D": "A plane"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What color is the kite in the poem?",
+          "options": {
+            "A": "Black",
+            "B": "Red",
+            "C": "Yellow",
+            "D": "Blue"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who made the kite in the story Sundari?",
+          "options": {
+            "A": "Amar",
+            "B": "Anil",
+            "C": "Deepak",
+            "D": "Ali"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What did Ali name his kite?",
+          "options": {
+            "A": "Sonu",
+            "B": "Sundari",
+            "C": "Chulbuli",
+            "D": "Bubbly"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happened when Sundari flew?",
+          "options": {
+            "A": "It broke",
+            "B": "It got stuck",
+            "C": "It danced in the air",
+            "D": "It fell down"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "A Little Turtle / The Tiger and the Mosquito",
+      "questions": [
+        {
+          "question": "What is the name of the animal in the poem?",
+          "options": {
+            "A": "A dog",
+            "B": "A turtle",
+            "C": "A fish",
+            "D": "A cat"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the turtle do when afraid?",
+          "options": {
+            "A": "Runs fast",
+            "B": "Jumps",
+            "C": "Hides in its shell",
+            "D": "Flies away"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Who disturbed the tiger in the story?",
+          "options": {
+            "A": "A lion",
+            "B": "A monkey",
+            "C": "A mosquito",
+            "D": "A man"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did the mosquito do to the tiger?",
+          "options": {
+            "A": "Bit him",
+            "B": "Helped him",
+            "C": "Tickled him",
+            "D": "Ignored him"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did the tiger do at the end?",
+          "options": {
+            "A": "Ate the mosquito",
+            "B": "Fell asleep",
+            "C": "Ran away",
+            "D": "Walked off in shame"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "Clouds / Anandi’s Rainbow",
+      "questions": [
+        {
+          "question": "What do clouds bring?",
+          "options": {
+            "A": "Snow",
+            "B": "Sunshine",
+            "C": "Rain",
+            "D": "Wind"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What color are rain clouds usually?",
+          "options": {
+            "A": "Pink",
+            "B": "White",
+            "C": "Blue",
+            "D": "Grey"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Who saw a rainbow?",
+          "options": {
+            "A": "Rani",
+            "B": "Anandi",
+            "C": "Sundari",
+            "D": "Gauri"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many colors are in a rainbow?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "4"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did Anandi do with the rainbow?",
+          "options": {
+            "A": "Ignored it",
+            "B": "Painted it",
+            "C": "Ran from it",
+            "D": "Wrote about it"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "Flying-Man / The Tailor and His Friend",
+      "questions": [
+        {
+          "question": "Who is the poem about?",
+          "options": {
+            "A": "A pilot",
+            "B": "A bird",
+            "C": "A flying man",
+            "D": "A superhero"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the flying-man do?",
+          "options": {
+            "A": "Sleeps",
+            "B": "Flies high",
+            "C": "Walks",
+            "D": "Jumps"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who is the friend of the tailor?",
+          "options": {
+            "A": "An elephant",
+            "B": "A dog",
+            "C": "A cat",
+            "D": "A monkey"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did the tailor do to the elephant?",
+          "options": {
+            "A": "Gave him food",
+            "B": "Pulled his tail",
+            "C": "Pricked him with a needle",
+            "D": "Painted him"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did the elephant do in return?",
+          "options": {
+            "A": "Forgave him",
+            "B": "Ran away",
+            "C": "Sprayed water",
+            "D": "Cried"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    }
+  ]
+}

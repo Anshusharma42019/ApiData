@@ -1,0 +1,98 @@
+{
+    "class": "10",
+    "subject": "Chemistry",
+    "source": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_name": "Chemical Reactions and Equations",
+        "videos": [
+          {
+            "part": 1,
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=53MKKyspwdc",
+            "channel": "Magnet Brains"
+          },
+          {
+            "part": 2,
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=v7oAc3bu1RI",
+            "channel": "Magnet Brains"
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_name": "Acids, Bases and Salts",
+        "videos": [
+          {
+            "part": 1,
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=Los_rGdjXeg",
+            "channel": "Magnet Brains"
+          },
+          {
+            "part": 2,
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=wf7mbdIIMDQ",
+            "channel": "Magnet Brains"
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_name": "Metals and Non-Metals",
+        "videos": [
+          {
+            "part": 1,
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=2q3sS2YjdNE",
+            "channel": "Magnet Brains"
+          },
+          {
+            "part": 2,
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=ORp0W0_bZEw",
+            "channel": "Magnet Brains"
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_name": "Carbon and Its Compounds",
+        "videos": [
+          {
+            "part": 1,
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=taOXW_MJ5MY",
+            "channel": "Magnet Brains"
+          },
+          {
+            "part": 2,
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=diROxxtMTr4",
+            "channel": "Magnet Brains"
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_name": "Periodic Classification of Elements",
+        "videos": [
+          {
+            "part": 1,
+            "title": "Part 1",
+            "url": "https://www.youtube.com/watch?v=-HAGwKuZC34",
+            "channel": "Magnet Brains"
+          },
+          {
+            "part": 2,
+            "title": "Part 2",
+            "url": "https://www.youtube.com/watch?v=5WNt48fMYN4",
+            "channel": "Magnet Brains"
+          }
+        ]
+      }
+    ]
+  }
+  

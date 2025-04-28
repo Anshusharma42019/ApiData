@@ -1,0 +1,148 @@
+{
+    "class": "Class 7",
+    "subject": "Hindi",
+    "book": "Vasant",
+    "video_explanations": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "Hum Panchhi Unmukt Gagan Ke",
+        "video_duration": "33:45",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Dadi Maa",
+        "video_duration": "39:52",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Himalayan Ki Betiyan",
+        "video_duration": "28:21",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Kathputli",
+        "video_duration": "22:26",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Mithaiwala",
+        "video_duration": "43:38",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Rakt Aur Hamara Sharir",
+        "video_duration": "29:44",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 7,
+        "chapter_name": "Papa Kho Gaye",
+        "video_duration": "1:07:33",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 8,
+        "chapter_name": "Shaam: Ek Kisaan",
+        "video_duration": "27:26",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 9,
+        "chapter_name": "Chidiya Ki Bacchi",
+        "video_duration": "44:18",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 10,
+        "chapter_name": "Apurv Anubhav",
+        "video_duration": "39:20",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 11,
+        "chapter_name": "Rahim ke Dohe",
+        "video_duration": "24:11",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 12,
+        "chapter_name": "Kancha",
+        "video_duration": "50:58",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "Ek Tinka",
+        "video_duration": "21:02",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "Khanpan Ki Badalti Tasveer",
+        "video_duration": "37:13",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 15,
+        "chapter_name": "Neelkanth",
+        "video_duration": "53:52",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 16,
+        "chapter_name": "Bhor or Barkha",
+        "video_duration": "19:12",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 17,
+        "chapter_name": "Veer Kunwar Singh",
+        "video_duration": "42:51",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 18,
+        "chapter_name": "Sangharsh Ke Karan Mein Tunukmizaaj Ho Gaya: Dhanraj",
+        "video_duration": "34:19",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 19,
+        "chapter_name": "Aashram ka Anumanit Vyay",
+        "video_duration": "21:14",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      },
+      {
+        "chapter_no": 20,
+        "chapter_name": "Viplav Gayan",
+        "video_duration": "19:47",
+        "channel_name": "Magnet Brains",
+        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
+      }
+    ]
+  }
+  

@@ -1,0 +1,93 @@
+{
+    "subject": "Biology",
+    "class": "9",
+    "board": "CBSE",
+    "channel": "Magnet Brains",
+    "chapters": [
+      {
+        "chapter_no": 1,
+        "chapter_name": "The Fundamental Unit of Life",
+        "videos": [
+          {
+            "title": "part 1",
+            "url": "https://www.youtube.com/watch?v=Gp5QX0RLOys"
+          },
+          {
+            "title": "part 2",
+            "url": "https://www.youtube.com/watch?v=boW8Fz2MF2E"
+          },
+          {
+            "title": "part 3",
+            "url": "https://www.youtube.com/watch?v=grxC8BzEFY8"
+          }
+        ]
+      },
+      {
+        "chapter_no": 2,
+        "chapter_name": "Tissues",
+        "videos": [
+          {
+            "title": "part 1",
+            "url": "https://www.youtube.com/watch?v=pkHlzq7hvMc"
+          },
+          {
+            "title": "part 2",
+            "url": "https://www.youtube.com/watch?v=8qFOMcnmWcA"
+          },
+          {
+            "title": "part 3",
+            "url": "https://www.youtube.com/watch?v=s9LxauKDbfY"
+          },
+          {
+            "title": "part 4",
+            "url": "https://www.youtube.com/watch?v=I24B1ZY_qV8"
+          },
+          {
+            "title": "part 5",
+            "url": "https://www.youtube.com/watch?v=7qfYO6pEwok"
+          }
+        ]
+      },
+      {
+        "chapter_no": 3,
+        "chapter_name": "Diversity in Living Organisms",
+        "videos": [
+          {
+            "title": "Diversity in Living Organisms Full Chapter Class 9 Biology | CBSE Class 9 Biology",
+            "url": "https://www.youtube.com/watch?v=6sJg2w4joQI"
+          }
+        ]
+      },
+      {
+        "chapter_no": 4,
+        "chapter_name": "Why Do We Fall Ill",
+        "videos": [
+          {
+            "title": "Why Do We Fall ill Full Chapter Class 9 Biology | CBSE Class 9 Biology Chapter 13",
+            "url": "https://www.youtube.com/watch?v=9LYgFwslkhk"
+          }
+        ]
+      },
+      {
+        "chapter_no": 5,
+        "chapter_name": "Natural Resources",
+        "videos": [
+          {
+            "title": "Natural Resources Full Chapter Class 9 Biology | CBSE Class 9 Biology",
+            "url": "https://www.youtube.com/watch?v=TXP5PAow50s"
+          }
+        ]
+      },
+      {
+        "chapter_no": 6,
+        "chapter_name": "Improvement in Food Resources",
+        "videos": [
+          {
+            "title": "Improvement in Food Resources Full Chapter Class 9 Biology | CBSE Class 9 Biology",
+            "url": "https://www.youtube.com/watch?v=ANgVX7DeFnw"
+          }
+        ]
+      }
+    ]
+  }
+  
