@@ -7,6 +7,10 @@ content_bp = Blueprint('content_bp', __name__)
 # Base directory: backend/app
 # NEW — points directly to /backend/app
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+@content_bp.route('/')
+def home():
+    return jsonify({"message": "Welcome from Blueprint!"})
+
 
 
 # Helper function to get the content file
