@@ -14,6 +14,9 @@ API_URL = os.getenv('API_URL')  # This will be used in your Flask routes
 def create_app():
     app = Flask(__name__)
     app.register_blueprint(content_bp)
+    @app.route('/')
+    def home():
+        return jsonify({"message": "Welcome to the API Home!"})
 
   
 
