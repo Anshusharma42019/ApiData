@@ -1,52 +1,52 @@
 {
     "class_subject_images": {
-      "Class 1": {
+      "Class_1": {
         "English": "https://www.schoolchamp.net/image/cache/catalog/product/cbse/class_1/ncert-marigold-textbook-in-english-for-class-1-924x1042.webp",
         "Hindi": "https://m.media-amazon.com/images/I/41PhorvlT2L._AC_UF1000,1000_QL80_.jpg",
         "Maths": "https://m.media-amazon.com/images/I/41G6WAauBDL._AC_UF1000,1000_QL80_.jpg"
       },
-      "Class 2": {
+      "Class_2": {
         "English": "https://5.imimg.com/data5/SELLER/Default/2023/1/HN/QI/KY/86294456/marigold-500x500.jpg",
         "Hindi": "https://m.media-amazon.com/images/I/81+1z4i0BvL._AC_UF1000,1000_QL80_.jpg",
         "Maths": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4Y7U1qJcqhs5SEosZa3qx2RUXHKH4JxTOw&s"
       },
-      "Class 3": {
+      "Class_3": {
         "English": "https://m.media-amazon.com/images/I/91DnxuiIrIL._AC_UF1000,1000_QL80_.jpg",
         "Hindi": "https://m.media-amazon.com/images/I/91wRynRXiHL._AC_UF1000,1000_QL80_.jpg",
         "Maths": "https://m.media-amazon.com/images/I/51FcRe+GFyL._AC_UF1000,1000_QL80_.jpg"
       },
-      "Class 4": {
+      "Class_4": {
         "English": "https://rukminim2.flixcart.com/image/850/1000/ktyp8cw0/regionalbooks/m/k/t/marigold-textbook-in-english-for-class-4-original-imag76w6jhecstxy.jpeg?q=90&crop=false",
         "Hindi": "https://m.media-amazon.com/images/I/31qhiXdk5sL._AC_UF1000,1000_QL80_.jpg",
         "Maths": "https://sahityabhawan.co.in/wp-content/uploads/2021/07/2359_Page_1.jpg"
       },
-      "Class 5": {
+      "Class_5": {
         "English": "https://rukminim3.flixcart.com/image/850/1000/xif0q/regionalbooks/l/n/v/marigold-class-5-original-imagrneyq9cs3zhc.jpeg?q=90&crop=false",
         "Hindi": "https://ncert.nic.in/textbook/pdf/ehhn1cc.jpg",
         "Maths": "https://www.prakashsales.in/ps_assets/products/1637570046_CLASS_5_MATH_MAGIC.jpg"
       },
-      "Class 6": {
+      "Class_6": {
         "English": "https://m.media-amazon.com/images/I/51ZUM-M-FJL._SY445_SX342_.jpg",
         "Hindi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSntSQIdMt-8DS9EAKrk1Eb2IAvMkezq50ybw&s",
         "Maths": "https://m.media-amazon.com/images/I/71LZr5JmFQL._AC_UF1000,1000_QL80_.jpg",
         "Science": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlaRnirIjPh1xsdAvGBbdwg0HoFtKS_RSMYg&s",
         "Social Science": "https://rachnasagar.in/assets/images/product/big/1682-f-Forever-Social-Science-6-F.jpg"
       },
-      "Class 7": {
+      "Class_7": {
         "English": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiShugljEKuuwR8nofBt2vP4crtzY-I-G60A&s",
         "Hindi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H89O87FFyK4C3qR0L-DFATaNg1y4CaICFg&s",
         "Maths": "https://m.media-amazon.com/images/I/41oo1gGiM4L._AC_UF1000,1000_QL80_.jpg",
         "Science": "https://images-eu.ssl-images-amazon.com/images/I/41pm4LfQL5L._AC_UL210_SR210,210_.jpg",
         "Social Science": "https://rukminim3.flixcart.com/image/850/1000/l5h2xe80/regionalbooks/8/c/b/ncert-class-7-social-science-set-history-geography-and-political-original-imagg59t7hggrwgg.jpeg?q=20&crop=false"
       },
-      "Class 8": {
+      "Class_8": {
         "English": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahouCjh5xra6LPy-Norq1zCpk-iRLVs9URg&s",
         "Hindi": "https://ncert.nic.in/textbook/pdf/hhvs1cc.jpg",
         "Maths": "https://m.media-amazon.com/images/I/51WmZuQbsOL._AC_UF1000,1000_QL80_.jpg",
         "Science": "https://m.media-amazon.com/images/I/41WIhqNiPdL._AC_UF1000,1000_QL80_.jpg",
         "Social Science": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWO2F5Dzrbx8h-lor1BpEjrLl25qtQBNP8Q&s"
       },
-      "Class 9": {
+      "Class_9": {
         "English": "https://m.media-amazon.com/images/I/51yJ3Ks6yLL._AC_SY200_QL15_.jpg",
         "Hindi": "https://rukminim2.flixcart.com/image/850/1000/l186t8w0/regionalbooks/p/p/5/kshitij-bhag-1-and-kritika-bhag-1-class-9-hindi-book-ncert-original-imagcu8r5gpmpqu7.jpeg?q=90&crop=false",
         "Maths": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8x8VXx5y55XRI60tDFlOth6YzWAo1y2_wXw&s",
@@ -55,7 +55,7 @@
         "Biology": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHi4-l7mqRnPw1HW0RCI1Wgmb7TdWK7dBGbw&s",
         "Social Science": "https://rukminim2.flixcart.com/image/850/1000/knyxqq80/regionalbooks/l/f/l/social-science-class-9-ncert-history-civics-geography-economics-original-imag2j6uarmg22p9.jpeg?q=20&crop=false"
       },
-      "Class 10": {
+      "Class_10": {
         "English": "https://img.jagranjosh.com/images/2021/June/862021/class10-english-footprints-without-feet-book.webp",
         "Hindi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWbmZQWn4_3m-0OLuWvRJomNyFySowKruwQ&s",
         "Maths": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNx_MELSivIhp179FQ7QkfJtGJm7Fr_gK5wQ&s",
@@ -64,14 +64,14 @@
         "Biology": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcswnpMqZli439QQVacBGix459f53XSn6Ykg&s",
         "Social Science": "https://m.media-amazon.com/images/I/81Y613eDUWL.jpg"
       },
-      "Class 11": {
+      "Class_11": {
        
         "Maths": "https://m.media-amazon.com/images/I/81FG0XZXXGL._AC_UF1000,1000_QL80_.jpg",
         "Physics": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkw-PJtrZ8kOYU-rUZY4tQ6eHop-c7Sz7diA&s",
         "Chemistry": "https://rukminim3.flixcart.com/image/850/1000/xif0q/regionalbooks/h/s/t/ncert-chemistry-part-1-class-11-original-imagrvmcysk5jmhb.jpeg?q=90&crop=false",
         "Biology": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYJ5pl1Rpt2hLFwYsBN9lxYVKoqHpx6CxJA&s"
       },
-      "Class 12": {
+      "Class_12": {
         
         "Maths": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1ragc7NQzssoUITWwAJLPmNPLNHf1mLUfw&s",
         "Physics": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQME0HYlgmEiwTrNcHejhvlutduKEhmcUJ58Q&s",
