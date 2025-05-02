@@ -72,6 +72,8 @@ def get_quiz(class_number, subject):
 
 
 
+from flask import redirect
+
 @content_bp.route('/api/image/<class_name>/<subject>', methods=['GET'])
 def get_single_image(class_name, subject):
     json_path = os.path.join(BASE_DIR, 'content/images/images.json')
@@ -80,21 +82,18 @@ def get_single_image(class_name, subject):
         with open(json_path, 'r') as f:
             data = json.load(f)
 
-        # Normalize keys (capitalize class and subject keys)
         class_key = class_name.capitalize().replace('class_', 'Class_')
         subject_key = subject.capitalize()
 
         class_subject_images = data.get("class_subject_images", {})
         subject_images = class_subject_images.get(class_key, {})
 
-        if not subject_images:
-            return jsonify({"error": f"Class '{class_key}' not found"}), 404
-
         image_url = subject_images.get(subject_key)
         if not image_url:
-            return jsonify({"error": f"Subject '{subject_key}' not found for class '{class_key}'"}), 404
+            return jsonify({"error": f"Image not found for Class {class_key} and Subject {subject_key}"}), 404
 
-        return jsonify({"class": class_key, "subject": subject_key, "image": image_url}), 200
+        # Redirect the browser to the actual image URL
+        return redirect(image_url)
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
