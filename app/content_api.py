@@ -4,6 +4,7 @@ import json
 
 content_bp = Blueprint('content_bp', __name__)
 
+
 # Base directory: backend/app
 # NEW — points directly to /backend/app
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -80,3 +81,24 @@ def test_read():
 @content_bp.route('/api/test', methods=['GET'])
 def test_route():
     return jsonify({"message": "Test route works!"}), 200
+
+@content_bp.route('/api/images/<class_name>', methods=['GET'])
+def get_class_subject_images(class_name):
+    # Construct path
+    json_path = os.path.join(os.path.dirname(__file__), '../content/images/images.json')
+
+    # Load the JSON
+    try:
+        with open(json_path, 'r') as f:
+            data = json.load(f)
+        
+        class_subject_images = data.get("class_subject_images", {})
+        result = class_subject_images.get(class_name)
+
+        if result:
+            return jsonify({"class": class_name, "subjects": result}), 200
+        else:
+            return jsonify({"error": "Class not found"}), 404
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
