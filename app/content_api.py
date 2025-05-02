@@ -75,19 +75,26 @@ def get_quiz(class_number, subject):
 @content_bp.route('/api/image/<class_name>/<subject>', methods=['GET'])
 def get_single_image(class_name, subject):
     json_path = os.path.join(BASE_DIR, 'content/images/images.json')
+
     try:
         with open(json_path, 'r') as f:
             data = json.load(f)
-        
+
+        # Normalize keys (capitalize class and subject keys)
+        class_key = class_name.capitalize().replace('class_', 'Class_')
+        subject_key = subject.capitalize()
+
         class_subject_images = data.get("class_subject_images", {})
-        subject_images = class_subject_images.get(class_name, {})
+        subject_images = class_subject_images.get(class_key, {})
 
-        image_url = subject_images.get(subject)
+        if not subject_images:
+            return jsonify({"error": f"Class '{class_key}' not found"}), 404
 
-        if image_url:
-            return jsonify({"class": class_name, "subject": subject, "image_url": image_url}), 200
-        else:
-            return jsonify({"error": f"No image found for {class_name} - {subject}"}), 404
+        image_url = subject_images.get(subject_key)
+        if not image_url:
+            return jsonify({"error": f"Subject '{subject_key}' not found for class '{class_key}'"}), 404
+
+        return jsonify({"class": class_key, "subject": subject_key, "image": image_url}), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
