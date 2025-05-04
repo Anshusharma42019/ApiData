@@ -1,7 +1,7 @@
 {
     "class": 6,
     "subject": "Mathematics",
-    "source": "BYJU'S - Class 6, 7 & 8",
+    "channel": "BYJU'S - Class 6, 7 & 8",
     "total_chapters": 12,
     "chapters": [
       {
@@ -52,7 +52,7 @@
             "question": "What is the place value of 3 in the number 83,145?",
             "options": {
               "A": "30",
-              "B": "3",
+              "B": "C",
               "C": "3,000",
               "D": "300"
             },
@@ -78,7 +78,7 @@
             "question": "What is the sum of 0 and any whole number?",
             "options": {
               "A": "0",
-              "B": "1",
+              "B": "A",
               "C": "The whole number itself",
               "D": "None of the above"
             },
@@ -87,7 +87,7 @@
           {
             "question": "What is the product of 9 and 0?",
             "options": {
-              "A": "1",
+              "A": "A",
               "B": "9",
               "C": "0",
               "D": "None of the above"
@@ -109,8 +109,8 @@
             "options": {
               "A": "-1",
               "B": "0",
-              "C": "1",
-              "D": "2"
+              "C": "A",
+              "D": "B"
             },
             "correct_answer": "B"
           }
@@ -133,7 +133,7 @@
           {
             "question": "What is the greatest common factor (GCF) of 12 and 18?",
             "options": {
-              "A": "3",
+              "A": "C",
               "B": "6",
               "C": "9",
               "D": "12"
@@ -143,9 +143,9 @@
           {
             "question": "If a number is divisible by both 2 and 3, what is the minimum number of its factors?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "6"
             },
             "correct_answer": "D"
@@ -209,9 +209,9 @@
           {
             "question": "How many sides does a triangle have?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "B"
@@ -247,8 +247,8 @@
             "options": {
               "A": "5",
               "B": "6",
-              "C": "4",
-              "D": "3"
+              "C": "D",
+              "D": "C"
             },
             "correct_answer": "A"
           },
@@ -275,9 +275,9 @@
           {
             "question": "How many faces does a cylinder have?",
             "options": {
-              "A": "1",
-              "B": "3",
-              "C": "2",
+              "A": "A",
+              "B": "C",
+              "C": "B",
               "D": "5"
             },
             "correct_answer": "B"
@@ -291,9 +291,9 @@
           {
             "question": "What is the sum of -3 and 7?",
             "options": {
-              "A": "4",
+              "A": "D",
               "B": "10",
-              "C": "3",
+              "C": "C",
               "D": "0"
             },
             "correct_answer": "A"
@@ -304,7 +304,7 @@
               "A": "-2",
               "B": "-8",
               "C": "-3",
-              "D": "2"
+              "D": "B"
             },
             "correct_answer": "A"
           },
@@ -347,10 +347,10 @@
           {
             "question": "What is 3/4 + 1/4?",
             "options": {
-              "A": "1",
+              "A": "A",
               "B": "1/2",
               "C": "2/4",
-              "D": "2"
+              "D": "B"
             },
             "correct_answer": "A"
           },
@@ -379,8 +379,8 @@
             "options": {
               "A": "1/2",
               "B": "1/5",
-              "C": "1",
-              "D": "2"
+              "C": "A",
+              "D": "B"
             },
             "correct_answer": "A"
           },
@@ -435,8 +435,8 @@
             "options": {
               "A": "6",
               "B": "5",
-              "C": "4",
-              "D": "3"
+              "C": "D",
+              "D": "C"
             },
             "correct_answer": "A"
           },
@@ -459,9 +459,9 @@
           {
             "question": "What is the mode of the following set: 2, 3, 4, 3, 4, 4, 5?",
             "options": {
-              "A": "3",
-              "B": "4",
-              "C": "2",
+              "A": "C",
+              "B": "D",
+              "C": "B",
               "D": "5"
             },
             "correct_answer": "B"
@@ -469,7 +469,7 @@
           {
             "question": "What is the median of the following set: 1, 3, 3, 6, 7, 8?",
             "options": {
-              "A": "3",
+              "A": "C",
               "B": "5",
               "C": "6",
               "D": "7"
@@ -573,7 +573,7 @@
             "options": {
               "A": "5",
               "B": "10",
-              "C": "2",
+              "C": "B",
               "D": "20"
             },
             "correct_answer": "A"
@@ -611,9 +611,9 @@
           {
             "question": "What is the value of y in the equation 7y = 21?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "B"
@@ -657,10 +657,10 @@
           {
             "question": "What is the proportion if 120 is to 240 as 1 is to x?",
             "options": {
-              "A": "2",
-              "B": "4",
+              "A": "B",
+              "B": "D",
               "C": "1.5",
-              "D": "3"
+              "D": "C"
             },
             "correct_answer": "A"
           },

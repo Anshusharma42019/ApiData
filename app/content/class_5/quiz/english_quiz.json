@@ -5,7 +5,7 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "Ice Cream Man & Wonderful Waste",
+        "chapter_name": "Ice Cream Man & Wonderful Waste",
         "questions": [
           {
             "question": "What is the main theme of 'Ice Cream Man'?",
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Team Work & Flying Together",
+        "chapter_name": "Team Work & Flying Together",
         "questions": [
           {
             "question": "What is the main focus of 'Team Work'?",
@@ -117,7 +117,7 @@
       },
       {
         "chapter_no": 3,
-        "title": "My Shadow & Robinson Crusoe Discovers a Footprint",
+        "chapter_name": "My Shadow & Robinson Crusoe Discovers a Footprint",
         "questions": [
           {
             "question": "What does the poem 'My Shadow' describe?",
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Crying, My Elder Brother",
+        "chapter_name": "Crying, My Elder Brother",
         "questions": [
           {
             "question": "Who is the protagonist in 'Crying'?",
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "The Lazy Frog & Rip Van Winkle",
+        "chapter_name": "The Lazy Frog & Rip Van Winkle",
         "questions": [
           {
             "question": "What is the main characteristic of the frog in 'The Lazy Frog'?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "Class Discussion & The Talkative Barber",
+        "chapter_name": "Class Discussion & The Talkative Barber",
         "questions": [
           {
             "question": "What does the class discussion entail?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "Topsy-Turvy Land & Gulliver's Travels",
+        "chapter_name": "Topsy-Turvy Land & Gulliver's Travels",
         "questions": [
           {
             "question": "What is the significance of 'Topsy-Turvy Land'?",
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "Nobody's Friend & The Little Bully",
+        "chapter_name": "Nobody's Friend & The Little Bully",
         "questions": [
           {
             "question": "What does 'Nobody's Friend' signify?",
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "Sing a Song of People",
+        "chapter_name": "Sing a Song of People",
         "questions": [
           {
             "question": "What does 'Sing a Song of People' celebrate?",
@@ -509,7 +509,7 @@
       },
       {
         "chapter_no": 10,
-        "title": "Malu Bhalu & Who Will Be Ningthou?",
+        "chapter_name": "Malu Bhalu & Who Will Be Ningthou?",
         "questions": [
           {
             "question": "What is the main theme of 'Malu Bhalu'?",

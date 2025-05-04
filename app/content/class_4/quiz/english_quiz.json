@@ -5,7 +5,7 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "Wake Up! & Neha's Alarm Clock",
+        "chapter_name": "Wake Up! & Neha's Alarm Clock",
         "questions": [
           {
             "question": "What does the poem 'Wake Up!' tell us to do?",
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Noses & The Little Fir Tree",
+        "chapter_name": "Noses & The Little Fir Tree",
         "questions": [
           {
             "question": "What is special about noses according to the poem?",
@@ -117,7 +117,7 @@
       },
       {
         "chapter_no": 3,
-        "title": "Run! & Nasruddin's Aim",
+        "chapter_name": "Run! & Nasruddin's Aim",
         "questions": [
           {
             "question": "What does the poem 'Run!' encourage us to do?",
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Why? & Alice in Wonderland",
+        "chapter_name": "Why? & Alice in Wonderland",
         "questions": [
           {
             "question": "What is the main theme of the poem 'Why?'",
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "Don't Be Afraid of the Dark & Helen Keller",
+        "chapter_name": "Don't Be Afraid of the Dark & Helen Keller",
         "questions": [
           {
             "question": "What does the poem say about darkness?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "Hiawatha & The Scholar's Mother Tongue",
+        "chapter_name": "Hiawatha & The Scholar's Mother Tongue",
         "questions": [
           {
             "question": "Who was Hiawatha?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "A Watering Rhyme & The Giving Tree",
+        "chapter_name": "A Watering Rhyme & The Giving Tree",
         "questions": [
           {
             "question": "What is the best time to water plants according to the rhyme?",
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "Books & Going to Buy a Book",
+        "chapter_name": "Books & Going to Buy a Book",
         "questions": [
           {
             "question": "What does the poem 'Books' compare books to?",
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "The Naughty Boy & Pinocchio",
+        "chapter_name": "The Naughty Boy & Pinocchio",
         "questions": [
           {
             "question": "Where did the naughty boy go?",

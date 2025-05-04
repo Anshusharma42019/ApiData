@@ -5,7 +5,7 @@
   "chapters": [
     {
       "chapter_no": 1,
-      "title": "A Happy Child / Three Little Pigs",
+      "chapter_name": "A Happy Child / Three Little Pigs",
       "questions": [
         {
           "question": "What is the title of the poem?",
@@ -61,7 +61,7 @@
     },
     {
       "chapter_no": 2,
-      "title": "After a Bath / The Bubble, the Straw and the Shoe",
+      "chapter_name": "After a Bath / The Bubble, the Straw and the Shoe",
       "questions": [
         {
           "question": "What happens after the child takes a bath?",
@@ -117,7 +117,7 @@
     },
     {
       "chapter_no": 3,
-      "title": "One Little Kitten / Lalu and Peelu",
+      "chapter_name": "One Little Kitten / Lalu and Peelu",
       "questions": [
         {
           "question": "What did the kitten do?",
@@ -173,7 +173,7 @@
     },
     {
       "chapter_no": 4,
-      "title": "Once I Saw a Little Bird / Mittu and the Yellow Mango",
+      "chapter_name": "Once I Saw a Little Bird / Mittu and the Yellow Mango",
       "questions": [
         {
           "question": "What did the poet see?",
@@ -229,7 +229,7 @@
     },
     {
       "chapter_no": 5,
-      "title": "Merry-Go-Round / Circle",
+      "chapter_name": "Merry-Go-Round / Circle",
       "questions": [
         {
           "question": "What is a merry-go-round?",
@@ -285,7 +285,7 @@
     },
     {
       "chapter_no": 6,
-      "title": "If I Were an Apple / Our Tree",
+      "chapter_name": "If I Were an Apple / Our Tree",
       "questions": [
         {
           "question": "Where is the apple hanging?",
@@ -341,7 +341,7 @@
     },
     {
       "chapter_no": 7,
-      "title": "A Kite / Sundari",
+      "chapter_name": "A Kite / Sundari",
       "questions": [
         {
           "question": "What is flying in the sky?",
@@ -397,7 +397,7 @@
     },
     {
       "chapter_no": 8,
-      "title": "A Little Turtle / The Tiger and the Mosquito",
+      "chapter_name": "A Little Turtle / The Tiger and the Mosquito",
       "questions": [
         {
           "question": "What is the name of the animal in the poem?",
@@ -453,7 +453,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "Clouds / Anandi’s Rainbow",
+      "chapter_name": "Clouds / Anandi’s Rainbow",
       "questions": [
         {
           "question": "What do clouds bring?",
@@ -491,7 +491,7 @@
             "A": "5",
             "B": "6",
             "C": "7",
-            "D": "4"
+            "D": "D"
           },
           "correct_answer": "C"
         },
@@ -509,7 +509,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "Flying-Man / The Tailor and His Friend",
+      "chapter_name": "Flying-Man / The Tailor and His Friend",
       "questions": [
         {
           "question": "Who is the poem about?",

@@ -1,0 +1,577 @@
+{
+  "class": 8,
+  "subject": "Social Science",
+  "channel": "Physics Wallah",
+  "chapters":[
+    {
+      "chapter_no": 1,
+      "chapter_name": "How, When and Where",
+      "video_url": "https://www.youtube.com/watch?v=DcNTEVNItAo",
+      "questions": [
+        {
+          "question": "What key historical concepts does this chapter emphasize?",
+          "options": {
+            "A": "The importance of dates",
+            "B": "Understanding the context of events",
+            "C": "Memory techniques",
+            "D": "Only dates and events"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How do historians gather information?",
+          "options": {
+            "A": "Only through stories",
+            "B": "Through various sources like documents, artifacts, and oral traditions",
+            "C": "Guessing",
+            "D": "Only from books"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What role does geography play in history?",
+          "options": {
+            "A": "It has no significance.",
+            "B": "It influences the events and cultures.",
+            "C": "It only determines weather patterns.",
+            "D": "It focuses solely on borders."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is it important to understand 'how' history is recorded?",
+          "options": {
+            "A": "To memorize facts better",
+            "B": "To interpret historical texts accurately",
+            "C": "To compare different countries",
+            "D": "To ignore bias"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the importance of timelines in history?",
+          "options": {
+            "A": "They confuse the events.",
+            "B": "They provide a visual understanding of the chronology.",
+            "C": "They are rarely used.",
+            "D": "They only list names."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "From Trade to Territory",
+      "video_url": "https://www.youtube.com/watch?v=LL3Pkjg2kjM",
+      "questions": [
+        {
+          "question": "What led to the expansion of British colonial power in India?",
+          "options": {
+            "A": "Technological advancements",
+            "B": "Trade monopolies",
+            "C": "Cultural exchanges",
+            "D": "All of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which treaty marked the beginning of British control in India?",
+          "options": {
+            "A": "Treaty of Allahabad",
+            "B": "Treaty of Paris",
+            "C": "Treaty of Versailles",
+            "D": "Treaty of Aix-la-Chapelle"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What economic impact did British rule have on India?",
+          "options": {
+            "A": "Improved local industries",
+            "B": "Increased agricultural production",
+            "C": "Exploitation of resources and markets",
+            "D": "Preserved traditional crafts"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How did the British acquire territories in India?",
+          "options": {
+            "A": "Through peaceful negotiations",
+            "B": "By defeating local rulers and annexing territories",
+            "C": "By settling local disputes",
+            "D": "By cultural assimilation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was one consequence of British rule related to land revenue?",
+          "options": {
+            "A": "Increase in farmers' wealth",
+            "B": "Decline in agricultural productivity",
+            "C": "More autonomy for farmers",
+            "D": "Lower taxes"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Ruling the Countryside",
+      "video_url": "https://www.youtube.com/watch?v=w_h16-DStz8",
+      "questions": [
+        {
+          "question": "What was a major agricultural policy introduced by the British?",
+          "options": {
+            "A": "Promotion of subsistence farming",
+            "B": "Land revenue systems",
+            "C": "Collective farming",
+          "D": "Free trade policies"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What role did zamindars play in British administration?",
+          "options": {
+          "A": "Tax collectors",
+          "B": "Advisors to the crown",
+          "C": "Project managers",
+          "D": "Military leaders"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How did British land policies affect farmers?",
+          "options": {
+          "A": "Increased independence",
+          "B": "Exacerbated poverty and debt",
+          "C": "Improved living conditions",
+          "D": "Enhanced community support"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the impact of cash crops on traditional farming?",
+          "options": {
+          "A": "Promoted diversity in agriculture",
+          "B": "Limited food crop production",
+          "C": "Encouraged natural farming methods",
+          "D": "Increased local food supplies"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which major revolt was sparked by the dissatisfaction of farmers?",
+          "options": {
+          "A": "The Santal Movement",
+          "B": "The Sepoy Mutiny",
+          "C": "The Indigo Revolt",
+          "D": "All of the above"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Tribals, Dikus and the Vision of a Golden Age",
+      "video_url": "https://www.youtube.com/watch?v=KwUK3RrwMK8",
+      "questions": [
+        {
+          "question": "What does the term 'Diku' refer to in this context?",
+          "options": {
+          "A": "A tribal leader",
+          "B": "A foreign oppressor",
+          "C": "A native artisan",
+          "D": "A sacred animal"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did tribals view their relationship with the environment?",
+          "options": {
+          "A": "As exploitative",
+          "B": "As harmonious",
+          "C": "As incidental",
+          "D": "As detrimental"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What vision did tribals aspire to during British rule?",
+          "options": {
+          "A": "A return to traditional practices",
+          "B": "Adaptation to modernity",
+          "C": "Increased consumption of imported goods",
+          "D": "Complete rejection of change"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which tribal group is notably highlighted in discussions of this chapter?",
+          "options": {
+          "A": "Santals",
+          "B": "Gonds",
+          "C": "Bhils",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What challenges did the tribals face during this period?",
+          "options": {
+          "A": "Political stability",
+          "B": "Loss of land and rights",
+          "C": "Cultural revitalization",
+          "D": "Economic independence"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "When People Rebel",
+      "video_url": "https://www.youtube.com/watch?v=Zq01dP-6uoI",
+      "questions": [
+        {
+          "question": "What was the primary cause of the revolt of 1857?",
+          "options": {
+          "A": "Cultural oppression",
+          "B": "Militarization",
+          "C": "Religious discontent",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which leader played a significant role during the 1857 rebellion?",
+          "options": {
+          "A": "Mangal Pandey",
+          "B": "Bahadur Shah II",
+          "C": "Rani Lakshmibai",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What was the outcome of the revolt of 1857?",
+          "options": {
+          "A": "Strengthened the position of the British",
+          "B": "Increased local governance",
+          "C": "Formation of Indian unions",
+          "D": "Cultural renaissance"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which change occurred throughout India after the revolt?",
+          "options": {
+          "A": "Colonial policies became more lenient",
+          "B": "Direct rule by the British Crown",
+          "C": "Increased autonomy for local leaders",
+          "D": "Decreased military presence"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What lesson did the British learn from the rebellion?",
+          "options": {
+          "A": "Discontent can be ignored",
+          "B": "The need for better governance policies",
+          "C": "Power should be decentralized",
+          "D": "Use of force is ineffective"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Weavers, Iron Smelters and Factory Owners",
+      "video_url": "https://www.youtube.com/watch?v=k-EkcoKLKcE",
+      "questions": [
+        {
+          "question": "What impact did industrialization have on traditional crafts?",
+          "options": {
+          "A": "Increased demand for handlooms",
+          "B": "Decline of traditional weaver crafts",
+          "C": "Growth of local industries",
+          "D": "Preservation of art"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which sector saw significant exploitation during British rule?",
+          "options": {
+          "A": "Agriculture",
+          "B": "Iron production",
+          "C": "Textiles",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What was a consequence of factory production for weavers?",
+          "options": {
+          "A": "Increased income",
+          "B": "Widespread poverty among artisans",
+          "C": "Job opportunities",
+          "D": "Improvement in quality of goods"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the role of iron smelters during British rule?",
+          "options": {
+          "A": "Only for local tool production",
+          "B": "Significant for industrialisation",
+          "C": "Not impactful",
+          "D": "Transitional craftsmanship only"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did factory owners benefit from colonial policies?",
+          "options": {
+          "A": "Limited competition",
+          "B": "High wages for workers",
+          "C": "Low-cost raw materials",
+          "D": "Strict regulations protecting artisans"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Civilising the 'Native', Educating the Nation",
+      "video_url": "https://www.youtube.com/watch?v=YbwGMR44y7s&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=18",
+      "questions": [
+        {
+          "question": "What was the British justification for their educational policies?",
+          "options": {
+          "A": "To enrich Indian culture",
+          "B": "To 'civilize' the natives",
+          "C": "To preserve tradition",
+          "D": "To promote trade"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the aim of establishing educational institutions under British rule?",
+          "options": {
+          "A": "Increase employment",
+          "B": "Promote Western thought and values",
+          "C": "Cultural preservation",
+          "D": "Promote nationalism"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did education affect Indian society?",
+          "options": {
+          "A": "Stagnation",
+          "B": "Encouraged social reform and awakening",
+          "C": "Increased illiteracy",
+          "D": "Limited cultural exchanges"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which key figure advocated for reforming educational systems?",
+          "options": {
+          "A": "Mahatma Gandhi",
+          "B": "Raja Ram Mohan Roy",
+          "C": "Swami Vivekananda",
+          "D": "Netaji Subhas Chandra Bose"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was one outcome of the policy of educating the nation?",
+          "options": {
+          "A": "Apathy towards social issues",
+          "B": "Emergence of a new middle class",
+          "C": "Increased commitment to colonial benefits",
+          "D": "Less focus on local languages"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Women, Caste and Reform",
+      "video_url": "https://www.youtube.com/watch?v=7AGDSk1_mCc&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=20",
+      "questions": [
+        {
+          "question": "What central theme is addressed in this chapter?",
+          "options": {
+          "A": "Women’s rights and social reform",
+          "B": "Economic development",
+          "C": "Caste discrimination",
+          "D": "Only education"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which social reform aimed to improve the status of women?",
+          "options": {
+          "A": "Sati abolition",
+          "B": "Improvement of caste systems",
+          "C": "Promotion of traditional roles",
+          "D": "Only educational reforms"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who was a notable figure in the women’s reform movement?",
+          "options": {
+          "A": "Bhagat Singh",
+          "B": "Raja Ram Mohan Roy",
+          "C": "Dr. B. R. Ambedkar",
+          "D": "Mahatma Gandhi"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What impact did social reform movements have on caste?",
+          "options": {
+          "A": "Strengthened the caste hierarchy",
+          "B": "Promoted social equality",
+          "C": "Preserved traditional customs",
+          "D": "Restricted social mobility"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was one outcome of the reform movements related to women?",
+          "options": {
+          "A": "Less access to education",
+          "B": "Greater awareness of social issues",
+          "C": "Further marginalization",
+          "D": "Strengthening of patriarchal rules"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "The Making of the National Movement",
+      "video_url": "https://www.youtube.com/watch?v=9rErXl7ma9c&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=21",
+      "questions": [
+        {
+          "question": "What were the early influences on the Indian national movement?",
+          "options": {
+          "A": "Western education and ideas",
+          "B": "Religious movements",
+          "C": "Cultural nationalism",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which event marked a major turning point in India’s independence struggle?",
+          "options": {
+          "A": "The First War of Independence",
+          "B": "The Non-Cooperation Movement",
+          "C": "The Civil Disobedience Movement",
+          "D": "The Quit India Movement"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did the Indian National Congress aim for initially?",
+          "options": {
+          "A": "Complete freedom",
+          "B": "Better representation in government",
+          "C": "Social reform",
+          "D": "Economic independence"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did Gandhi’s approach differ in the movement?",
+          "options": {
+          "A": "Advocated for violence",
+          "B": "Promoted peaceful protests",
+          "C": "Ignored local issues",
+          "D": "Only focused on urban areas"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the Swadeshi Movement about?",
+          "options": {
+          "A": "Promotion of Indian goods over foreign goods",
+          "B": "Focus on foreign trade",
+          "C": "Expansion of agriculture",
+          "D": "Cultural exchange"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "India After Independence",
+      "video_url": "https://www.youtube.com/watch?v=DkHLZPJcARA&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=24",
+      "questions": [
+        {
+          "question": "What was one of the first challenges faced by India after gaining independence?",
+          "options": {
+          "A": "Economic growth",
+          "B": "National security concerns",
+          "C": "Establishing democratic institutions",
+          "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What role did the Constitution play in post-independence India?",
+          "options": {
+          "A": "It established a dictatorship",
+          "B": "It provided a framework for democracy and rights",
+          "C": "It limited freedoms",
+          "D": "It ignored social issues"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did India approach industrialization after independence?",
+          "options": {
+          "A": "With a focus on foreign investments only",
+          "B": "With mixed economic models",
+          "C": "By relying solely on agriculture",
+          "D": "By ignoring the infrastructure"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the impact of the green revolution?",
+          "options": {
+          "A": "Reduction in crop yields",
+          "B": "Increased food production",
+          "C": "Environmental degradation",
+          "D": "Only benefited urban areas"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What strategies were implemented to tackle communal tensions after independence?",
+          "options": {
+          "A": "Encouraging isolation",
+          "B": "Promoting national integration",
+          "C": "Ignoring local cultures",
+          "D": "Promoting exclusivity"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+}

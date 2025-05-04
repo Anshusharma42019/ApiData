@@ -2,10 +2,11 @@
   "class": 1,
   "subject": "English",
   "book": "Marigold",
+  "channel": "Magnet Brains",
   "chapters": [
     {
-      "unit": 1,
-      "title": "A Happy Child / Three Little Pigs",
+      "chapter_no": 1,
+      "chapter_name": "A Happy Child / Three Little Pigs",
       "video_title": "Class 1 English Unit 1 | A Happy Child Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=j4lBUUKG4G0",
       "channel": "Magnet Brains", 
@@ -63,8 +64,8 @@
       ]
     },
     {
-      "unit": 2,
-      "title": "After a Bath / The Bubble, the Straw and the Shoe",
+      "chapter_no": 2,
+      "chapter_name": "After a Bath / The Bubble, the Straw and the Shoe",
       "video_title": "Class 1 English Unit 2 | After a Bath Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=oZjWKycVYm8",
       "channel": "Magnet Brains",
@@ -122,8 +123,8 @@
       ]
     },
     {
-      "unit": 3,
-      "title": "One Little Kitten / Lalu and Peelu",
+      "chapter_no": 3,
+      "chapter_name": "One Little Kitten / Lalu and Peelu",
       "video_title": "One Little Kitten | Marigold Class 1 Unit 3",
       "video_url": "https://www.youtube.com/watch?v=w16EQE4NBbk",
       "channel": "Magnet Brains",
@@ -181,8 +182,8 @@
       ]
     },
     {
-      "unit": 4,
-      "title": "Once I Saw a Little Bird / Mittu and the Yellow Mango",
+      "chapter_no": 4,
+      "chapter_name": "Once I Saw a Little Bird / Mittu and the Yellow Mango",
       "video_title": "Class 1 English Unit 4 | Once I Saw a Little Bird Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=DSCcfYPa92k",
       "channel": "Magnet Brains",
@@ -240,8 +241,8 @@
       ]
     },
     {
-      "unit": 5,
-      "title": "Merry-Go-Round / Circle",
+      "chapter_no": 5,
+      "chapter_name": "Merry-Go-Round / Circle",
       "video_title": "Merry-Go-Round - Marigold Unit 5 - NCERT English Class 1",
       "video_url": "https://www.youtube.com/watch?v=TR3AWtInvzA",
       "channel": "Magnet Brains",
@@ -299,8 +300,8 @@
       ]
     },
     {
-      "unit": 6,
-      "title": "If I Were an Apple / Our Tree / Murali's Mango Tree",
+      "chapter_no": 6,
+      "chapter_name": "If I Were an Apple / Our Tree / Murali's Mango Tree",
       "video_title": "Class 1 English Unit 6 | If I Were an Apple Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=9ZAMIStkD2Y",
       "channel": "Magnet Brains",
@@ -358,8 +359,8 @@
       ]
     },
     {
-      "unit": 7,
-      "title": "A Kite / Sundari",
+      "chapter_no": 7,
+      "chapter_name": "A Kite / Sundari",
       "video_title": "Class 1 English Unit 7 | A Kite Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=k0PrekU_Ilo",
       "channel": "Magnet Brains",
@@ -417,8 +418,8 @@
       ]
     },
     {
-      "unit": 8,
-      "title": "A Little Turtle / The Tiger and the Mosquito",
+      "chapter_no": 8,
+      "chapter_name": "A Little Turtle / The Tiger and the Mosquito",
       "video_title": "Class 1 English Unit 8 | A Little Turtle Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=2JeYY9S16aM",
       "channel": "Magnet Brains",
@@ -476,8 +477,8 @@
       ]
     },
     {
-      "unit": 9,
-      "title": "Clouds / Anandi's Rainbow",
+      "chapter_no": 9,
+      "chapter_name": "Clouds / Anandi's Rainbow",
       "video_title": "Class 1 English Unit 9 | Clouds Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=ESvxGmsCk9M",
       "channel": "Magnet Brains",
@@ -518,7 +519,7 @@
             "A": "5",
             "B": "6",
             "C": "7",
-            "D": "4"
+            "D": "D"
           },
           "correct_answer": "C"
         },
@@ -535,8 +536,8 @@
       ]
     },
     {
-      "unit": 10,
-      "title": "Flying-Man / The Tailor and his Friend",
+      "chapter_no": 10,
+      "chapter_name": "Flying-Man / The Tailor and his Friend",
       "video_title": "Class 1 English Unit 10 | Flying-Man Poem - Explanation and Exercise",
       "video_url": "https://www.youtube.com/watch?v=9_gtvhJfBzA",
       "channel": "Magnet Brains",

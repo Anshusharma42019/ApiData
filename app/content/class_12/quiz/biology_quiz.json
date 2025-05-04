@@ -6,768 +6,768 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "chapter": "Sexual Reproduction in Flowering Plants",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "duration": "5:35:17",
-        "url": "https://www.youtube.com/watch?v=953Lk4HlweA",
+        "video_url": "https://www.youtube.com/watch?v=953Lk4HlweA",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the function of the anther in flowering plants?",
             "options": {
-              "1": "It produces pollen grains.",
-              "2": "It receives pollen.",
-              "3": "It supports the flower.",
-              "4": "It attracts pollinators."
+              "A": "It produces pollen grains.",
+              "B": "It receives pollen.",
+              "C": "It supports the flower.",
+              "D": "It attracts pollinators."
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "In angiosperms, where does fertilization occur?",
             "options": {
-              "1": "In the ovule",
-              "2": "In the pollen tube",
-              "3": "In the stigma",
-              "4": "In the style"
+              "A": "In the ovule",
+              "B": "In the pollen tube",
+              "C": "In the stigma",
+              "D": "In the style"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the role of pollinators in flowering plants?",
             "options": {
-              "1": "To disperse seeds",
-              "2": "To carry pollen from anther to stigma",
-              "3": "To provide nutrients to the plant",
-              "4": "To increase photosynthesis"
+              "A": "To disperse seeds",
+              "B": "To carry pollen from anther to stigma",
+              "C": "To provide nutrients to the plant",
+              "D": "To increase photosynthesis"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a method of asexual reproduction in plants?",
             "options": {
-              "1": "Pollination",
-              "2": "Budding",
-              "3": "Fertilization",
-              "4": "Germination"
+              "A": "Pollination",
+              "B": "Budding",
+              "C": "Fertilization",
+              "D": "Germination"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is double fertilization in flowering plants?",
             "options": {
-              "1": "One sperm fertilizes the egg, the other fuses with polar nuclei.",
-              "2": "Both sperm fertilize the egg.",
-              "3": "Fertilization occurs twice per ovule.",
-              "4": "Fertilization occurs in two different flowers."
+              "A": "One sperm fertilizes the egg, the other fuses with polar nuclei.",
+              "B": "Both sperm fertilize the egg.",
+              "C": "Fertilization occurs twice per ovule.",
+              "D": "Fertilization occurs in two different flowers."
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "chapter": "Human Reproduction",
+        "chapter_name": "Human Reproduction",
         "duration": "7:12:44",
-        "url": "https://www.youtube.com/watch?v=VK4A7o_V7Hs",
+        "video_url": "https://www.youtube.com/watch?v=VK4A7o_V7Hs",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "Which hormone is primarily responsible for ovulation?",
             "options": {
-              "1": "FSH",
-              "2": "LH",
-              "3": "Estrogen",
-              "4": "Progesterone"
+              "A": "FSH",
+              "B": "LH",
+              "C": "Estrogen",
+              "D": "Progesterone"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the function of the placenta?",
             "options": {
-              "1": "Nutrient exchange between mother and fetus",
-              "2": "Production of hormones",
-              "3": "Deciding the sex of the fetus",
-              "4": "Protection of the fetus"
+              "A": "Nutrient exchange between mother and fetus",
+              "B": "Production of hormones",
+              "C": "Deciding the sex of the fetus",
+              "D": "Protection of the fetus"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "During which stage does embryo implantation occur?",
             "options": {
-              "1": "Gastrulation",
-              "2": "Cleavage",
-              "3": "Morula",
-              "4": "Blastocyst stage"
+              "A": "Gastrulation",
+              "B": "Cleavage",
+              "C": "Morula",
+              "D": "Blastocyst stage"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What type of cell division occurs in the early stages of embryonic development?",
             "options": {
-              "1": "Mitosis",
-              "2": "Meiosis",
-              "3": "Binary fission",
-              "4": "Budding"
+              "A": "Mitosis",
+              "B": "Meiosis",
+              "C": "Binary fission",
+              "D": "Budding"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which part of the male reproductive system is responsible for sperm maturation?",
             "options": {
-              "1": "Seminal vesicle",
-              "2": "Epididymis",
-              "3": "Vas deferens",
-              "4": "Prostate gland"
+              "A": "Seminal vesicle",
+              "B": "Epididymis",
+              "C": "Vas deferens",
+              "D": "Prostate gland"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "chapter": "Reproductive Health",
+        "chapter_name": "Reproductive Health",
         "duration": "4:41:34",
-        "url": "https://www.youtube.com/watch?v=ol4i__QdvK4",
+        "video_url": "https://www.youtube.com/watch?v=ol4i__QdvK4",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the primary goal of reproductive health?",
             "options": {
-              "1": "To control population",
-              "2": "To maintain healthy reproductive systems",
-              "3": "To increase fertility rates",
-              "4": "To eliminate sexually transmitted diseases"
+              "A": "To control population",
+              "B": "To maintain healthy reproductive systems",
+              "C": "To increase fertility rates",
+              "D": "To eliminate sexually transmitted diseases"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a sexually transmitted disease?",
             "options": {
-              "1": "Diabetes",
-              "2": "Syphilis",
-              "3": "Hypertension",
-              "4": "Asthma"
+              "A": "Diabetes",
+              "B": "Syphilis",
+              "C": "Hypertension",
+              "D": "Asthma"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is an important aspect of sex education?",
             "options": {
-              "1": "Discussing all forms of contraception",
-              "2": "Promoting early marriage",
-              "3": "Encouraging multiple partnerships",
-              "4": "Avoiding discussions about reproduction"
+              "A": "Discussing all forms of contraception",
+              "B": "Promoting early marriage",
+              "C": "Encouraging multiple partnerships",
+              "D": "Avoiding discussions about reproduction"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is NOT a method of contraception?",
             "options": {
-              "1": "Contraceptive pills",
-              "2": "Condoms",
-              "3": "Abstinence",
-              "4": "Hormone therapy"
+              "A": "Contraceptive pills",
+              "B": "Condoms",
+              "C": "Abstinence",
+              "D": "Hormone therapy"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the term for the cessation of menstruation?",
             "options": {
-              "1": "Menstrual cycle",
-              "2": "Menarche",
-              "3": "Menopause",
-              "4": "Ovulation"
+              "A": "Menstrual cycle",
+              "B": "Menarche",
+              "C": "Menopause",
+              "D": "Ovulation"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "chapter": "Principles of Inheritance and Variation",
+        "chapter_name": "Principles of Inheritance and Variation",
         "duration": "5:51:05",
-        "url": "https://www.youtube.com/watch?v=NyHhIWm3B-g",
+        "video_url": "https://www.youtube.com/watch?v=NyHhIWm3B-g",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What does Mendel's law of segregation state?",
             "options": {
-              "1": "Alleles segregate during gamete formation.",
-              "2": "Genes are inherited independently.",
-              "3": "Traits are blended.",
-              "4": "Dominant traits mask recessive traits."
+              "A": "Alleles segregate during gamete formation.",
+              "B": "Genes are inherited independently.",
+              "C": "Traits are blended.",
+              "D": "Dominant traits mask recessive traits."
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Incomplete dominance results in what type of phenotype?",
             "options": {
-              "1": "One dominant",
-              "2": "One recessive",
-              "3": "Intermediate",
-              "4": "Both dominant and recessive"
+              "A": "One dominant",
+              "B": "One recessive",
+              "C": "Intermediate",
+              "D": "Both dominant and recessive"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a genetic cross?",
             "options": {
-              "1": "Combining genes from different individuals",
-              "2": "The merging of DNA sequences",
-              "3": "An experiment to study inheritance patterns",
-              "4": "Creating genetically modified organisms"
+              "A": "Combining genes from different individuals",
+              "B": "The merging of DNA sequences",
+              "C": "An experiment to study inheritance patterns",
+              "D": "Creating genetically modified organisms"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What pattern of inheritance does blood type show?",
             "options": {
-              "1": "Codominance",
-              "2": "Incomplete dominance",
-              "3": "Multiple alleles",
-              "4": "Simple dominance"
+              "A": "Codominance",
+              "B": "Incomplete dominance",
+              "C": "Multiple alleles",
+              "D": "Simple dominance"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which of the following is an example of a phenotype?",
             "options": {
-              "1": "BB",
-              "2": "bb",
-              "3": "Brown eyes",
-              "4": "Bb"
+              "A": "BB",
+              "B": "bb",
+              "C": "Brown eyes",
+              "D": "Bb"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "chapter": "Molecular Basis of Inheritance",
+        "chapter_name": "Molecular Basis of Inheritance",
         "duration": "5:05:25",
-        "url": "https://www.youtube.com/watch?v=R_EkwKXvslk",
+        "video_url": "https://www.youtube.com/watch?v=R_EkwKXvslk",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the structure of DNA?",
             "options": {
-              "1": "Single helix",
-              "2": "Double helix",
-              "3": "Triple helix",
-              "4": "Linear structure"
+              "A": "Single helix",
+              "B": "Double helix",
+              "C": "Triple helix",
+              "D": "Linear structure"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which base pairs with Adenine in DNA?",
             "options": {
-              "1": "Thymine",
-              "2": "Uracil",
-              "3": "Cytosine",
-              "4": "Guanine"
+              "A": "Thymine",
+              "B": "Uracil",
+              "C": "Cytosine",
+              "D": "Guanine"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the function of RNA?",
             "options": {
-              "1": "Holds genetic information",
-              "2": "Synthesizes proteins",
-              "3": "Replicates DNA",
-              "4": "Stores energy"
+              "A": "Holds genetic information",
+              "B": "Synthesizes proteins",
+              "C": "Replicates DNA",
+              "D": "Stores energy"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What process involves the copying of DNA?",
             "options": {
-              "1": "Transcription",
-              "2": "Translation",
-              "3": "Replication",
-              "4": "Recombination"
+              "A": "Transcription",
+              "B": "Translation",
+              "C": "Replication",
+              "D": "Recombination"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which enzyme is responsible for synthesizing RNA from a DNA template?",
             "options": {
-              "1": "DNA polymerase",
-              "2": "RNA polymerase",
-              "3": "Helicase",
-              "4": "Ligase"
+              "A": "DNA polymerase",
+              "B": "RNA polymerase",
+              "C": "Helicase",
+              "D": "Ligase"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 6,
-        "chapter": "Evolution",
+        "chapter_name": "Evolution",
         "duration": "2:09:01",
-        "url": "https://www.youtube.com/watch?v=rr5lPYbVY3U",
+        "video_url": "https://www.youtube.com/watch?v=rr5lPYbVY3U",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the primary mechanism of evolution proposed by Darwin?",
             "options": {
-              "1": "Migration",
-              "2": "Natural selection",
-              "3": "Mutation",
-              "4": "Genetic drift"
+              "A": "Migration",
+              "B": "Natural selection",
+              "C": "Mutation",
+              "D": "Genetic drift"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is evidence for evolution?",
             "options": {
-              "1": "Fossil records",
-              "2": "Homologous structures",
-              "3": "Genetic similarities",
-              "4": "All of the above"
+              "A": "Fossil records",
+              "B": "Homologous structures",
+              "C": "Genetic similarities",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is speciation?",
             "options": {
-              "1": "Formation of new species",
-              "2": "Extinction of species",
-              "3": "Adaptation to environment",
-              "4": "Migration of species"
+              "A": "Formation of new species",
+              "B": "Extinction of species",
+              "C": "Adaptation to environment",
+              "D": "Migration of species"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What type of evolution occurs when species adapt in similar ways due to similar environments?",
             "options": {
-              "1": "Convergent evolution",
-              "2": "Divergent evolution",
-              "3": "Parallel evolution",
-              "4": "Adaptive radiation"
+              "A": "Convergent evolution",
+              "B": "Divergent evolution",
+              "C": "Parallel evolution",
+              "D": "Adaptive radiation"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What does 'fitness' refer to in evolutionary terms?",
             "options": {
-              "1": "Survival of the fittest",
-              "2": "Reproductive success",
-              "3": "Physical strength",
-              "4": "Longevity"
+              "A": "Survival of the fittest",
+              "B": "Reproductive success",
+              "C": "Physical strength",
+              "D": "Longevity"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 7,
-        "chapter": "Human Health and Disease",
+        "chapter_name": "Human Health and Disease",
         "duration": "3:14:45",
-        "url": "https://www.youtube.com/watch?v=D0ghaeDmHWs",
+        "video_url": "https://www.youtube.com/watch?v=D0ghaeDmHWs",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the causative agent of malaria?",
             "options": {
-              "1": "Virus",
-              "2": "Bacteria",
-              "3": "Protozoa",
-              "4": "Fungi"
+              "A": "Virus",
+              "B": "Bacteria",
+              "C": "Protozoa",
+              "D": "Fungi"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which immunity is acquired through vaccinations?",
             "options": {
-              "1": "Innate immunity",
-              "2": "Passive immunity",
-              "3": "Active immunity",
-              "4": "Natural immunity"
+              "A": "Innate immunity",
+              "B": "Passive immunity",
+              "C": "Active immunity",
+              "D": "Natural immunity"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the function of white blood cells?",
             "options": {
-              "1": "Transport oxygen",
-              "2": "Fight infections",
-              "3": "Clot blood",
-              "4": "Regulate temperature"
+              "A": "Transport oxygen",
+              "B": "Fight infections",
+              "C": "Clot blood",
+              "D": "Regulate temperature"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a common symptom of diabetes?",
             "options": {
-              "1": "Increased urination",
-              "2": "High blood pressure",
-              "3": "Blurred vision",
-              "4": "All of the above"
+              "A": "Increased urination",
+              "B": "High blood pressure",
+              "C": "Blurred vision",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the role of antibiotics?",
             "options": {
-              "1": "Treat viral infections",
-              "2": "Kill bacteria",
-              "3": "Boost immunity",
-              "4": "Reduce inflammation"
+              "A": "Treat viral infections",
+              "B": "Kill bacteria",
+              "C": "Boost immunity",
+              "D": "Reduce inflammation"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 8,
-        "chapter": "Microbes in Human Welfare",
+        "chapter_name": "Microbes in Human Welfare",
         "duration": "3:17:23",
-        "url": "https://www.youtube.com/watch?v=O9PB4nrVUE4",
+        "video_url": "https://www.youtube.com/watch?v=O9PB4nrVUE4",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the role of microbes in fermentation?",
             "options": {
-              "1": "Decomposition",
-              "2": "Production of alcohol and acid",
-              "3": "Nitrogen fixation",
-              "4": "Carbon dioxide production"
+              "A": "Decomposition",
+              "B": "Production of alcohol and acid",
+              "C": "Nitrogen fixation",
+              "D": "Carbon dioxide production"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which type of microorganism is used in the production of insulin?",
             "options": {
-              "1": "Bacteria",
-              "2": "Viruses",
-              "3": "Fungi",
-              "4": "Algae"
+              "A": "Bacteria",
+              "B": "Viruses",
+              "C": "Fungi",
+              "D": "Algae"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is bioremediation?",
             "options": {
-              "1": "Use of microbes to clean the environment",
-              "2": "Use of chemicals to kill pathogens",
-              "3": "Use of plants to absorb toxins",
-              "4": "All of the above"
+              "A": "Use of microbes to clean the environment",
+              "B": "Use of chemicals to kill pathogens",
+              "C": "Use of plants to absorb toxins",
+              "D": "All of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a beneficial effect of microbes?",
             "options": {
-              "1": "Pathogenic diseases",
-              "2": "Producing antibiotics",
-              "3": "Food spoilage",
-              "4": "None of the above"
+              "A": "Pathogenic diseases",
+              "B": "Producing antibiotics",
+              "C": "Food spoilage",
+              "D": "None of the above"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following microbes is commonly used in yogurt production?",
             "options": {
-              "1": "Lactobacillus",
-              "2": "Escherichia coli",
-              "3": "Bacillus",
-              "4": "Saccharomyces"
+              "A": "Lactobacillus",
+              "B": "Escherichia coli",
+              "C": "Bacillus",
+              "D": "Saccharomyces"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 9,
-        "chapter": "Biotechnology: Principles and Processes",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "duration": "4:18:31",
-        "url": "https://www.youtube.com/watch?v=3H73SXBFYyU",
+        "video_url": "https://www.youtube.com/watch?v=3H73SXBFYyU",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the basic unit of DNA technology?",
             "options": {
-              "1": "Gene",
-              "2": "Chromosome",
-              "3": "RNA",
-              "4": "Plasmid"
+              "A": "Gene",
+              "B": "Chromosome",
+              "C": "RNA",
+              "D": "Plasmid"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What does recombinant DNA technology involve?",
             "options": {
-              "1": "Combining DNA from different organisms",
-              "2": "Gene therapy",
-              "3": "Cloning",
-              "4": "All of the above"
+              "A": "Combining DNA from different organisms",
+              "B": "Gene therapy",
+              "C": "Cloning",
+              "D": "All of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which enzyme is used to cut DNA at specific sites?",
             "options": {
-              "1": "Ligase",
-              "2": "Helicase",
-              "3": "Restriction enzyme",
-              "4": "Polymerase"
+              "A": "Ligase",
+              "B": "Helicase",
+              "C": "Restriction enzyme",
+              "D": "Polymerase"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is PCR used for?",
             "options": {
-              "1": "Protein synthesis",
-              "2": "DNA amplification",
-              "3": "Gene cloning",
-              "4": "Sequencing DNA"
+              "A": "Protein synthesis",
+              "B": "DNA amplification",
+              "C": "Gene cloning",
+              "D": "Sequencing DNA"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a genetically modified organism?",
             "options": {
-              "1": "Transgenic plants",
-              "2": "Zebra",
-              "3": "Penguin",
-              "4": "Plankton"
+              "A": "Transgenic plants",
+              "B": "Zebra",
+              "C": "Penguin",
+              "D": "Plankton"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 10,
-        "chapter": "Biotechnology and Its Applications",
+        "chapter_name": "Biotechnology and Its Applications",
         "duration": "3:12:16",
-        "url": "https://www.youtube.com/watch?v=dwnn5X2YfRs",
+        "video_url": "https://www.youtube.com/watch?v=dwnn5X2YfRs",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is one application of biotechnology in medicine?",
             "options": {
-              "1": "Synthetic dyes",
-              "2": "Gene therapy",
-              "3": "Biodegradable plastics",
-              "4": "Chemical fertilizers"
+              "A": "Synthetic dyes",
+              "B": "Gene therapy",
+              "C": "Biodegradable plastics",
+              "D": "Chemical fertilizers"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which biotechnological process is used in the production of enzymes?",
             "options": {
-              "1": "Fermentation",
-              "2": "Extraction",
-              "3": "Distillation",
-              "4": "Filtration"
+              "A": "Fermentation",
+              "B": "Extraction",
+              "C": "Distillation",
+              "D": "Filtration"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the role of biotechnology in agriculture?",
             "options": {
-              "1": "Increase crop yield",
-              "2": "Decrease pest resistance",
-              "3": "Reduce soil fertility",
-              "4": "Increase labor costs"
+              "A": "Increase crop yield",
+              "B": "Decrease pest resistance",
+              "C": "Reduce soil fertility",
+              "D": "Increase labor costs"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is a common concern regarding genetic engineering?",
             "options": {
-              "1": "Health risks",
-              "2": "Biodiversity loss",
-              "3": "Ethical issues",
-              "4": "All of the above"
+              "A": "Health risks",
+              "B": "Biodiversity loss",
+              "C": "Ethical issues",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Which process involves the introduction of foreign DNA into an organism?",
             "options": {
-              "1": "Transformation",
-              "2": "Transcription",
-              "3": "Translation",
-              "4": "Replication"
+              "A": "Transformation",
+              "B": "Transcription",
+              "C": "Translation",
+              "D": "Replication"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 11,
-        "chapter": "Organisms and Population",
+        "chapter_name": "Organisms and Population",
         "duration": "2:49:18",
-        "url": "https://www.youtube.com/watch?v=PwZizspaN2Q",
+        "video_url": "https://www.youtube.com/watch?v=PwZizspaN2Q",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the primary factor determining the distribution of organisms in an ecosystem?",
             "options": {
-              "1": "Nutrient availability",
-              "2": "Climate",
-              "3": "Soil type",
-              "4": "Water availability"
+              "A": "Nutrient availability",
+              "B": "Climate",
+              "C": "Soil type",
+              "D": "Water availability"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What does the term 'carrying capacity' refer to?",
             "options": {
-              "1": "Maximum population size that an environment can sustain",
-              "2": "Minimum resources needed for survival",
-              "3": "Rate of population growth",
-              "4": "Diversity of species"
+              "A": "Maximum population size that an environment can sustain",
+              "B": "Minimum resources needed for survival",
+              "C": "Rate of population growth",
+              "D": "Diversity of species"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following describes a density-dependent factor?",
             "options": {
-              "1": "Disease",
-              "2": "Climate",
-              "3": "Natural disasters",
-              "4": "Habitat destruction"
+              "A": "Disease",
+              "B": "Climate",
+              "C": "Natural disasters",
+              "D": "Habitat destruction"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is an example of a mutualistic relationship?",
             "options": {
-              "1": "Predation",
-              "2": "Commensalism",
-              "3": "Parasitism",
-              "4": "Pollination"
+              "A": "Predation",
+              "B": "Commensalism",
+              "C": "Parasitism",
+              "D": "Pollination"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Which type of growth model shows a rapid increase followed by stabilization?",
             "options": {
-              "1": "Exponential growth",
-              "2": "Logistic growth",
-              "3": "Linear growth",
-              "4": "Population decline"
+              "A": "Exponential growth",
+              "B": "Logistic growth",
+              "C": "Linear growth",
+              "D": "Population decline"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 12,
-        "chapter": "Ecosystem",
+        "chapter_name": "Ecosystem",
         "duration": "2:37:06",
-        "url": "https://www.youtube.com/watch?v=QGHxyS27Nm4",
+        "video_url": "https://www.youtube.com/watch?v=QGHxyS27Nm4",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is an ecosystem?",
             "options": {
-              "1": "A community of living organisms interacting with their environment",
-              "2": "A specific type of organism",
-              "3": "A particular climate zone",
-              "4": "A geographical area without life"
+              "A": "A community of living organisms interacting with their environment",
+              "B": "A specific type of organism",
+              "C": "A particular climate zone",
+              "D": "A geographical area without life"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is a producer in an ecosystem?",
             "options": {
-              "1": "An organism that can make its own food",
-              "2": "An organism that consumes other organisms",
-              "3": "An organism that decomposes dead matter",
-              "4": "A predator in the food chain"
+              "A": "An organism that can make its own food",
+              "B": "An organism that consumes other organisms",
+              "C": "An organism that decomposes dead matter",
+              "D": "A predator in the food chain"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the main source of energy for an ecosystem?",
             "options": {
-              "1": "Water",
-              "2": "Soil",
-              "3": "Sunlight",
-              "4": "Wind"
+              "A": "Water",
+              "B": "Soil",
+              "C": "Sunlight",
+              "D": "Wind"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What role do decomposers play in an ecosystem?",
             "options": {
-              "1": "Produce energy",
-              "2": "Convert sunlight into food",
-              "3": "Recycle nutrients",
-              "4": "Support primary production"
+              "A": "Produce energy",
+              "B": "Convert sunlight into food",
+              "C": "Recycle nutrients",
+              "D": "Support primary production"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which of the following is an example of a tertiary consumer?",
             "options": {
-              "1": "Grasshopper",
-              "2": "Rabbit",
-              "3": "Fox",
-              "4": "Plant"
+              "A": "Grasshopper",
+              "B": "Rabbit",
+              "C": "Fox",
+              "D": "Plant"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 13,
-        "chapter": "Biodiversity and Conservation",
+        "chapter_name": "Biodiversity and Conservation",
         "duration": "2:15:13",
-        "url": "https://www.youtube.com/watch?v=AwprWoMGoaQ",
+        "video_url": "https://www.youtube.com/watch?v=AwprWoMGoaQ",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What does biodiversity refer to?",
             "options": {
-              "1": "Variety of life forms within an ecosystem",
-              "2": "Number of individuals in a population",
-              "3": "Specific habitat of an organism",
-              "4": "Total biomass in an ecosystem"
+              "A": "Variety of life forms within an ecosystem",
+              "B": "Number of individuals in a population",
+              "C": "Specific habitat of an organism",
+              "D": "Total biomass in an ecosystem"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a cause of biodiversity loss?",
             "options": {
-              "1": "Habitat destruction",
-              "2": "Pollution",
-              "3": "Climate change",
-              "4": "All of the above"
+              "A": "Habitat destruction",
+              "B": "Pollution",
+              "C": "Climate change",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is conservation?",
             "options": {
-              "1": "Preservation of biodiversity",
-              "2": "Increase in species variety",
-              "3": "Habitat destruction",
-              "4": "Reduction in pollution"
+              "A": "Preservation of biodiversity",
+              "B": "Increase in species variety",
+              "C": "Habitat destruction",
+              "D": "Reduction in pollution"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a method of conservation?",
             "options": {
-              "1": "National parks",
-              "2": "Deforestation",
-              "3": "Urban development",
-              "4": "None of the above"
+              "A": "National parks",
+              "B": "Deforestation",
+              "C": "Urban development",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the role of protected areas in conservation?",
             "options": {
-              "1": "Provide habitat for threatened species",
-              "2": "Increase urbanization",
-              "3": "Reduce biodiversity",
-              "4": "Promote agriculture"
+              "A": "Provide habitat for threatened species",
+              "B": "Increase urbanization",
+              "C": "Reduce biodiversity",
+              "D": "Promote agriculture"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       }

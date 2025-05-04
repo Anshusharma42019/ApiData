@@ -1,0 +1,587 @@
+{   
+    "channel":"Examrace",
+    "class":7,
+    "subject":"Geography",
+    "chapters": [
+        {
+          "chapter_no": 1,
+          "subject_part": "Geography",
+          "chapter_name": "Environment",
+          "video_url": "https://www.youtube.com/watch?v=6U-PiLVSHq4&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=1",
+          "questions": [
+            {
+              "question": "What is the definition of environment?",
+              "options": {
+                "A": "Only natural resources",
+                "B": "Behavior of individuals",
+                "C": "Natural and human-made elements",
+                "D": "Only living beings"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What are the components of the environment?",
+              "options": {
+                "A": "Only living beings",
+                "B": "Climate and topography",
+                "C": "Plants, animals, water, and earth",
+                "D": "Only vegetation"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Why is environmental conservation necessary?",
+              "options": {
+                "A": "For rural development",
+                "B": "To maintain natural balance",
+                "C": "For deforestation",
+                "D": "To earn money"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What does renewable resource mean?",
+              "options": {
+                "A": "Resources that deplete over time",
+                "B": "Resources that can be continuously replenished",
+                "C": "Resources that never change",
+                "D": "Resources that are only water sources"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is the role of humans in the environment?",
+              "options": {
+                "A": "Only to destroy",
+                "B": "To protect and improve",
+                "C": "To leave waste",
+                "D": "To absorb resources"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 2,
+          "subject_part": "Geography",
+          "chapter_name": "Inside our Earth",
+          "video_url": "https://www.youtube.com/watch?v=uMMC00Owm-0&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=2",
+          "questions": [
+            {
+              "question": "What is the Earth's core primarily made of?",
+              "options": {
+                "A": "Water",
+                "B": "Iron and Nickel",
+                "C": "Sand",
+                "D": "Clay"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What layer of the Earth do we live on?",
+              "options": {
+                "A": "Inner Core",
+                "B": "Outer Core",
+                "C": "Mantle",
+                "D": "Crust"
+              },
+              "correct_answer": "D"
+            },
+            {
+              "question": "What is the mantle primarily composed of?",
+              "options": {
+                "A": "Liquid Iron",
+                "B": "Granite",
+                "C": "Magma and Silicate rocks",
+                "D": "Coal"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "How deep is the Earth's crust?",
+              "options": {
+                "A": "5-70 kilometers",
+                "B": "100 kilometers",
+                "C": "10 kilometers",
+                "D": "200 kilometers"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What is the lithosphere?",
+              "options": {
+                "A": "The water layer of the Earth",
+                "B": "The layer of soil and rocks",
+                "C": "The gas surrounding the Earth",
+                "D": "The molten layer"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 3,
+          "subject_part": "Geography",
+          "chapter_name": "Our Changing Earth",
+          "video_url": "https://www.youtube.com/watch?v=T5Cr2_LV6C4&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=3",
+          "questions": [
+            {
+              "question": "What causes earthquakes?",
+              "options": {
+                "A": "Ocean waves",
+                "B": "Human activity",
+                "C": "Tectonic plate movements",
+                "D": "Natural disasters only"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What is erosion?",
+              "options": {
+                "A": "Formation of rocks",
+                "B": "Wearing away of the Earth's surface",
+                "C": "Plant growth",
+                "D": "Volcanic activity"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What role do rivers play in shaping the landscape?",
+              "options": {
+                "A": "Creating valleys and deltas",
+                "B": "Only transporting fish",
+                "C": "Generating electricity",
+                "D": "Nothing"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What is the result of volcanic activity?",
+              "options": {
+                "A": "Mountain formation",
+                "B": "Soil erosion",
+                "C": "Destruction of forests",
+                "D": "Flooding"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What happens during a landslide?",
+              "options": {
+                "A": "Rivers overflow",
+                "B": "Soil and debris fall down a slope",
+                "C": "Earthquakes occur",
+                "D": "Lakes are formed"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 4,
+          "subject_part": "Geography",
+          "chapter_name": "Air",
+          "video_url": "https://www.youtube.com/watch?v=VThdaxqcQmA&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=4",
+          "questions": [
+            {
+              "question": "What is the composition of air?",
+              "options": {
+                "A": "Oxygen and Helium",
+                "B": "Nitrogen and Oxygen",
+                "C": "Carbon Dioxide and Nitrogen",
+                "D": "Hydrogen and Oxygen"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is the primary function of oxygen in the air?",
+              "options": {
+                "A": "To help with combustion",
+                "B": "Photosynthesis",
+                "C": "For respiration",
+                "D": "To cool the atmosphere"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What are greenhouse gases?",
+              "options": {
+                "A": "Gases that trap heat in the atmosphere",
+                "B": "Gases that pollute the air",
+                "C": "Gases released by plants",
+                "D": "Gases used in refrigeration"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "Which layer of the atmosphere is closest to Earth?",
+              "options": {
+                "A": "Stratosphere",
+                "B": "Troposphere",
+                "C": "Mesosphere",
+                "D": "Thermosphere"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is air pressure?",
+              "options": {
+                "A": "Weight of air in a given area",
+                "B": "Amount of moisture in the air",
+                "C": "Temperature of the air",
+                "D": "Speed of the wind"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 5,
+          "subject_part": "Geography",
+          "chapter_name": "Water",
+          "video_url": "https://www.youtube.com/watch?v=Pb7CjrEmi0A&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=5",
+          "questions": [
+            {
+              "question": "What percentage of the Earth's surface is covered by water?",
+              "options": {
+                "A": "50%",
+                "B": "70%",
+                "C": "30%",
+                "D": "90%"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is the primary source of water for humans?",
+              "options": {
+                "A": "Oceans",
+                "B": "Rivers",
+                "C": "Groundwater",
+                "D": "Rainwater"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What is freshwater?",
+              "options": {
+                "A": "Water from the ocean",
+                "B": "Water that is drinkable",
+                "C": "Water with high salinity",
+                "D": "Water that is polluted"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What process describes the movement of water from the surface to the atmosphere?",
+              "options": {
+                "A": "Condensation",
+                "B": "Precipitation",
+                "C": "Evaporation",
+                "D": "Transpiration"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What are glaciers?",
+              "options": {
+                "A": "Large amounts of frozen water",
+                "B": "Rivers of flowing water",
+                "C": "Ponds of stagnant water",
+                "D": "Artificial lakes"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 6,
+          "subject_part": "Geography",
+          "chapter_name": "Natural Vegetation & Wildlife",
+          "video_url": "https://www.youtube.com/watch?v=64CICGIejR4&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=6",
+          "questions": [
+            {
+              "question": "What is biodiversity?",
+              "options": {
+                "A": "Diversity of plants and animals",
+                "B": "Only animal species",
+                "C": "Only plant species",
+                "D": "Only human impact"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What is the main threat to wildlife?",
+              "options": {
+                "A": "Overpopulation",
+                "B": "Habitat destruction",
+                "C": "Natural disasters",
+                "D": "Migration"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What are the key factors in determining vegetation?",
+              "options": {
+                "A": "Temperature and rainfall",
+                "B": "Wind speed",
+                "C": "Soil color",
+                "D": "Soil weight"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "Which of the following is not a type of forest?",
+              "options": {
+                "A": "Tropical Rainforest",
+                "B": "Temperate Forest",
+                "C": "Desert Forest",
+                "D": "Coniferous Forest"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What is the importance of forests?",
+              "options": {
+                "A": "Production of oxygen",
+                "B": "Carbon storage",
+                "C": "Habitat for wildlife",
+                "D": "All of the above"
+              },
+              "correct_answer": "D"
+            }
+          ]
+        },
+        {
+          "chapter_no": 7,
+          "subject_part": "Geography",
+          "chapter_name": "Human Environment Settlement Transport Communication",
+          "video_url": "https://www.youtube.com/watch?v=_RpwKw99se0&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=7",
+          "questions": [
+            {
+              "question": "What is a settlement?",
+              "options": {
+                "A": "A rural or urban community",
+                "B": "Only cities",
+                "C": "Only villages",
+                "D": "A natural habitat"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "How do transport systems influence settlements?",
+              "options": {
+                "A": "By increasing population",
+                "B": "By decreasing trade",
+                "C": "By isolating communities",
+                "D": "By enhancing connectivity"
+              },
+              "correct_answer": "D"
+            },
+            {
+              "question": "What role does communication play in society?",
+              "options": {
+                "A": "Only to convey information",
+                "B": "Creating barriers",
+                "C": "Promoting culture and interaction",
+                "D": "Nothing"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Which factor is not influencing human settlement?",
+              "options": {
+                "A": "Geography",
+                "B": "Climate",
+                "C": "Politics",
+                "D": "Cosmetics"
+              },
+              "correct_answer": "D"
+            },
+            {
+              "question": "Why is transport important for trade?",
+              "options": {
+                "A": "It reduces costs",
+                "B": "It increases distance",
+                "C": "It has no impact",
+                "D": "It prevents goods from moving"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 8,
+          "subject_part": "Geography",
+          "chapter_name": "Human Environment Interactions – Tropical & Subtropical Region",
+          "video_url": "https://www.youtube.com/watch?v=HY6X1I0YgcE&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=8",
+          "questions": [
+            {
+              "question": "Why is the tropical region known for diverse wildlife?",
+              "options": {
+                "A": "It has extreme temperatures",
+                "B": "It has abundant rainfall",
+                "C": "It has vast deserts",
+                "D": "None of the above"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is a key characteristic of subtropical regions?",
+              "options": {
+                "A": "Extreme cold",
+                "B": "High humidity",
+                "C": "Moderate temperatures",
+                "D": "Dry deserts"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Which trees are commonly found in tropical forests?",
+              "options": {
+                "A": "Coniferous",
+                "B": "Deciduous",
+                "C": "Evergreen",
+                "D": "Cactus"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Which of the following is not a tropical crop?",
+              "options": {
+                "A": "Rice",
+                "B": "Wheat",
+                "C": "Sugarcane",
+                "D": "Banana"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What do tropical regions typically export?",
+              "options": {
+                "A": "Fruits and spices",
+                "B": "Furniture",
+                "C": "Minerals",
+                "D": "Machinery"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 9,
+          "subject_part": "Geography",
+          "chapter_name": "Life in Temperate Grasslands",
+          "video_url": "https://www.youtube.com/watch?v=TaMJCgkmsWE&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=9",
+          "questions": [
+            {
+              "question": "What is a characteristic feature of temperate grasslands?",
+              "options": {
+                "A": "High trees",
+                "B": "Flat terrain with grasses",
+                "C": "Desert land",
+                "D": "Marshy land"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What type of climate do temperate grasslands have?",
+              "options": {
+                "A": "Tropical",
+                "B": "Arid",
+                "C": "Moderate with seasonal changes",
+                "D": "Polar"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Which animal is commonly found in temperate grasslands?",
+              "options": {
+                "A": "Elephant",
+                "B": "Tiger",
+                "C": "Bison",
+                "D": "Koala"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What is the primary activity of people living in temperate grasslands?",
+              "options": {
+                "A": "Forestry",
+                "B": "Agriculture and grazing",
+                "C": "Mining",
+                "D": "Fishing"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Which of the following crops are grown in temperate grasslands?",
+              "options": {
+                "A": "Rice",
+                "B": "Wheat",
+                "C": "Coconut",
+                "D": "Papaya"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 10,
+          "subject_part": "Geography",
+          "chapter_name": "Life in Deserts",
+          "video_url": "https://www.youtube.com/watch?v=DvNznKrqcvI&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=10",
+          "questions": [
+            {
+              "question": "What is the main characteristic of desert life?",
+              "options": {
+                "A": "Abundant rainfall",
+                "B": "Scarcity of water",
+                "C": "Dense vegetation",
+                "D": "High population density"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Which adaptation helps animals survive in the desert?",
+              "options": {
+                "A": "Thick fur",
+                "B": "Long legs",
+                "C": "Nocturnal behavior",
+                "D": "Large size"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "What do people in deserts primarily rely on for water?",
+              "options": {
+                "A": "Rivers",
+                "B": "Wells",
+                "C": "Rainwater collection",
+                "D": "None of the above"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Which of the following is a typical desert plant?",
+              "options": {
+                "A": "Cactus",
+                "B": "Pine",
+                "C": "Oak",
+                "D": "Maple"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What type of animals are commonly found in deserts?",
+              "options": {
+                "A": "Large mammals",
+                "B": "Reptiles and small mammals",
+                "C": "Aquatic animals",
+                "D": "Birds only"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        }
+    ]
+}

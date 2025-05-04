@@ -1,77 +1,864 @@
-[
+
+{
+  "class": 12,
+  "subject": "Physics",
+  "channel": "NCERT WALLAH",
+  "chapters": [
     {
-      "chapter": "1",
-      "title": "Electric Charges and Fields",
-      "url": "https://www.youtube.com/watch?v=mz4MlQ-L9U4&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=1"
+      "chapter_no": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "video_url": "https://www.youtube.com/watch?v=mz4MlQ-L9U4&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=1",
+      "questions": [
+        {
+          "question": "What is the fundamental unit of charge?",
+          "options": {
+            "A": "Coulomb",
+            "B": "Ampere",
+            "C": "Ohm",
+            "D": "Volt"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": 
+          "What is the force between two point charges separated by a distance  according to Coulomb's law?",
+          "options": {
+            "A": "Inversely proportional to r",
+            "B": "Proportional to '\frac{1}{r^2}' ",
+            "C": "Directly proportional to r",
+            "D": "Constant regardless of distance"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the electric field due to a positive point charge?",
+          "options": {
+            "A": "Directed towards the charge",
+            "B": "Directed away from the charge",
+            "C": "Constant",
+            "D": "Only in one direction"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the unit of electric field strength?",
+          "options": {
+            "A": "Coulombs",
+            "B": "Newtons per Coulomb",
+            "C": "Volts",
+            "D": "Amperes"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What law states that the total electric flux through a closed surface is proportional to the enclosed charge?",
+          "options": {
+            "A": "Gauss's Law",
+            "B": "Coulomb's Law",
+            "C": "Ohm's Law",
+            "D": "Faraday's Law"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "2",
-      "title": "Electrostatic Potential and Capacitance",
-      "url": "https://www.youtube.com/watch?v=zF3vcJYCZww&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=2"
+      "chapter_no": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "video_url": "https://www.youtube.com/watch?v=zF3vcJYCZww&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=2",
+      "questions": [
+        {
+          "question": "What is the unit of electric potential?",
+          "options": {
+            "A": "Volt",
+            "B": "Joule",
+            "C": "Coulomb",
+            "D": "Ampere"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does capacitance measure?",
+          "options": {
+            "A": "Charge stored per unit voltage",
+            "B": "Voltage per unit charge",
+            "C": "Electric field per unit voltage",
+            "D": "Energy stored"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the formula for capacitance?",
+          "options": {
+            "A": "C = Q/V",
+            "B": "C = V/Q",
+            "C": "C = E × d",
+            "D": "C = Q × V"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How are capacitors connected in series?",
+          "options": {
+            "A": "Voltage across each capacitor adds up",
+            "B": "Charge across each capacitor is the same",
+            "C": "Total capacitance is less than any individual capacitor",
+            "D": "Total capacitance is greater than any individual capacitor"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the electrostatic potential energy stored in a capacitor?",
+          "options": {
+            "A": "U = 1/2 CV²",
+            "B": "U = QV",
+            "C": "U = CV",
+            "D": "U = Q²/2C"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "3",
-      "title": "Current Electricity",
-      "url": "https://www.youtube.com/watch?v=pKmxsqZNXvQ&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=3"
+      "chapter_no": "3",
+      "chapter_name": "Current Electricity",
+      "video_url": "https://www.youtube.com/watch?v=pKmxsqZNXvQ&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=3",
+      "questions": [
+        {
+          "question": "What is the SI unit of electric current?",
+          "options": {
+            "A": "Volt",
+            "B": "Coulomb",
+            "C": "Ampere",
+            "D": "Ohm"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is Ohm's Law?",
+          "options": {
+            "A": "V = IR",
+            "B": "I = V/R",
+            "C": "R = VI",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the term resistance refer to?",
+          "options": {
+            "A": "Opposition to current flow",
+            "B": "Rate of charge flow",
+            "C": "Energy per charge",
+            "D": "Voltage across a circuit"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the relationship between power, voltage, and current?",
+          "options": {
+            "A": "P = VI",
+            "B": "P = V/I",
+            "C": "P = I/V",
+            "D": "P = V + I"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the unit of electrical energy?",
+          "options": {
+            "A": "Joule",
+            "B": "Watt",
+            "C": "Coulomb",
+            "D": "Kilowatt-hour"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
-      "chapter": "4",
-      "title": "Magnetic Effect Of Electric Current",
-      "url": "https://www.youtube.com/watch?v=figZPCA418o&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=4"
+      "chapter_no": "4",
+      "chapter_name": "Magnetic Effect Of Electric Current",
+      "video_url": "https://www.youtube.com/watch?v=figZPCA418o&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=4",
+      "questions": [
+        {
+          "question": "What is the direction of the magnetic field around a current-carrying conductor?",
+          "options": {
+            "A": "Outward ratiating from the source",
+            "B": "Along the direction of current",
+            "C": "Perpendicular to the direction of the current",
+            "D": "Inward towards the source"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the right-hand rule used for in electromagnetism?",
+          "options": {
+            "A": "To determine the direction of force",
+            "B": "To find current direction",
+            "C": "To calculate resistance",
+            "D": "To find magnetic field direction"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the unit of magnetic field strength?",
+          "options": {
+            "A": "Ampere",
+            "B": "Tesla",
+            "C": "Newton",
+            "D": "Watt"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which device operates on the principle of electromagnetism?",
+          "options": {
+            "A": "Transformer",
+            "B": "Capacitor",
+            "C": "Resistor",
+            "D": "Battery"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In which direction does the magnetic force act on a charged particle moving in a magnetic field?",
+          "options": {
+            "A": "Parallel to the field direction",
+            "B": "Perpendicular to both the velocity and field direction",
+            "C": "In the direction of velocity",
+            "D": "Opposite to the magnetic field direction"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": "5",
-      "title": "Magnetism and Matter",
-      "url": "https://www.youtube.com/watch?v=OBU4WqGXtJs&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=5"
+      "chapter_no": "5",
+      "chapter_name": "Magnetism and Matter",
+      "video_url": "https://www.youtube.com/watch?v=OBU4WqGXtJs&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=5",
+      "questions": [
+        {
+          "question": "What causes magnetism in materials?",
+          "options": {
+            "A": "Random orientation of magnetic domains",
+            "B": "Movement of electrons",
+            "C": "Presence of electric charges",
+            "D": "Vibrational energy of atoms"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a magnet's magnetic moment?",
+          "options": {
+            "A": "Amount of magnetic field produced",
+            "B": "Strength and direction of a magnetic source",
+            "C": "Energy stored in a magnetic field",
+            "D": "Magnetic field at a given point"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the region around a magnet called where magnetic forces can be detected?",
+          "options": {
+            "A": "Magnetic field",
+            "B": "Electromagnetic field",
+            "C": "Electric field",
+            "D": "Gravitational field"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which material is known to be ferromagnetic?",
+          "options": {
+            "A": "Copper",
+            "B": "Aluminum",
+            "C": "Iron",
+            "D": "Bismuth"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the magnetic field inside a long solenoid?",
+          "options": {
+            "A": "Uniform and parallel to the axis",
+            "B": "Zero",
+            "C": "Non-uniform",
+            "D": "Radial"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "6",
-      "title": "Electromagnetic Induction",
-      "url": "https://www.youtube.com/watch?v=dza5P62NUxY&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=6"
+      "chapter_no": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "video_url": "https://www.youtube.com/watch?v=dza5P62NUxY&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=6",
+      "questions": [
+        {
+          "question": "What law quantifies the induced electromotive force?",
+          "options": {
+            "A": "Faraday's Law",
+            "B": "Lenz's Law",
+            "C": "Ohm's Law",
+            "D": "Ampere’s Law"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does Lenz's Law state?",
+          "options": {
+            "A": "Induced current flows in a way to oppose the change in magnetic flux",
+            "B": "Induced current flows in the same direction as the change in magnetic flux",
+            "C": "Magnetic fields are always constant",
+            "D": "Electromagnetic force is inversely proportional to area"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the unit of magnetic flux?",
+          "options": {
+            "A": "Tesla",
+            "B": "Weber",
+            "C": "Farad",
+            "D": "Henry"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is induced emf dependent on?",
+          "options": {
+            "A": "Rate of change of current",
+            "B": "Rate of change of magnetic field",
+            "C": "Rate of change of area",
+            "D": "All of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of generator converts mechanical energy into electrical energy?",
+          "options": {
+            "A": "AC generator",
+            "B": "DC generator",
+            "C": "Both a and b",
+            "D": "Battery"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-      "chapter": "7",
-      "title": "Alternating Current",
-      "url": "https://www.youtube.com/watch?v=IL0yxJYpWbM&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=7"
+      "chapter_no": "7",
+      "chapter_name": "Alternating Current",
+      "video_url": "https://www.youtube.com/watch?v=IL0yxJYpWbM&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=7",
+      "questions": [
+        {
+          "question": "What is the frequency of alternating current (AC) in most household circuits?",
+          "options": {
+            "A": "50 Hz",
+            "B": "60 Hz",
+            "C": "100 Hz",
+            "D": "120 Hz"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does RMS value represent in AC circuits?",
+          "options": {
+            "A": "The average voltage",
+            "B": "The effective value of AC",
+            "C": "Peak voltage",
+            "D": "Safety limit"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the phase difference between voltage and current in an ideal inductive circuit?",
+          "options": {
+            "A": "0 degrees",
+            "B": "90 degrees",
+            "C": "180 degrees",
+            "D": "270 degrees"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main advantage of AC over DC?",
+          "options": {
+            "A": "Easier to generate",
+            "B": "Easier to transform to different voltages",
+            "C": "More efficient for long-distance transmission",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What component is used to store energy in an AC circuit?",
+          "options": {
+            "A": "Capacitor",
+            "B": "Inductor",
+            "C": "Resistor",
+            "D": "Transformer"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "8",
-      "title": "Electromagnetic Waves",
-      "url": "https://www.youtube.com/watch?v=IXHmFRJbrXw&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=8"
+      "chapter_no": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "video_url": "https://www.youtube.com/watch?v=IXHmFRJbrXw&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=8",
+      "questions": [
+        {
+          "question": "What is the speed of electromagnetic waves in a vacuum?",
+          "options": {
+            "A": "3 × 10^8 m/s",
+            "B": "1 × 10^8 m/s",
+            "C": "3 × 10^6 m/s",
+            "D": "3 × 10^5 m/s"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the relationship between frequency and wavelength in an electromagnetic wave?",
+          "options": {
+            "A": "Directly proportional",
+            "B": "Inversely proportional",
+            "C": "Independent",
+            "D": "Depends on the amplitude"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of electromagnetic wave has the longest wavelength?",
+          "options": {
+            "A": "Gamma rays",
+            "B": "X-rays",
+            "C": "Radio waves",
+            "D": "Ultraviolet waves"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the key property of electromagnetic waves?",
+          "options": {
+            "A": "They don't require a medium",
+            "B": "They can only propagate in a vacuum",
+            "C": "They can be polarized",
+            "D": "Both a and c"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which law relates the intensity of electromagnetic waves to the distance from the source?",
+          "options": {
+            "A": "Inverse square law",
+            "B": "Ohm's Law",
+            "C": "Coulomb's Law",
+            "D": "Faraday's Law"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "9",
-      "title": "https://www.youtube.com/watch?v=WtTpx5u7evA&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=9"
+      "chapter_no": "9",
+      "chapter_name": "Optics",
+      "video_url": "https://www.youtube.com/watch?v=WtTpx5u7evA&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=9",
+      "questions": [
+        {
+          "question": "What is the law of reflection?",
+          "options": {
+            "A": "Angle of incidence equals angle of reflection",
+            "B": "Light travels faster in denser media",
+            "C": "Light waves bend at interfaces",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the focal length of a concave lens?",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "Infinity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of lens converges light rays?",
+          "options": {
+            "A": "Concave lens",
+            "B": "Cylindrical lens",
+            "C": "Convex lens",
+            "D": "Prism"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the critical angle?",
+          "options": {
+            "A": "Angle at which total internal reflection occurs",
+            "B": "Angle of incidence in a medium",
+            "C": "Angle of refraction in a medium",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What phenomenon causes a rainbow?",
+          "options": {
+            "A": "Reflection",
+            "B": "Refraction and dispersion",
+            "C": "Diffraction",
+            "D": "Interference"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": "10",
-      "title": "Wave Optics",
-      "url": "https://www.youtube.com/watch?v=8HSSFkJi--A&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=10"
+      "chapter_no": "10",
+      "chapter_name": "Wave Optics",
+      "video_url": "https://www.youtube.com/watch?v=8HSSFkJi--A&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=10",
+      "questions": [
+        {
+          "question": "What is the phenomenon of interference in light?",
+          "options": {
+            "A": "Superposition of waves resulting in a new wave pattern",
+            "B": "Refraction of light through different mediums",
+            "C": "Reflection of light off surfaces",
+            "D": "Bending of light around obstacles"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you call the dark and bright fringes formed in interference patterns?",
+          "options": {
+            "A": "Nodes and antinodes",
+            "B": "Maxima and minima",
+            "C": "Crests and troughs",
+            "D": "Wavefronts"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the condition for constructive interference?",
+          "options": {
+            "A": "Path difference is an integer multiple of the wavelength",
+            "B": "Path difference is half an integer multiple of the wavelength",
+            "C": "Phase difference is 0",
+            "D": "Both a and c"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What does the double-slit experiment demonstrate?",
+          "options": {
+            "A": "Wave-particle duality",
+            "B": "Diffraction only",
+            "C": "Reflection only",
+            "D": "Total internal reflection"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the equation for the fringe width in a double-slit experiment?",
+          "options": {
+            "A": "w = λD/d",
+            "B": "w = dD/λ",
+            "C": "w = λ/d",
+            "D": "w = D/λd"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "11",
-      "title": "Dual Nature of Radiation and Matter",
-      "url": "https://www.youtube.com/watch?v=T1dsDK1u1fs&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=11"
+      "chapter_no": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "video_url": "https://www.youtube.com/watch?v=T1dsDK1u1fs&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=11",
+      "questions": [
+        {
+          "question": "What does photoelectric effect demonstrate?",
+          "options": {
+            "A": "Wave nature of light",
+            "B": "Particle nature of light",
+            "C": "Both particle and wave nature",
+            "D": "Neither particle nor wave nature"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the minimum energy required to eject an electron from a material called?",
+          "options": {
+            "A": "Work function",
+            "B": "Photon energy",
+            "C": "Threshold energy",
+            "D": "Quanta"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the de Broglie wavelength?",
+          "options": {
+            "A": "Wavelength associated with matter",
+            "B": "Speed of light in a vacuum",
+            "C": "Energy of light",
+            "D": "Distance light travels in a vacuum"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is Einstein's photoelectric equation?",
+          "options": {
+            "A": "E = hf",
+            "B": "E = mc²",
+            "C": "E = mc",
+            "D": "E = hv"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which particle is associated with quantized energy levels?",
+          "options": {
+            "A": "Electron",
+            "B": "Proton",
+            "C": "Neutron",
+            "D": "Photons"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
-      "chapter": "12",
-      "title": "Atoms",
-      "url": "https://www.youtube.com/watch?v=fgan_ywZLTI&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=13"
+      "chapter_no": "12",
+      "chapter_name": "Atoms",
+      "video_url": "https://www.youtube.com/watch?v=fgan_ywZLTI&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=12",
+      "questions": [
+        {
+          "question": "What is the nucleus of an atom primarily made of?",
+          "options": {
+            "A": "Electrons",
+            "B": "Neutrons and protons",
+            "C": "Photons",
+            "D": "Bonds"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following particles has a negative charge?",
+          "options": {
+            "A": "Proton",
+            "B": "Neutron",
+            "C": "Electron",
+            "D": "Quark"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What represents the atomic number of an element?",
+          "options": {
+            "A": "Number of protons",
+            "B": "Number of neutrons",
+            "C": "Total number of particles",
+            "D": "Number of electrons"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How do isotopes of an element differ?",
+          "options": {
+            "A": "Number of protons",
+            "B": "Number of electrons",
+            "C": "Number of neutrons",
+            "D": "Type of bonds"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the significance of the Bohr model of the atom?",
+          "options": {
+            "A": "Describes electron orbits for hydrogen atom",
+            "B": "Explains the charge of protons",
+            "C": "Describes electron interactions",
+            "D": "Accounts for neutron behavior"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "13",
-      "title": "Nuclei",
-      "url": "https://www.youtube.com/watch?v=MLxoHc8jxgo&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=14"
+      "chapter_no": "13",
+      "chapter_name": "Nuclei",
+      "video_url": "https://www.youtube.com/watch?v=MLxoHc8jxgo&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=14",
+      "questions": [
+        {
+          "question": "What is the nucleus of an atom composed of?",
+          "options": {
+            "A": "Protons and electrons",
+            "B": "Neutrons and electrons",
+            "C": "Protons and neutrons",
+            "D": "Electrons only"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the atomic mass unit (amu) based on?",
+          "options": {
+            "A": "Mass of a neutron",
+            "B": "Mass of a proton",
+            "C": "Mass of  ^{12}C ",
+            "D": "Mass of an electron"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the strong nuclear force responsible for?",
+          "options": {
+            "A": "Attraction between electrons",
+            "B": "Binding protons and neutrons together",
+            "C": "Electromagnetic interactions",
+            "D": "Gravitational attraction"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is radioactivity?",
+          "options": {
+            "A": "Emission of radiation from the nucleus",
+            "B": "Absorption of energy",
+            "C": "Movement of electrons",
+            "D": "Chemical reaction"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the half-life of a radioactive isotope?",
+          "options": {
+            "A": "Time taken for half of the sample to decay",
+            "B": "Total time for complete decay",
+            "C": "Time taken for one complete cycle",
+            "D": "Indefinite time"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "14",
-      "title": "Semiconductor Electronics",
-      "url": "https://www.youtube.com/watch?v=Hp_rQyCkULM&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=15"
+      "chapter_no": "14",
+      "chapter_name": "Semiconductor Electronics",
+      "video_url": "https://www.youtube.com/watch?v=Hp_rQyCkULM&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=15",
+      "questions": [
+        {
+          "question": "What is a semiconductor?",
+          "options": {
+            "A": "Material with high conductivity",
+            "B": "Material with low conductivity",
+            "C": "Material with conductivity between conductor and insulator",
+            "D": "Material that cannot conduct electricity"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is doping in semiconductors?",
+          "options": {
+            "A": "Adding impurities to enhance conductivity",
+            "B": "Removing electrons to increase resistance",
+            "C": "Cutting material into small pieces",
+            "D": "Heating to improve conductivity"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main type of charge carrier in n-type semiconductors?",
+          "options": {
+            "A": "Holes",
+            "B": "Electrons",
+            "C": "Protons",
+            "D": "Neutrons"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which device uses semiconductor properties?",
+          "options": {
+            "A": "Transistors",
+            "B": "Resistors",
+            "C": "Capacitors",
+            "D": "Inductors"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the bandgap in semiconductors?",
+          "options": {
+            "A": "Energy required to remove an electron",
+            "B": "Energy band that conducts electricity",
+            "C": "Energy of electrons",
+            "D": "Energy state of protons"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": "15",
-      "title": "Matter Waves And Photoelectric Effect",
-      "url": "https://www.youtube.com/watch?v=H7xLcWdNdnc&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=12"
+      "chapter_no": "15",
+      "chapter_name": "Matter Waves And Photoelectric Effect",
+      "video_url": "https://www.youtube.com/watch?v=H7xLcWdNdnc&list=PL2xF3HCNxGM-IO4d7hhE2z4PejnOUcwiV&index=12",
+      "questions": [
+        {
+          "question": "What is the photoelectric effect?",
+          "options": {
+            "A": "Emission of electrons from a material when exposed to light",
+            "B": "Emission of light from a material when heated",
+            "C": "Absorption of light by electrons",
+            "D": "Refraction of light through a prism"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the De Broglie hypothesis?",
+          "options": {
+            "A": "Matter has wave-like properties",
+            "B": "Light behaves as a particle",
+            "C": "Energy is quantized",
+            "D": "All matter is made of waves"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the threshold frequency?",
+          "options": {
+            "A": "Minimum frequency needed to emit electrons",
+            "B": "Maximum frequency for energy",
+            "C": "Fraction of light absorbed",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What happens to electrons in the photoelectric effect when photon energy is greater than the work function?",
+          "options": {
+            "A": "Electrons are emitted with excess energy",
+            "B": "Electrons remain bound",
+            "C": "Electrons are absorbed",
+            "D": "Energy transforms to heat"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What provides evidence for wave-particle duality?",
+          "options": {
+            "A": "Double-slit experiment",
+            "B": "Newton's laws",
+            "C": "Coulomb's law",
+            "D": "Mass-energy equivalence"
+          },
+          "correct_answer": "A"
+        }
+      ]
     }
   ]
-  
+}

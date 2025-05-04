@@ -1,148 +1,1188 @@
 {
-    "class": "Class 7",
-    "subject": "Hindi",
-    "book": "Vasant",
-    "video_explanations": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Hum Panchhi Unmukt Gagan Ke",
-        "video_duration": "33:45",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Dadi Maa",
-        "video_duration": "39:52",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Himalayan Ki Betiyan",
-        "video_duration": "28:21",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Kathputli",
-        "video_duration": "22:26",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Mithaiwala",
-        "video_duration": "43:38",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Rakt Aur Hamara Sharir",
-        "video_duration": "29:44",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Papa Kho Gaye",
-        "video_duration": "1:07:33",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Shaam: Ek Kisaan",
-        "video_duration": "27:26",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Chidiya Ki Bacchi",
-        "video_duration": "44:18",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "Apurv Anubhav",
-        "video_duration": "39:20",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "Rahim ke Dohe",
-        "video_duration": "24:11",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "Kancha",
-        "video_duration": "50:58",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "Ek Tinka",
-        "video_duration": "21:02",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "Khanpan Ki Badalti Tasveer",
-        "video_duration": "37:13",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "Neelkanth",
-        "video_duration": "53:52",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "Bhor or Barkha",
-        "video_duration": "19:12",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 17,
-        "chapter_name": "Veer Kunwar Singh",
-        "video_duration": "42:51",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 18,
-        "chapter_name": "Sangharsh Ke Karan Mein Tunukmizaaj Ho Gaya: Dhanraj",
-        "video_duration": "34:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 19,
-        "chapter_name": "Aashram ka Anumanit Vyay",
-        "video_duration": "21:14",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      },
-      {
-        "chapter_no": 20,
-        "chapter_name": "Viplav Gayan",
-        "video_duration": "19:47",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=your_video_id_here"
-      }
-    ]
-  }
-  
+  "class": "Class 7",
+  "subject": "Hindi",
+  "book": "Vasant",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Hum Panchhi Unmukt Gagan Ke",
+      "video_duration": "33:45",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=uvDlMa5Lu6w&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=1",
+      "questions": [
+        {
+          "question": "इस कविता में उन्मुक्त का क्या अर्थ है?",
+          "options": {
+            "A": "निर्बंध",
+            "B": "अवश",
+            "C": "छोटा",
+            "D": "संकुचित"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता में पंछियों के सुखद क्षणों का वर्णन कैसे किया गया है?",
+          "options": {
+            "A": "दुखदायी",
+            "B": "सुखद",
+            "C": "उदास",
+            "D": "निराश"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कविता का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "आज़ादी का महत्व",
+            "B": "कैद का दुःख",
+            "C": "प्रकृति का विवेचन",
+            "D": "अधिकारों का उल्लंघन"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता में कौन से प्राकृतिक तत्वों का उल्लेख किया गया है?",
+          "options": {
+            "A": "बर्फ",
+            "B": "आसमान और बादल",
+            "C": "जंगल",
+            "D": "सागर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कविता में किस भाव का प्रकट किया गया है?",
+          "options": {
+            "A": "प्रधानता",
+            "B": "स्वछंदता",
+            "C": "स्वार्थ",
+            "D": "पारिवारिकता"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Dadi Maa",
+      "video_duration": "39:52",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=QJSmarpWvV8&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=2&pp=iAQB",
+      "questions": [
+        {
+          "question": "दादी माँ का चरित्र किस प्रकार का है?",
+          "options": {
+            "A": "क्रोधी",
+            "B": "दयालु",
+            "C": "मौज-मस्ती करने वाला",
+            "D": "उदास"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "दादी माँ की कहानियों का मुख्य उद्देश्य क्या होता है?",
+          "options": {
+            "A": "डराना",
+            "B": "सीखना",
+            "C": "मनोरंजन",
+            "D": "सच्चाई बताना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "किस चीज़ का दादी माँ अक्सर जिक्र करती हैं?",
+          "options": {
+            "A": "अपने बचपन के किस्से",
+            "B": "पौधों की देखभाल",
+            "C": "खेल",
+            "D": "सैर"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "दादी माँ की कहानियों में कौन सी मुख्य बात होती है?",
+          "options": {
+            "A": "नीति",
+            "B": "धोखा",
+            "C": "कर्म",
+            "D": "भाग्य"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता में दादी माँ का स्थान क्या दर्शाता है?",
+          "options": {
+            "A": "अधिकार",
+            "B": "समर्थन",
+            "C": "स्नेह",
+            "D": "परिवार का केंद्र"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Himalayan Ki Betiyan",
+      "video_duration": "28:21",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=pGW5HeWG4IQ&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=3",
+      "questions": [
+        {
+          "question": "कविता में हिमालय की बेटियों का क्या प्रतिनिधित्व है?",
+          "options": {
+            "A": "शक्ति",
+            "B": "कमजोरी",
+            "C": "सामर्थ्य",
+            "D": "सांस्कृतिक धरोहर"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "खुद को साबित करना",
+            "B": "सुरक्षा",
+            "C": "ईमानदारी",
+            "D": "जीविका"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कविता में प्रकृति का क्या चित्रण किया गया है?",
+          "options": {
+            "A": "असामान्य",
+            "B": "खूबसूरत",
+            "C": "दुखदायी",
+            "D": "वैश्विक"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कविता में कौन सा भाव अधिक महत्वपूर्ण है?",
+          "options": {
+            "A": "रक्षा",
+            "B": "संघर्ष",
+            "C": "धैर्य",
+            "D": "संधि"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कविता की ऋतुओं में कौन से विशेष कार्य किए जाते हैं?",
+          "options": {
+            "A": "फसल बोना",
+            "B": "कृषि करना",
+            "C": "विवाह करना",
+            "D": "संगीत करना"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Kathputli",
+      "video_duration": "22:26",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=Npjp3BFxMAA&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=4",
+      "questions": [
+        {
+          "question": "कठपुतली का अर्थ क्या है?",
+          "options": {
+            "A": "बिना आत्मा के",
+            "B": "संवेदनशून्य",
+            "C": "नियंत्रित",
+            "D": "स्वतंत्र"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस नाटक में क्या दर्शाया गया है?",
+          "options": {
+            "A": "सामाजिक मुद्दे",
+            "B": "व्यक्तिगत संघर्ष",
+            "C": "कथानक",
+            "D": "अवसाद"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कठपुतली की कहानी में कौन सा मुख्य पात्र है?",
+          "options": {
+            "A": "कठपुतली",
+            "B": "शिक्षक",
+            "C": "छात्र",
+            "D": "संपर्क करता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कठपुतली का संदेश क्या है?",
+          "options": {
+            "A": "स्वार्थ",
+            "B": "सहयोग",
+            "C": "अराजकता",
+            "D": "विभाजन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी में कौन सी नैतिकता है?",
+          "options": {
+            "A": "सच्चाई हमेशा जीतती है",
+            "B": "सिद्धांत महत्वहीन हैं",
+            "C": "दुख अधिक महत्वपूर्ण है",
+            "D": "सभी के लिए सच्चाई है"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Mithaiwala",
+      "video_duration": "43:38",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=66V8FZMQeb0&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=5",
+      "questions": [
+        {
+          "question": "मिठाईवाला का व्यवसाय क्या है?",
+          "options": {
+            "A": "किसान",
+            "B": "पेशेवर",
+            "C": "विक्रेता",
+            "D": "संरक्षक"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी में मिठाईवाले की क्या विशेषता है?",
+          "options": {
+            "A": "दया",
+            "B": "गप्पबाजी",
+            "C": "ईमानदारी",
+            "D": "बदमाशी"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी में मिठाई को किस चीज़ के माध्यम से बताया गया है?",
+          "options": {
+            "A": "संभालना",
+            "B": "संवेदना",
+            "C": "सामाजिकता",
+            "D": "स्वाद"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी के अंत में मिठाईवाले को क्या समझ में आता है?",
+          "options": {
+            "A": "क्षमता",
+            "B": "प्रतिस्पर्धा",
+            "C": "संबंध",
+            "D": "परिवार"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी का समापन कैसे होता है?",
+          "options": {
+            "A": "दुखद",
+            "B": "खुशहाल",
+            "C": "निराशाजनक",
+            "D": "संवेदनशील"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Rakt Aur Hamara Sharir",
+      "video_duration": "29:44",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=i6sZQ3VVy8I&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=6",
+      "questions": [
+        {
+          "question": "रक्त का मुख्य कार्य क्या है?",
+          "options": {
+            "A": "पोषण",
+            "B": "ऊर्जा",
+            "C": "रक्षा",
+            "D": "संचार"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "रक्त में कौन सा तत्व मुख्य होता है?",
+          "options": {
+            "A": "हीमोग्लोबिन",
+            "B": "वसा",
+            "C": "प्रोटीन",
+            "D": "कार्बोहाइड्रेट"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "रक्त का क्या गुण होता है?",
+          "options": {
+            "A": "शीतलता",
+            "B": "चिकनाई",
+            "C": "चटक",
+            "D": "गर्मी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "हमारे शरीर में रक्त का प्रवाह किस तरीके से होता है?",
+          "options": {
+            "A": "जहाजों",
+            "B": "नसों",
+            "C": "संधियों",
+            "D": "आंतरिका"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "रक्त का स्वास्थ्य पर क्या प्रभाव पड़ता है?",
+          "options": {
+            "A": "अवशिष्ट",
+            "B": "सुखद",
+            "C": "नैतिक",
+            "D": "शुद्धता"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Papa Kho Gaye",
+      "video_duration": "1:07:33",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=EE_klo0eLi4&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=7",
+      "questions": [
+        {
+          "question": "पापा खो गए कहानी का मुख्य दुख क्या है?",
+          "options": {
+            "A": "गुम होना",
+            "B": "दुखी होना",
+            "C": "ध्यान केंद्रित करना",
+            "D": "माँ का साथ नहीं होना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी में बच्चे की कौन सी विशेषताएँ प्रमुख हैं?",
+          "options": {
+            "A": "असंगठित",
+            "B": "संवेदनशील",
+            "C": "जिद्दी",
+            "D": "स्वार्थी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी में कौन सा भाव प्रमुख है?",
+          "options": {
+            "A": "डर",
+            "B": "संघर्ष",
+            "C": "प्रेम",
+            "D": "राग"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "पापा को खोने के बाद बच्चे में क्या परिवर्तन आता है?",
+          "options": {
+            "A": "धैर्य",
+            "B": "क्रोध",
+            "C": "विराम",
+            "D": "डेटा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का अंत किस प्रकार होता है?",
+          "options": {
+            "A": "पुनर्मिलन",
+            "B": "निराशा",
+            "C": "अनत्य दुख",
+            "D": "शांति"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Shaam: Ek Kisaan",
+      "video_duration": "27:26",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=87qwKQuj1XM&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=8",
+      "questions": [
+        {
+          "question": "किसान की दिनचर्या में क्या महत्वपूर्ण है?",
+          "options": {
+            "A": "कड़ी मेहनत",
+            "B": "आराम",
+            "C": "आलस्य",
+            "D": "घंटों की संख्या"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किसान की अंतिम फसल का क्या होता है?",
+          "options": {
+            "A": "खुशियाँ",
+            "B": "अवेक्षण",
+            "C": "विपरीत परिणाम",
+            "D": "संपत्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किसान का मुख्य ध्येय क्या होता है?",
+          "options": {
+            "A": "लाभ कमाना",
+            "B": "खुद को साबित करना",
+            "C": "सामाजिक स्थिति",
+            "D": "परिवार देखना"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "शाम के समय किसान का मानसिक स्थिति क्या होती है?",
+          "options": {
+            "A": "शांति",
+            "B": "बोरियत",
+            "C": "तनाव",
+            "D": "निराशा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी में किस प्रक्रियाओं का महत्व बताया गया है?",
+          "options": {
+            "A": "पौधों की देखभाल",
+            "B": "अवशिष्ट देना",
+            "C": "विपणन",
+            "D": "निवेश"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Chidiya Ki Bacchi",
+      "video_duration": "44:18",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=ZbGFVVnp8fg&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=9",
+      "questions": [
+        {
+          "question": "चिड़िया की बच्ची का जीवन कैसा है?",
+          "options": {
+            "A": "खुशहाल",
+            "B": "दुखद",
+            "C": "संघर्षपूर्ण",
+            "D": "सुखद"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी में कौन सा प्राकृतिक तत्व प्रमुख है?",
+          "options": {
+            "A": "बादल",
+            "B": "पानी",
+            "C": "पेड़",
+            "D": "हवा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी का क्या संदेश है?",
+          "options": {
+            "A": "एकता में बल है",
+            "B": "सामाजिकता",
+            "C": "निस्वार्थता",
+            "D": "सुरक्षा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी में चिड़िया की माँ का भाव कैसा है?",
+          "options": {
+            "A": "स्वागत",
+            "B": "खुशी",
+            "C": "दुख",
+            "D": "अवसाद"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी के अंत में क्या होता है?",
+          "options": {
+            "A": "स्वतंत्रता",
+            "B": "आशा",
+            "C": "संकट",
+            "D": "विजय"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Apurv Anubhav",
+      "video_duration": "39:20",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=y-87cr4fUzg&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=10",
+      "questions": [
+        {
+          "question": "इस अनुभव का क्या महत्व है?",
+          "options": {
+            "A": "सीखने का",
+            "B": "भूलने का",
+            "C": "बेजान",
+            "D": "निकटता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "प्रमुख घटना क्या है?",
+          "options": {
+            "A": "मौका मिलना",
+            "B": "सकारात्मकता",
+            "C": "संघर्ष",
+            "D": "मिलकर काम करना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या करना सबसे सत्य है?",
+          "options": {
+            "A": "सत्य को जानना",
+            "B": "विक्षिप्तता",
+            "C": "आक्रोश",
+            "D": "विश्वास"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "अपूर्व अनुभव का क्या परिणाम होता है?",
+          "options": {
+            "A": "नवीनता",
+            "B": "समानता",
+            "C": "स्टेग्नेशन",
+            "D": "अवशेष"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस अनुभव से क्या हासिल होता है?",
+          "options": {
+            "A": "मूल्य",
+            "B": "सुख",
+            "C": "प्रतिष्ठा",
+            "D": "शांति"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Rahim ke Dohe",
+      "video_duration": "24:11",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=5cXGZUVzU9Y&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=11",
+      "questions": [
+        {
+          "question": "रहीम के दोहे में क्या सीखने को मिलता है?",
+          "options": {
+            "A": "ज्ञान",
+            "B": "विद्या",
+            "C": "शिक्षा",
+            "D": "धैर्य"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "दोहे का अर्थ क्या है?",
+          "options": {
+            "A": "कल्पना",
+            "B": "संवेदना",
+            "C": "संकट",
+            "D": "कविता"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "रहीम के दोहों का मुख्य तत्व क्या है?",
+          "options": {
+            "A": "सादगी",
+            "B": "सूक्ष्मता",
+            "C": "अर्थविहीनता",
+            "D": "भावनाएँ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कविता में क्या मात्रा होती है?",
+          "options": {
+            "A": "दुख",
+            "B": "सुख",
+            "C": "सुरक्षा",
+            "D": "बदलाव"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "रहीम के दोहे का लाभ क्या है?",
+          "options": {
+            "A": "ज्ञान का भंडार",
+            "B": "मुसीबत से बचाना",
+            "C": "अनल्प श्रृंखला",
+            "D": "समर्पण भाव"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Kancha",
+      "video_duration": "50:58",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=wkv_PhBNbIQ&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=12",
+      "questions": [
+        {
+          "question": "कंचा का क्या महत्व है?",
+          "options": {
+            "A": "बचपन की याद",
+            "B": "खेल का हिस्सा",
+            "C": "सजावट",
+            "D": "चित्रण"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कंचा की खेल का एक नाम क्या है?",
+          "options": {
+            "A": "महल",
+            "B": "चिड़ियाघर",
+            "C": "पानी में लाना",
+            "D": "गेंद"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कंचा को किस प्रकार से खेला जाता है?",
+          "options": {
+            "A": "हाथ से",
+            "B": "पैर से",
+            "C": "आग से",
+            "D": "दिमाग से"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस खेल का परिणाम क्या होता है?",
+          "options": {
+            "A": "सुख",
+            "B": "खुशी",
+            "C": "लाभ",
+            "D": "यादें"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "क्या कंचा खेल विश्वसनीय है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "अधूरे",
+            "D": "सम्पूर्ण"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Ek Tinka",
+      "video_duration": "21:02",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=67bhhofQptY&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=13",
+      "questions": [
+        {
+          "question": "एक तिनके का प्रतीक क्या है?",
+          "options": {
+            "A": "शक्ति",
+            "B": "कमजोरी",
+            "C": "संवेदनशीलता",
+            "D": "नैतिकता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी में तिनके का क्या महत्व है?",
+          "options": {
+            "A": "आधार",
+            "B": "मूल्य",
+            "C": "संबंध",
+            "D": "पारिवारिकता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी में कौन सी नैतिकता है?",
+          "options": {
+            "A": "प्रवृत्ति",
+            "B": "धैर्य",
+            "C": "स्वाभिमान",
+            "D": "सार्थकता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "तिनका कैसे लग रहा है?",
+          "options": {
+            "A": "सुस्त",
+            "B": "दृढ़",
+            "C": "मजबूत",
+            "D": "अवश"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी में बदलाव का क्या महत्व है?",
+          "options": {
+            "A": "परिवर्तन",
+            "B": "अबाधता",
+            "C": "विकास",
+            "D": "संक्रमण"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Khanpan Ki Badalti Tasveer",
+      "video_duration": "37:13",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=UO_ojNswmH4&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=14",
+      "questions": [
+        {
+          "question": "खानपान के बदलते रूप में क्या प्रमुख है?",
+          "options": {
+            "A": "स्वास्थ्य",
+            "B": "रुचि",
+            "C": "सुविधा",
+            "D": "पारंपरिकता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "खानपान की दृष्टि में कौन सी विशेषता होनी चाहिए?",
+          "options": {
+            "A": "स्वाद",
+            "B": "स्वास्थ्य",
+            "C": "आकर्षण",
+            "D": "फैशन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस प्रक्रिया में भोजन का चयन किस विषय से संबंधित है?",
+          "options": {
+            "A": "धान",
+            "B": "पुरानी पद्धति",
+            "C": "नवीनता",
+            "D": "आधुनिकता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "खानपान में कौन सी चीज़ का महत्व नहीं होता?",
+          "options": {
+            "A": "सुविधा",
+            "B": "रुचि",
+            "C": "सकारात्मकता",
+            "D": "बदलाव इच्छा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस विषय में क्या सुझाया गया है?",
+          "options": {
+            "A": "उन्नति",
+            "B": "पारंपरिक",
+            "C": "विकासशीलता",
+            "D": "सुधार"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "Neelkanth",
+      "video_duration": "53:52",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=7hxrG2NqxiU&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=15",
+      "questions": [
+        {
+          "question": "नीलकंठ का क्या प्रतीक है?",
+          "options": {
+            "A": "दुख",
+            "B": "प्रेम",
+            "C": "उल्लास",
+            "D": "निर्धनता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी में नीलकंठ का क्या महत्व है?",
+          "options": {
+            "A": "क्षमता",
+            "B": "शांति",
+            "C": "सुरक्षा",
+            "D": "प्रतिनिधित्त्व"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "नीलकंठ कैसे जुड़े हुए हैं?",
+          "options": {
+            "A": "घोंसले से",
+            "B": "प्रकृति से",
+            "C": "संसार से",
+            "D": "मिट्टी से"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी के अंत में नीलकंठ की क्या स्थिति होती है?",
+          "options": {
+            "A": "अज्ञात",
+            "B": "सुखद",
+            "C": "विपरीत",
+            "D": "सुरक्षित"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "नीलकंठ का प्रतीक क्या प्रस्तुत करता है?",
+          "options": {
+            "A": "आपसी सहयोग",
+            "B": "आकर्षण",
+            "C": "विश्वास",
+            "D": "सामंजस्य"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "Bhor or Barkha",
+      "video_duration": "19:12",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=cWwsZIwj8u8&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=16",
+      "questions": [
+        {
+          "question": "भोर का भाव क्या होता है?",
+          "options": {
+            "A": "उजाला",
+            "B": "सन्नाटा",
+            "C": "निष्क्रियता",
+            "D": "शांति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "बरखा में क्या भाव होता है?",
+          "options": {
+            "A": "खुशी",
+            "B": "दोस्ती",
+            "C": "सुख",
+            "D": "आशा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी में क्या चीज़ का महत्व बताया गया है?",
+          "options": {
+            "A": "प्रकृति",
+            "B": "मनुष्य",
+            "C": "जीव-जंतु",
+            "D": "पौधे"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "भोर का वर्णन किस प्रकार किया गया है?",
+          "options": {
+            "A": "अंधकारमय",
+            "B": "खुशहाल",
+            "C": "दुखभरा",
+            "D": "विरक्त"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "समर्पण का",
+            "B": "धैर्य का",
+            "C": "सयोग का",
+            "D": "सर्वोपरि का"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "Veer Kunwar Singh",
+      "video_duration": "42:51",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=v8hK5Wk6PZ8&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=17",
+      "questions": [
+        {
+          "question": "वीर कुंवर सिंह के साहस का क्या प्रतीक है?",
+          "options": {
+            "A": "बलिदान",
+            "B": "बुद्धिमानी",
+            "C": "दया",
+            "D": "स्वालंबन"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी में उनकी अहमियत किसके लिए है?",
+          "options": {
+            "A": "संघर्ष",
+            "B": "सोच",
+            "C": "कला",
+            "D": "संपत्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "वीर कुंवर सिंह की क्या विशेषता थी?",
+          "options": {
+            "A": "उपकार",
+            "B": "मेहनत",
+            "C": "धैर्य",
+            "D": "संगठन"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी में कुंवर सिंह के आत्म बलिदान का क्या महत्व है?",
+          "options": {
+            "A": "स्वाधीनता",
+            "B": "सम्मान",
+            "C": "धैर्य",
+            "D": "शक्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी का क्या समापन पाठकों को सिखाता है?",
+          "options": {
+            "A": "विजय",
+            "B": "धैर्य",
+            "C": "सिद्धि",
+            "D": "कृपा"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "Sangharsh Ke Karan Mein Tunukmizaaj Ho Gaya: Dhanraj",
+      "video_duration": "34:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=h2t_mJbKz78&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=18",
+      "questions": [
+        {
+          "question": "इस वर्णन में संघर्ष का मुख्य तत्व क्या है?",
+          "options": {
+            "A": "धैर्य",
+            "B": "संकोच",
+            "C": "नीति",
+            "D": "सर्वोपरि"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "धनराज की मानसिकता का प्रमुख भाव क्या है?",
+          "options": {
+            "A": "निराशा",
+            "B": "उद्देश्य",
+            "C": "राग",
+            "D": "आशा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस स्थिति में धनराज की मानसिक स्थिति खराब होती है?",
+          "options": {
+            "A": "परिजन की अनुपस्थिति",
+            "B": "पैसों का कमी",
+            "C": "समाज का तिरस्कार",
+            "D": "स्थाई निधन"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी में धनराज को क्या सिखाया गया है?",
+          "options": {
+            "A": "स्वामित्व",
+            "B": "संघर्ष",
+            "C": "सहमति",
+            "D": "समानता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या संघर्ष के कारण धनराज का मिजाज बदलता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कभी-कभी",
+            "D": "यादगार"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "chapter_name": "Aashram ka Anumanit Vyay",
+      "video_duration": "21:14",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=qwHBHYMx8QY&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=19",
+      "questions": [
+        {
+          "question": "आश्रम का अनुमानित व्यय किस चीज़ पर निर्भर करता है?",
+          "options": {
+            "A": "स्थापना",
+            "B": "छात्र",
+            "C": "शिक्षाण",
+            "D": "पारिवारिक स्थिति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "व्यय की योजना में किन बातों का ध्यान रखना चाहिए?",
+          "options": {
+            "A": "संपत्ति",
+            "B": "संतुलन",
+            "C": "समानता",
+            "D": "कैश व्यय"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी में आश्रम का क्या महत्व है?",
+          "options": {
+            "A": "शक्ति",
+            "B": "सामाजिक स्थिति",
+            "C": "ज्ञान",
+            "D": "प्रतिस्पर्धा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "आश्रम की देखरेख में क्या विशेष ध्यान दिया जाना चाहिए?",
+          "options": {
+            "A": "शांति",
+            "B": "प्रकृति",
+            "C": "श्रम",
+            "D": "बातचीत"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "उचित व्यय की योजना बनाने में किन बातों को ध्यान में रखना चाहिए?",
+          "options": {
+            "A": "अनुमानित",
+            "B": "विश्लेषणात्मक",
+            "C": "विवेकी",
+            "D": "अनुशासन"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "chapter_name": "Viplav Gayan",
+      "video_duration": "19:47",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=_ri5WY03H6E&list=PLVLoWQFkZbhWLnuf92mhAC_vGpvbX2IAZ&index=20",
+      "questions": [
+        {
+          "question": "विप्लव गायन का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "स्वतंत्रता",
+            "B": "संक्रमण",
+            "C": "विज्ञान",
+            "D": "संगीत"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस गायन में क्या भाव होता है?",
+          "options": {
+            "A": "नया सवाल",
+            "B": "क्रांति",
+            "C": "संगठन",
+            "D": "सुख"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "विप्लव गायन में प्रमुख बात क्या होती है?",
+          "options": {
+            "A": "भावना",
+            "B": "विज्ञान",
+            "C": "दृढ़ता",
+            "D": "व्यक्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस गायन में किसके माध्यम से आमंत्रण दिया जाता है?",
+          "options": {
+            "A": "कारवां",
+            "B": "मंच",
+            "C": "जनता",
+            "D": "स्वयं"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या विप्लव गायन में सारा जीवन शामिल होता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कभी-कभी",
+            "D": "महत्त्वपूर्ण"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}

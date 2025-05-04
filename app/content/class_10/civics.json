@@ -1,0 +1,463 @@
+{
+    "class": 10,
+    "subject": "Civics",
+    "channel": "CBSE Guidence",
+    "chapters":[
+        {
+            "chapter_no": 1,
+            "chapter_name": "Power Sharing",
+            "video_url": "https://www.youtube.com/watch?v=9EZNx-lh5xQ&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=14",
+            "questions": [
+              {
+                "question": "What is the main aim of power sharing?",
+                "options": {
+                  "A": "Concentration of power",
+                  "B": "Stability and peace",
+                  "C": "Increase in conflict",
+                  "D": "Economic growth"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a key principle of power sharing?",
+                "options": {
+                  "A": "Centralization",
+                  "B": "Decentralization",
+                  "C": "Hegemony",
+                  "D": "Isolationism"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What type of power sharing exists in a federal system?",
+                "options": {
+                  "A": "Vertical and horizontal sharing",
+                  "B": "Centralization",
+                  "C": "Concentration",
+                  "D": "Unitary"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "How does power sharing contribute to democracy?",
+                "options": {
+                  "A": "By excluding minority voices",
+                  "B": "By increasing political participation",
+                  "C": "By diminishing accountability",
+                  "D": "By focusing on majority rule"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is an example of power sharing in practice?",
+                "options": {
+                  "A": "Absolute monarchy",
+                  "B": "Coalition governments",
+                  "C": "Authoritarian regimes",
+                  "D": "Single-party systems"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Federalism",
+            "video_url": "https://www.youtube.com/watch?v=TiETvpQluvY&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=15",
+            "questions": [
+              {
+                "question": "What is the defining characteristic of federalism?",
+                "options": {
+                  "A": "Centralized governance",
+                  "B": "Division of powers",
+                  "C": "Unitary system",
+                  "D": "Authoritarian rule"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which country is known for having a federal system?",
+                "options": {
+                  "A": "India",
+                  "B": "United Kingdom",
+                  "C": "France",
+                  "D": "China"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "How does federalism accommodate diversity?",
+                "options": {
+                  "A": "By promoting uniformity",
+                  "B": "By decentralizing power",
+                  "C": "By restricting regional autonomy",
+                  "D": "By concentrating decision-making"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What issue can arise from federalism?",
+                "options": {
+                  "A": "Conflict between state and central powers",
+                  "B": "Increased cooperation",
+                  "C": "Enhanced local governance",
+                  "D": "Unity among diversity"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which of the following is an essential feature of federalism?",
+                "options": {
+                  "A": "Single legislature",
+                  "B": "Bicameral legislature",
+                  "C": "Multiple levels of government",
+                  "D": "Centralized decision-making"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Democracy and Diversity",
+            "video_url": "https://www.youtube.com/watch?v=b_oUQkuEHmM&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=18",
+            "questions": [
+              {
+                "question": "What is a key challenge to democracy?",
+                "options": {
+                  "A": "Informed voting",
+                  "B": "Diversity in representation",
+                  "C": "Economic inequality",
+                  "D": "Civic engagement"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How can diversity strengthen democracy?",
+                "options": {
+                  "A": "By creating divisions",
+                  "B": "By promoting dialogue and understanding",
+                  "C": "By increasing polarization",
+                  "D": "By limiting participation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is an example of democratic governance?",
+                "options": {
+                  "A": "Dictatorship",
+                  "B": "Theocracy",
+                  "C": "Representative democracy",
+                  "D": "Monarchy"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What role does civic education play in democracy?",
+                "options": {
+                  "A": "Creates ignorance",
+                  "B": "Promotes apathy",
+                  "C": "Empowers citizens",
+                  "D": "Reduces engagement"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a consequence of under-representation in democracy?",
+                "options": {
+                  "A": "Increased legitimacy",
+                  "B": "Social unrest",
+                  "C": "Political stability",
+                  "D": "Economic growth"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Gender, Religion and Caste",
+            "video_url": "https://www.youtube.com/watch?v=AefnmXw4olI&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=16",
+            "questions": [
+              {
+                "question": "How do social identities affect political participation?",
+                "options": {
+                  "A": "They have no effect",
+                  "B": "They can create barriers",
+                  "C": "They ensure equality",
+                  "D": "They unify all groups"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is an example of social inequality?",
+                "options": {
+                  "A": "Access to education",
+                  "B": "Equal representation",
+                  "C": "Freedom of speech",
+                  "D": "Voting rights for all"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which movement has fought against caste discrimination?",
+                "options": {
+                  "A": "Civil rights movement",
+                  "B": "Feminist movement",
+                  "C": "Dalit movement",
+                  "D": "Environmental movement"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How does gender inequality manifest in politics?",
+                "options": {
+                  "A": "Equal representation",
+                  "B": "Gender quotas",
+                  "C": "Under-representation of women",
+                  "D": "Promoting female leadership"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a significant impact of religious diversity on politics?",
+                "options": {
+                  "A": "Enhanced conflict",
+                  "B": "Greater unity",
+                  "C": "Improved communication",
+                  "D": "Political apathy"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Popular Struggles and Movements",
+            "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+            "questions": [
+              {
+                "question": "Which struggle emphasized the importance of civil rights?",
+                "options": {
+                  "A": "Labor movements",
+                  "B": "Consumer movements",
+                  "C": "Environmental movements",
+                  "D": "Civil rights movements"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What role do social movements play in democracy?",
+                "options": {
+                  "A": "Suppress dissent",
+                  "B": "Encourage participation",
+                  "C": "Limit freedoms",
+                  "D": "Promote authoritarian rule"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a factor that leads to popular movements?",
+                "options": {
+                  "A": "Economic stability",
+                  "B": "Political oppression",
+                  "C": "Social harmony",
+                  "D": "Cultural unity"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a common outcome of successful social movements?",
+                "options": {
+                  "A": "Loss of rights",
+                  "B": "Policy changes",
+                  "C": "Increased repression",
+                  "D": "Social apathy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is essential for the success of any movement?",
+                "options": {
+                  "A": "Public support",
+                  "B": "Violence",
+                  "C": "Isolation",
+                  "D": "Lack of leadership"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 6,
+            "chapter_name": "Political Parties",
+            "video_url": "https://www.youtube.com/watch?v=c4ru7Rteghg&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=17",
+            "questions": [
+              {
+                "question": "What is the primary function of political parties?",
+                "options": {
+                  "A": "Provide public services",
+                  "B": "Facilitate political advocacy",
+                  "C": "Educate voters on issues",
+                  "D": "Organize elections"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which political party is known for its support of labor rights?",
+                "options": {
+                  "A": "Conservative Party",
+                  "B": "Libertarian Party",
+                  "C": "Socialist Party",
+                  "D": "Republican Party"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What effect do political parties have on democracy?",
+                "options": {
+                  "A": "Limit political competition",
+                  "B": "Increase civic engagement",
+                  "C": "Stifle dissent",
+                  "D": "Impose authoritarian rule"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How do political parties influence public policy?",
+                "options": {
+                  "A": "Through grassroots efforts",
+                  "B": "By informing voters",
+                  "C": "By restricting information",
+                  "D": "Through lobbying and campaigns"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "Which of the following is a characteristic of a well-functioning political party?",
+                "options": {
+                  "A": "Lack of transparency",
+                  "B": "Strong leadership and accountability",
+                  "C": "Limited participation",
+                  "D": "Suppression of minority viewpoints"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 7,
+            "chapter_name": "Outcomes of Democracy",
+            "video_url": "https://www.youtube.com/watch?v=b_oUQkuEHmM&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=18",
+            "questions": [
+              {
+                "question": "What is a primary outcome of democracy?",
+                "options": {
+                  "A": "Increased political instability",
+                  "B": "Enhanced individual freedoms",
+                  "C": "Suppression of rights",
+                  "D": "Lack of accountability"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How does democracy impact economic development?",
+                "options": {
+                  "A": "Limits economic growth",
+                  "B": "Encourages innovation and competition",
+                  "C": "Creates barriers to trade",
+                  "D": "Identifies individuals only"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a challenge faced by democratic societies?",
+                "options": {
+                  "A": "Equitable representation",
+                  "B": "Promotion of human rights",
+                  "C": "Political apathy",
+                  "D": "Freedom of the press"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What role do elections play in democracy?",
+                "options": {
+                  "A": "Minimize public opinion",
+                  "B": "Limit citizen participation",
+                  "C": "Ensure accountability",
+                  "D": "Promote autocratic governance"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is an essential aspect of democracy?",
+                "options": {
+                  "A": "Civic engagement",
+                  "B": "Centralized power",
+                  "C": "Limited freedoms",
+                  "D": "Suppression of diversity"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 8,
+            "chapter_name": "Challenges to Democracy",
+            "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+            "questions": [
+              {
+                "question": "What is a common challenge to democracies worldwide?",
+                "options": {
+                  "A": "Increased voter participation",
+                  "B": "Corruption",
+                  "C": "Enhanced legislation",
+                  "D": "Political stability"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which factor can negatively influence democratic processes?",
+                "options": {
+                  "A": "Strong civil society",
+                  "B": "Free media",
+                  "C": "Polarization",
+                  "D": "Human rights protection"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How does socioeconomic inequality affect democracy?",
+                "options": {
+                  "A": "Increases participation",
+                  "B": "Creates a sense of empowerment",
+                  "C": "Undermines voter influence",
+                  "D": "Promotes equality"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a significant threat to democracy?",
+                "options": {
+                  "A": "Judicial independence",
+                  "B": "Populism",
+                  "C": "Citizen engagement",
+                  "D": "Political accountability"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What role does education play in strengthening democracy?",
+                "options": {
+                  "A": "Creates apathy",
+                  "B": "Encourages critical thinking",
+                  "C": "Promotes ignorance",
+                  "D": "Limits civic engagement"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          }
+    ]
+}

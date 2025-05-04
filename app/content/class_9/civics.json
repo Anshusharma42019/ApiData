@@ -1,0 +1,297 @@
+{
+    "class": "9",
+    "subject": "Civics",
+    "channel": "CBSE Guidence",
+    "chapters":[
+        {
+            "chapter_no": 1,
+            "chapter_name": "What is Democracy? Why Democracy?",
+            "video_url": "https://www.youtube.com/watch?v=Rs4J0b2c8i0&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=1",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is a defining feature of democracy?",
+                "options": {
+                  "A": "Absence of government",
+                  "B": "People's participation",
+                  "C": "Constitutional monarchy",
+                  "D": "Centralized power"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which principle underpins democratic governance?",
+                "options": {
+                  "A": "Autocracy",
+                  "B": "Equality before law",
+                  "C": "Divine right of kings",
+                  "D": "Social hierarchy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does 'representation' mean in a democratic context?",
+                "options": {
+                  "A": "Absence of elections",
+                  "B": "Decision-making by a few",
+                  "C": "Direct governance by citizens",
+                  "D": "Elected officials act on behalf of citizens"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What is essential for the functioning of democracy?",
+                "options": {
+                  "A": "Censorship",
+                  "B": "Freedom of expression",
+                  "C": "Authoritarian rule",
+                  "D": "Political monopolies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Why is democracy preferred over other forms of governance?",
+                "options": {
+                  "A": "It ensures equal power for few individuals",
+                  "B": "It secures individual rights",
+                  "C": "It limits citizen participation",
+                  "D": "It creates social disparities"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "https://www.youtube.com/watch?v=2di856vKYKI&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=2",
+            "video_url": "https://www.youtube.com/watch?v=Bt7wIfqP2qY",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the Constitution?",
+                "options": {
+                  "A": "A law passed by parliament",
+                  "B": "A set of fundamental principles",
+                  "C": "A declaration of independence",
+                  "D": "A political manifesto"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is one primary purpose of a Constitution?",
+                "options": {
+                  "A": "To establish a monarchy",
+                  "B": "To create a framework for governance",
+                  "C": "To promote undemocratic practices",
+                  "D": "To enforce religious laws"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does federalism mean in the context of the Indian Constitution?",
+                "options": {
+                  "A": "Centralized power",
+                  "B": "Division of powers between state and central government",
+                  "C": "Absolute monarchy",
+                  "D": "Socialism"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which document outlines the fundamental rights of citizens?",
+                "options": {
+                  "A": "Directive Principles",
+                  "B": "Preamble",
+                  "C": "Bill of Rights",
+                  "D": "Constitution"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "How is the Constitution amended in India?",
+                "options": {
+                  "A": "By a simple majority",
+                  "B": "By a two-thirds majority",
+                  "C": "Unilaterally by the President",
+                  "D": "Through public referendum"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Electoral Politics",
+            "video_url": "https://www.youtube.com/watch?v=_L3aND2va_E&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=3",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the importance of elections in a democracy?",
+                "options": {
+                  "A": "A tool for political manipulation",
+                  "B": "A means for citizen participation",
+                  "C": "A method to limit governance",
+                  "D": "A response to economic issues"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the voting age in India?",
+                "options": {
+                  "A": "18 years",
+                  "B": "21 years",
+                  "C": "25 years",
+                  "D": "16 years"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is the role of the Election Commission?",
+                "options": {
+                  "A": "To conduct fair elections",
+                  "B": "To formulate party policies",
+                  "C": "To appoint the Prime Minister",
+                  "D": "To draft laws"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is the first step in the electoral process?",
+                "options": {
+                  "A": "Campaigning",
+                  "B": "Voting",
+                  "C": "Nominations",
+                  "D": "Electoral Roll"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common voting method used in India?",
+                "options": {
+                  "A": "Direct voting",
+                  "B": "Proportional voting",
+                  "C": "Secret ballot",
+                  "D": "Open voting"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Working of Institutions",
+            "video_url": "https://www.youtube.com/watch?v=PHNnP8e1ds0&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=4",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the function of the Parliament?",
+                "options": {
+                  "A": "To create laws",
+                  "B": "To enforce laws",
+                  "C": "To mediate disputes",
+                  "D": "To execute policies"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which institution is responsible for the implementation of laws?",
+                "options": {
+                  "A": "Judiciary",
+                  "B": "Legislature",
+                  "C": "Executive",
+                  "D": "Civil Society"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How does the Judiciary function in a democracy?",
+                "options": {
+                  "A": "Supports the government",
+                  "B": "Is independent and impartial",
+                  "C": "Is subject to public opinion",
+                  "D": "Is led by elected representatives"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the role of the President in India?",
+                "options": {
+                  "A": "Head of State with ceremonial functions",
+                  "B": "Executive leader",
+                  "C": "Judicial officer",
+                  "D": "Legislative leader"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Institutional checks and balances are meant to:",
+                "options": {
+                  "A": "Consolidate power",
+                  "B": "Maintain accountability",
+                  "C": "Suppress criticism",
+                  "D": "Limit public engagement"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Democratic Rights",
+            "video_url": "https://www.youtube.com/watch?v=gjIlCuiryfs&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=21",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What are democratic rights?",
+                "options": {
+                  "A": "Rights granted by the government",
+                  "B": "Fundamental human rights",
+                  "C": "Privileges of the elite",
+                  "D": "Temporary permissions"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which fundamental right protects the freedom of speech?",
+                "options": {
+                  "A": "Right to equality",
+                  "B": "Right to freedom",
+                  "C": "Right to protection",
+                  "D": "Right to constitutional remedies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the significance of the right to constitutional remedies?",
+                "options": {
+                  "A": "It guarantees governmental power",
+                  "B": "It allows citizens to approach the courts",
+                  "C": "It is subject to legislative approval",
+                  "D": "It is limited to politically privileged"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is not a fundamental right?",
+                "options": {
+                  "A": "Right to education",
+                  "B": "Right to work",
+                  "C": "Right to property",
+                  "D": "Right to vote"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How can citizens exercise their rights?",
+                "options": {
+                  "A": "By engaging in protests",
+                  "B": "By following laws",
+                  "C": "By voting",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          }
+    ]
+}

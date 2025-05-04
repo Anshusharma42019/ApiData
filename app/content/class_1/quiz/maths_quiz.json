@@ -5,7 +5,7 @@
   "chapters": [
     {
       "chapter_no": 1,
-      "title": "Shapes and Spaces",
+      "chapter_name": "Shapes and Spaces",
       "questions": [
         {
           "question": "Which shape has three sides?",
@@ -20,9 +20,9 @@
         {
           "question": "How many corners does a square have?",
           "options": {
-            "A": "2",
-            "B": "3",
-            "C": "4",
+            "A": "B",
+            "B": "C",
+            "C": "D",
             "D": "5"
           },
           "correct_answer": "C"
@@ -61,12 +61,12 @@
     },
     {
       "chapter_no": 2,
-      "title": "Numbers From One to Nine",
+      "chapter_name": "Numbers From One to Nine",
       "questions": [
         {
           "question": "What comes after number 5?",
           "options": {
-            "A": "4",
+            "A": "D",
             "B": "6",
             "C": "7",
             "D": "8"
@@ -76,8 +76,8 @@
         {
           "question": "How many fingers do you have on one hand?",
           "options": {
-            "A": "3",
-            "B": "4",
+            "A": "C",
+            "B": "D",
             "C": "5",
             "D": "6"
           },
@@ -107,7 +107,7 @@
           "question": "Which number is the smallest?",
           "options": {
             "A": "9",
-            "B": "2",
+            "B": "B",
             "C": "5",
             "D": "7"
           },
@@ -117,12 +117,12 @@
     },
     {
       "chapter_no": 3,
-      "title": "Addition",
+      "chapter_name": "Addition",
       "questions": [
         {
           "question": "What is 2 + 3?",
           "options": {
-            "A": "4",
+            "A": "D",
             "B": "5",
             "C": "6",
             "D": "7"
@@ -132,10 +132,10 @@
         {
           "question": "If you have 1 apple and get 2 more, how many do you have?",
           "options": {
-            "A": "1",
-            "B": "2",
-            "C": "3",
-            "D": "4"
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
           },
           "correct_answer": "C"
         },
@@ -173,14 +173,14 @@
     },
     {
       "chapter_no": 4,
-      "title": "Subtraction",
+      "chapter_name": "Subtraction",
       "questions": [
         {
           "question": "What is 5 - 2?",
           "options": {
-            "A": "2",
-            "B": "3",
-            "C": "4",
+            "A": "B",
+            "B": "C",
+            "C": "D",
             "D": "5"
           },
           "correct_answer": "B"
@@ -188,8 +188,8 @@
         {
           "question": "If you have 7 candies and eat 3, how many are left?",
           "options": {
-            "A": "3",
-            "B": "4",
+            "A": "C",
+            "B": "D",
             "C": "5",
             "D": "6"
           },
@@ -218,8 +218,8 @@
         {
           "question": "What is 9 - 4?",
           "options": {
-            "A": "3",
-            "B": "4",
+            "A": "C",
+            "B": "D",
             "C": "5",
             "D": "6"
           },
@@ -229,7 +229,7 @@
     },
     {
       "chapter_no": 5,
-      "title": "Numbers from Ten to Twenty",
+      "chapter_name": "Numbers from Ten to Twenty",
       "questions": [
         {
           "question": "Which number comes after 10?",
@@ -285,7 +285,7 @@
     },
     {
       "chapter_no": 6,
-      "title": "Time",
+      "chapter_name": "Time",
       "questions": [
         {
           "question": "How many hours are in a day?",
@@ -341,7 +341,7 @@
     },
     {
       "chapter_no": 7,
-      "title": "Measurement",
+      "chapter_name": "Measurement",
       "questions": [
         {
           "question": "Which is longer?",
@@ -397,7 +397,7 @@
     },
     {
       "chapter_no": 8,
-      "title": "Numbers from Twenty One to Fifty",
+      "chapter_name": "Numbers from Twenty One to Fifty",
       "questions": [
         {
           "question": "What comes after 29?",
@@ -422,8 +422,8 @@
         {
           "question": "How many tens are in 40?",
           "options": {
-            "A": "1",
-            "B": "4",
+            "A": "A",
+            "B": "D",
             "C": "10",
             "D": "40"
           },
@@ -453,7 +453,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "Data Handling",
+      "chapter_name": "Data Handling",
       "questions": [
         {
           "question": "What is data?",
@@ -478,8 +478,8 @@
         {
           "question": "If 🍎🍎🍎 represents 3 apples, how many apples does 🍎🍎🍎🍎🍎 represent?",
           "options": {
-            "A": "3",
-            "B": "4",
+            "A": "C",
+            "B": "D",
             "C": "5",
             "D": "6"
           },
@@ -509,7 +509,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "Patterns",
+      "chapter_name": "Patterns",
       "questions": [
         {
           "question": "What comes next? 🔴, 🔵, 🔴, 🔵, ___",
@@ -565,12 +565,12 @@
     },
     {
       "chapter_no": 11,
-      "title": "Numbers",
+      "chapter_name": "Numbers",
       "questions": [
         {
           "question": "What is the smallest two-digit number?",
           "options": {
-            "A": "1",
+            "A": "A",
             "B": "9",
             "C": "10",
             "D": "11"
@@ -580,8 +580,8 @@
         {
           "question": "Which number is odd?",
           "options": {
-            "A": "2",
-            "B": "4",
+            "A": "B",
+            "B": "D",
             "C": "5",
             "D": "8"
           },
@@ -600,7 +600,7 @@
         {
           "question": "Which number is even?",
           "options": {
-            "A": "3",
+            "A": "C",
             "B": "7",
             "C": "6",
             "D": "9"
@@ -621,7 +621,7 @@
     },
     {
       "chapter_no": 12,
-      "title": "Money",
+      "chapter_name": "Money",
       "questions": [
         {
           "question": "How many paise make one rupee?",
@@ -677,23 +677,23 @@
     },
     {
       "chapter_no": 13,
-      "title": "How Many?",
+      "chapter_name": "How Many?",
       "questions": [
         {
           "question": "If there are 5 birds and 3 fly away, how many are left?",
           "options": {
-            "A": "1",
-            "B": "2",
-            "C": "3",
-            "D": "4"
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
           },
           "correct_answer": "B"
         },
         {
           "question": "How many legs do 2 dogs have?",
           "options": {
-            "A": "2",
-            "B": "4",
+            "A": "B",
+            "B": "D",
             "C": "6",
             "D": "8"
           },
@@ -702,7 +702,7 @@
         {
           "question": "If you have 10 chocolates and give 4 to friends, how many remain?",
           "options": {
-            "A": "4",
+            "A": "D",
             "B": "5",
             "C": "6",
             "D": "7"
@@ -712,10 +712,10 @@
         {
           "question": "How many wheels does a bicycle have?",
           "options": {
-            "A": "1",
-            "B": "2",
-            "C": "3",
-            "D": "4"
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
           },
           "correct_answer": "B"
         },

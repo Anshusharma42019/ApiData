@@ -1,117 +1,253 @@
 {
-    "subject": "Chemistry",
-    "class": "9",
-    "board": "CBSE",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Matter in Our Surroundings",
-        "videos": [
-          {
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=WocaFcl1svQ"
+  "subject": "Chemistry",
+  "class": "9",
+  "board": "CBSE",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Matter in Our Surroundings",
+      "video_url": "https://www.youtube.com/watch?v=WocaFcl1svQ",
+      "video_url_1": "https://www.youtube.com/watch?v=VYS-FVo6FqY",
+      "video_url_2": "https://www.youtube.com/watch?v=PzJD1Y9j8qg",
+      "video_url_3": "https://www.youtube.com/watch?v=4EcqmEgDMzI",
+      "video_url_4": "https://www.youtube.com/watch?v=j95r3Oxasl0",
+      "video_url_5": "https://www.youtube.com/watch?v=tao4PI67Gsg",
+      "questions": [
+        {
+          "question": "What is the main characteristic that distinguishes solids from liquids?",
+          "options": {
+            "A": "Shape",
+            "B": "Volume",
+            "C": "Density",
+            "D": "Viscosity"
           },
-          {
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=VYS-FVo6FqY"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What state of matter has a definite volume but no definite shape?",
+          "options": {
+            "A": "Solid",
+            "B": "Liquid",
+            "C": "Gas",
+            "D": "Plasma"
           },
-          {
-            "title": "Part 3",
-            "url": "https://www.youtube.com/watch?v=PzJD1Y9j8qg"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a colloid?",
+          "options": {
+            "A": "Saltwater",
+            "B": "Milk",
+            "C": "Sugar solution",
+            "D": "Oxygen"
           },
-          {
-            "title": "Part 4",
-            "url": "https://www.youtube.com/watch?v=4EcqmEgDMzI"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What term describes a change that alters the form of a substance but not its chemical composition?",
+          "options": {
+            "A": "Chemical change",
+            "B": "Physical change",
+            "C": "Nuclear change",
+            "D": "Evaporation"
           },
-          {
-            "title": "NCERT Solutions Part 1",
-            "url": "https://www.youtube.com/watch?v=j95r3Oxasl0"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which process involves the conversion of a liquid into a gas?",
+          "options": {
+            "A": "Sublimation",
+            "B": "Condensation",
+            "C": "Evaporation",
+            "D": "Freezing"
           },
-          {
-            "title": "NCERT Solutions Part 2",
-            "url": "https://www.youtube.com/watch?v=tao4PI67Gsg"
-          }
-        ]
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Is Matter Around Us Pure?",
-        "videos": [
-          {
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=mv9QOTH5Exs"
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Is Matter Around Us Pure?",
+      "video_url": "https://www.youtube.com/watch?v=mv9QOTH5Exs",
+      "video_url_1": "https://www.youtube.com/watch?v=yK7fSLsqTUk",
+      "video_url_2": "https://www.youtube.com/watch?v=lve-voArw-U",
+      "video_url_3": "https://www.youtube.com/watch?v=uBxkD8kiJpE",
+      "questions": [
+        {
+          "question": "What is the difference between a mixture and a compound?",
+          "options": {
+            "A": "Mixtures are homogeneous; compounds are heterogeneous",
+            "B": "Compounds can be separated by physical means; mixtures cannot",
+            "C": "Compounds have fixed compositions; mixtures do not",
+            "D": "Mixtures have chemical properties; compounds do not"
           },
-          {
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=yK7fSLsqTUk"
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following methods is best for separating a mixture of sand and salt?",
+          "options": {
+            "A": "Filtration",
+            "B": "Evaporation",
+            "C": "Centrifugation",
+            "D": "Distillation"
           },
-          {
-            "title": "Part 3",
-            "url": "https://www.youtube.com/watch?v=lve-voArw-U"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the method used to separate a soluble solid from a liquid?",
+          "options": {
+            "A": "Filtration",
+            "B": "Evaporation",
+            "C": "Decantation",
+            "D": "Chromatography"
           },
-          {
-            "title": "NCERT Solutions",
-            "url": "https://www.youtube.com/watch?v=uBxkD8kiJpE"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Atoms and Molecules",
-        "videos": [
-          {
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=HLhKy0KcGMY"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a homogeneous mixture?",
+          "options": {
+            "A": "Oil and water",
+            "B": "Sand and sugar",
+            "C": "Air",
+            "D": "Sugar and salt mixture"
           },
-          {
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=Jcpxwlp_I7I"
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the term for a mixture that has uniform composition throughout?",
+          "options": {
+            "A": "Homogeneous mixture",
+            "B": "Heterogeneous mixture",
+            "C": "Colloid",
+            "D": "Solution"
           },
-          {
-            "title": "Part 3",
-            "url": "https://www.youtube.com/watch?v=CNzJZja_ef8"
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Atoms and Molecules",
+      "video_url": "https://www.youtube.com/watch?v=HLhKy0KcGMY",
+      "video_url_1": "https://www.youtube.com/watch?v=Jcpxwlp_I7I",
+      "video_url_2": "https://www.youtube.com/watch?v=CNzJZja_ef8",
+      "video_url_3": "https://www.youtube.com/watch?v=lOWiVD8zetA",
+      "video_url_4": "https://www.youtube.com/watch?v=ViufQLjHLuY",
+      "video_url_5": "https://www.youtube.com/watch?v=YnojKzrWcV8",
+      "questions": [
+        {
+          "question": "What does the atomic number of an element represent?",
+          "options": {
+            "A": "Number of neutrons",
+            "B": "Number of protons",
+            "C": "Number of electrons",
+            "D": "Number of nucleons"
           },
-          {
-            "title": "Part 4",
-            "url": "https://www.youtube.com/watch?v=lOWiVD8zetA"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following represents a molecule?",
+          "options": {
+            "A": "Na",
+            "B": "O2",
+            "C": "He",
+            "D": "C"
           },
-          {
-            "title": "NCERT Solutions Part 1",
-            "url": "https://www.youtube.com/watch?v=ViufQLjHLuY"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the molar mass of water (H2O)?",
+          "options": {
+            "A": "18 g/mol",
+            "B": "16 g/mol",
+            "C": "20 g/mol",
+            "D": "17 g/mol"
           },
-          {
-            "title": "NCERT Solutions Part 2",
-            "url": "https://www.youtube.com/watch?v=YnojKzrWcV8"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Structure of Atom",
-        "videos": [
-          {
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=f-U-N5HcP-Y"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the number of atoms present in one molecule of glucose (C6H12O6)?",
+          "options": {
+            "A": "24",
+            "B": "18",
+            "C": "12",
+            "D": "6"
           },
-          {
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=yifgwYxIesc"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which scientist proposed the atomic theory?",
+          "options": {
+            "A": "Dalton",
+            "B": "Thomson",
+            "C": "Rutherford",
+            "D": "Bohr"
           },
-          {
-            "title": "Part 3",
-            "url": "https://www.youtube.com/watch?v=Cw8co28jtVc"
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Structure of Atom",
+      "video_url": "https://www.youtube.com/watch?v=f-U-N5HcP-Y",
+      "video_url_1": "https://www.youtube.com/watch?v=yifgwYxIesc",
+      "video_url_2": "https://www.youtube.com/watch?v=Cw8co28jtVc",
+      "video_url_3": "https://www.youtube.com/watch?v=UF0Khck5ul4",
+      "video_url_4": "https://www.youtube.com/watch?v=P-clvccPtPM",
+      "questions": [
+        {
+          "question": "What is the charge of an electron?",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Neutral",
+            "D": "Variable"
           },
-          {
-            "title": "NCERT Solutions Part 1",
-            "url": "https://www.youtube.com/watch?v=UF0Khck5ul4"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which particle has the largest mass?",
+          "options": {
+            "A": "Electron",
+            "B": "Proton",
+            "C": "Neutron",
+            "D": "All are equal"
           },
-          {
-            "title": "NCERT Solutions Part 2",
-            "url": "https://www.youtube.com/watch?v=P-clvccPtPM"
-          }
-        ]
-      }
-    ]
-  }
-  
+          "correct_answer": "C"
+        },
+        {
+          "question": "What type of orbitals are found in the second shell of an atom?",
+          "options": {
+            "A": "s and p",
+            "B": "s only",
+            "C": "p only",
+            "D": "s, p, and d"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which model describes the atom as having electrons in fixed orbits around the nucleus?",
+          "options": {
+            "A": "Dalton's model",
+            "B": "Thomson's model",
+            "C": "Rutherford's model",
+            "D": "Bohr's model"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "The total number of neutrons in an atom is found by subtracting which two quantities?",
+          "options": {
+            "A": "Atomic mass - Atomic number",
+            "B": "Atomic number - Atomic mass",
+            "C": "Mass of proton - Mass of electron",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}

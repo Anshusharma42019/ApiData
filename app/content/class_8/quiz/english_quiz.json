@@ -2,60 +2,60 @@
     "class": "Class 8",
     "subject": "English",
     "book": "It So Happened",
-    "video_explanations": [
+    "chapters": [
       {
         "chapter_no": 1,
         "chapter_name": "How the Camel Got His Hump",
         "questions": [
           {
-            "quiz_question": "What did the Camel refuse to do at the beginning of the story?",
+            "question": "What did the Camel refuse to do at the beginning of the story?",
             "options": {
-              "1": "Work",
-              "2": "Talk",
-              "3": "Eat",
-              "4": "Travel"
+              "A": "Work",
+              "B": "Talk",
+              "C": "Eat",
+              "D": "Travel"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "How did the Camel's behavior affect the other animals?",
+            "question": "How did the Camel's behavior affect the other animals?",
             "options": {
-              "1": "They liked him more.",
-              "2": "They became annoyed.",
-              "3": "They began to ignore him.",
-              "4": "They started to help him."
+              "A": "They liked him more.",
+              "B": "They became annoyed.",
+              "C": "They began to ignore him.",
+              "D": "They started to help him."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What magical event led to the Camel gaining its hump?",
+            "question": "What magical event led to the Camel gaining its hump?",
             "options": {
-              "1": "A curse",
-              "2": "A blessing",
-              "3": "A prank",
-              "4": "A magical spell"
+              "A": "A curse",
+              "B": "A blessing",
+              "C": "A prank",
+              "D": "A magical spell"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What lesson can be inferred about laziness from the story?",
+            "question": "What lesson can be inferred about laziness from the story?",
             "options": {
-              "1": "It's acceptable to be lazy.",
-              "2": "Laziness has consequences.",
-              "3": "Being lazy is rewarded.",
-              "4": "All animals should rest."
+              "A": "It's acceptable to be lazy.",
+              "B": "Laziness has consequences.",
+              "C": "Being lazy is rewarded.",
+              "D": "All animals should rest."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the central theme of 'How the Camel Got His Hump'?",
+            "question": "What is the central theme of 'How the Camel Got His Hump'?",
             "options": {
-              "1": "Friendship",
-              "2": "Responsibility",
-              "3": "Consequences of actions",
-              "4": "Adventure"
+              "A": "Friendship",
+              "B": "Responsibility",
+              "C": "Consequences of actions",
+              "D": "Adventure"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -64,54 +64,54 @@
         "chapter_name": "Children at Work",
         "questions": [
           {
-            "quiz_question": "What is the primary focus of the chapter 'Children at Work'?",
+            "question": "What is the primary focus of the chapter 'Children at Work'?",
             "options": {
-              "1": "The joy of childhood",
-              "2": "The importance of education",
-              "3": "Child labor issues",
-              "4": "The role of play in learning"
+              "A": "The joy of childhood",
+              "B": "The importance of education",
+              "C": "Child labor issues",
+              "D": "The role of play in learning"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which characters represent the plight of child labor in the story?",
+            "question": "Which characters represent the plight of child labor in the story?",
             "options": {
-              "1": "Working children",
-              "2": "Shopkeepers",
-              "3": "Teachers",
-              "4": "Parents"
+              "A": "Working children",
+              "B": "Shopkeepers",
+              "C": "Teachers",
+              "D": "Parents"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What hardships do the children face in the workplace?",
+            "question": "What hardships do the children face in the workplace?",
             "options": {
-              "1": "Long hours and low pay",
-              "2": "Educational support",
-              "3": "Freedom to explore",
-              "4": "Networking opportunities"
+              "A": "Long hours and low pay",
+              "B": "Educational support",
+              "C": "Freedom to explore",
+              "D": "Networking opportunities"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "How does the author portray the contrast between childhood and work?",
+            "question": "How does the author portray the contrast between childhood and work?",
             "options": {
-              "1": "Work enhances childhood.",
-              "2": "Childhood is more valuable than work.",
-              "3": "Work is necessary for all children.",
-              "4": "Childhood should be dedicated to work."
+              "A": "Work enhances childhood.",
+              "B": "Childhood is more valuable than work.",
+              "C": "Work is necessary for all children.",
+              "D": "Childhood should be dedicated to work."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What message does the chapter convey regarding children and education?",
+            "question": "What message does the chapter convey regarding children and education?",
             "options": {
-              "1": "Education should come after work.",
-              "2": "Every child should have access to education.",
-              "3": "Work is essential for children to learn.",
-              "4": "Education is a privilege of the rich."
+              "A": "Education should come after work.",
+              "B": "Every child should have access to education.",
+              "C": "Work is essential for children to learn.",
+              "D": "Education is a privilege of the rich."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -120,54 +120,54 @@
         "chapter_name": "The Selfish Giant",
         "questions": [
           {
-            "quiz_question": "What initially made the Giant selfish?",
+            "question": "What initially made the Giant selfish?",
             "options": {
-              "1": "His wealth",
-              "2": "His garden",
-              "3": "His loneliness",
-              "4": "His giant size"
+              "A": "His wealth",
+              "B": "His garden",
+              "C": "His loneliness",
+              "D": "His giant size"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What does the Giant do to prevent children from playing in his garden?",
+            "question": "What does the Giant do to prevent children from playing in his garden?",
             "options": {
-              "1": "Builds a wall",
-              "2": "Curses them",
-              "3": "Scares them away",
-              "4": "Locks the gate"
+              "A": "Builds a wall",
+              "B": "Curses them",
+              "C": "Scares them away",
+              "D": "Locks the gate"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "How does the Giant's attitude change throughout the story?",
+            "question": "How does the Giant's attitude change throughout the story?",
             "options": {
-              "1": "He becomes more selfish.",
-              "2": "He learns to love and share.",
-              "3": "He becomes indifferent.",
-              "4": "He remains the same."
+              "A": "He becomes more selfish.",
+              "B": "He learns to love and share.",
+              "C": "He becomes indifferent.",
+              "D": "He remains the same."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What eventually leads to the Giant's transformation?",
+            "question": "What eventually leads to the Giant's transformation?",
             "options": {
-              "1": "A magical event",
-              "2": "The arrival of spring",
-              "3": "The children's happiness",
-              "4": "His realization of loneliness"
+              "A": "A magical event",
+              "B": "The arrival of spring",
+              "C": "The children's happiness",
+              "D": "His realization of loneliness"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What moral lesson does 'The Selfish Giant' convey?",
+            "question": "What moral lesson does 'The Selfish Giant' convey?",
             "options": {
-              "1": "Selfishness leads to loneliness.",
-              "2": "Riches bring happiness.",
-              "3": "Gardens should be private.",
-              "4": "Size doesn't matter."
+              "A": "Selfishness leads to loneliness.",
+              "B": "Riches bring happiness.",
+              "C": "Gardens should be private.",
+              "D": "Size doesn't matter."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -176,54 +176,54 @@
         "chapter_name": "The Treasure Within",
         "questions": [
           {
-            "quiz_question": "What does 'The Treasure Within' refer to in the chapter?",
+            "question": "What does 'The Treasure Within' refer to in the chapter?",
             "options": {
-              "1": "Material wealth",
-              "2": "Inner potential",
-              "3": "External recognition",
-              "4": "Lost possessions"
+              "A": "Material wealth",
+              "B": "Inner potential",
+              "C": "External recognition",
+              "D": "Lost possessions"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which character symbolizes the idea of hidden talent?",
+            "question": "Which character symbolizes the idea of hidden talent?",
             "options": {
-              "1": "Sophie",
-              "2": "The teacher",
-              "3": "The parents",
-              "4": "A stranger"
+              "A": "Sophie",
+              "B": "The teacher",
+              "C": "The parents",
+              "D": "A stranger"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What role does perseverance play in the chapter?",
+            "question": "What role does perseverance play in the chapter?",
             "options": {
-              "1": "It's unnecessary.",
-              "2": "It leads to failures.",
-              "3": "It is essential for achieving success.",
-              "4": "It is overrated."
+              "A": "It's unnecessary.",
+              "B": "It leads to failures.",
+              "C": "It is essential for achieving success.",
+              "D": "It is overrated."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "How does the author portray education in the chapter?",
+            "question": "How does the author portray education in the chapter?",
             "options": {
-              "1": "As a rigid structure",
-              "2": "As a key to unlock potential",
-              "3": "As a vehicle for wealth",
-              "4": "As irrelevant"
+              "A": "As a rigid structure",
+              "B": "As a key to unlock potential",
+              "C": "As a vehicle for wealth",
+              "D": "As irrelevant"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the overarching theme presented in 'The Treasure Within'?",
+            "question": "What is the overarching theme presented in 'The Treasure Within'?",
             "options": {
-              "1": "Wealth is the key to happiness.",
-              "2": "Inner potential is more valuable than material things.",
-              "3": "Education is the only way to success.",
-              "4": "Everyone has an equal chance."
+              "A": "Wealth is the key to happiness.",
+              "B": "Inner potential is more valuable than material things.",
+              "C": "Education is the only way to success.",
+              "D": "Everyone has an equal chance."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -232,54 +232,54 @@
         "chapter_name": "Princess September",
         "questions": [
           {
-            "quiz_question": "What issue does Princess September face?",
+            "question": "What issue does Princess September face?",
             "options": {
-              "1": "Loneliness",
-              "2": "Rebellion",
-              "3": "Laziness",
-              "4": "Unkindness"
+              "A": "Loneliness",
+              "B": "Rebellion",
+              "C": "Laziness",
+              "D": "Unkindness"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What lesson does the story convey about freedom?",
+            "question": "What lesson does the story convey about freedom?",
             "options": {
-              "1": "Freedom comes with conditions.",
-              "2": "Freedom should lead to responsibility.",
-              "3": "Not everyone values freedom.",
-              "4": "Freedom is always beneficial."
+              "A": "Freedom comes with conditions.",
+              "B": "Freedom should lead to responsibility.",
+              "C": "Not everyone values freedom.",
+              "D": "Freedom is always beneficial."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How does the arrival of the singing bird impact Princess September?",
+            "question": "How does the arrival of the singing bird impact Princess September?",
             "options": {
-              "1": "Makes her sad.",
-              "2": "Brings her joy.",
-              "3": "Makes her independent.",
-              "4": "Creates chaos."
+              "A": "Makes her sad.",
+              "B": "Brings her joy.",
+              "C": "Makes her independent.",
+              "D": "Creates chaos."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What does Princess September do to keep the bird with her?",
+            "question": "What does Princess September do to keep the bird with her?",
             "options": {
-              "1": "Captures it",
-              "2": "Builds a cage",
-              "3": "Gives it freedom",
-              "4": "Gives it beautiful gifts"
+              "A": "Captures it",
+              "B": "Builds a cage",
+              "C": "Gives it freedom",
+              "D": "Gives it beautiful gifts"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is the main theme reflected in Princess September's story?",
+            "question": "What is the main theme reflected in Princess September's story?",
             "options": {
-              "1": "Material possessions are all that matter.",
-              "2": "True happiness comes from within.",
-              "3": "We must control everything around us.",
-              "4": "Happiness is found in freedom."
+              "A": "Material possessions are all that matter.",
+              "B": "True happiness comes from within.",
+              "C": "We must control everything around us.",
+              "D": "Happiness is found in freedom."
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
@@ -288,54 +288,54 @@
         "chapter_name": "The Fight",
         "questions": [
           {
-            "quiz_question": "What caused the conflict in 'The Fight'?",
+            "question": "What caused the conflict in 'The Fight'?",
             "options": {
-              "1": "A misunderstanding",
-              "2": "A competition",
-              "3": "A friendship quarrel",
-              "4": "A family dispute"
+              "A": "A misunderstanding",
+              "B": "A competition",
+              "C": "A friendship quarrel",
+              "D": "A family dispute"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "How does the story resolve the conflict?",
+            "question": "How does the story resolve the conflict?",
             "options": {
-              "1": "Through apology",
-              "2": "Through arguments",
-              "3": "Through a duel",
-              "4": "Through cooperation"
+              "A": "Through apology",
+              "B": "Through arguments",
+              "C": "Through a duel",
+              "D": "Through cooperation"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is the significance of communication in resolving the conflict?",
+            "question": "What is the significance of communication in resolving the conflict?",
             "options": {
-              "1": "It's unnecessary.",
-              "2": "It's often overlooked.",
-              "3": "It's vital.",
-              "4": "It's beneficial but not needed."
+              "A": "It's unnecessary.",
+              "B": "It's often overlooked.",
+              "C": "It's vital.",
+              "D": "It's beneficial but not needed."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which character learns to overcome his temper?",
+            "question": "Which character learns to overcome his temper?",
             "options": {
-              "1": "The narrator",
-              "2": "The teacher",
-              "3": "The protagonists",
-              "4": "The parents"
+              "A": "The narrator",
+              "B": "The teacher",
+              "C": "The protagonists",
+              "D": "The parents"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What overall lesson can be learned from 'The Fight'?",
+            "question": "What overall lesson can be learned from 'The Fight'?",
             "options": {
-              "1": "Fighting is the best solution.",
-              "2": "Sharing and understanding are key to resolving disputes.",
-              "3": "Avoiding conflict is the best strategy.",
-              "4": "Strength is more important than wisdom."
+              "A": "Fighting is the best solution.",
+              "B": "Sharing and understanding are key to resolving disputes.",
+              "C": "Avoiding conflict is the best strategy.",
+              "D": "Strength is more important than wisdom."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -344,54 +344,54 @@
         "chapter_name": "The Open Window",
         "questions": [
           {
-            "quiz_question": "What is the main plot twist in 'The Open Window'?",
+            "question": "What is the main plot twist in 'The Open Window'?",
             "options": {
-              "1": "A marriage proposal",
-              "2": "A phantom visit",
-              "3": "A tragic accident",
-              "4": "A practical joke"
+              "A": "A marriage proposal",
+              "B": "A phantom visit",
+              "C": "A tragic accident",
+              "D": "A practical joke"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "How does the story explore themes of deception?",
+            "question": "How does the story explore themes of deception?",
             "options": {
-              "1": "By focusing on physical actions.",
-              "2": "Through characters’ interactions.",
-              "3": "By challenging reality.",
-              "4": "By presenting a moral dilemma."
+              "A": "By focusing on physical actions.",
+              "B": "Through characters’ interactions.",
+              "C": "By challenging reality.",
+              "D": "By presenting a moral dilemma."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which character is primarily affected by the story's deception?",
+            "question": "Which character is primarily affected by the story's deception?",
             "options": {
-              "1": "The narrator",
-              "2": "Vera",
-              "3": "Mr. Nuttel",
-              "4": "The family."
+              "A": "The narrator",
+              "B": "Vera",
+              "C": "Mr. Nuttel",
+              "D": "The family."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What feelings does Vera play on to create tension?",
+            "question": "What feelings does Vera play on to create tension?",
             "options": {
-              "1": "Excitement and joy",
-              "2": "Fear and uncertainty",
-              "3": "Anger and rage",
-              "4": "Love and affection"
+              "A": "Excitement and joy",
+              "B": "Fear and uncertainty",
+              "C": "Anger and rage",
+              "D": "Love and affection"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What does the open window symbolize in the story?",
+            "question": "What does the open window symbolize in the story?",
             "options": {
-              "1": "Freedom",
-              "2": "Openness to new ideas",
-              "3": "Disruption of normalcy",
-              "4": "Opportunity"
+              "A": "Freedom",
+              "B": "Openness to new ideas",
+              "C": "Disruption of normalcy",
+              "D": "Opportunity"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -400,54 +400,54 @@
         "chapter_name": "Jalebis",
         "questions": [
           {
-            "quiz_question": "What does the jalebi symbolize in the story?",
+            "question": "What does the jalebi symbolize in the story?",
             "options": {
-              "1": "Tradition and culture",
-              "2": "Childhood memories",
-              "3": "Financial stability",
-              "4": "Sadness"
+              "A": "Tradition and culture",
+              "B": "Childhood memories",
+              "C": "Financial stability",
+              "D": "Sadness"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How does the protagonist's experience with jalebis reflect broader themes?",
+            "question": "How does the protagonist's experience with jalebis reflect broader themes?",
             "options": {
-              "1": "Celebration of life's joys and simplicity",
-              "2": "The complexities of adulthood",
-              "3": "Loss of innocence",
-              "4": "Fear of judgement"
+              "A": "Celebration of life's joys and simplicity",
+              "B": "The complexities of adulthood",
+              "C": "Loss of innocence",
+              "D": "Fear of judgement"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What does the protagonist ultimately learn about happiness?",
+            "question": "What does the protagonist ultimately learn about happiness?",
             "options": {
-              "1": "Happiness is found in wealth.",
-              "2": "Happiness is fleeting.",
-              "3": "True happiness doesn’t come from material things.",
-              "4": "Joy is in experiences."
+              "A": "Happiness is found in wealth.",
+              "B": "Happiness is fleeting.",
+              "C": "True happiness doesn’t come from material things.",
+              "D": "Joy is in experiences."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What role do family memories play in the story?",
+            "question": "What role do family memories play in the story?",
             "options": {
-              "1": "They contribute to regret.",
-              "2": "They evoke nostalgia and joy.",
-              "3": "They create barriers.",
-              "4": "They are unimportant."
+              "A": "They contribute to regret.",
+              "B": "They evoke nostalgia and joy.",
+              "C": "They create barriers.",
+              "D": "They are unimportant."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What lesson is conveyed through the protagonist’s journey with jalebis?",
+            "question": "What lesson is conveyed through the protagonist’s journey with jalebis?",
             "options": {
-              "1": "Food should be enjoyed.",
-              "2": "Childhood should be held onto.",
-              "3": "Nostalgia is harmful.",
-              "4": "Family is unimportant."
+              "A": "Food should be enjoyed.",
+              "B": "Childhood should be held onto.",
+              "C": "Nostalgia is harmful.",
+              "D": "Family is unimportant."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -456,54 +456,54 @@
         "chapter_name": "The Comet (I & II)",
         "questions": [
           {
-            "quiz_question": "What is the main theme of 'The Comet'?",
+            "question": "What is the main theme of 'The Comet'?",
             "options": {
-              "1": "Friendship",
-              "2": "Bravery and sacrifice",
-              "3": "Science and discovery",
-              "4": "Fear of the unknown"
+              "A": "Friendship",
+              "B": "Bravery and sacrifice",
+              "C": "Science and discovery",
+              "D": "Fear of the unknown"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What role does scientific inquiry play in the story?",
+            "question": "What role does scientific inquiry play in the story?",
             "options": {
-              "1": "It is discouraged.",
-              "2": "It leads to conflict.",
-              "3": "It is crucial for understanding events.",
-              "4": "It is ignored by the characters."
+              "A": "It is discouraged.",
+              "B": "It leads to conflict.",
+              "C": "It is crucial for understanding events.",
+              "D": "It is ignored by the characters."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "How do the characters react to the appearance of the comet?",
+            "question": "How do the characters react to the appearance of the comet?",
             "options": {
-              "1": "With joy",
-              "2": "With excitement and fear",
-              "3": "With indifference",
-              "4": "With anger"
+              "A": "With joy",
+              "B": "With excitement and fear",
+              "C": "With indifference",
+              "D": "With anger"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What overarching caution does 'The Comet' suggest?",
+            "question": "What overarching caution does 'The Comet' suggest?",
             "options": {
-              "1": "Human beings need to be aware of their impact on nature.",
-              "2": "Technology should never be questioned.",
-              "3": "Science outweighs all emotions.",
-              "4": "Destruction is inevitable."
+              "A": "Human beings need to be aware of their impact on nature.",
+              "B": "Technology should never be questioned.",
+              "C": "Science outweighs all emotions.",
+              "D": "Destruction is inevitable."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What ultimately becomes of the main characters?",
+            "question": "What ultimately becomes of the main characters?",
             "options": {
-              "1": "They discover the truth.",
-              "2": "They are lost forever.",
-              "3": "They return safely.",
-              "4": "They are not relevant to the story."
+              "A": "They discover the truth.",
+              "B": "They are lost forever.",
+              "C": "They return safely.",
+              "D": "They are not relevant to the story."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -512,54 +512,54 @@
         "chapter_name": "Ancient Education System of India",
         "questions": [
           {
-            "quiz_question": "What primary aspect does the chapter explore?",
+            "question": "What primary aspect does the chapter explore?",
             "options": {
-              "1": "Modern educational practices",
-              "2": "The importance of technology in education",
-              "3": "The ancient education system of India",
-              "4": "The role of teachers today"
+              "A": "Modern educational practices",
+              "B": "The importance of technology in education",
+              "C": "The ancient education system of India",
+              "D": "The role of teachers today"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What does the chapter highlight about the ancient education system?",
+            "question": "What does the chapter highlight about the ancient education system?",
             "options": {
-              "1": "It was rigid and unchangeable.",
-              "2": "It was based on oral traditions.",
-              "3": "It lacked depth and understanding.",
-              "4": "It was a free-for-all environment."
+              "A": "It was rigid and unchangeable.",
+              "B": "It was based on oral traditions.",
+              "C": "It lacked depth and understanding.",
+              "D": "It was a free-for-all environment."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which famous ancient university is mentioned in the chapter?",
+            "question": "Which famous ancient university is mentioned in the chapter?",
             "options": {
-              "1": "Nalanda",
-              "2": "Takshashila",
-              "3": "Harvard",
-              "4": "Oxford"
+              "A": "Nalanda",
+              "B": "Takshashila",
+              "C": "Harvard",
+              "D": "Oxford"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What societal values were emphasized in the ancient Indian education system?",
+            "question": "What societal values were emphasized in the ancient Indian education system?",
             "options": {
-              "1": "Wealth and status",
-              "2": "Equality and respect",
-              "3": "Individual success",
-              "4": "Collective knowledge"
+              "A": "Wealth and status",
+              "B": "Equality and respect",
+              "C": "Individual success",
+              "D": "Collective knowledge"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What lasting impact has the ancient education system had on India?",
+            "question": "What lasting impact has the ancient education system had on India?",
             "options": {
-              "1": "It is completely irrelevant today.",
-              "2": "It has shaped modern educational policies.",
-              "3": "It has been completely forgotten.",
-              "4": "It still faces strong opposition."
+              "A": "It is completely irrelevant today.",
+              "B": "It has shaped modern educational policies.",
+              "C": "It has been completely forgotten.",
+              "D": "It still faces strong opposition."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       }

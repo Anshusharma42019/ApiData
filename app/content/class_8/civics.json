@@ -1,0 +1,579 @@
+{
+    "class": 8,
+    "subject": "Social Science",
+    "channel": "Physics Wallah",
+    "chapters": 
+        [
+            {
+              "chapter_no": 1,
+              "chapter_name": "The Indian Constitution",
+              "video_url": "https://www.youtube.com/watch?v=te_7vffXkfA",
+              "questions": [
+                {
+                  "question": "What is the primary purpose of the Indian Constitution?",
+                  "options": {
+                  "A": "To limit rights of citizens",
+                  "B": "To provide a framework for governance",
+                  "C": "To establish a monarchy",
+                  "D": "To enforce colonial laws"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is the aim of the Constitution regarding citizens?",
+                  "options": {
+                  "A": "Promote inequality",
+                  "B": "Ensure social justice and equality",
+                  "C": "Encourage discrimination",
+                  "D": "Limit democracy"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What do Fundamental Rights ensure?",
+                  "options": {
+                  "A": "Rights are restricted",
+                  "B": "Rights for every citizen",
+                  "C": "Privileges for a few",
+                  "D": "Obligations of citizenship"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Which Article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+                  "options": {
+                  "A": "Article 15",
+                  "B": "Article 14",
+                  "C": "Article 21",
+                  "D": "Article 24"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "What does the Constitution state regarding equality?",
+                  "options": {
+                  "A": "All citizens should be treated equally.",
+                  "B": "Some should have more rights.",
+                  "C": "Equality only in law,",
+                  "D": "Only a few should be educated."
+                  },
+                  "correct_answer": "A"
+                }
+              ]
+            },
+            {
+              "chapter_no": 2,
+              "chapter_name": "Understanding Secularism",
+              "video_url": "https://www.youtube.com/watch?v=zcQv9kKj1q4",
+              "questions": [
+                {
+                  "question": "What does secularism mean?",
+                  "options": {
+                  "A": "Separation of religion from the state",
+                  "B": "Promotion of one religion over others",
+                  "C": "Gun regulations",
+                  "D": "Imposing cultural practices"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "Why is secularism necessary in a diverse country?",
+                  "options": {
+                  "A": "To ensure one religion dominates",
+                  "B": "To maintain peace among different communities",
+                  "C": "To ignore other cultures",
+                  "D": "To restrict freedom of expression"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What rights do citizens have in a secular state?",
+                  "options": {
+                  "A": "Only economic rights",
+                  "B": "Rights in accordance with their belief systems",
+                  "C": "Rights supported by their religion",
+                  "D": "No rights whatsoever"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is a potential consequence of violating secular principles?",
+                  "options": {
+                  "A": "Increased unity",
+                  "B": "Social disharmony",
+                  "C": "Cultural appreciation",
+                  "D": "Enhanced cooperation"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Which Article emphasizes secularity in India?",
+                  "options": {
+                  "A": "Article 14",
+                  "B": "Article 15",
+                  "C": "Article 21",
+                  "D": "None of the above"
+                  },
+                  "correct_answer": "A"
+                }
+              ]
+            },
+            {
+              "chapter_no": 3,
+              "chapter_name": "Why Do We Need a Parliament?",
+              "video_url": "https://www.youtube.com/watch?v=X-Mt8mL96kU",
+              "questions": [
+                {
+                  "question": "What is the primary role of Parliament?",
+                  "options": {
+                  "A": "To impose laws",
+                  "B": "To represent the interests of citizens",
+                  "C": "To run the executive",
+                  "D": "To collect taxes"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "How does Parliament influence governance?",
+                  "options": {
+                  "A": "By making laws",
+                  "B": "By ignoring public opinion",
+                  "C": "By failing to challenge the executive",
+                  "D": "By controlling the judiciary"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "Which house is NOT a part of the Indian Parliament?",
+                  "options": {
+                  "A": "Lok Sabha",
+                  "B": "Rajya Sabha",
+                  "C": "Council of Ministers",
+                  "D": "None of the above"
+                  },
+                  "correct_answer": "C"
+                },
+                {
+                  "question": "What is a significant check on government power in a parliamentary system?",
+                  "options": {
+                  "A": "Electoral college",
+                  "B": "Parliament's ability to question and influence",
+                  "C": "Judicial independence",
+                  "D": "Media portrayal"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What role does the opposition play in Parliament?",
+                  "options": {
+                  "A": "They support the ruling party only",
+                  "B": "They hold the ruling party accountable",
+                  "C": "They have no significant role",
+                  "D": "They solely propose amendments"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 4,
+              "chapter_name": "Understanding Laws",
+              "video_url": "https://www.youtube.com/watch?v=QtAbtiZd0vY",
+              "questions": [
+                {
+                  "question": "What is the purpose of laws in society?",
+                  "options": {
+                  "A": "To restrict freedom",
+                  "B": "To establish rules that protect citizens",
+                  "C": "To promote unfairness",
+                  "D": "To enforce punishment only"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Who is responsible for creating laws?",
+                  "options": {
+                  "A": "Only the judiciary",
+                  "B": "The Parliament",
+                  "C": "Citizens alone",
+                  "D": "The police department"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What happens when laws are violated?",
+                  "options": {
+                  "A": "Nothing, they are ignored",
+                  "B": "Punishment may be enforced",
+                  "C": "Everyone is set free",
+                  "D": "Laws are rewritten"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "How can citizens participate in the law-making process?",
+                  "options": {
+                  "A": "Ignoring the procedure",
+                  "B": "Voting for representatives",
+                  "C": "Breaking laws",
+                  "D": "None of the above"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What role does the judiciary play in enforcing laws?",
+                  "options": {
+                  "A": "They focus solely on legal advice.",
+                  "B": "They interpret and apply laws.",
+                  "C": "They write laws only.",
+                  "D": "They coordinate with no other branches."
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 5,
+              "chapter_name": "Judiciary",
+              "video_url": "https://www.youtube.com/watch?v=tueiEGnmUTQ&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=16",
+              "questions": [
+                {
+                  "question": "What is the role of the judiciary?",
+                  "options": {
+                  "A": "To make laws",
+                  "B": "To interpret and apply laws",
+                  "C": "To enforce laws",
+                  "D": "To debate laws"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is one way the judiciary protects the Constitution?",
+                  "options": {
+                  "A": "By monitoring executive decisions",
+                  "B": "By allowing everyone to break laws",
+                  "C": "By promoting discriminatory practices",
+                  "D": "By ignoring the principles of justice"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "Which part of the judiciary handles disputes?",
+                  "options": {
+                  "A": "Supreme Court",
+                  "B": "High Court",
+                  "C": "District Court",
+                  "D": "All levels of court"
+                  },
+                  "correct_answer": "D"
+                },
+                {
+                  "question": "What is a significant feature of the judiciary in a democracy?",
+                  "options": {
+                  "A": "It is always subordinate to the Parliament.",
+                  "B": "It is independent and impartial.",
+                  "C": "It only supports the ruling party.",
+                  "D": "It is influenced by public opinion."
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What can citizens do if they believe their rights have been violated?",
+                  "options": {
+                  "A": "Ignore the situation",
+                  "B": "Seek legal recourse",
+                  "C": "Rebel against the government",
+                  "D": "Wait for changes"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 6,
+              "chapter_name": "Understanding Our Criminal Justice System",
+              "video_url": "https://www.youtube.com/watch?v=MWu4wvWBWF0&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=19",
+              "questions": [
+                {
+                  "question": "What does the criminal justice system aim to do?",
+                  "options": {
+                  "A": "Peacekeeping through violence",
+                  "B": "Uphold the law and protect citizens",
+                  "C": "Administer punishment without trials",
+                  "D": "Neglect individual rights"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What role do courts play in the criminal justice system?",
+                  "options": {
+                  "A": "They only conduct trials.",
+                  "B": "Interpreting laws and administering justice.",
+                  "C": "Ignoring cases that are complicated.",
+                  "D": "Only reviewing sentences."
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Which institution investigates crimes?",
+                  "options": {
+                  "A": "Judiciary",
+                  "B": "Police force",
+                  "C": "Legislature",
+                  "D": "Executive"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is a significant outcome of fair trials?",
+                  "options": {
+                  "A": "No punishment for offenders",
+                  "B": "Public discontent",
+                  "C": "Trust in the legal system",
+                  "D": "Increased crime rates"
+                  },
+                  "correct_answer": "C"
+                },
+                {
+                  "question": "How can individuals ensure justice is served?",
+                  "options": {
+                  "A": "By ignoring the law",
+                  "B": "By reporting crimes",
+                  "C": "By breaking rules",
+                  "D": "By relying on the government alone"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 7,
+              "chapter_name": "Understanding Marginalisation",
+              "video_url": "https://www.youtube.com/watch?v=VCMdTVij9bA&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=22",
+              "questions": [
+                {
+                  "question": "What does 'marginalisation' refer to?",
+                  "options": {
+                  "A": "Mainstreaming of communities",
+                  "B": "Exclusion of certain groups from mainstream society",
+                  "C": "Economic enhancements",
+                  "D": "Cultural preservation"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Which group is often marginalised in society?",
+                  "options": {
+                  "A": "Urban elites",
+                  "B": "Women",
+                  "C": "Business communities",
+                  "D": "Politicians"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What are some consequences of marginalisation?",
+                  "options": {
+                  "A": "Increased equality",
+                  "B": "Social and economic disparities",
+                  "C": "Enhanced opportunities",
+                  "D": "Universal education"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What can be done to address marginalisation?",
+                  "options": {
+                  "A": "Ignore the issues",
+                  "B": "Promote inclusivity and equity",
+                  "C": "Encourage division",
+                  "D": "Reinforce existing norms"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is one way policy can help marginalized groups?",
+                  "options": {
+                  "A": "Only provide jobs",
+                  "B": "Ensure better access to resources and opportunities",
+                  "C": "Enforce strict regulations",
+                  "D": "Decrease community involvement"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 8,
+              "chapter_name": "Confronting Marginalisation",
+              "video_url": "https://www.youtube.com/watch?v=ZMY4YPmtpKc&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=23",
+              "questions": [
+                {
+                  "question": "What does 'confronting marginalisation' entail?",
+                  "options": {
+                  "A": "Ignoring marginalized voices",
+                  "B": "Actively addressing the issues faced by marginalised groups",
+                  "C": "Reinforcing existing hierarchies",
+                  "D": "Avoiding dialogue"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What role does awareness play in confronting marginalisation?",
+                  "options": {
+                  "A": "Creates division",
+                  "B": "Promotes understanding and action",
+                  "C": "Avoids injustice",
+                  "D": "Ignores societal issues"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What can individuals do to support marginalized communities?",
+                  "options": {
+                  "A": "Stay silent",
+                  "B": "Advocate for inclusive policies",
+                  "C": "Disregard their rights",
+                  "D": "Only focus on local issues"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "How can education address marginalisation?",
+                  "options": {
+                  "A": "By restricting access",
+                  "B": "By promoting equality and awareness",
+                  "C": "By reinforcing stereotypes",
+                  "D": "By isolating groups"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is the impact of media in confronting marginalisation?",
+                  "options": {
+                  "A": "To promote stereotypes",
+                  "B": "To highlight issues and advocate change",
+                  "C": "To ignore marginalized stories",
+                  "D": "To distract from the main issues"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 9,
+              "chapter_name": "Public Facilities",
+              "video_url": "https://www.youtube.com/watch?v=EveEMjjrr7g&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=25",
+              "questions": [
+                {
+                  "question": "What are public facilities?",
+                  "options": {
+                  "A": "Private services",
+                  "B": "Services provided by the government for the public",
+                  "C": "Only luxury services",
+                  "D": "Facilities for the rich"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Which of these is an example of a public facility?",
+                  "options": {
+                  "A": "Private hospitals",
+                  "B": "Public libraries",
+                  "C": "Luxury resorts",
+                  "D": "Exclusive clubs"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "Why is access to public facilities important?",
+                  "options": {
+                  "A": "To promote inequality",
+                  "B": "To ensure all citizens have equal opportunities",
+                  "C": "To prioritize wealth inequality",
+                  "D": "To restrict information"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What role does the government play in public facilities?",
+                  "options": {
+                  "A": "Regulating private sectors only",
+                  "B": "Ensuring they are maintained and accessible",
+                  "C": "Only funding them",
+                  "D": "Ignoring communities"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "How can citizens advocate for better public facilities?",
+                  "options": {
+                  "A": "By staying silent",
+                  "B": "By participating in community forums",
+                  "C": "By blaming the government without action",
+                  "D": "By only focusing on personal needs"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            },
+            {
+              "chapter_no": 10,
+              "chapter_name": "Law and Social Justice",
+              "video_url": "https://www.youtube.com/watch?v=RmA0FYzhiYg",
+              "questions": [
+                {
+                  "question": "What does social justice aim to achieve?",
+                  "options": {
+                  "A": "Equal rights for all citizens",
+                  "B": "Favoritism towards certain groups",
+                  "C": "Limitation of freedoms",
+                  "D": "Encouragement of disparities"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "How do laws contribute to social justice?",
+                  "options": {
+                  "A": "They maintain inequality",
+                  "B": "They define rights and responsibilities",
+                  "C": "They complicate governance",
+                  "D": "They disregard public welfare"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What is an example of a law promoting social justice?",
+                  "options": {
+                  "A": "Laws against discrimination",
+                  "B": "Tax evasion",
+                  "C": "Encouraging inequality",
+                  "D": "Community exclusion"
+                  },
+                  "correct_answer": "A"
+                },
+                {
+                  "question": "Which concept is key to understanding law and social justice?",
+                  "options": {
+                  "A": "Economic disparity",
+                  "B": "Equity",
+                  "C": "Prejudice",
+                  "D": "Inequality"
+                  },
+                  "correct_answer": "B"
+                },
+                {
+                  "question": "What can citizens do to advance social justice?",
+                  "options": {
+                  "A": "Ignore violations",
+                  "B": "Engage in advocacy and awareness campaigns",
+                  "C": "Maintain existing power dynamics",
+                  "D": "Subvert the system"
+                  },
+                  "correct_answer": "B"
+                }
+              ]
+            }
+          ]
+}
+  

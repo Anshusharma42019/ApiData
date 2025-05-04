@@ -2,190 +2,1363 @@
   "class": 3,
   "subject": "Hindi",
   "book": "Rimjhim 3",
+  "channel": "Magnet Brainiacs",
   "chapters": [
     {
-      "chapter_number": 1,
-      "title": "Kakku - कक्कू",
+      "chapter_no": 1,
+      "chapter_name": "Kakku - कक्कू",
       "content": "This chapter is about Kakku, a bird with unique traits. It introduces children to the world of nature through fun and creative storytelling.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=cKgjmv2oaRg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=2"
+      "video_url": 
+        "https://www.youtube.com/watch?v=cKgjmv2oaRg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=2",
+      "questions": [
+        {
+          "question": "कक्कू किस प्रकार का पक्षी है?",
+          "options": {
+            "A": "शिकारी पक्षी",
+            "B": "गायन करने वाला पक्षी",
+            "C": "रात में दिखने वाला पक्षी",
+            "D": "पानी में रहने वाला पक्षी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कक्कू की आवाज कैसी होती है?",
+          "options": {
+            "A": "कर्कश",
+            "B": "मधुर",
+            "C": "तीखी",
+            "D": "भारी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कक्कू कहाँ रहता है?",
+          "options": {
+            "A": "जंगल में",
+            "B": "शहर में",
+            "C": "पहाड़ों पर",
+            "D": "रेगिस्तान में"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कक्कू के बारे में कविता क्या सिखाती है?",
+          "options": {
+            "A": "प्रकृति की सुंदरता",
+            "B": "पक्षियों का महत्व",
+            "C": "जंगल का डर",
+            "D": "शहर की भीड़"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कक्कू किस मौसम में ज्यादा गाता है?",
+          "options": {
+            "A": "सर्दी",
+            "B": "गर्मी",
+            "C": "बरसात",
+            "D": "शरद"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
     {
-      "chapter_number": 2,
-      "title": "Shekhibaaz Makkhi - शेखीबाज़ मक्खी",
+      "chapter_no": 2,
+      "chapter_name": "Shekhibaaz Makkhi - शेखीबाज़ मक्खी",
       "content": "A story of a boastful fly who learns a valuable lesson. It helps children understand the consequences of boasting.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=16no4oiDDzI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=3"
-      ]
+      "video_url": 
+        "https://www.youtube.com/watch?v=16no4oiDDzI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=3",
+        "questions": [
+          {
+            "question": "मक्खी क्यों शेखी बघारती थी?",
+            "options": {
+              "A": "वह बहुत ताकतवर थी",
+              "B": "वह बहुत बड़ी थी",
+              "C": "वह डींग मारती थी",
+              "D": "वह अकेली थी"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "मक्खी ने किससे डींग हांकी?",
+            "options": {
+              "A": "चींटी से",
+              "B": "मकड़ी से",
+              "C": "तितली से",
+              "D": "सभी कीटों से"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "question": "अंत में मक्खी का क्या हुआ?",
+            "options": {
+              "A": "वह राज़ी हो गई",
+              "B": "मकड़ी ने उसे पकड़ लिया",
+              "C": "वह उड़ गई",
+              "D": "वह सो गई"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "इस कहानी से क्या सीख मिलती है?",
+            "options": {
+              "A": "डींग नहीं मारनी चाहिए",
+              "B": "मक्खियाँ खतरनाक होती हैं",
+              "C": "मकड़ियाँ चालाक होती हैं",
+              "D": "सभी कीट महत्वपूर्ण हैं"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "मक्खी किस चीज़ के बारे में डींग मारती थी?",
+            "options": {
+              "A": "अपनी ताकत",
+              "B": "अपनी सुंदरता",
+              "C": "अपनी उड़ान",
+              "D": "अपनी चालाकी"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      
     },
     {
-      "chapter_number": 3,
-      "title": "Chand Wali Amma - चाँद वाली अम्मा",
+      "chapter_no": 3,
+      "chapter_name": "Chand Wali Amma - चाँद वाली अम्मा",
       "content": "A touching tale of the moon's influence on a mother and child. This chapter emphasizes the beauty of relationships and the magical elements of nature.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=m6caNoRnW54&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=4"
+      "video_url": 
+        "https://www.youtube.com/watch?v=m6caNoRnW54&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=4",
+      "questions": [
+        {
+          "question": "चाँद वाली अम्मा कौन थीं?",
+          "options": {
+            "A": "चाँद पर रहने वाली औरत",
+            "B": "बच्चे की दादी",
+            "C": "स्कूल की शिक्षिका",
+            "D": "गाँव की डॉक्टर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चा चाँद को क्या समझता था?",
+          "options": {
+            "A": "एक बड़ी थाली",
+            "B": "अम्मा का चेहरा",
+            "C": "एक दीया",
+            "D": "एक गेंद"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी में चाँद किसका प्रतीक है?",
+          "options": {
+            "A": "प्रकाश का",
+            "B": "प्यार का",
+            "C": "अंधकार का",
+            "D": "डर का"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चा चाँद को देखकर क्या करता था?",
+          "options": {
+            "A": "डर जाता था",
+            "B": "खुश हो जाता था",
+            "C": "रोने लगता था",
+            "D": "सो जाता था"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी का मुख्य भाव क्या है?",
+          "options": {
+            "A": "बच्चों की कल्पनाशीलता",
+            "B": "चाँद का विज्ञान",
+            "C": "रात का महत्व",
+            "D": "दादी-नानी के किस्से"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     },
     {
-      "chapter_number": 4,
-      "title": "Man Karta Hai - मन करता है",
+      "chapter_no": 4,
+      "chapter_name": "Man Karta Hai - मन करता है",
       "content": "A story that captures a child's desire to do things and explore the world around them. It connects with young minds who are full of curiosity.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=iBsuhWWqBA4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=5"
+      "video_url": 
+        "https://www.youtube.com/watch?v=iBsuhWWqBA4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=5",
+      "questions": [
+        {
+          "question": "बच्चे का मन क्या करने को करता था?",
+          "options": {
+            "A": "पढ़ने को",
+            "B": "खेलने को",
+            "C": "सोने को",
+            "D": "बहुत सी चीज़ें करने को"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "बच्चा किस चीज़ पर चढ़ना चाहता था?",
+          "options": {
+            "A": "पेड़ पर",
+            "B": "पहाड़ पर",
+            "C": "छत पर",
+            "D": "सीढ़ियों पर"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता में 'मन करता है' का क्या अर्थ है?",
+          "options": {
+            "A": "मना करना",
+            "B": "इच्छा होना",
+            "C": "डर लगना",
+            "D": "खुश होना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चा किसके साथ खेलना चाहता था?",
+          "options": {
+            "A": "दोस्तों के साथ",
+            "B": "पशु-पक्षियों के साथ",
+            "C": "अपने खिलौनों के साथ",
+            "D": "अकेले"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कविता का मुख्य विचार क्या है?",
+          "options": {
+            "A": "बच्चों की इच्छाएँ",
+            "B": "स्कूल का महत्व",
+            "C": "खेल के नियम",
+            "D": "प्रकृति का विज्ञान"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     },
     {
-      "chapter_number": 5,
-      "title": "Bahadur Bitto - बहादुर बित्तो",
+      "chapter_no": 5,
+      "chapter_name": "Bahadur Bitto - बहादुर बित्तो",
       "content": "This chapter tells the story of a brave little boy, Bitto, who faces challenges with courage and determination.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=k9vWG0optHw&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=6"
+      "video_url": 
+        "https://www.youtube.com/watch?v=k9vWG0optHw&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=6",
+      
+      "questions": [
+        {
+          "question": "बित्तो क्यों बहादुर था?",
+          "options": {
+            "A": "वह बड़ा था",
+            "B": "वह डरपोक था",
+            "C": "वह चुनौतियों का सामना करता था",
+            "D": "वह अमीर था"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "बित्तो ने किसकी मदद की?",
+          "options": {
+            "A": "एक बूढ़े आदमी की",
+            "B": "एक घायल कुत्ते की",
+            "C": "एक डूबते बच्चे की",
+            "D": "एक भूखे व्यक्ति की"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बित्तो की कहानी से क्या सीख मिलती है?",
+          "options": {
+            "A": "छोटे भी बहादुर हो सकते हैं",
+            "B": "कुत्ते खतरनाक होते हैं",
+            "C": "बच्चों को अकेले नहीं रहना चाहिए",
+            "D": "सभी बच्चे डरपोक होते हैं"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "बित्तो ने कुत्ते की मदद कैसे की?",
+          "options": {
+            "A": "उसे खाना खिलाया",
+            "B": "उसे डॉक्टर के पास ले गया",
+            "C": "उसे घर ले आया",
+            "D": "उसके लिए घर बनाया"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी के अंत में बित्तो को क्या मिला?",
+          "options": {
+            "A": "इनाम",
+            "B": "डांट",
+            "C": "तारीफ",
+            "D": "कोई प्रतिक्रिया नहीं"
+          },
+          "correct_answer": "C"
+        }
       ]
+      
     },
     {
-      "chapter_number": 6,
-      "title": "Moos Ki Majduri - मूस की मजदूरी",
+      "chapter_no": 6,
+      "chapter_name": "Moos Ki Majduri - मूस की मजदूरी",
       "content": "This chapter narrates the story of a mouse who does hard work for a living, teaching children the value of hard work.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=QjhcEM608eg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=7"
+      "video_url": 
+        "https://www.youtube.com/watch?v=QjhcEM608eg&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=7",
+      "questions": [
+        {
+          "question": "मूस क्या काम करता था?",
+          "options": {
+            "A": "खेत जोतता था",
+            "B": "सब्ज़ियाँ बेचता था",
+            "C": "मजदूरी करता था",
+            "D": "पढ़ाता था"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "मूस को किस चीज़ की सजा मिली?",
+          "options": {
+            "A": "काम न करने की",
+            "B": "चोरी करने की",
+            "C": "झूठ बोलने की",
+            "D": "लड़ाई करने की"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "मूस ने क्या चोरी किया था?",
+          "options": {
+            "A": "पैसे",
+            "B": "खाना",
+            "C": "कपड़े",
+            "D": "किताबें"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी से क्या सीख मिलती है?",
+          "options": {
+            "A": "मेहनत से काम करना चाहिए",
+            "B": "चोरी बुरी बात है",
+            "C": "सजा मिलती है",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "मूस को किसने सजा दी?",
+          "options": {
+            "A": "राजा ने",
+            "B": "मालिक ने",
+            "C": "पुलिस ने",
+            "D": "गाँव वालों ने"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
     {
-      "chapter_number": 7,
-      "title": "Humse Sab Kehte - हमसे सब कहते",
+      "chapter_no": 7,
+      "chapter_name": "Humse Sab Kehte - हमसे सब कहते",
       "content": "A story that portrays the wisdom and advice elders give to children, encouraging them to learn from life experiences.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=JTJpKYQrYvU&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=8"
+      "video_url": 
+        "https://www.youtube.com/watch?v=JTJpKYQrYvU&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=8",
+      "questions": [
+        {
+          "question": "बच्चे से सब क्या कहते हैं?",
+          "options": {
+            "A": "पढ़ने को",
+            "B": "खेलने को",
+            "C": "अलग-अलग निर्देश",
+            "D": "गाना गाने को"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "माँ बच्चे से क्या कहती है?",
+          "options": {
+            "A": "जल्दी उठो",
+            "B": "धीरे बोलो",
+            "C": "तेज चलो",
+            "D": "ज़ोर से हँसो"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "पापा बच्चे से क्या कहते हैं?",
+          "options": {
+            "A": "धीरे बोलो",
+            "B": "तेज चलो",
+            "C": "ज़ोर से पढ़ो",
+            "D": "जल्दी सो जाओ"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कविता का मुख्य भाव क्या है?",
+          "options": {
+            "A": "बच्चों को अलग-अलग निर्देश",
+            "B": "माता-पिता का प्यार",
+            "C": "स्कूल का महत्व",
+            "D": "खेल का महत्व"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "बच्चा इन निर्देशों के बारे में कैसा महसूस करता है?",
+          "options": {
+            "A": "खुश",
+            "B": "उलझन में",
+            "C": "डरा हुआ",
+            "D": "गुस्सा"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
     {
-      "chapter_number": 8,
-      "title": "Tiptipva - टिपटिपवा",
+      "chapter_no": 8,
+      "chapter_name": "Tiptipva - टिपटिपवा",
       "content": "This chapter tells a whimsical story about a small creature, teaching children how even the tiniest things can make a big difference.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=5S-Ol2UgdXY&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=9"
+      "video_url": 
+        "https://www.youtube.com/watch?v=5S-Ol2UgdXY&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=9",
+      "questions": [
+        {
+          "question": "टिपटिपवा क्या था?",
+          "options": {
+            "A": "एक छोटा जानवर",
+            "B": "एक छोटा बच्चा",
+            "C": "बारिश की बूंद",
+            "D": "एक पक्षी"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "टिपटिपवा कहाँ गिर रहा था?",
+          "options": {
+            "A": "पेड़ पर",
+            "B": "छत पर",
+            "C": "खिड़की पर",
+            "D": "जमीन पर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चा टिपटिपवा से क्या पूछता है?",
+          "options": {
+            "A": "तुम कौन हो?",
+            "B": "तुम कहाँ से आए?",
+            "C": "तुम क्यों रो रहे?",
+            "D": "तुम कब जाओगे?"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कविता में टिपटिपवा किसका प्रतीक है?",
+          "options": {
+            "A": "बच्चों की जिज्ञासा",
+            "B": "बारिश का मौसम",
+            "C": "प्रकृति का सौंदर्य",
+            "D": "अकेलापन"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कविता का स्वर कैसा है?",
+          "options": {
+            "A": "उदास",
+            "B": "हास्यपूर्ण",
+            "C": "जिज्ञासापूर्ण",
+            "D": "डरावना"
+          },
+          "correct_answer": "C"
+        }
       ]
+      
     },
     {
-      "chapter_number": 9,
-      "title": "Bandar Baant - बन्दर बाँट (Part 1)",
+      "chapter_no": 9,
+      "chapter_name": "Bandar Baant - बन्दर बाँट (Part 1)",
       "content": "This part introduces a funny story about monkeys dividing fruits among themselves, illustrating the importance of fairness.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=m2boMa51EnI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=10"
+      "video_url": 
+        "https://www.youtube.com/watch?v=m2boMa51EnI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=10",
+      "video_url_1": 
+        "https://www.youtube.com/watch?v=wK5w8WCBCo8&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=11",
+      "questions": [
+        {
+          "question": "बंदरों ने क्या बाँटने की कोशिश की?",
+          "options": {
+            "A": "पैसे",
+            "B": "फल",
+            "C": "खिलौने",
+            "D": "कपड़े"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बंदरों ने फल कैसे बाँटे?",
+          "options": {
+            "A": "बराबर-बराबर",
+            "B": "बड़े को ज्यादा",
+            "C": "छोटे को ज्यादा",
+            "D": "बिना सोचे-समझे"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "फल बाँटने का क्या परिणाम हुआ?",
+          "options": {
+            "A": "सब खुश हुए",
+            "B": "झगड़ा हो गया",
+            "C": "सबने मना कर दिया",
+            "D": "फल खराब हो गए"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी का पहला भाग क्या सिखाता है?",
+          "options": {
+            "A": "बाँटना अच्छी बात है",
+            "B": "बिना सोचे बाँटने से समस्या होती है",
+            "C": "बंदर चालाक होते हैं",
+            "D": "फल स्वादिष्ट होते हैं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बंदरों के समूह को क्या कहते हैं?",
+          "options": {
+            "A": "झुंड",
+            "B": "टोली",
+            "C": "वानर दल",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "दूसरे भाग में बंदरों ने फल कैसे बाँटे?",
+          "options": {
+            "A": "बड़े को ज्यादा दिया",
+            "B": "छोटे को ज्यादा दिया",
+            "C": "बराबर बाँटे",
+            "D": "किसी को नहीं दिया"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "बराबर बाँटने से क्या हुआ?",
+          "options": {
+            "A": "सब खुश हुए",
+            "B": "फल कम पड़ गए",
+            "C": "फल खराब हो गए",
+            "D": "झगड़ा बढ़ गया"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस भाग से क्या सीख मिलती है?",
+          "options": {
+            "A": "निष्पक्ष बँटवारा अच्छा होता है",
+            "B": "बंदर समझदार होते हैं",
+            "C": "फल कम लेने चाहिए",
+            "D": "झगड़ा करना बुरा है"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी के अंत में बंदर क्या करते हैं?",
+          "options": {
+            "A": "और झगड़ते हैं",
+            "B": "शांति से रहते हैं",
+            "C": "जंगल छोड़ देते हैं",
+            "D": "अलग हो जाते हैं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "पूरी कहानी किस गुण पर जोर देती है?",
+          "options": {
+            "A": "ईमानदारी",
+            "B": "बराबरी",
+            "C": "मेहनत",
+            "D": "चालाकी"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
+    
     {
-      "chapter_number": 9,
-      "title": "Bandar Baant - बन्दर बाँट (Part 2)",
-      "content": "The continuation of the Bandar Baant story, where the monkeys learn a lesson about sharing and kindness.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=wK5w8WCBCo8&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=11"
-      ]
-    },
-    {
-      "chapter_number": 10,
-      "title": "Kab Aaun - कब आऊँ (Part 1)",
+      "chapter_no": 10,
+      "chapter_name": "Kab Aaun - कब आऊँ (Part 1)",
       "content": "This chapter narrates a child's longing to meet someone, teaching children the emotions tied to waiting and longing.",
-      "video_links": [
+      "video_url": 
         "https://www.youtube.com/watch?v=pG8gtSCDouA&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=12"
+      ,
+      "video_url_1": 
+        "https://www.youtube.com/watch?v=l50QCDf1pjI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=13",
+      "questions": [
+        {
+          "question": "बच्चा किसका इंतज़ार कर रहा है?",
+          "options": {
+            "A": "अपने दोस्त का",
+            "B": "अपने पिता का",
+            "C": "अपनी माँ का",
+            "D": "अपने भाई का"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चा बार-बार क्या पूछता है?",
+          "options": {
+            "A": "क्या लाएँगे?",
+            "B": "कब आऊँ?",
+            "C": "कहाँ गए हैं?",
+            "D": "क्यों गए हैं?"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस भाग में बच्चे की किस भावना को दिखाया गया है?",
+          "options": {
+            "A": "खुशी",
+            "B": "उत्सुकता",
+            "C": "प्रतीक्षा",
+            "D": "डर"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "बच्चा किस चीज़ से पूछता है 'कब आऊँ'?",
+          "options": {
+            "A": "खिड़की से",
+            "B": "दरवाज़े से",
+            "C": "घड़ी से",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कविता का मूड कैसा है?",
+          "options": {
+            "A": "उदास",
+            "B": "उत्साहित",
+            "C": "उत्सुक",
+            "D": "डरावना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "दूसरे भाग में बच्चे का पिता कब आता है?",
+          "options": {
+            "A": "सुबह",
+            "B": "दोपहर",
+            "C": "शाम",
+            "D": "रात"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "पिता के आने पर बच्चा क्या करता है?",
+          "options": {
+            "A": "रोने लगता है",
+            "B": "खुश होकर दौड़ता है",
+            "C": "सो जाता है",
+            "D": "नाराज़ होता है"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "पिता बच्चे के लिए क्या लाते हैं?",
+          "options": {
+            "A": "खिलौने",
+            "B": "मिठाई",
+            "C": "किताबें",
+            "D": "कुछ नहीं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस भाग से क्या सीख मिलती है?",
+          "options": {
+            "A": "प्रतीक्षा का फल मीठा होता है",
+            "B": "बच्चे धैर्यवान होते हैं",
+            "C": "पिता का प्यार",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कविता का अंत कैसा होता है?",
+          "options": {
+            "A": "दुखद",
+            "B": "रहस्यमय",
+            "C": "खुशनुमा",
+            "D": "डरावना"
+          },
+          "correct_answer": "C"
+        }
       ]
+      
     },
+    
     {
-      "chapter_number": 10,
-      "title": "Kab Aaun - कब आऊँ (Part 2)",
-      "content": "The second part of the story, where the child waits for a loved one to return, emphasizing patience and love.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=l50QCDf1pjI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=13"
-      ]
-    },
-    {
-      "chapter_number": 11,
-      "title": "Kyonjimal Aur Kaise Kaisliya - क्योंजीमल और कैसे कैसलिया",
+      "chapter_no": 11,
+      "chapter_name": "Kyonjimal Aur Kaise Kaisliya - क्योंजीमल और कैसे कैसलिया",
       "content": "A playful story about a character named Kyonjimal, who learns through a series of funny and relatable situations.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=5zdVU3ndz90&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=14"
+      "video_url": 
+        "https://www.youtube.com/watch?v=5zdVU3ndz90&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=14",
+      "questions": [
+        {
+          "question": "क्योंजीमल कौन था?",
+          "options": {
+            "A": "एक बच्चा",
+            "B": "एक जानवर",
+            "C": "एक पक्षी",
+            "D": "एक पेड़"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्योंजीमल क्या करता था?",
+          "options": {
+            "A": "बहुत सवाल पूछता था",
+            "B": "बहुत गाना गाता था",
+            "C": "बहुत खेलता था",
+            "D": "बहुत पढ़ता था"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कैसे कैसलिया का क्या अर्थ है?",
+          "options": {
+            "A": "कैसा है?",
+            "B": "क्यों है?",
+            "C": "कैसे करें?",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस कहानी से क्या सीख मिलती है?",
+          "options": {
+            "A": "सवाल पूछना अच्छी बात है",
+            "B": "जिज्ञासा ज्ञान की ओर ले जाती है",
+            "C": "बच्चे सीखने के लिए प्रश्न करते हैं",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "क्योंजीमल के प्रश्नों से लोग कैसा महसूस करते थे?",
+          "options": {
+            "A": "खुश",
+            "B": "परेशान",
+            "C": "डरे हुए",
+            "D": "उदास"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
     {
-      "chapter_number": 12,
-      "title": "Meera Behan Aur Bagh - मीरा बहन और बाघ (Part 1)",
+      "chapter_no": 12,
+      "chapter_name": "Meera Behan Aur Bagh - मीरा बहन और बाघ (Part 1)",
       "content": "The first part of this chapter introduces a courageous girl named Meera who faces challenges with bravery.",
-      "video_links": [
+      "video_url": 
         "https://www.youtube.com/watch?v=AvCt39aWuFw&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=16"
+      ,
+      "video_url_1": 
+        "https://www.youtube.com/watch?v=0Q74EA6ztFc&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=17",
+      "questions": [
+        {
+          "question": "मीरा बहन कौन थीं?",
+          "options": {
+            "A": "एक नन",
+            "B": "एक डॉक्टर",
+            "C": "एक शिक्षिका",
+            "D": "एक गाँव की महिला"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मीरा बहन कहाँ रहती थीं?",
+          "options": {
+            "A": "शहर में",
+            "B": "जंगल के पास",
+            "C": "पहाड़ों पर",
+            "D": "रेगिस्तान में"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "मीरा बहन के सामने क्या समस्या आई?",
+          "options": {
+            "A": "बाघ ने उन पर हमला किया",
+            "B": "बाघ उनके घर के पास आ गया",
+            "C": "बाघ ने उनका सामान चुरा लिया",
+            "D": "बाघ बीमार हो गया"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस भाग में मीरा बहन कैसी दिखाई देती हैं?",
+          "options": {
+            "A": "डरी हुई",
+            "B": "निडर",
+            "C": "चिंतित",
+            "D": "उदास"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी का यह भाग किस गुण पर जोर देता है?",
+          "options": {
+            "A": "साहस",
+            "B": "बुद्धिमत्ता",
+            "C": "धैर्य",
+            "D": "ईमानदारी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मीरा बहन ने बाघ को क्या किया?",
+          "options": {
+            "A": "भगा दिया",
+            "B": "पकड़ लिया",
+            "C": "उससे बात की",
+            "D": "उसे मार डाला"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "बाघ ने मीरा बहन को क्या बताया?",
+          "options": {
+            "A": "वह भूखा है",
+            "B": "वह घायल है",
+            "C": "वह डरा हुआ है",
+            "D": "वह खो गया है"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "मीरा बहन ने बाघ की कैसे मदद की?",
+          "options": {
+            "A": "उसे खाना दिया",
+            "B": "उसके घाव साफ किए",
+            "C": "उसे जंगल छोड़ आईं",
+            "D": "उसे पालतू बना लिया"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस भाग से क्या सीख मिलती है?",
+          "options": {
+            "A": "दया और साहस महत्वपूर्ण हैं",
+            "B": "बाघ खतरनाक होते हैं",
+            "C": "जंगल में नहीं रहना चाहिए",
+            "D": "नन बहादुर होती हैं"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का अंत कैसा होता है?",
+          "options": {
+            "A": "दुखद",
+            "B": "रहस्यमय",
+            "C": "सुखद",
+            "D": "डरावना"
+          },
+          "correct_answer": "C"
+        }
       ]
+      
     },
+   
     {
-      "chapter_number": 12,
-      "title": "Meera Behan Aur Bagh - मीरा बहन और बाघ (Part 2)",
-      "content": "The conclusion of Meera’s brave encounter with the tiger, teaching children about courage and determination.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=0Q74EA6ztFc&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=17"
-      ]
-    },
-    {
-      "chapter_number": 13,
-      "title": "Kahani Ki Kahani - कहानी की कहानी",
+      "chapter_no": 13,
+      "chapter_name": "Kahani Ki Kahani - कहानी की कहानी",
       "content": "This is a story about a story itself, making children realize the importance of stories and imagination in everyday life.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=nTjLNAr2upE&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=18"
+      "video_url": 
+        "https://www.youtube.com/watch?v=nTjLNAr2upE&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=18",
+      "questions": [
+        {
+          "question": "यह कहानी किस बारे में है?",
+          "options": {
+            "A": "एक जादुई कहानी",
+            "B": "कहानियों के महत्व के बारे में",
+            "C": "एक बच्चे की दिनचर्या",
+            "D": "जानवरों की मित्रता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानियाँ हमें क्या सिखाती हैं?",
+          "options": {
+            "A": "नैतिक मूल्य",
+            "B": "इतिहास",
+            "C": "विज्ञान",
+            "D": "सभी कुछ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी के अनुसार कहानियाँ कहाँ छुपी रहती हैं?",
+          "options": {
+            "A": "किताबों में",
+            "B": "प्रकृति में",
+            "C": "हमारे आसपास",
+            "D": "उपरोक्त सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी सुनने से बच्चों को क्या फायदा होता है?",
+          "options": {
+            "A": "कल्पनाशक्ति बढ़ती है",
+            "B": "भाषा कौशल विकसित होता है",
+            "C": "नैतिक शिक्षा मिलती है",
+            "D": "सभी फायदे"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "कहानियाँ जीवन का महत्वपूर्ण हिस्सा हैं",
+            "B": "हर दिन नई कहानी सुननी चाहिए",
+            "C": "कहानियाँ सिर्फ बच्चों के लिए हैं",
+            "D": "कहानियाँ समय की बर्बादी हैं"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     },
     {
-      "chapter_number": 14,
-      "title": "Jab Mujhe Sanp Ne Kata - जब मुझे साँप ने काटा",
+      "chapter_no": 14,
+      "chapter_name": "Jab Mujhe Sanp Ne Kata - जब मुझे साँप ने काटा",
       "content": "A story about a boy who gets bitten by a snake, and his adventure of healing and understanding nature.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=RIMt3KAJ_7Y&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=19"
+      "video_url": 
+        "https://www.youtube.com/watch?v=RIMt3KAJ_7Y&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=19",
+      "questions": [
+        {
+          "question": "साँप ने बच्चे को कहाँ काटा?",
+          "options": {
+            "A": "हाथ",
+            "B": "पैर",
+            "C": "कमर",
+            "D": "गर्दन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "साँप के काटने पर बच्चे ने क्या किया?",
+          "options": {
+            "A": "डॉक्टर के पास गया",
+            "B": "घर वालों को बताया",
+            "C": "चुप रहा",
+            "D": "रोने लगा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस घटना से बच्चे ने क्या सीखा?",
+          "options": {
+            "A": "साँपों से दूर रहना",
+            "B": "घास में चप्पल पहनकर चलना",
+            "C": "सावधानी बरतना",
+            "D": "उपरोक्त सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "बच्चे का साँप के प्रति कैसा व्यवहार था?",
+          "options": {
+            "A": "डर",
+            "B": "नफरत",
+            "C": "समझदारी",
+            "D": "प्यार"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "साँप खतरनाक होते हैं",
+            "B": "प्रकृति के साथ सावधानीपूर्वक व्यवहार करें",
+            "C": "घास में नंगे पैर नहीं चलना चाहिए",
+            "D": "सभी उत्तर सही"
+          },
+          "correct_answer": "D"
+        }
       ]
+      
     },
     {
-      "chapter_number": 15,
-      "title": "Baccho Ka Patra - बच्चों का पत्र",
+      "chapter_no": 15,
+      "chapter_name": "Baccho Ka Patra - बच्चों का पत्र",
       "content": "This chapter is about the letters children write to others, reflecting their thoughts, desires, and innocence.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=kPs1S2RszxQ&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=20"
+      "video_url": 
+        "https://www.youtube.com/watch?v=kPs1S2RszxQ&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=20",
+      "questions": [
+        {
+          "question": "बच्चे ने पत्र किसको लिखा?",
+          "options": {
+            "A": "अपने दोस्त को",
+            "B": "अपने पिता को",
+            "C": "अपनी शिक्षिका को",
+            "D": "अपनी दादी को"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "पत्र में बच्चे ने क्या लिखा?",
+          "options": {
+            "A": "स्कूल की बातें",
+            "B": "अपनी इच्छाएँ",
+            "C": "दादी को याद किया",
+            "D": "सभी बातें"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "पत्र लिखने का क्या महत्व है?",
+          "options": {
+            "A": "भावनाएँ व्यक्त करना",
+            "B": "संबंध मजबूत करना",
+            "C": "भाषा कौशल सुधारना",
+            "D": "सभी फायदे"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस पाठ से हमें क्या सीख मिलती है?",
+          "options": {
+            "A": "पत्र लेखन की कला",
+            "B": "बड़ों का सम्मान",
+            "C": "भावनाएँ व्यक्त करना",
+            "D": "सभी सीख"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "पत्र का अंत कैसे हुआ?",
+          "options": {
+            "A": "प्रेम से",
+            "B": "उदासी से",
+            "C": "रोमांच से",
+            "D": "रहस्य से"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     },
     {
-      "chapter_number": 16,
-      "title": "Mirch Ka Maza - मिर्च का मज़ा",
+      "chapter_no": 16,
+      "chapter_name": "Mirch Ka Maza - मिर्च का मज़ा",
       "content": "A humorous chapter about the taste of chili, using the context of a child’s experience with something spicy.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=beNcEjOp6DI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=21"
+      "video_url": 
+        "https://www.youtube.com/watch?v=beNcEjOp6DI&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=21",
+      "questions": [
+        {
+          "question": "मिर्च खाने पर क्या हुआ?",
+          "options": {
+            "A": "मुँह में जलन",
+            "B": "आँखों से पानी",
+            "C": "चेहरा लाल",
+            "D": "सभी प्रतिक्रियाएँ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "बच्चे ने मिर्च क्यों खाई?",
+          "options": {
+            "A": "जिज्ञासावश",
+            "B": "भूख लगने पर",
+            "C": "दोस्तों के कहने पर",
+            "D": "गलती से"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मिर्च खाने के बाद बच्चे ने क्या किया?",
+          "options": {
+            "A": "पानी पिया",
+            "B": "दही खाया",
+            "C": "रोया",
+            "D": "सभी कुछ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस कहानी से क्या सीख मिलती है?",
+          "options": {
+            "A": "जिज्ञासा पर नियंत्रण रखें",
+            "B": "अनजान चीजें न खाएँ",
+            "C": "बड़ों की सलाह मानें",
+            "D": "सभी सीख"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी का स्वर कैसा है?",
+          "options": {
+            "A": "हास्यपूर्ण",
+            "B": "उदास",
+            "C": "डरावना",
+            "D": "रोमांचक"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     },
     {
-      "chapter_number": 17,
-      "title": "Sabse Accha Ped - सबसे अच्छा पेड़ (Part 1)",
+      "chapter_no": 17,
+      "chapter_name": "Sabse Accha Ped - सबसे अच्छा पेड़ (Part 1)",
       "content": "A story about a tree and its significance, emphasizing how nature provides for everyone.",
-      "video_links": [
+      "video_url": 
         "https://www.youtube.com/watch?v=DxZsXogTRLk&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=22"
+      ,
+      "video_url_1": 
+        "https://www.youtube.com/watch?v=2ueX3aZcU2Q&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=23",
+      "questions": [
+        {
+          "question": "बच्चे किस पेड़ को सबसे अच्छा मानते थे?",
+          "options": {
+            "A": "आम",
+            "B": "नीम",
+            "C": "पीपल",
+            "D": "अलग-अलग राय"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "आम के पेड़ की क्या विशेषता है?",
+          "options": {
+            "A": "मीठे फल",
+            "B": "छायादार",
+            "C": "लकड़ी उपयोगी",
+            "D": "सभी गुण"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "नीम के पेड़ का क्या महत्व है?",
+          "options": {
+            "A": "औषधीय गुण",
+            "B": "कीटनाशक",
+            "C": "साफ-सफाई",
+            "D": "सभी उपयोग"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस भाग से क्या सीख मिलती है?",
+          "options": {
+            "A": "हर पेड़ के अलग गुण होते हैं",
+            "B": "पेड़ों का संरक्षण जरूरी है",
+            "C": "प्रकृति का महत्व",
+            "D": "सभी सीख"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी का टोन कैसा है?",
+          "options": {
+            "A": "शैक्षिक",
+            "B": "उपदेशात्मक",
+            "C": "विवादात्मक",
+            "D": "मनोरंजक"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "अंत में बच्चे किस निष्कर्ष पर पहुँचे?",
+          "options": {
+            "A": "आम सबसे अच्छा",
+            "B": "नीम सबसे उपयोगी",
+            "C": "सभी पेड़ महत्वपूर्ण",
+            "D": "कोई फर्क नहीं"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "पेड़ों के बारे में क्या सच है?",
+          "options": {
+            "A": "सभी के अलग उपयोग",
+            "B": "प्रकृति का संतुलन",
+            "C": "मानव जीवन के लिए आवश्यक",
+            "D": "सभी तथ्य"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस भाग से क्या संदेश मिलता है?",
+          "options": {
+            "A": "पेड़ लगाओ",
+            "B": "पेड़ बचाओ",
+            "C": "पेड़ों का सम्मान करो",
+            "D": "सभी संदेश"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी किस गुण पर जोर देती है?",
+          "options": {
+            "A": "सहनशीलता",
+            "B": "बहुलवाद",
+            "C": "पर्यावरण चेतना",
+            "D": "सभी गुण"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी का अंत कैसा है?",
+          "options": {
+            "A": "निर्णायक",
+            "B": "शिक्षाप्रद",
+            "C": "खुला",
+            "D": "रहस्यमय"
+          },
+          "correct_answer": "B"
+        }
       ]
+      
     },
+    
     {
-      "chapter_number": 17,
-      "title": "Sabse Accha Ped - सबसे अच्छा पेड़ (Part 2)",
-      "content": "The continuation of the tree’s story, teaching children the importance of preserving nature.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=2ueX3aZcU2Q&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=23"
-      ]
-    },
-    {
-      "chapter_number": 18,
-      "title": "Pattiyon Ka Chidiyaghar - पत्तियों का चिड़ियाघर",
+      "chapter_no": 18,
+      "chapter_name": "Pattiyon Ka Chidiyaghar - पत्तियों का चिड़ियाघर",
       "content": "A fun story about the different creatures that live on tree leaves, helping children understand the importance of nature’s diversity.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=pDJaUcpsRs4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=24"
+      "video_url": 
+        "https://www.youtube.com/watch?v=pDJaUcpsRs4&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=24",
+      "questions": [
+        {
+          "question": "पत्तियों का चिड़ियाघर क्या है?",
+          "options": {
+            "A": "एक जगह का नाम",
+            "B": "पत्तियों पर रहने वाले जीव",
+            "C": "एक खेल",
+            "D": "एक सपना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इसमें कौन-कौन से जीव मिलते हैं?",
+          "options": {
+            "A": "कीट-पतंगे",
+            "B": "छोटे जानवर",
+            "C": "सूक्ष्म जीव",
+            "D": "विभिन्न प्रकार"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "यह कहानी किस बारे में जागरूक करती है?",
+          "options": {
+            "A": "प्रकृति की विविधता",
+            "B": "सूक्ष्म जीवन",
+            "C": "पर्यावरण संरक्षण",
+            "D": "सभी पहलू"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "बच्चों को इससे क्या सीख मिलती है?",
+          "options": {
+            "A": "प्रकृति का निरीक्षण",
+            "B": "जीवों का सम्मान",
+            "C": "वैज्ञानिक दृष्टिकोण",
+            "D": "सभी सीख"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी का स्वर कैसा है?",
+          "options": {
+            "A": "जिज्ञासापूर्ण",
+            "B": "रोमांचक",
+            "C": "शैक्षिक",
+            "D": "सभी विशेषताएँ"
+          },
+          "correct_answer": "D"
+        }
       ]
+      
     },
     {
-      "chapter_number": 19,
-      "title": "Nana Nani Ke Naam - नाना नानी के नाम",
+      "chapter_no": 19,
+      "chapter_name": "Nana Nani Ke Naam - नाना नानी के नाम",
       "content": "A nostalgic story about grandparents, showing their importance in a child’s life.",
-      "video_links": [
-        "https://www.youtube.com/watch?v=IYFJ4tfq8jk&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=25"
+      "video_url": 
+        "https://www.youtube.com/watch?v=IYFJ4tfq8jk&list=PLVLoWQFkZbhWvvgn6OUo2Aa1U0kseNN9l&index=25",
+      "questions": [
+        {
+          "question": "यह कहानी किस रिश्ते पर केंद्रित है?",
+          "options": {
+            "A": "माता-पिता",
+            "B": "दादा-दादी",
+            "C": "भाई-बहन",
+            "D": "शिक्षक-शिष्य"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "बच्चे नाना-नानी से क्या सीखते हैं?",
+          "options": {
+            "A": "पारिवारिक मूल्य",
+            "B": "पारंपरिक ज्ञान",
+            "C": "नैतिक शिक्षा",
+            "D": "सभी शिक्षाएँ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "नानी के किस्से कैसे होते हैं?",
+          "options": {
+            "A": "मनोरंजक",
+            "B": "शिक्षाप्रद",
+            "C": "पारंपरिक",
+            "D": "सभी विशेषताएँ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "बड़ों का सम्मान",
+            "B": "पारिवारिक बंधन",
+            "C": "संस्कृति का संरक्षण",
+            "D": "सभी संदेश"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी कैसे समाप्त होती है?",
+          "options": {
+            "A": "भावुकता से",
+            "B": "शिक्षा देकर",
+            "C": "प्रश्न छोड़कर",
+            "D": "उत्साह से"
+          },
+          "correct_answer": "A"
+        }
       ]
+      
     }
   ]
 }

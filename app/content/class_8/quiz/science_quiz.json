@@ -4,1010 +4,1010 @@
     "book": "NCERT Science",
     "chapters": [
       {
-        "chapter_number": 1,
-        "title": "Crop Production & Management",
+        "chapter_no": 1,
+        "chapter_name": "Crop Production & Management",
         "questions": [
           {
-            "quiz_question": "What is the primary purpose of crop production?",
+            "question": "What is the primary purpose of crop production?",
             "options": {
-              "1": "To grow flowers",
-              "2": "To produce food",
-              "3": "To create fuel",
-              "4": "To enhance biodiversity"
+              "A": "To grow flowers",
+              "B": "To produce food",
+              "C": "To create fuel",
+              "D": "To enhance biodiversity"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is a primary type of agricultural practice?",
+            "question": "What is a primary type of agricultural practice?",
             "options": {
-              "1": "Horticulture",
-              "2": "Aquaculture",
-              "3": "Crop rotation",
-              "4": "Animal husbandry"
+              "A": "Horticulture",
+              "B": "Aquaculture",
+              "C": "Crop rotation",
+              "D": "Animal husbandry"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which method is used for irrigation in agriculture?",
+            "question": "Which method is used for irrigation in agriculture?",
             "options": {
-              "1": "Drip irrigation",
-              "2": "Flooding",
-              "3": "Drenching",
-              "4": "All of the above"
+              "A": "Drip irrigation",
+              "B": "Flooding",
+              "C": "Drenching",
+              "D": "All of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What do fertilizers provide to crops?",
+            "question": "What do fertilizers provide to crops?",
             "options": {
-              "1": "Pests",
-              "2": "Weeds",
-              "3": "Nutrients",
-              "4": "Water"
+              "A": "Pests",
+              "B": "Weeds",
+              "C": "Nutrients",
+              "D": "Water"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is one major challenge in crop management?",
+            "question": "What is one major challenge in crop management?",
             "options": {
-              "1": "Too much sunlight",
-              "2": "Soil fertility",
-              "3": "Inefficient markets",
-              "4": "Excessive rainfall"
+              "A": "Too much sunlight",
+              "B": "Soil fertility",
+              "C": "Inefficient markets",
+              "D": "Excessive rainfall"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 2,
-        "title": "Microorganisms: Friends & Foe",
+        "chapter_no": 2,
+        "chapter_name": "Microorganisms: Friends & Foe",
         "questions": [
           {
-            "quiz_question": "What are microorganisms?",
+            "question": "What are microorganisms?",
             "options": {
-              "1": "Large animals",
-              "2": "Tiny living organisms",
-              "3": "Plants",
-              "4": "Rocks"
+              "A": "Large animals",
+              "B": "Tiny living organisms",
+              "C": "Plants",
+              "D": "Rocks"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following microorganisms is beneficial for digestion?",
+            "question": "Which of the following microorganisms is beneficial for digestion?",
             "options": {
-              "1": "Bacteria",
-              "2": "Virus",
-              "3": "Fungi",
-              "4": "Algae"
+              "A": "Bacteria",
+              "B": "Virus",
+              "C": "Fungi",
+              "D": "Algae"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What disease is caused by a virus?",
+            "question": "What disease is caused by a virus?",
             "options": {
-              "1": "Tuberculosis",
-              "2": "Hepatitis",
-              "3": "Fungal infections",
-              "4": "Malaria"
+              "A": "Tuberculosis",
+              "B": "Hepatitis",
+              "C": "Fungal infections",
+              "D": "Malaria"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How can harmful microorganisms be controlled?",
+            "question": "How can harmful microorganisms be controlled?",
             "options": {
-              "1": "By vaccination",
-              "2": "By using fertilizers",
-              "3": "By planting more crops",
-              "4": "By using more water"
+              "A": "By vaccination",
+              "B": "By using fertilizers",
+              "C": "By planting more crops",
+              "D": "By using more water"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What role do microorganisms play in the nitrogen cycle?",
+            "question": "What role do microorganisms play in the nitrogen cycle?",
             "options": {
-              "1": "They deplete nitrogen.",
-              "2": "They convert nitrogen in the air into a usable form.",
-              "3": "They have no role.",
-              "4": "They only harm plants."
+              "A": "They deplete nitrogen.",
+              "B": "They convert nitrogen in the air into a usable form.",
+              "C": "They have no role.",
+              "D": "They only harm plants."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 3,
-        "title": "Synthetic Fibres & Plastics",
+        "chapter_no": 3,
+        "chapter_name": "Synthetic Fibres & Plastics",
         "questions": [
           {
-            "quiz_question": "What are synthetic fibers made from?",
+            "question": "What are synthetic fibers made from?",
             "options": {
-              "1": "Natural resources",
-              "2": "Animal products",
-              "3": "Chemical processes",
-              "4": "Water and soil"
+              "A": "Natural resources",
+              "B": "Animal products",
+              "C": "Chemical processes",
+              "D": "Water and soil"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is a common synthetic fiber?",
+            "question": "Which of the following is a common synthetic fiber?",
             "options": {
-              "1": "Cotton",
-              "2": "Silk",
-              "3": "Nylon",
-              "4": "Wool"
+              "A": "Cotton",
+              "B": "Silk",
+              "C": "Nylon",
+              "D": "Wool"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is one major environmental concern with plastic use?",
+            "question": "What is one major environmental concern with plastic use?",
             "options": {
-              "1": "Renewable energy",
-              "2": "Biodegradability",
-              "3": "Natural resources",
-              "4": "High durability"
+              "A": "Renewable energy",
+              "B": "Biodegradability",
+              "C": "Natural resources",
+              "D": "High durability"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How are synthetic fibers beneficial in clothing?",
+            "question": "How are synthetic fibers beneficial in clothing?",
             "options": {
-              "1": "They are always natural.",
-              "2": "They can be dyed easily.",
-              "3": "They are generally stronger and longer-lasting.",
-              "4": "They require less washing."
+              "A": "They are always natural.",
+              "B": "They can be dyed easily.",
+              "C": "They are generally stronger and longer-lasting.",
+              "D": "They require less washing."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the main use of synthetic plastics?",
+            "question": "What is the main use of synthetic plastics?",
             "options": {
-              "1": "Only packaging",
-              "2": "To create furniture",
-              "3": "For a variety of applications including packaging, containers, and electronics",
-              "4": "For textiles"
+              "A": "Only packaging",
+              "B": "To create furniture",
+              "C": "For a variety of applications including packaging, containers, and electronics",
+              "D": "For textiles"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 4,
-        "title": "Materials: Metals & Non-Metals",
+        "chapter_no": 4,
+        "chapter_name": "Materials: Metals & Non-Metals",
         "questions": [
           {
-            "quiz_question": "What is a characteristic of metals?",
+            "question": "What is a characteristic of metals?",
             "options": {
-              "1": "They are good conductors of heat.",
-              "2": "They are always brittle.",
-              "3": "They can be dissolved in water.",
-              "4": "They are poor conductors of electricity."
+              "A": "They are good conductors of heat.",
+              "B": "They are always brittle.",
+              "C": "They can be dissolved in water.",
+              "D": "They are poor conductors of electricity."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a non-metal?",
+            "question": "Which of the following is a non-metal?",
             "options": {
-              "1": "Iron",
-              "2": "Aluminum",
-              "3": "Gold",
-              "4": "Sulfur"
+              "A": "Iron",
+              "B": "Aluminum",
+              "C": "Gold",
+              "D": "Sulfur"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What happens to metals when they react with oxygen?",
+            "question": "What happens to metals when they react with oxygen?",
             "options": {
-              "1": "They become less dense.",
-              "2": "They produce oxides.",
-              "3": "They do not react.",
-              "4": "They explode."
+              "A": "They become less dense.",
+              "B": "They produce oxides.",
+              "C": "They do not react.",
+              "D": "They explode."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which property is associated with non-metals?",
+            "question": "Which property is associated with non-metals?",
             "options": {
-              "1": "Sonorous",
-              "2": "Malleable",
-              "3": "Dull appearance",
-              "4": "Conductive"
+              "A": "Sonorous",
+              "B": "Malleable",
+              "C": "Dull appearance",
+              "D": "Conductive"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is one major difference between metals and non-metals?",
+            "question": "What is one major difference between metals and non-metals?",
             "options": {
-              "1": "Metals are heavier.",
-              "2": "Metals conduct electricity, non-metals do not.",
-              "3": "Metals are found underground, non-metals are not.",
-              "4": "Metals can fly, non-metals cannot."
+              "A": "Metals are heavier.",
+              "B": "Metals conduct electricity, non-metals do not.",
+              "C": "Metals are found underground, non-metals are not.",
+              "D": "Metals can fly, non-metals cannot."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 5,
-        "title": "Coal and Petroleum",
+        "chapter_no": 5,
+        "chapter_name": "Coal and Petroleum",
         "questions": [
           {
-            "quiz_question": "What is coal primarily used for?",
+            "question": "What is coal primarily used for?",
             "options": {
-              "1": "To make toys",
-              "2": "As a source of energy",
-              "3": "To create plastics",
-              "4": "For heating water"
+              "A": "To make toys",
+              "B": "As a source of energy",
+              "C": "To create plastics",
+              "D": "For heating water"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which process is involved in the formation of coal?",
+            "question": "Which process is involved in the formation of coal?",
             "options": {
-              "1": "Photosynthesis",
-              "2": "Evaporation",
-              "3": "Carbonization",
-              "4": "Distillation"
+              "A": "Photosynthesis",
+              "B": "Evaporation",
+              "C": "Carbonization",
+              "D": "Distillation"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is petroleum refined into?",
+            "question": "What is petroleum refined into?",
             "options": {
-              "1": "Natural gas",
-              "2": "Plastic",
-              "3": "Gasoline and other fuels",
-              "4": "Carbon"
+              "A": "Natural gas",
+              "B": "Plastic",
+              "C": "Gasoline and other fuels",
+              "D": "Carbon"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What are the two main products derived from fossil fuels?",
+            "question": "What are the two main products derived from fossil fuels?",
             "options": {
-              "1": "Electricity and water",
-              "2": "Coal and petroleum",
-              "3": "Gas and wind",
-              "4": "Paper and plastics"
+              "A": "Electricity and water",
+              "B": "Coal and petroleum",
+              "C": "Gas and wind",
+              "D": "Paper and plastics"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What environmental issue is associated with coal and petroleum use?",
+            "question": "What environmental issue is associated with coal and petroleum use?",
             "options": {
-              "1": "Deforestation",
-              "2": "Water pollution",
-              "3": "Air pollution",
-              "4": "Noise pollution"
+              "A": "Deforestation",
+              "B": "Water pollution",
+              "C": "Air pollution",
+              "D": "Noise pollution"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 6,
-        "title": "Combustion and Flame",
+        "chapter_no": 6,
+        "chapter_name": "Combustion and Flame",
         "questions": [
           {
-            "quiz_question": "What is combustion?",
+            "question": "What is combustion?",
             "options": {
-              "1": "Burning of a substance",
-              "2": "Cooling down of a substance",
-              "3": "Melting of a solid",
-              "4": "Dissolving a solid in a liquid"
+              "A": "Burning of a substance",
+              "B": "Cooling down of a substance",
+              "C": "Melting of a solid",
+              "D": "Dissolving a solid in a liquid"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What do you need for combustion to occur?",
+            "question": "What do you need for combustion to occur?",
             "options": {
-              "1": "Only oxygen",
-              "2": "Heat, oxygen, and fuel",
-              "3": "Water and fuel",
-              "4": "Only heat"
+              "A": "Only oxygen",
+              "B": "Heat, oxygen, and fuel",
+              "C": "Water and fuel",
+              "D": "Only heat"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which type of flame is indicative of complete combustion?",
+            "question": "Which type of flame is indicative of complete combustion?",
             "options": {
-              "1": "Yellow flame",
-              "2": "Blue flame",
-              "3": "Red flame",
-              "4": "Green flame"
+              "A": "Yellow flame",
+              "B": "Blue flame",
+              "C": "Red flame",
+              "D": "Green flame"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the byproduct of combustion that is harmful to health?",
+            "question": "What is the byproduct of combustion that is harmful to health?",
             "options": {
-              "1": "Water vapor",
-              "2": "Carbon monoxide",
-              "3": "Oxygen",
-              "4": "Hydrogen"
+              "A": "Water vapor",
+              "B": "Carbon monoxide",
+              "C": "Oxygen",
+              "D": "Hydrogen"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the main characteristic of an oxidizing agent?",
+            "question": "What is the main characteristic of an oxidizing agent?",
             "options": {
-              "1": "It is a source of fuel.",
-              "2": "It facilitates combustion.",
-              "3": "It prevents burning.",
-              "4": "It cools down substances."
+              "A": "It is a source of fuel.",
+              "B": "It facilitates combustion.",
+              "C": "It prevents burning.",
+              "D": "It cools down substances."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 7,
-        "title": "Conservation of Plants & Animals",
+        "chapter_no": 7,
+        "chapter_name": "Conservation of Plants & Animals",
         "questions": [
           {
-            "quiz_question": "What is conservation?",
+            "question": "What is conservation?",
             "options": {
-              "1": "Destruction of resources",
-              "2": "Preservation of resources",
-              "3": "Excessive farming",
-              "4": "Neglecting habitats"
+              "A": "Destruction of resources",
+              "B": "Preservation of resources",
+              "C": "Excessive farming",
+              "D": "Neglecting habitats"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is a method of conserving biodiversity?",
+            "question": "Which of the following is a method of conserving biodiversity?",
             "options": {
-              "1": "Deforestation",
-              "2": "Creating protected areas",
-              "3": "Urbanization",
-              "4": "Pollution"
+              "A": "Deforestation",
+              "B": "Creating protected areas",
+              "C": "Urbanization",
+              "D": "Pollution"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Why is it important to conserve plants and animals?",
+            "question": "Why is it important to conserve plants and animals?",
             "options": {
-              "1": "To increase agricultural production",
-              "2": "To maintain ecological balance",
-              "3": "To reduce population growth",
-              "4": "To exploit resources"
+              "A": "To increase agricultural production",
+              "B": "To maintain ecological balance",
+              "C": "To reduce population growth",
+              "D": "To exploit resources"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What do we call the practice of growing a variety of plants together?",
+            "question": "What do we call the practice of growing a variety of plants together?",
             "options": {
-              "1": "Monoculture",
-              "2": "Polyculture",
-              "3": "Deforestation",
-              "4": "Agriculture"
+              "A": "Monoculture",
+              "B": "Polyculture",
+              "C": "Deforestation",
+              "D": "Agriculture"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is one effective way to conserve water in agriculture?",
+            "question": "What is one effective way to conserve water in agriculture?",
             "options": {
-              "1": "Flood irrigation",
-              "2": "Soil erosion",
-              "3": "Drip irrigation",
-              "4": "Overwatering"
+              "A": "Flood irrigation",
+              "B": "Soil erosion",
+              "C": "Drip irrigation",
+              "D": "Overwatering"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 8,
-        "title": "Cell Structure & Functions",
+        "chapter_no": 8,
+        "chapter_name": "Cell Structure & Functions",
         "questions": [
           {
-            "quiz_question": "What is the basic unit of life?",
+            "question": "What is the basic unit of life?",
             "options": {
-              "1": "Tissue",
-              "2": "Organ",
-              "3": "Cell",
-              "4": "Muscle"
+              "A": "Tissue",
+              "B": "Organ",
+              "C": "Cell",
+              "D": "Muscle"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What part of the cell contains the genetic material?",
+            "question": "What part of the cell contains the genetic material?",
             "options": {
-              "1": "Cytoplasm",
-              "2": "Cell membrane",
-              "3": "Nucleus",
-              "4": "Ribosome"
+              "A": "Cytoplasm",
+              "B": "Cell membrane",
+              "C": "Nucleus",
+              "D": "Ribosome"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the function of mitochondria?",
+            "question": "What is the function of mitochondria?",
             "options": {
-              "1": "Protein synthesis",
-              "2": "Energy production",
-              "3": "Cell division",
-              "4": "Waste removal"
+              "A": "Protein synthesis",
+              "B": "Energy production",
+              "C": "Cell division",
+              "D": "Waste removal"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What differentiates plant cells from animal cells?",
+            "question": "What differentiates plant cells from animal cells?",
             "options": {
-              "1": "Shape",
-              "2": "Presence of cell wall and chloroplasts",
-              "3": "Size",
-              "4": "Function"
+              "A": "Shape",
+              "B": "Presence of cell wall and chloroplasts",
+              "C": "Size",
+              "D": "Function"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the semi-permeable barrier that surrounds the cell?",
+            "question": "What is the semi-permeable barrier that surrounds the cell?",
             "options": {
-              "1": "Cell wall",
-              "2": "Cytoplasm",
-              "3": "Cell membrane",
-              "4": "Nucleus"
+              "A": "Cell wall",
+              "B": "Cytoplasm",
+              "C": "Cell membrane",
+              "D": "Nucleus"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 9,
-        "title": "Reproduction in Animals",
+        "chapter_no": 9,
+        "chapter_name": "Reproduction in Animals",
         "questions": [
           {
-            "quiz_question": "What is the primary purpose of reproduction?",
+            "question": "What is the primary purpose of reproduction?",
             "options": {
-              "1": "To find food",
-              "2": "To produce offspring",
-              "3": "To enjoy life",
-              "4": "To build homes"
+              "A": "To find food",
+              "B": "To produce offspring",
+              "C": "To enjoy life",
+              "D": "To build homes"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What are the two main types of reproduction in animals?",
+            "question": "What are the two main types of reproduction in animals?",
             "options": {
-              "1": "Asexual and sexual",
-              "2": "Cellular and sexual",
-              "3": "Human and animal",
-              "4": "Natural and synthetic"
+              "A": "Asexual and sexual",
+              "B": "Cellular and sexual",
+              "C": "Human and animal",
+              "D": "Natural and synthetic"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is an example of asexual reproduction?",
+            "question": "What is an example of asexual reproduction?",
             "options": {
-              "1": "Budding in hydra",
-              "2": "Mating in animals",
-              "3": "Seed dispersal",
-              "4": "Cross-pollination"
+              "A": "Budding in hydra",
+              "B": "Mating in animals",
+              "C": "Seed dispersal",
+              "D": "Cross-pollination"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What type of reproduction involves the fusion of gametes?",
+            "question": "What type of reproduction involves the fusion of gametes?",
             "options": {
-              "1": "Asexual reproduction",
-              "2": "Sexual reproduction",
-              "3": "Cloning",
-              "4": "Fragmentation"
+              "A": "Asexual reproduction",
+              "B": "Sexual reproduction",
+              "C": "Cloning",
+              "D": "Fragmentation"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Why is genetic diversity important?",
+            "question": "Why is genetic diversity important?",
             "options": {
-              "1": "It leads to extinction.",
-              "2": "It helps adapt to environmental changes.",
-              "3": "It decreases chances of survival.",
-              "4": "It is not important."
+              "A": "It leads to extinction.",
+              "B": "It helps adapt to environmental changes.",
+              "C": "It decreases chances of survival.",
+              "D": "It is not important."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 10,
-        "title": "Reaching the Age of Adolescence",
+        "chapter_no": 10,
+        "chapter_name": "Reaching the Age of Adolescence",
         "questions": [
           {
-            "quiz_question": "What is adolescence?",
+            "question": "What is adolescence?",
             "options": {
-              "1": "Childhood stage",
-              "2": "Teenage years",
-              "3": "Old age",
-              "4": "Middle age"
+              "A": "Childhood stage",
+              "B": "Teenage years",
+              "C": "Old age",
+              "D": "Middle age"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What changes occur during puberty?",
+            "question": "What changes occur during puberty?",
             "options": {
-              "1": "Physical and mental changes",
-              "2": "Financial changes",
-              "3": "No changes",
-              "4": "Only social changes"
+              "A": "Physical and mental changes",
+              "B": "Financial changes",
+              "C": "No changes",
+              "D": "Only social changes"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which hormone is commonly associated with growth during adolescence?",
+            "question": "Which hormone is commonly associated with growth during adolescence?",
             "options": {
-              "1": "Insulin",
-              "2": "Estrogen",
-              "3": "Testosterone",
-              "4": "Both B and C"
+              "A": "Insulin",
+              "B": "Estrogen",
+              "C": "Testosterone",
+              "D": "Both B and C"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is a common psychological change in adolescents?",
+            "question": "What is a common psychological change in adolescents?",
             "options": {
-              "1": "Increased understanding",
-              "2": "More independence",
-              "3": "More reliance on parents",
-              "4": "Lack of emotions"
+              "A": "Increased understanding",
+              "B": "More independence",
+              "C": "More reliance on parents",
+              "D": "Lack of emotions"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Why is education important during adolescence?",
+            "question": "Why is education important during adolescence?",
             "options": {
-              "1": "It is not important.",
-              "2": "It helps in personal development and career preparation.",
-              "3": "It only builds friendships.",
-              "4": "It is a waste of time."
+              "A": "It is not important.",
+              "B": "It helps in personal development and career preparation.",
+              "C": "It only builds friendships.",
+              "D": "It is a waste of time."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 11,
-        "title": "Force and Pressure",
+        "chapter_no": 11,
+        "chapter_name": "Force and Pressure",
         "questions": [
           {
-            "quiz_question": "What is force?",
+            "question": "What is force?",
             "options": {
-              "1": "A push or pull",
-              "2": "A type of pressure",
-              "3": "An energy source",
-              "4": "A way to move objects"
+              "A": "A push or pull",
+              "B": "A type of pressure",
+              "C": "An energy source",
+              "D": "A way to move objects"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is pressure?",
+            "question": "What is pressure?",
             "options": {
-              "1": "Force applied over an area",
-              "2": "A unit of force",
-              "3": "The weight of objects",
-              "4": "Liquid density"
+              "A": "Force applied over an area",
+              "B": "A unit of force",
+              "C": "The weight of objects",
+              "D": "Liquid density"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which instrument is used to measure force?",
+            "question": "Which instrument is used to measure force?",
             "options": {
-              "1": "Thermometer",
-              "2": "Manometer",
-              "3": "Dynamometer",
-              "4": "Barometer"
+              "A": "Thermometer",
+              "B": "Manometer",
+              "C": "Dynamometer",
+              "D": "Barometer"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What happens to pressure as the surface area increases with constant force?",
+            "question": "What happens to pressure as the surface area increases with constant force?",
             "options": {
-              "1": "Pressure increases",
-              "2": "Pressure decreases",
-              "3": "Pressure remains the same",
-              "4": "No relation"
+              "A": "Pressure increases",
+              "B": "Pressure decreases",
+              "C": "Pressure remains the same",
+              "D": "No relation"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is an example of pressure in everyday life?",
+            "question": "Which of the following is an example of pressure in everyday life?",
             "options": {
-              "1": "Walking",
-              "2": "Cutting with a knife",
-              "3": "Spectacles resting on the nose",
-              "4": "All of the above"
+              "A": "Walking",
+              "B": "Cutting with a knife",
+              "C": "Spectacles resting on the nose",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
       {
-        "chapter_number": 12,
-        "title": "Friction",
+        "chapter_no": 12,
+        "chapter_name": "Friction",
         "questions": [
           {
-            "quiz_question": "What is friction?",
+            "question": "What is friction?",
             "options": {
-              "1": "The force that opposes motion",
-              "2": "The force enhancing motion",
-              "3": "A type of energy",
-              "4": "A type of pressure"
+              "A": "The force that opposes motion",
+              "B": "The force enhancing motion",
+              "C": "A type of energy",
+              "D": "A type of pressure"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What factors affect friction?",
+            "question": "What factors affect friction?",
             "options": {
-              "1": "Surface texture and force",
-              "2": "Only weight",
-              "3": "Only speed",
-              "4": "None of the above"
+              "A": "Surface texture and force",
+              "B": "Only weight",
+              "C": "Only speed",
+              "D": "None of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is one benefit of friction?",
+            "question": "What is one benefit of friction?",
             "options": {
-              "1": "It causes wear and tear.",
-              "2": "It allows us to walk without slipping.",
-              "3": "It slows down vehicles.",
-              "4": "It creates heat."
+              "A": "It causes wear and tear.",
+              "B": "It allows us to walk without slipping.",
+              "C": "It slows down vehicles.",
+              "D": "It creates heat."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What type of surface would produce the least friction?",
+            "question": "What type of surface would produce the least friction?",
             "options": {
-              "1": "Rough surface",
-              "2": "Smooth surface",
-              "3": "Sticky surface",
-              "4": "Sandpaper surface"
+              "A": "Rough surface",
+              "B": "Smooth surface",
+              "C": "Sticky surface",
+              "D": "Sandpaper surface"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How can friction be reduced?",
+            "question": "How can friction be reduced?",
             "options": {
-              "1": "Using lubricants",
-              "2": "Increasing roughness",
-              "3": "Increasing weight",
-              "4": "All of the above"
+              "A": "Using lubricants",
+              "B": "Increasing roughness",
+              "C": "Increasing weight",
+              "D": "All of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "chapter_number": 13,
-        "title": "Sound",
+        "chapter_no": 13,
+        "chapter_name": "Sound",
         "questions": [
           {
-            "quiz_question": "What is sound?",
+            "question": "What is sound?",
             "options": {
-              "1": "A type of light",
-              "2": "A form of energy that travels in waves",
-              "3": "A chemical reaction",
-              "4": "A magnetic force"
+              "A": "A type of light",
+              "B": "A form of energy that travels in waves",
+              "C": "A chemical reaction",
+              "D": "A magnetic force"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How does sound travel in different media?",
+            "question": "How does sound travel in different media?",
             "options": {
-              "1": "Faster in air",
-              "2": "Faster in solids",
-              "3": "Faster in liquids than air",
-              "4": "Sound cannot travel"
+              "A": "Faster in air",
+              "B": "Faster in solids",
+              "C": "Faster in liquids than air",
+              "D": "Sound cannot travel"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What factor affects the pitch of a sound?",
+            "question": "What factor affects the pitch of a sound?",
             "options": {
-              "1": "Volume",
-              "2": "Frequency",
-              "3": "Distance",
-              "4": "Material of the source"
+              "A": "Volume",
+              "B": "Frequency",
+              "C": "Distance",
+              "D": "Material of the source"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is an echo?",
+            "question": "What is an echo?",
             "options": {
-              "1": "Sound traveling through water",
-              "2": "Sound bouncing back after hitting a surface",
-              "3": "Sound traveling vertically",
-              "4": "A complete silence"
+              "A": "Sound traveling through water",
+              "B": "Sound bouncing back after hitting a surface",
+              "C": "Sound traveling vertically",
+              "D": "A complete silence"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which musical instrument produces sound by vibrating strings?",
+            "question": "Which musical instrument produces sound by vibrating strings?",
             "options": {
-              "1": "Flute",
-              "2": "Trumpet",
-              "3": "Violin",
-              "4": "Drum"
+              "A": "Flute",
+              "B": "Trumpet",
+              "C": "Violin",
+              "D": "Drum"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 14,
-        "title": "Chemical Effect of Electricity",
+        "chapter_no": 14,
+        "chapter_name": "Chemical Effect of Electricity",
         "questions": [
           {
-            "quiz_question": "What is the primary effect of electric current passing through a solution?",
+            "question": "What is the primary effect of electric current passing through a solution?",
             "options": {
-              "1": "Heating",
-              "2": "Chemical reaction",
-              "3": "Magnetic field generation",
-              "4": "Sound production"
+              "A": "Heating",
+              "B": "Chemical reaction",
+              "C": "Magnetic field generation",
+              "D": "Sound production"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is electrolysis?",
+            "question": "What is electrolysis?",
             "options": {
-              "1": "The process of using electricity to separate elements in compounds",
-              "2": "The generation of electricity through friction",
-              "3": "The chemical reaction of acids and bases",
-              "4": "The process of heating metal"
+              "A": "The process of using electricity to separate elements in compounds",
+              "B": "The generation of electricity through friction",
+              "C": "The chemical reaction of acids and bases",
+              "D": "The process of heating metal"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which substance is commonly used for electrolysis?",
+            "question": "Which substance is commonly used for electrolysis?",
             "options": {
-              "1": "Water",
-              "2": "Oxygen",
-              "3": "Copper",
-              "4": "Salt solution"
+              "A": "Water",
+              "B": "Oxygen",
+              "C": "Copper",
+              "D": "Salt solution"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What does a chemical effect experiment demonstrate?",
+            "question": "What does a chemical effect experiment demonstrate?",
             "options": {
-              "1": "Effects of magnetism",
-              "2": "Effects of heat",
-              "3": "Effects of electric current on chemical composition",
-              "4": "Effects of gravity"
+              "A": "Effects of magnetism",
+              "B": "Effects of heat",
+              "C": "Effects of electric current on chemical composition",
+              "D": "Effects of gravity"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What happens to the electrodes during electrolysis?",
+            "question": "What happens to the electrodes during electrolysis?",
             "options": {
-              "1": "They remain unchanged",
-              "2": "They get burnt out",
-              "3": "They dissolve",
-              "4": "They expand"
+              "A": "They remain unchanged",
+              "B": "They get burnt out",
+              "C": "They dissolve",
+              "D": "They expand"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 15,
-        "title": "Some Natural Phenomena",
+        "chapter_no": 15,
+        "chapter_name": "Some Natural Phenomena",
         "questions": [
           {
-            "quiz_question": "What is a natural phenomenon?",
+            "question": "What is a natural phenomenon?",
             "options": {
-              "1": "An event caused by human intervention",
-              "2": "An observable event in nature",
-              "3": "A scientific theory",
-              "4": "An imaginary event"
+              "A": "An event caused by human intervention",
+              "B": "An observable event in nature",
+              "C": "A scientific theory",
+              "D": "An imaginary event"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is an example of a natural phenomenon?",
+            "question": "Which of the following is an example of a natural phenomenon?",
             "options": {
-              "1": "Rainbows",
-              "2": "The invention of electricity",
-              "3": "Fossil fuels",
-              "4": "Plastic waste"
+              "A": "Rainbows",
+              "B": "The invention of electricity",
+              "C": "Fossil fuels",
+              "D": "Plastic waste"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What happens in static electricity?",
+            "question": "What happens in static electricity?",
             "options": {
-              "1": "Electrons are at rest.",
-              "2": "Electrons are in motion.",
-              "3": "Sound is produced.",
-              "4": "Water is formed."
+              "A": "Electrons are at rest.",
+              "B": "Electrons are in motion.",
+              "C": "Sound is produced.",
+              "D": "Water is formed."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is lightning?",
+            "question": "What is lightning?",
             "options": {
-              "1": "A sound",
-              "2": "A flicker of light caused by electrical discharge",
-              "3": "Rainfall",
-              "4": "A type of gas"
+              "A": "A sound",
+              "B": "A flicker of light caused by electrical discharge",
+              "C": "Rainfall",
+              "D": "A type of gas"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What safety measures should one take during a thunderstorm?",
+            "question": "What safety measures should one take during a thunderstorm?",
             "options": {
-              "1": "Stay indoors and avoid using electrical appliances",
-              "2": "Go outside",
-              "3": "Use your phone",
-              "4": "Climb a tree"
+              "A": "Stay indoors and avoid using electrical appliances",
+              "B": "Go outside",
+              "C": "Use your phone",
+              "D": "Climb a tree"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "chapter_number": 16,
-        "title": "Light",
+        "chapter_no": 16,
+        "chapter_name": "Light",
         "questions": [
           {
-            "quiz_question": "What is light?",
+            "question": "What is light?",
             "options": {
-              "1": "A type of sound",
-              "2": "A form of energy",
-              "3": "A solid object",
-              "4": "A gas"
+              "A": "A type of sound",
+              "B": "A form of energy",
+              "C": "A solid object",
+              "D": "A gas"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How does light travel?",
+            "question": "How does light travel?",
             "options": {
-              "1": "In a curved path",
-              "2": "In waves",
-              "3": "Directly only",
-              "4": "As a solid"
+              "A": "In a curved path",
+              "B": "In waves",
+              "C": "Directly only",
+              "D": "As a solid"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is reflection?",
+            "question": "What is reflection?",
             "options": {
-              "1": "Bending of light",
-              "2": "Bouncing back of light",
-              "3": "Absorption of light",
-              "4": "Scattering of light"
+              "A": "Bending of light",
+              "B": "Bouncing back of light",
+              "C": "Absorption of light",
+              "D": "Scattering of light"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following mirrors forms a virtual image?",
+            "question": "Which of the following mirrors forms a virtual image?",
             "options": {
-              "1": "Concave mirror",
-              "2": "Convex mirror",
-              "3": "Plane mirror",
-              "4": "All of the above"
+              "A": "Concave mirror",
+              "B": "Convex mirror",
+              "C": "Plane mirror",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is the phenomenon of refraction?",
+            "question": "What is the phenomenon of refraction?",
             "options": {
-              "1": "Bending of light as it passes from one medium to another",
-              "2": "Bouncing back of light",
-              "3": "Absorption of light",
-              "4": "Creation of sound"
+              "A": "Bending of light as it passes from one medium to another",
+              "B": "Bouncing back of light",
+              "C": "Absorption of light",
+              "D": "Creation of sound"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "chapter_number": 17,
-        "title": "Stars and The Solar System",
+        "chapter_no": 17,
+        "chapter_name": "Stars and The Solar System",
         "questions": [
           {
-            "quiz_question": "What is a star?",
+            "question": "What is a star?",
             "options": {
-              "1": "A planet",
-              "2": "A celestial body that emits light",
-              "3": "A satellite",
-              "4": "A type of rock"
+              "A": "A planet",
+              "B": "A celestial body that emits light",
+              "C": "A satellite",
+              "D": "A type of rock"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is our solar system primarily composed of?",
+            "question": "What is our solar system primarily composed of?",
             "options": {
-              "1": "Stars only",
-              "2": "Moons only",
-              "3": "Planets and a star (the Sun)",
-              "4": "Galaxies"
+              "A": "Stars only",
+              "B": "Moons only",
+              "C": "Planets and a star (the Sun)",
+              "D": "Galaxies"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which planet is known as the Red Planet?",
+            "question": "Which planet is known as the Red Planet?",
             "options": {
-              "1": "Earth",
-              "2": "Mars",
-              "3": "Jupiter",
-              "4": "Venus"
+              "A": "Earth",
+              "B": "Mars",
+              "C": "Jupiter",
+              "D": "Venus"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the main source of light in our solar system?",
+            "question": "What is the main source of light in our solar system?",
             "options": {
-              "1": "The Moon",
-              "2": "The Sun",
-              "3": "Planets",
-              "4": "Stars"
+              "A": "The Moon",
+              "B": "The Sun",
+              "C": "Planets",
+              "D": "Stars"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the largest planet in our solar system?",
+            "question": "What is the largest planet in our solar system?",
             "options": {
-              "1": "Earth",
-              "2": "Saturn",
-              "3": "Jupiter",
-              "4": "Neptune"
+              "A": "Earth",
+              "B": "Saturn",
+              "C": "Jupiter",
+              "D": "Neptune"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "chapter_number": 18,
-        "title": "Pollution of Air and Water",
+        "chapter_no": 18,
+        "chapter_name": "Pollution of Air and Water",
         "questions": [
           {
-            "quiz_question": "What is pollution?",
+            "question": "What is pollution?",
             "options": {
-              "1": "Addition of harmful substances to the environment",
-              "2": "Cleaning of resources",
-              "3": "Natural disasters",
-              "4": "Urban development"
+              "A": "Addition of harmful substances to the environment",
+              "B": "Cleaning of resources",
+              "C": "Natural disasters",
+              "D": "Urban development"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a major cause of air pollution?",
+            "question": "Which of the following is a major cause of air pollution?",
             "options": {
-              "1": "Planting trees",
-              "2": "Burning fossil fuels",
-              "3": "Solar energy",
-              "4": "Wind energy"
+              "A": "Planting trees",
+              "B": "Burning fossil fuels",
+              "C": "Solar energy",
+              "D": "Wind energy"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the impact of water pollution on marine life?",
+            "question": "What is the impact of water pollution on marine life?",
             "options": {
-              "1": "It has no impact.",
-              "2": "It can harm or kill aquatic organisms.",
-              "3": "It only affects humans.",
-              "4": "It promotes growth."
+              "A": "It has no impact.",
+              "B": "It can harm or kill aquatic organisms.",
+              "C": "It only affects humans.",
+              "D": "It promotes growth."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What pollutant is often found in urban water systems?",
+            "question": "What pollutant is often found in urban water systems?",
             "options": {
-              "1": "Oxygen",
-              "2": "Heavy metals",
-              "3": "Pure water",
-              "4": "Sunlight"
+              "A": "Oxygen",
+              "B": "Heavy metals",
+              "C": "Pure water",
+              "D": "Sunlight"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is one way to reduce air pollution?",
+            "question": "What is one way to reduce air pollution?",
             "options": {
-              "1": "Using public transportation",
-              "2": "Encouraging factory emissions",
-              "3": "Cutting down trees",
-              "4": "Increasing vehicle usage"
+              "A": "Using public transportation",
+              "B": "Encouraging factory emissions",
+              "C": "Cutting down trees",
+              "D": "Increasing vehicle usage"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       }

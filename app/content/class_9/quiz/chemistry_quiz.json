@@ -8,54 +8,54 @@
         "chapter_name": "Matter in Our Surroundings",
         "questions": [
           {
-            "quiz_question": "What is the main characteristic that distinguishes solids from liquids?",
+            "question": "What is the main characteristic that distinguishes solids from liquids?",
             "options": {
-              "1": "Shape",
-              "2": "Volume",
-              "3": "Density",
-              "4": "Viscosity"
+              "A": "Shape",
+              "B": "Volume",
+              "C": "Density",
+              "D": "Viscosity"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What state of matter has a definite volume but no definite shape?",
+            "question": "What state of matter has a definite volume but no definite shape?",
             "options": {
-              "1": "Solid",
-              "2": "Liquid",
-              "3": "Gas",
-              "4": "Plasma"
+              "A": "Solid",
+              "B": "Liquid",
+              "C": "Gas",
+              "D": "Plasma"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is an example of a colloid?",
+            "question": "Which of the following is an example of a colloid?",
             "options": {
-              "1": "Saltwater",
-              "2": "Milk",
-              "3": "Sugar solution",
-              "4": "Oxygen"
+              "A": "Saltwater",
+              "B": "Milk",
+              "C": "Sugar solution",
+              "D": "Oxygen"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What term describes a change that alters the form of a substance but not its chemical composition?",
+            "question": "What term describes a change that alters the form of a substance but not its chemical composition?",
             "options": {
-              "1": "Chemical change",
-              "2": "Physical change",
-              "3": "Nuclear change",
-              "4": "Evaporation"
+              "A": "Chemical change",
+              "B": "Physical change",
+              "C": "Nuclear change",
+              "D": "Evaporation"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which process involves the conversion of a liquid into a gas?",
+            "question": "Which process involves the conversion of a liquid into a gas?",
             "options": {
-              "1": "Sublimation",
-              "2": "Condensation",
-              "3": "Evaporation",
-              "4": "Freezing"
+              "A": "Sublimation",
+              "B": "Condensation",
+              "C": "Evaporation",
+              "D": "Freezing"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -64,54 +64,54 @@
         "chapter_name": "Is Matter Around Us Pure?",
         "questions": [
           {
-            "quiz_question": "What is the difference between a mixture and a compound?",
+            "question": "What is the difference between a mixture and a compound?",
             "options": {
-              "1": "Mixtures are homogeneous; compounds are heterogeneous",
-              "2": "Compounds can be separated by physical means; mixtures cannot",
-              "3": "Compounds have fixed compositions; mixtures do not",
-              "4": "Mixtures have chemical properties; compounds do not"
+              "A": "Mixtures are homogeneous; compounds are heterogeneous",
+              "B": "Compounds can be separated by physical means; mixtures cannot",
+              "C": "Compounds have fixed compositions; mixtures do not",
+              "D": "Mixtures have chemical properties; compounds do not"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following methods is best for separating a mixture of sand and salt?",
+            "question": "Which of the following methods is best for separating a mixture of sand and salt?",
             "options": {
-              "1": "Filtration",
-              "2": "Evaporation",
-              "3": "Centrifugation",
-              "4": "Distillation"
+              "A": "Filtration",
+              "B": "Evaporation",
+              "C": "Centrifugation",
+              "D": "Distillation"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the method used to separate a soluble solid from a liquid?",
+            "question": "What is the method used to separate a soluble solid from a liquid?",
             "options": {
-              "1": "Filtration",
-              "2": "Evaporation",
-              "3": "Decantation",
-              "4": "Chromatography"
+              "A": "Filtration",
+              "B": "Evaporation",
+              "C": "Decantation",
+              "D": "Chromatography"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is a homogeneous mixture?",
+            "question": "Which of the following is a homogeneous mixture?",
             "options": {
-              "1": "Oil and water",
-              "2": "Sand and sugar",
-              "3": "Air",
-              "4": "Sugar and salt mixture"
+              "A": "Oil and water",
+              "B": "Sand and sugar",
+              "C": "Air",
+              "D": "Sugar and salt mixture"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the term for a mixture that has uniform composition throughout?",
+            "question": "What is the term for a mixture that has uniform composition throughout?",
             "options": {
-              "1": "Homogeneous mixture",
-              "2": "Heterogeneous mixture",
-              "3": "Colloid",
-              "4": "Solution"
+              "A": "Homogeneous mixture",
+              "B": "Heterogeneous mixture",
+              "C": "Colloid",
+              "D": "Solution"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -120,54 +120,54 @@
         "chapter_name": "Atoms and Molecules",
         "questions": [
           {
-            "quiz_question": "What does the atomic number of an element represent?",
+            "question": "What does the atomic number of an element represent?",
             "options": {
-              "1": "Number of neutrons",
-              "2": "Number of protons",
-              "3": "Number of electrons",
-              "4": "Number of nucleons"
+              "A": "Number of neutrons",
+              "B": "Number of protons",
+              "C": "Number of electrons",
+              "D": "Number of nucleons"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following represents a molecule?",
+            "question": "Which of the following represents a molecule?",
             "options": {
-              "1": "Na",
-              "2": "O2",
-              "3": "He",
-              "4": "C"
+              "A": "Na",
+              "B": "O2",
+              "C": "He",
+              "D": "C"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the molar mass of water (H2O)?",
+            "question": "What is the molar mass of water (H2O)?",
             "options": {
-              "1": "18 g/mol",
-              "2": "16 g/mol",
-              "3": "20 g/mol",
-              "4": "17 g/mol"
+              "A": "18 g/mol",
+              "B": "16 g/mol",
+              "C": "20 g/mol",
+              "D": "17 g/mol"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the number of atoms present in one molecule of glucose (C6H12O6)?",
+            "question": "What is the number of atoms present in one molecule of glucose (C6H12O6)?",
             "options": {
-              "1": "24",
-              "2": "18",
-              "3": "12",
-              "4": "6"
+              "A": "24",
+              "B": "18",
+              "C": "12",
+              "D": "6"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which scientist proposed the atomic theory?",
+            "question": "Which scientist proposed the atomic theory?",
             "options": {
-              "1": "Dalton",
-              "2": "Thomson",
-              "3": "Rutherford",
-              "4": "Bohr"
+              "A": "Dalton",
+              "B": "Thomson",
+              "C": "Rutherford",
+              "D": "Bohr"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -176,54 +176,54 @@
         "chapter_name": "Structure of Atom",
         "questions": [
           {
-            "quiz_question": "What is the charge of an electron?",
+            "question": "What is the charge of an electron?",
             "options": {
-              "1": "Positive",
-              "2": "Negative",
-              "3": "Neutral",
-              "4": "Variable"
+              "A": "Positive",
+              "B": "Negative",
+              "C": "Neutral",
+              "D": "Variable"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which particle has the largest mass?",
+            "question": "Which particle has the largest mass?",
             "options": {
-              "1": "Electron",
-              "2": "Proton",
-              "3": "Neutron",
-              "4": "All are equal"
+              "A": "Electron",
+              "B": "Proton",
+              "C": "Neutron",
+              "D": "All are equal"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What type of orbitals are found in the second shell of an atom?",
+            "question": "What type of orbitals are found in the second shell of an atom?",
             "options": {
-              "1": "s and p",
-              "2": "s only",
-              "3": "p only",
-              "4": "s, p, and d"
+              "A": "s and p",
+              "B": "s only",
+              "C": "p only",
+              "D": "s, p, and d"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which model describes the atom as having electrons in fixed orbits around the nucleus?",
+            "question": "Which model describes the atom as having electrons in fixed orbits around the nucleus?",
             "options": {
-              "1": "Dalton's model",
-              "2": "Thomson's model",
-              "3": "Rutherford's model",
-              "4": "Bohr's model"
+              "A": "Dalton's model",
+              "B": "Thomson's model",
+              "C": "Rutherford's model",
+              "D": "Bohr's model"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "The total number of neutrons in an atom is found by subtracting which two quantities?",
+            "question": "The total number of neutrons in an atom is found by subtracting which two quantities?",
             "options": {
-              "1": "Atomic mass - Atomic number",
-              "2": "Atomic number - Atomic mass",
-              "3": "Mass of proton - Mass of electron",
-              "4": "None of the above"
+              "A": "Atomic mass - Atomic number",
+              "B": "Atomic number - Atomic mass",
+              "C": "Mass of proton - Mass of electron",
+              "D": "None of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       }

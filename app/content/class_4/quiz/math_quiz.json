@@ -5,7 +5,7 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "Building with Bricks",
+        "chapter_name": "Building with Bricks",
         "questions": [
           {
             "question": "What is the basic unit used to build with bricks?",
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Long and Short",
+        "chapter_name": "Long and Short",
         "questions": [
           {
             "question": "What is the concept of length used for?",
@@ -96,9 +96,9 @@
           {
             "question": "If you have a string that is 120 cm long, how many 30 cm pieces can you cut from it?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "B"
@@ -117,7 +117,7 @@
       },
       {
         "chapter_no": 3,
-        "title": "A Trip to Bhopal",
+        "chapter_name": "A Trip to Bhopal",
         "questions": [
           {
             "question": "What is the primary focus of the chapter?",
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Tick Tick Tick",
+        "chapter_name": "Tick Tick Tick",
         "questions": [
           {
             "question": "What does 'Tick Tick' refer to?",
@@ -208,7 +208,7 @@
           {
             "question": "If a clock strikes once every hour, how many times does it strike in 4 hours?",
             "options": {
-              "A": "4",
+              "A": "D",
               "B": "5",
               "C": "6",
               "D": "7"
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "The Way The World Looks",
+        "chapter_name": "The Way The World Looks",
         "questions": [
           {
             "question": "What perspective do we use to understand the world?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "The Junk Seller",
+        "chapter_name": "The Junk Seller",
         "questions": [
           {
             "question": "What is the main theme of this chapter?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "Jugs and Mugs",
+        "chapter_name": "Jugs and Mugs",
         "questions": [
           {
             "question": "What do jugs and mugs measure?",
@@ -356,9 +356,9 @@
           {
             "question": "If a jug holds 2 liters of water, how many jugs are needed to fill a 10-liter tank?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "D"
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "Carts and Wheels",
+        "chapter_name": "Carts and Wheels",
         "questions": [
           {
             "question": "What is the function of wheels?",
@@ -412,9 +412,9 @@
           {
             "question": "If a cart has 4 wheels and loses 1, how many wheels are left?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "B"
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "Halves and Quarters",
+        "chapter_name": "Halves and Quarters",
         "questions": [
           {
             "question": "What is a half?",
@@ -468,18 +468,18 @@
           {
             "question": "How many quarters are in a whole?",
             "options": {
-              "A": "1",
-              "B": "2",
-              "C": "3",
-              "D": "4"
+              "A": "A",
+              "B": "B",
+              "C": "C",
+              "D": "D"
             },
             "correct_answer": "D"
           },
           {
             "question": "If you eat half of a pizza with 8 slices, how many slices are left?",
             "options": {
-              "A": "2",
-              "B": "4",
+              "A": "B",
+              "B": "D",
               "C": "6",
               "D": "8"
             },
@@ -509,7 +509,7 @@
       },
       {
         "chapter_no": 10,
-        "title": "Play With Patterns",
+        "chapter_name": "Play With Patterns",
         "questions": [
           {
             "question": "What is a pattern?",
@@ -565,7 +565,7 @@
       },
       {
         "chapter_no": 11,
-        "title": "Tables and Shares",
+        "chapter_name": "Tables and Shares",
         "questions": [
           {
             "question": "What does a table show?",
@@ -580,8 +580,8 @@
           {
             "question": "If 12 people share 48 oranges equally, how many oranges does each person get?",
             "options": {
-              "A": "3",
-              "B": "4",
+              "A": "C",
+              "B": "D",
               "C": "5",
               "D": "6"
             },
@@ -621,7 +621,7 @@
       },
       {
         "chapter_no": 12,
-        "title": "How Heavy? How Light?",
+        "chapter_name": "How Heavy? How Light?",
         "questions": [
           {
             "question": "What instrument do we use to measure weight?",
@@ -677,7 +677,7 @@
       },
       {
         "chapter_no": 13,
-        "title": "Fields and Fences",
+        "chapter_name": "Fields and Fences",
         "questions": [
           {
             "question": "What do fences protect?",
@@ -733,7 +733,7 @@
       },
       {
         "chapter_no": 14,
-        "title": "Smart Charts",
+        "chapter_name": "Smart Charts",
         "questions": [
           {
             "question": "What do charts help us do?",
@@ -778,8 +778,8 @@
           {
             "question": "How many segments does a pie chart have if there are 5 categories?",
             "options": {
-              "A": "3",
-              "B": "4",
+              "A": "C",
+              "B": "D",
               "C": "5",
               "D": "6"
             },

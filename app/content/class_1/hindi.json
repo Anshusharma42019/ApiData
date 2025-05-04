@@ -1,140 +1,1394 @@
 {
-  "class": "1",
+  "class": 1,
   "subject": "Hindi",
   "book": "Sarangi",
-  "content_type": "video",
+  "channel": "Home Tutor",
   "chapters": [
     {
-      "chapter_number": 1,
-      "title": "मीना का परिवार",
+      "chapter_no": 1,
+      "chapter_name": "मीना का परिवार",
       "video_title": "Sarangi class 1 - Chapter 1 - मीना का परिवार",
-      "youtube_url": "https://www.youtube.com/watch?v=Qe47MPtN6HQ"
+      "video_url": "https://www.youtube.com/watch?v=BWKAg9ABVGY&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=1",
+      "questions": [
+        {
+          "question": "मीना के परिवार में कौन-कौन हैं?",
+          "options": {
+            "A": "माता-पिता और भाई",
+            "B": "दादा-दादी और चाचा",
+            "C": "माता-पिता और बहन",
+            "D": "चाचा और चाची"
+          },
+          "correct_answer": "A",
+          "explanation": "कहानी में मीना अपने माता-पिता और छोटे भाई के साथ रहती है।"
+        },
+        {
+          "question": "मीना का भाई क्या करना पसंद करता है?",
+          "options": {
+            "A": "खेलना",
+            "B": "पढ़ना",
+            "C": "गाना गाना",
+            "D": "चित्र बनाना"
+          },
+          "correct_answer": "A",
+          "explanation": "कहानी में मीना का भाई खेलने में रुचि रखता है।"
+        },
+        {
+          "question": "मीना की माँ क्या काम करती हैं?",
+          "options": {
+            "A": "अध्यापिका",
+            "B": "डॉक्टर",
+            "C": "घर का काम",
+            "D": "दुकानदार"
+          },
+          "correct_answer": "C",
+          "explanation": "मीना की माँ घर के कामकाज संभालती हैं।"
+        },
+        {
+          "question": "परिवार में सबसे छोटा सदस्य कौन है?",
+          "options": {
+            "A": "मीना",
+            "B": "मीना का भाई",
+            "C": "मीना की बहन",
+            "D": "मीना की दादी"
+          },
+          "correct_answer": "B",
+          "explanation": "मीना का भाई परिवार का सबसे छोटा सदस्य है।"
+        },
+        {
+          "question": "मीना को कौन सा काम पसंद है?",
+          "options": {
+            "A": "खाना बनाना",
+            "B": "कहानियाँ पढ़ना",
+            "C": "टीवी देखना",
+            "D": "खेलना"
+          },
+          "correct_answer": "B",
+          "explanation": "मीना को कहानियाँ पढ़ना बहुत पसंद है।"
+        }
+      ]
     },
     {
-      "chapter_number": 2,
-      "title": "दादा दादी कविता",
+      "chapter_no": 2,
+      "chapter_name": "दादा दादी कविता",
       "video_title": "Sarangi Class 1 - दादा दादी कविता",
-      "youtube_url": "https://www.youtube.com/watch?v=8IhCk5AxgfA"
+      "video_url": "https://www.youtube.com/watch?v=MuR4yZBweK8&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=2",
+      "questions": [
+        {
+          "question": "कविता में दादा-दादी क्या कर रहे हैं?",
+          "options": {
+            "A": "खाना बना रहे हैं",
+            "B": "बच्चों को कहानी सुना रहे हैं",
+            "C": "टहल रहे हैं",
+            "D": "सो रहे हैं"
+          },
+          "correct_answer": "B",
+          "explanation": "कविता में दादा-दादी बच्चों को रोचक कहानियाँ सुना रहे हैं।"
+        },
+        {
+          "question": "दादा जी के पास क्या है?",
+          "options": {
+            "A": "चश्मा",
+            "B": "लाठी",
+            "C": "किताब",
+            "D": "खिलौना"
+          },
+          "correct_answer": "A",
+          "explanation": "कविता में दादा जी चश्मा पहने हुए हैं।"
+        },
+        {
+          "question": "दादी माँ क्या पहनती हैं?",
+          "options": {
+            "A": "साड़ी",
+            "B": "जींस",
+            "C": "सूट",
+            "D": "पैंट शर्ट"
+          },
+          "correct_answer": "A",
+          "explanation": "दादी माँ पारंपरिक साड़ी पहनती हैं।"
+        },
+        {
+          "question": "कविता के अनुसार दादा-दादी कैसे हैं?",
+          "options": {
+            "A": "कठोर",
+            "B": "प्यारे",
+            "C": "चिड़चिड़े",
+            "D": "उदास"
+          },
+          "correct_answer": "B",
+          "explanation": "कविता में दादा-दादी को प्यारा और दयालु दिखाया गया है।"
+        },
+        {
+          "question": "बच्चे दादा-दादी की कहानियाँ क्यों पसंद करते हैं?",
+          "options": {
+            "A": "क्योंकि वे मजेदार होती हैं",
+            "B": "क्योंकि वे सच्ची होती हैं",
+            "C": "क्योंकि वे लंबी होती हैं",
+            "D": "क्योंकि वे डरावनी होती हैं"
+          },
+          "correct_answer": "A",
+          "explanation": "दादा-दादी की कहानियाँ मनोरंजक और शिक्षाप्रद होती हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 3,
-      "title": "रीना का दिन",
+      "chapter_no": 3,
+      "chapter_name": "रीना का दिन",
       "video_title": "Sarangi class 1 - Chapter 3 - रीना का दिन",
-      "youtube_url": "https://www.youtube.com/watch?v=6SR2nAvgy0g"
+      "video_url": "https://www.youtube.com/watch?v=DzpC9NjMhjM&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=3",
+      "questions": [
+        {
+          "question": "रीना सुबह सबसे पहले क्या करती है?",
+          "options": {
+            "A": "टीवी देखती है",
+            "B": "नहाती है",
+            "C": "ब्रश करती है",
+            "D": "खाना खाती है"
+          },
+          "correct_answer": "C",
+          "explanation": "रीना अपने दिन की शुरुआत दाँत साफ करने से करती है।"
+        },
+        {
+          "question": "रीना स्कूल कैसे जाती है?",
+          "options": {
+            "A": "स्कूल बस से",
+            "B": "पैदल",
+            "C": "साइकिल से",
+            "D": "अपने पिता के साथ"
+          },
+          "correct_answer": "A",
+          "explanation": "कहानी में रीना स्कूल बस से स्कूल जाती है।"
+        },
+        {
+          "question": "दोपहर में रीना क्या करती है?",
+          "options": {
+            "A": "सोती है",
+            "B": "खेलती है",
+            "C": "पढ़ती है",
+            "D": "टीवी देखती है"
+          },
+          "correct_answer": "A",
+          "explanation": "रीना दोपहर को थोड़ी देर आराम करती है।"
+        },
+        {
+          "question": "रीना शाम को किसके साथ खेलती है?",
+          "options": {
+            "A": "भाई के साथ",
+            "B": "दोस्तों के साथ",
+            "C": "माँ के साथ",
+            "D": "अकेले"
+          },
+          "correct_answer": "B",
+          "explanation": "शाम को रीना अपने मोहल्ले के दोस्तों के साथ खेलती है।"
+        },
+        {
+          "question": "रीना रात को सोने से पहले क्या करती है?",
+          "options": {
+            "A": "टीवी देखती है",
+            "B": "कहानी पढ़ती है",
+            "C": "दूध पीती है",
+            "D": "गाना गाती है"
+          },
+          "correct_answer": "B",
+          "explanation": "रीना रात को सोने से पहले एक छोटी कहानी पढ़ती है।"
+        }
+      ]
     },
     {
-      "chapter_number": 4,
-      "title": "रानी भी",
+      "chapter_no": 4,
+      "chapter_name": "रानी भी",
       "video_title": "Sarangi Class 1 - Chapter 4 - रानी भी",
-      "youtube_url": "https://www.youtube.com/watch?v=3tk8kz6IgMM"
+      "video_url": "https://www.youtube.com/watch?v=q98xjNQytug&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=4",
+      "questions": [
+        {
+          "question": "रानी क्या करना चाहती है?",
+          "options": {
+            "A": "पढ़ना",
+            "B": "खेलना",
+            "C": "गाना गाना",
+            "D": "नाचना"
+          },
+          "correct_answer": "B",
+          "explanation": "रानी अपने दोस्तों के साथ खेलना चाहती है।"
+        },
+        {
+          "question": "रानी के दोस्त क्या कर रहे हैं?",
+          "options": {
+            "A": "पढ़ाई",
+            "B": "खेल",
+            "C": "गाना",
+            "D": "सोना"
+          },
+          "correct_answer": "B",
+          "explanation": "रानी के दोस्त मैदान में खेल रहे हैं।"
+        },
+        {
+          "question": "रानी क्यों नहीं खेल पा रही है?",
+          "options": {
+            "A": "क्योंकि वह बीमार है",
+            "B": "क्योंकि माँ ने मना किया है",
+            "C": "क्योंकि उसका काम पूरा नहीं हुआ",
+            "D": "क्योंकि वह थक गई है"
+          },
+          "correct_answer": "C",
+          "explanation": "रानी का स्कूल का काम पूरा नहीं हुआ है इसलिए वह नहीं खेल पा रही।"
+        },
+        {
+          "question": "रानी की माँ ने उसे क्या करने को कहा?",
+          "options": {
+            "A": "पहले पढ़ाई पूरी करो",
+            "B": "पहले खाना खाओ",
+            "C": "पहले सो जाओ",
+            "D": "पहले नहा लो"
+          },
+          "correct_answer": "A",
+          "explanation": "माँ ने रानी से कहा कि पहले स्कूल का काम पूरा करो।"
+        },
+        {
+          "question": "कहानी का संदेश क्या है?",
+          "options": {
+            "A": "पढ़ाई से पहले खेलना चाहिए",
+            "B": "काम पूरा करने के बाद ही खेलना चाहिए",
+            "C": "खेलना जरूरी नहीं है",
+            "D": "पढ़ाई जरूरी नहीं है"
+          },
+          "correct_answer": "B",
+          "explanation": "कहानी हमें समय प्रबंधन और जिम्मेदारी का पाठ सिखाती है।"
+        }
+      ]
     },
     {
-      "chapter_number": 5,
-      "title": "मुर्गा बोले कुकड़ू कु",
+      "chapter_no": 5,
+      "chapter_name": "मुर्गा बोले कुकड़ू कु",
       "video_title": "Sarangi class 1 - Murga bole kukduku",
-      "youtube_url": "https://www.youtube.com/watch?v=h5hs3um46XY"
+      "video_url": "https://www.youtube.com/watch?v=zDrNGe_Uhig&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=5",
+      "questions": [
+        {
+          "question": "मुर्गा क्या बोलता है?",
+          "options": {
+            "A": "कुकड़ू कु",
+            "B": "म्याऊँ",
+            "C": "भौं भौं",
+            "D": "चीं-चीं"
+          },
+          "correct_answer": "A",
+          "explanation": "मुर्गा 'कुकड़ू कु' की आवाज निकालता है।"
+        },
+        {
+          "question": "मुर्गा कब बांग देता है?",
+          "options": {
+            "A": "रात को",
+            "B": "दोपहर को",
+            "C": "सुबह को",
+            "D": "शाम को"
+          },
+          "correct_answer": "C",
+          "explanation": "मुर्गा सुबह-सुबह बांग देता है।"
+        },
+        {
+          "question": "मुर्गे के सिर पर क्या होता है?",
+          "options": {
+            "A": "कलगी",
+            "B": "टोपी",
+            "C": "फूल",
+            "D": "पंख"
+          },
+          "correct_answer": "A",
+          "explanation": "मुर्गे के सिर पर लाल रंग की कलगी होती है।"
+        },
+        {
+          "question": "मुर्गा कहाँ रहता है?",
+          "options": {
+            "A": "घोंसले में",
+            "B": "मुर्गीखाने में",
+            "C": "जंगल में",
+            "D": "पानी में"
+          },
+          "correct_answer": "B",
+          "explanation": "मुर्गा मुर्गीखाने या फार्म में रहता है।"
+        },
+        {
+          "question": "मुर्गे के पंख कैसे होते हैं?",
+          "options": {
+            "A": "सफेद",
+            "B": "रंग-बिरंगे",
+            "C": "काले",
+            "D": "हरे"
+          },
+          "correct_answer": "B",
+          "explanation": "मुर्गे के पंख अक्सर रंग-बिरंगे और चमकदार होते हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 6,
-      "title": "गिलहरी की कहानी",
+      "chapter_no": 6,
+      "chapter_name": "गिलहरी की कहानी",
       "video_title": "Sarangi Class 1 - गिलहरी की कहानी",
-      "youtube_url": "https://www.youtube.com/watch?v=Z9MXGc_PulM"
+      "video_url": "https://www.youtube.com/watch?v=a17B7WGcgcM&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=6",
+      "questions": [
+        {
+          "question": "गिलहरी का रंग कैसा होता है?",
+          "options": {
+            "A": "काला",
+            "B": "सफेद",
+            "C": "भूरा",
+            "D": "नीला"
+          },
+          "correct_answer": "C",
+          "explanation": "गिलहरी का रंग आमतौर पर भूरा होता है।"
+        },
+        {
+          "question": "गिलहरी की पूँछ कैसी होती है?",
+          "options": {
+            "A": "छोटी",
+            "B": "लंबी और घनी",
+            "C": "पतली",
+            "D": "नहीं होती"
+          },
+          "correct_answer": "B",
+          "explanation": "गिलहरी की पूँछ लंबी और घने बालों वाली होती है।"
+        },
+        {
+          "question": "गिलहरी क्या खाती है?",
+          "options": {
+            "A": "मांस",
+            "B": "फल और बीज",
+            "C": "रोटी",
+            "D": "मछली"
+          },
+          "correct_answer": "B",
+          "explanation": "गिलहरी फल, नट्स और बीज खाती है।"
+        },
+        {
+          "question": "गिलहरी कहाँ रहती है?",
+          "options": {
+            "A": "घोंसले में",
+            "B": "बिल में",
+            "C": "पेड़ों पर",
+            "D": "पानी में"
+          },
+          "correct_answer": "C",
+          "explanation": "गिलहरी पेड़ों पर रहती है और बहुत तेजी से दौड़ सकती है।"
+        },
+        {
+          "question": "गिलहरी कैसे चलती है?",
+          "options": {
+            "A": "धीरे-धीरे",
+            "B": "उछल-कूद कर",
+            "C": "रेंग कर",
+            "D": "तैर कर"
+          },
+          "correct_answer": "B",
+          "explanation": "गिलहरी उछल-कूद कर तेजी से चलती है।"
+        }
+      ]
     },
     {
-      "chapter_number": 7,
-      "title": "मिठाई",
+      "chapter_no": 7,
+      "chapter_name": "मिठाई",
       "video_title": "Sarangi class 1 - मिठाई",
-      "youtube_url": "https://www.youtube.com/watch?v=1MHiFtYNqgI"
+      "video_url": "https://www.youtube.com/watch?v=SSYpblE1HE8&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=7",
+      "questions": [
+        {
+          "question": "बच्चे किस चीज के बारे में बात कर रहे हैं?",
+          "options": {
+            "A": "खिलौने",
+            "B": "मिठाई",
+            "C": "कपड़े",
+            "D": "किताबें"
+          },
+          "correct_answer": "B",
+          "explanation": "बच्चे विभिन्न प्रकार की मिठाइयों के बारे में बात कर रहे हैं।"
+        },
+        {
+          "question": "गुलाब जामुन कैसे होते हैं?",
+          "options": {
+            "A": "खट्टे",
+            "B": "मीठे",
+            "C": "नमकीन",
+            "D": "कड़वे"
+          },
+          "correct_answer": "B",
+          "explanation": "गुलाब जामुन मीठे और रसीले होते हैं।"
+        },
+        {
+          "question": "जलेबी का रंग कैसा होता है?",
+          "options": {
+            "A": "सफेद",
+            "B": "हरा",
+            "C": "नारंगी",
+            "D": "काला"
+          },
+          "correct_answer": "C",
+          "explanation": "जलेबी का रंग नारंगी या सुनहरा होता है।"
+        },
+        {
+          "question": "लड्डू किस चीज के बने होते हैं?",
+          "options": {
+            "A": "आटा",
+            "B": "बेसन",
+            "C": "मावा",
+            "D": "सूजी"
+          },
+          "correct_answer": "B",
+          "explanation": "बेसन के लड्डू बहुत प्रसिद्ध हैं।"
+        },
+        {
+          "question": "मिठाई खाने के बाद क्या करना चाहिए?",
+          "options": {
+            "A": "सो जाना",
+            "B": "कुल्ला करना",
+            "C": "खेलना",
+            "D": "टीवी देखना"
+          },
+          "correct_answer": "B",
+          "explanation": "मिठाई खाने के बाद दाँत साफ करने चाहिए ताकि कीड़े न लगें।"
+        }
+      ]
     },
     {
-      "chapter_number": 8,
-      "title": "तीन साथी",
+      "chapter_no": 8,
+      "chapter_name": "तीन साथी",
       "video_title": "Sarangi class 1 - तीन साथी",
-      "youtube_url": "https://www.youtube.com/watch?v=ijRrLM-CmF4"
+      "video_url": "https://www.youtube.com/watch?v=u5qlVjLSWtI&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=8",
+      "questions": [
+        {
+          "question": "कहानी में कितने साथी हैं?",
+          "options": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+          },
+          "correct_answer": "B",
+          "explanation": "कहानी में तीन साथी हैं - बंदर, खरगोश और हाथी।"
+        },
+        {
+          "question": "तीनों साथी क्या करने जाते हैं?",
+          "options": {
+            "A": "नदी नहाने",
+            "B": "जंगल घूमने",
+            "C": "फल तोड़ने",
+            "D": "खेलने"
+          },
+          "correct_answer": "A",
+          "explanation": "तीनों साथी नदी में नहाने जाते हैं।"
+        },
+        {
+          "question": "नदी पार करते समय किसकी मदद ली जाती है?",
+          "options": {
+            "A": "बंदर की",
+            "B": "खरगोश की",
+            "C": "हाथी की",
+            "D": "किसी की नहीं"
+          },
+          "correct_answer": "C",
+          "explanation": "हाथी की पीठ पर बैठकर तीनों नदी पार करते हैं।"
+        },
+        {
+          "question": "कहानी से क्या सीख मिलती है?",
+          "options": {
+            "A": "अकेले काम करो",
+            "B": "दोस्तों की मदद करो",
+            "C": "किसी पर विश्वास मत करो",
+            "D": "जंगल मत जाओ"
+          },
+          "correct_answer": "B",
+          "explanation": "कहानी सिखाती है कि दोस्तों की मदद से हर काम आसान हो जाता है।"
+        },
+        {
+          "question": "हाथी कैसे जानवर है?",
+          "options": {
+            "A": "छोटा",
+            "B": "तेज",
+            "C": "बड़ा और मजबूत",
+            "D": "डरपोक"
+          },
+          "correct_answer": "C",
+          "explanation": "हाथी बड़ा, मजबूत और समझदार जानवर है।"
+        }
+      ]
     },
     {
-      "chapter_number": 9,
-      "title": "वाह मेरे घोड़े",
+      "chapter_no": 9,
+      "chapter_name": "वाह मेरे घोड़े",
       "video_title": "Sarangi class 1 - वाह मेरे घोड़े",
-      "youtube_url": "https://www.youtube.com/watch?v=nF_qZAX1XqY"
+      "video_url": "https://www.youtube.com/watch?v=LtUysCsSIZA&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=9",
+      "questions": [
+        {
+          "question": "घोड़ा कैसे दौड़ता है?",
+          "options": {
+            "A": "धीरे-धीरे",
+            "B": "तेज गति से",
+            "C": "रेंग कर",
+            "D": "उछल कर"
+          },
+          "correct_answer": "B",
+          "explanation": "घोड़ा बहुत तेज गति से दौड़ सकता है।"
+        },
+        {
+          "question": "घोड़े की अयाल कहाँ होती है?",
+          "options": {
+            "A": "सिर पर",
+            "B": "पैरों पर",
+            "C": "गर्दन पर",
+            "D": "पूँछ पर"
+          },
+          "correct_answer": "C",
+          "explanation": "घोड़े की गर्दन पर लंबे बालों को अयाल कहते हैं।"
+        },
+        {
+          "question": "घोड़े कितने पैरों पर दौड़ते हैं?",
+          "options": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "छह"
+          },
+          "correct_answer": "C",
+          "explanation": "घोड़े अपने चार पैरों से दौड़ते हैं।"
+        },
+        {
+          "question": "घोड़े क्या खाते हैं?",
+          "options": {
+            "A": "मांस",
+            "B": "घास और चारा",
+            "C": "रोटी",
+            "D": "मिठाई"
+          },
+          "correct_answer": "B",
+          "explanation": "घोड़े घास, चारा और अनाज खाते हैं।"
+        },
+        {
+          "question": "घोड़े कहाँ रहते हैं?",
+          "options": {
+            "A": "अस्तबल में",
+            "B": "जंगल में",
+            "C": "घर में",
+            "D": "पानी में"
+          },
+          "correct_answer": "A",
+          "explanation": "घोड़े अस्तबल या घुड़साल में रहते हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 10,
-      "title": "खतरे में साँप",
+      "chapter_no": 10,
+      "chapter_name": "खतरे में साँप",
       "video_title": "Sarangi class 1 - खतरे में साँप",
-      "youtube_url": "https://www.youtube.com/watch?v=e4P2Qfw4Z6g"
+      "video_url": "https://www.youtube.com/watch?v=kHEcLFkOlj0&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=10",
+      "questions": [
+        {
+          "question": "साँप कैसे जानवर है?",
+          "options": {
+            "A": "स्तनधारी",
+            "B": "उभयचर",
+            "C": "सरीसृप",
+            "D": "पक्षी"
+          },
+          "correct_answer": "C",
+          "explanation": "साँप सरीसृप वर्ग का जानवर है।"
+        },
+        {
+          "question": "साँप कैसे चलता है?",
+          "options": {
+            "A": "पैरों से",
+            "B": "पंखों से",
+            "C": "रेंग कर",
+            "D": "तैर कर"
+          },
+          "correct_answer": "C",
+          "explanation": "साँप पेट के बल रेंग कर चलता है।"
+        },
+        {
+          "question": "साँप क्या खाता है?",
+          "options": {
+            "A": "फल",
+            "B": "घास",
+            "C": "छोटे जानवर",
+            "D": "रोटी"
+          },
+          "correct_answer": "C",
+          "explanation": "साँप छोटे जानवरों, चूहों आदि को खाता है।"
+        },
+        {
+          "question": "साँप के बारे में क्या सही है?",
+          "options": {
+            "A": "सभी साँप जहरीले होते हैं",
+            "B": "कुछ साँप जहरीले होते हैं",
+            "C": "साँप के पैर होते हैं",
+            "D": "साँप उड़ सकते हैं"
+          },
+          "correct_answer": "B",
+          "explanation": "सभी साँप जहरीले नहीं होते, केवल कुछ प्रजातियाँ ही जहरीली होती हैं।"
+        },
+        {
+          "question": "साँप से बचाव कैसे करना चाहिए?",
+          "options": {
+            "A": "उसे पकड़ लो",
+            "B": "चुपचाप दूर हट जाओ",
+            "C": "पत्थर मारो",
+            "D": "जोर से चिल्लाओ"
+          },
+          "correct_answer": "B",
+          "explanation": "साँप को देखकर शांति से दूर हट जाना चाहिए, उसे परेशान नहीं करना चाहिए।"
+        }
+      ]
     },
     {
-      "chapter_number": 11,
-      "title": "आलू की सड़क",
+      "chapter_no": 11,
+      "chapter_name": "आलू की सड़क",
       "video_title": "Sarangi class 1 - आलू की सड़क",
-      "youtube_url": "https://www.youtube.com/watch?v=lQ3kSbVkzZk"
+      "video_url": "https://www.youtube.com/watch?v=lPXtitM-g3Y&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=11",
+      "questions": [
+        {
+          "question": "कहानी में आलू कहाँ से गिरते हैं?",
+          "options": {
+            "A": "ट्रक से",
+            "B": "बैलगाड़ी से",
+            "C": "छत से",
+            "D": "पेड़ से"
+          },
+          "correct_answer": "A",
+          "explanation": "आलू ट्रक से गिरते हैं और सड़क पर बिखर जाते हैं।"
+        },
+        {
+          "question": "बच्चे आलू क्यों उठा रहे हैं?",
+          "options": {
+            "A": "खेलने के लिए",
+            "B": "खाने के लिए",
+            "C": "बेचने के लिए",
+            "D": "फेंकने के लिए"
+          },
+          "correct_answer": "B",
+          "explanation": "बच्चे आलू उठाकर घर ले जाना चाहते हैं ताकि उन्हें खा सकें।"
+        },
+        {
+          "question": "आलू किस प्रकार की सब्जी है?",
+          "options": {
+            "A": "जड़",
+            "B": "फल",
+            "C": "पत्ता",
+            "D": "फूल"
+          },
+          "correct_answer": "A",
+          "explanation": "आलू एक जड़ वाली सब्जी है जो मिट्टी के अंदर उगती है।"
+        },
+        {
+          "question": "आलू का रंग कैसा होता है?",
+          "options": {
+            "A": "लाल",
+            "B": "हरा",
+            "C": "भूरा",
+            "D": "पीला"
+          },
+          "correct_answer": "C",
+          "explanation": "आलू का बाहरी रंग भूरा और अंदर से सफेद या पीला होता है।"
+        },
+        {
+          "question": "आलू से क्या-क्या बनता है?",
+          "options": {
+            "A": "चिप्स",
+            "B": "समोसे",
+            "C": "पकौड़े",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "आलू से चिप्स, समोसे, पकौड़े और कई तरह के व्यंजन बनते हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 12,
-      "title": "झूलम झूली",
+      "chapter_no": 12,
+      "chapter_name": "झूलम झूली",
       "video_title": "Sarangi class 1 - झूलम झूली",
-      "youtube_url": "https://www.youtube.com/watch?v=3lfMbAEFq5k"
+      "video_url": "https://www.youtube.com/watch?v=KSMqF1UPjXI&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=12",
+      "questions": [
+        {
+          "question": "बच्चे क्या कर रहे हैं?",
+          "options": {
+            "A": "पढ़ाई",
+            "B": "खेल",
+            "C": "झूला झूलना",
+            "D": "गाना"
+          },
+          "correct_answer": "C",
+          "explanation": "बच्चे झूले पर झूल रहे हैं और मजे कर रहे हैं।"
+        },
+        {
+          "question": "झूले पर झूलते समय क्या होता है?",
+          "options": {
+            "A": "डर लगता है",
+            "B": "मजा आता है",
+            "C": "चक्कर आते हैं",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "झूले पर झूलना मजेदार होता है लेकिन कभी-कभी डर भी लगता है।"
+        },
+        {
+          "question": "झूला किससे बना होता है?",
+          "options": {
+            "A": "लकड़ी और रस्सी",
+            "B": "प्लास्टिक",
+            "C": "लोहा",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "झूले विभिन्न सामग्रियों से बने हो सकते हैं।"
+        },
+        {
+          "question": "झूला झूलते समय क्या सावधानी बरतनी चाहिए?",
+          "options": {
+            "A": "अकेले झूलना",
+            "B": "जोर-जोर से झूलना",
+            "C": "बड़ों की निगरानी में झूलना",
+            "D": "आँखें बंद करके झूलना"
+          },
+          "correct_answer": "C",
+          "explanation": "झूलते समय बड़ों की निगरानी में रहना चाहिए ताकि चोट न लगे।"
+        },
+        {
+          "question": "झूला कहाँ लगा होता है?",
+          "options": {
+            "A": "पार्क में",
+            "B": "स्कूल में",
+            "C": "घर के आँगन में",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "झूले पार्क, स्कूल या घर के आँगन में लगे हो सकते हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 13,
-      "title": "भुट्टे",
+      "chapter_no": 13,
+      "chapter_name": "भुट्टे",
       "video_title": "Sarangi class 1 - भुट्टे",
-      "youtube_url": "https://www.youtube.com/watch?v=OBoPffzVvgo"
+      "video_url": "https://www.youtube.com/watch?v=JYBHbHQAFRA&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=13",
+      "questions": [
+        {
+          "question": "भुट्टा किस पौधे का फल है?",
+          "options": {
+            "A": "गेहूँ",
+            "B": "चावल",
+            "C": "मक्का",
+            "D": "ज्वार"
+          },
+          "correct_answer": "C",
+          "explanation": "भुट्टा मक्का के पौधे पर लगता है।"
+        },
+        {
+          "question": "भुट्टे का रंग कैसा होता है?",
+          "options": {
+            "A": "सफेद",
+            "B": "पीला",
+            "C": "लाल",
+            "D": "हरा"
+          },
+          "correct_answer": "B",
+          "explanation": "पके हुए भुट्टे का रंग पीला होता है।"
+        },
+        {
+          "question": "भुट्टे को कैसे पकाया जाता है?",
+          "options": {
+            "A": "उबाल कर",
+            "B": "भून कर",
+            "C": "दोनों तरीकों से",
+            "D": "कच्चा खाया जाता है"
+          },
+          "correct_answer": "C",
+          "explanation": "भुट्टे को उबालकर या आग पर भूनकर खाया जाता है।"
+        },
+        {
+          "question": "भुट्टे पर क्या लगा होता है?",
+          "options": {
+            "A": "पत्ते",
+            "B": "काँटे",
+            "C": "रेशे",
+            "D": "फूल"
+          },
+          "correct_answer": "C",
+          "explanation": "भुट्टे पर पीले रेशे लगे होते हैं।"
+        },
+        {
+          "question": "भुट्टे खाने के बाद क्या करना चाहिए?",
+          "options": {
+            "A": "दाँत साफ करना",
+            "B": "हाथ धोना",
+            "C": "दोनों",
+            "D": "कुछ नहीं"
+          },
+          "correct_answer": "C",
+          "explanation": "भुट्टा खाने के बाद हाथ और दाँत दोनों साफ करने चाहिए।"
+        }
+      ]
     },
     {
-      "chapter_number": 14,
-      "title": "फूली रोटी",
+      "chapter_no": 14,
+      "chapter_name": "फूली रोटी",
       "video_title": "Sarangi class 1 - फूली रोटी",
-      "youtube_url": "https://www.youtube.com/watch?v=6EGSp2yyhg8"
+      "video_url": "https://www.youtube.com/watch?v=jo9V5GJWIJI&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=14",
+      "questions": [
+        {
+          "question": "रोटी किससे बनती है?",
+          "options": {
+            "A": "चावल से",
+            "B": "गेहूँ के आटे से",
+            "C": "मक्के से",
+            "D": "ज्वार से"
+          },
+          "correct_answer": "B",
+          "explanation": "रोटी गेहूँ के आटे से बनाई जाती है।"
+        },
+        {
+          "question": "रोटी बनाते समय क्या होता है?",
+          "options": {
+            "A": "फूल जाती है",
+            "B": "सिकुड़ जाती है",
+            "C": "काली हो जाती है",
+            "D": "गीली हो जाती है"
+          },
+          "correct_answer": "A",
+          "explanation": "तवे पर सेंकते समय रोटी फूल जाती है।"
+        },
+        {
+          "question": "रोटी के साथ क्या खाया जाता है?",
+          "options": {
+            "A": "सब्जी",
+            "B": "दाल",
+            "C": "दही",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "रोटी के साथ सब्जी, दाल, दही आदि खाया जाता है।"
+        },
+        {
+          "question": "रोटी को अंग्रेजी में क्या कहते हैं?",
+          "options": {
+            "A": "Bread",
+            "B": "Rice",
+            "C": "Chapati",
+            "D": "Noodles"
+          },
+          "correct_answer": "C",
+          "explanation": "रोटी को अंग्रेजी में 'Chapati' कहते हैं।"
+        },
+        {
+          "question": "रोटी बनाने के लिए आटे में क्या मिलाया जाता है?",
+          "options": {
+            "A": "पानी",
+            "B": "दूध",
+            "C": "तेल",
+            "D": "चीनी"
+          },
+          "correct_answer": "A",
+          "explanation": "आटे को गूँथने के लिए पानी की आवश्यकता होती है।"
+        }
+      ]
     },
     {
-      "chapter_number": 15,
-      "title": "मेला",
+      "chapter_no": 15,
+      "chapter_name": "मेला",
       "video_title": "Sarangi class 1 - मेला",
-      "youtube_url": "https://www.youtube.com/watch?v=KqMiSKhclq4"
+      "video_url": "https://www.youtube.com/watch?v=kiUosmGQPE4&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=15",
+      "questions": [
+        {
+          "question": "मेले में क्या-क्या होता है?",
+          "options": {
+            "A": "झूले",
+            "B": "खिलौने",
+            "C": "मिठाइयाँ",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "मेले में झूले, खिलौने, मिठाइयाँ और कई मनोरंजन के साधन होते हैं।"
+        },
+        {
+          "question": "बच्चे मेले में क्या करते हैं?",
+          "options": {
+            "A": "खेलते हैं",
+            "B": "झूले झूलते हैं",
+            "C": "मिठाइयाँ खाते हैं",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "बच्चे मेले में खेलते, झूलते और मिठाइयाँ खाते हैं।"
+        },
+        {
+          "question": "मेले में किस प्रकार के खिलौने मिलते हैं?",
+          "options": {
+            "A": "प्लास्टिक के",
+            "B": "लकड़ी के",
+            "C": "रंग-बिरंगे",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "मेले में विभिन्न प्रकार के खिलौने मिलते हैं।"
+        },
+        {
+          "question": "मेला क्यों लगता है?",
+          "options": {
+            "A": "त्योहार के अवसर पर",
+            "B": "मनोरंजन के लिए",
+            "C": "दोनों",
+            "D": "किसी के लिए नहीं"
+          },
+          "correct_answer": "C",
+          "explanation": "मेला त्योहार या मनोरंजन के उद्देश्य से लगाया जाता है।"
+        },
+        {
+          "question": "मेले में जाते समय क्या सावधानी बरतनी चाहिए?",
+          "options": {
+            "A": "अकेले न जाएँ",
+            "B": "बड़ों के साथ जाएँ",
+            "C": "भीड़ में न खोएँ",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "मेले में बड़ों के साथ जाना चाहिए और भीड़ में नहीं खोना चाहिए।"
+        }
+      ]
     },
     {
-      "chapter_number": 16,
-      "title": "बरखा और मेघा",
+      "chapter_no": 16,
+      "chapter_name": "बरखा और मेघा",
       "video_title": "Sarangi class 1 - बरखा और मेघा",
-      "youtube_url": "https://www.youtube.com/watch?v=VGw2xthqMGs"
+      "video_url": "https://www.youtube.com/watch?v=haSEpMrHDgk&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=16",
+      "questions": [
+        {
+          "question": "बरखा और मेघा कौन हैं?",
+          "options": {
+            "A": "दो बहनें",
+            "B": "दो भाई",
+            "C": "भाई-बहन",
+            "D": "दो दोस्त"
+          },
+          "correct_answer": "A",
+          "explanation": "बरखा और मेघा दो बहनें हैं जो बारिश में खेलती हैं।"
+        },
+        {
+          "question": "बारिश में बच्चे क्या करते हैं?",
+          "options": {
+            "A": "घर में बैठते हैं",
+            "B": "बारिश में नहाते हैं",
+            "C": "पानी में खेलते हैं",
+            "D": "सो जाते हैं"
+          },
+          "correct_answer": "C",
+          "explanation": "बच्चे बारिश के पानी में खेलना पसंद करते हैं।"
+        },
+        {
+          "question": "बारिश के मौसम को क्या कहते हैं?",
+          "options": {
+            "A": "ग्रीष्म",
+            "B": "वर्षा",
+            "C": "शीत",
+            "D": "वसंत"
+          },
+          "correct_answer": "B",
+          "explanation": "बारिश के मौसम को वर्षा ऋतु कहते हैं।"
+        },
+        {
+          "question": "बारिश में क्या उगता है?",
+          "options": {
+            "A": "पेड़",
+            "B": "घास",
+            "C": "फूल",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "बारिश में पेड़-पौधे, घास और फूल उगते हैं।"
+        },
+        {
+          "question": "बारिश में खेलने से क्या हो सकता है?",
+          "options": {
+            "A": "बीमारी",
+            "B": "मजा",
+            "C": "दोनों",
+            "D": "कुछ नहीं"
+          },
+          "correct_answer": "C",
+          "explanation": "बारिश में खेलने से मजा आता है लेकिन बीमार भी हो सकते हैं।"
+        }
+      ]
     },
     {
-      "chapter_number": 17,
-      "title": "होली",
+      "chapter_no": 17,
+      "chapter_name": "होली",
       "video_title": "Sarangi class 1 - होली",
-      "youtube_url": "https://www.youtube.com/watch?v=3AXil4kADa4"
+      "video_url": "https://www.youtube.com/watch?v=aHhG4dCeA-k&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=17",
+      "questions": [
+        {
+          "question": "होली किस मौसम में मनाई जाती है?",
+          "options": {
+            "A": "गर्मी",
+            "B": "सर्दी",
+            "C": "वसंत",
+            "D": "बरसात"
+          },
+          "correct_answer": "C",
+          "explanation": "होली वसंत ऋतु में मनाई जाने वाली प्रमुख हिंदू त्योहार है।"
+        },
+        {
+          "question": "होली पर क्या फेंका जाता है?",
+          "options": {
+            "A": "पानी",
+            "B": "रंग",
+            "C": "फूल",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "होली पर रंग, पानी और फूलों से खेला जाता है।"
+        },
+        {
+          "question": "होली की पूर्व संध्या पर क्या जलाया जाता है?",
+          "options": {
+            "A": "दीया",
+            "B": "अलाव",
+            "C": "मोमबत्ती",
+            "D": "अगरबत्ती"
+          },
+          "correct_answer": "B",
+          "explanation": "होलिका दहन के रूप में अलाव जलाया जाता है।"
+        },
+        {
+          "question": "होली के त्योहार को क्या कहते हैं?",
+          "options": {
+            "A": "रंगों का त्योहार",
+            "B": "प्रकाश का त्योहार",
+            "C": "फसल का त्योहार",
+            "D": "विद्या का त्योहार"
+          },
+          "correct_answer": "A",
+          "explanation": "होली को 'रंगों का त्योहार' कहा जाता है।"
+        },
+        {
+          "question": "होली खेलते समय क्या सावधानी बरतनी चाहिए?",
+          "options": {
+            "A": "केमिकल रंग न इस्तेमाल करें",
+            "B": "आँखों का ध्यान रखें",
+            "C": "बड़ों की अनुमति लें",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "होली सुरक्षित तरीके से और प्राकृतिक रंगों से खेलनी चाहिए।"
+        }
+      ]
     },
     {
-      "chapter_number": 18,
-      "title": "जनमदिवस पर पेड़ लगाओ",
+      "chapter_no": 18,
+      "chapter_name": "जनमदिवस पर पेड़ लगाओ",
       "video_title": "Sarangi class 1 - जनमदिवस पर पेड़ लगाओ",
-      "youtube_url": "https://www.youtube.com/watch?v=89KfE2Z3a6A"
+      "video_url": "https://www.youtube.com/watch?v=nRj8hEJYt8o&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=18",
+      "questions": [
+        {
+          "question": "जन्मदिन पर क्या लगाने की सलाह दी गई है?",
+          "options": {
+            "A": "पेड़",
+            "B": "झंडा",
+            "C": "तिरंगा",
+            "D": "पतंग"
+          },
+          "correct_answer": "A",
+          "explanation": "जन्मदिन पर पेड़ लगाना पर्यावरण के लिए अच्छा होता है।"
+        },
+        {
+          "question": "पेड़ लगाने से क्या फायदा होता है?",
+          "options": {
+            "A": "हवा शुद्ध होती है",
+            "B": "पर्यावरण सुरक्षित रहता है",
+            "C": "फल मिलते हैं",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "पेड़ लगाने के अनेक फायदे हैं जैसे शुद्ध हवा, फल और पर्यावरण संरक्षण।"
+        },
+        {
+          "question": "पेड़ को क्या-क्या चाहिए?",
+          "options": {
+            "A": "पानी",
+            "B": "धूप",
+            "C": "हवा",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "पेड़ को विकास के लिए पानी, धूप और हवा की आवश्यकता होती है।"
+        },
+        {
+          "question": "पेड़ क्या देते हैं?",
+          "options": {
+            "A": "ऑक्सीजन",
+            "B": "छाया",
+            "C": "फल",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "पेड़ हमें ऑक्सीजन, छाया, फल और कई अन्य लाभ प्रदान करते हैं।"
+        },
+        {
+          "question": "पेड़ लगाना किसका कर्तव्य है?",
+          "options": {
+            "A": "सिर्फ सरकार का",
+            "B": "सिर्फ किसानों का",
+            "C": "हम सभी का",
+            "D": "किसी का नहीं"
+          },
+          "correct_answer": "C",
+          "explanation": "पर्यावरण संरक्षण के लिए पेड़ लगाना हम सभी का कर्तव्य है।"
+        }
+      ]
     },
     {
-      "chapter_number": 19,
-      "title": "हवा",
+      "chapter_no": 19,
+      "chapter_name": "हवा",
       "video_title": "Sarangi class 1 - हवा",
-      "youtube_url": "https://www.youtube.com/watch?v=F8gL7FHYDNo"
+      "video_url": "https://www.youtube.com/watch?v=iZ-duHLDrCk&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=19",
+      "questions": [
+        {
+          "question": "हवा क्या है?",
+          "options": {
+            "A": "ठोस",
+            "B": "तरल",
+            "C": "गैस",
+            "D": "प्लाज्मा"
+          },
+          "correct_answer": "C",
+          "explanation": "हवा विभिन्न गैसों का मिश्रण है जिसे हम महसूस तो कर सकते हैं लेकिन देख नहीं सकते।"
+        },
+        {
+          "question": "हवा की गति को क्या कहते हैं?",
+          "options": {
+            "A": "वर्षा",
+            "B": "पवन",
+            "C": "तूफान",
+            "D": "आँधी"
+          },
+          "correct_answer": "B",
+          "explanation": "चलती हुई हवा को पवन कहते हैं।"
+        },
+        {
+          "question": "हवा का क्या उपयोग है?",
+          "options": {
+            "A": "पतंग उड़ाना",
+            "B": "पवन चक्की चलाना",
+            "C": "सेलबोट चलाना",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हवा का उपयोग पतंग उड़ाने, पवन ऊर्जा उत्पन्न करने और नाव चलाने में होता है।"
+        },
+        {
+          "question": "तेज हवा को क्या कहते हैं?",
+          "options": {
+            "A": "समीर",
+            "B": "आँधी",
+            "C": "तूफान",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हवा की तीव्रता के अनुसार इसे समीर, आँधी या तूफान कहा जाता है।"
+        },
+        {
+          "question": "हवा की दिशा कैसे पता चलती है?",
+          "options": {
+            "A": "पेड़ों के झुकाव से",
+            "B": "धुएँ से",
+            "C": "पतंग से",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हवा की दिशा का पता पेड़ों, धुएँ या उड़ती हुई वस्तुओं से लगाया जा सकता है।"
+        }
+      ]
     },
     {
-      "chapter_number": 20,
-      "title": "कितनी प्यारी है ये दुनिया",
+      "chapter_no": 20,
+      "chapter_name": "कितनी प्यारी है ये दुनिया",
       "video_title": "Sarangi class 1 - कितनी प्यारी है ये दुनिया",
-      "youtube_url": "https://www.youtube.com/watch?v=V94wTivZq0I"
+      "video_url": "https://www.youtube.com/watch?v=NDk3b_6JP_0&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=20",
+      "questions": [
+        {
+          "question": "दुनिया में क्या-क्या प्यारा है?",
+          "options": {
+            "A": "पेड़-पौधे",
+            "B": "जानवर",
+            "C": "बच्चे",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हमारी दुनिया में पेड़-पौधे, जानवर और बच्चे सभी प्यारे हैं।"
+        },
+        {
+          "question": "हमें दुनिया को कैसा बनाना चाहिए?",
+          "options": {
+            "A": "सुंदर",
+            "B": "साफ-सुथरा",
+            "C": "हरा-भरा",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हमें दुनिया को सुंदर, साफ और हरा-भरा बनाए रखना चाहिए।"
+        },
+        {
+          "question": "दुनिया को प्यारी बनाने के लिए क्या करना चाहिए?",
+          "options": {
+            "A": "पेड़ लगाना",
+            "B": "सफाई रखना",
+            "C": "जानवरों से प्यार करना",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "दुनिया को प्यारी बनाने के लिए हमें प्रकृति और जीवों का ध्यान रखना चाहिए।"
+        },
+        {
+          "question": "कविता का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "दुनिया को नष्ट करो",
+            "B": "दुनिया को सुंदर बनाओ",
+            "C": "किसी से प्यार मत करो",
+            "D": "अकेले रहो"
+          },
+          "correct_answer": "B",
+          "explanation": "कविता हमें दुनिया को सुंदर और प्यारी बनाए रखने का संदेश देती है।"
+        },
+        {
+          "question": "हमें प्रकृति से कैसा व्यवहार करना चाहिए?",
+          "options": {
+            "A": "प्यार से",
+            "B": "बिना सोचे-समझे",
+            "C": "उपेक्षापूर्ण",
+            "D": "क्रोध से"
+          },
+          "correct_answer": "A",
+          "explanation": "हमें प्रकृति और पर्यावरण के साथ प्यार और सम्मान का व्यवहार करना चाहिए।"
+        }
+      ]
     },
     {
-      "chapter_number": 21,
-      "title": "चाँद का बच्चा",
+      "chapter_no": 21,
+      "chapter_name": "चाँद का बच्चा",
       "video_title": "Sarangi class 1 - चाँद का बच्चा",
-      "youtube_url": "https://www.youtube.com/watch?v=c7oYJQeLnVk"
+      "video_url": "https://www.youtube.com/watch?v=pzNI_4ZngQ0&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=21",
+      "questions": [
+        {
+          "question": "चाँद का बच्चा कैसा दिखता है?",
+          "options": {
+            "A": "गोल",
+            "B": "अर्धचंद्राकार",
+            "C": "तारे जैसा",
+            "D": "बादल जैसा"
+          },
+          "correct_answer": "B",
+          "explanation": "चाँद का बच्चा अर्धचंद्र के आकार का होता है।"
+        },
+        {
+          "question": "चाँद कब पूरा दिखाई देता है?",
+          "options": {
+            "A": "अमावस्या",
+            "B": "पूर्णिमा",
+            "C": "अष्टमी",
+            "D": "चतुर्दशी"
+          },
+          "correct_answer": "B",
+          "explanation": "पूर्णिमा के दिन चाँद पूरा गोल दिखाई देता है।"
+        },
+        {
+          "question": "चाँद पर क्या नहीं होता?",
+          "options": {
+            "A": "पानी",
+            "B": "हवा",
+            "C": "जीवन",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "चाँद पर पानी, हवा और जीवन नहीं पाया जाता।"
+        },
+        {
+          "question": "चाँद धरती का क्या है?",
+          "options": {
+            "A": "उपग्रह",
+            "B": "तारा",
+            "C": "ग्रह",
+            "D": "सूर्य"
+          },
+          "correct_answer": "A",
+          "explanation": "चाँद पृथ्वी का एकमात्र प्राकृतिक उपग्रह है।"
+        },
+        {
+          "question": "चाँद पर पहुँचने वाला पहला व्यक्ति कौन था?",
+          "options": {
+            "A": "राकेश शर्मा",
+            "B": "नील आर्मस्ट्रांग",
+            "C": "कल्पना चावला",
+            "D": "सुनीता विलियम्स"
+          },
+          "correct_answer": "B",
+          "explanation": "नील आर्मस्ट्रांग 1969 में चाँद पर कदम रखने वाले पहले व्यक्ति थे।"
+        }
+      ]
     },
     {
-      "chapter_number": 22,
-      "title": "हिंदी वर्णमाला",
+      "chapter_no": 22,
+      "chapter_name": "हिंदी वर्णमाला",
       "video_title": "Hindi alphabets - हिंदी वर्णमाला - अ से अनार",
-      "youtube_url": "https://www.youtube.com/watch?v=2RDOtnvgz6c"
+      "video_url": "https://www.youtube.com/watch?v=t0caBQvU1xY&list=PLkWtowDJ-YAri7XpknIR4RdJZLV7fI1p4&index=22",
+      "questions": [
+        {
+          "question": "हिंदी वर्णमाला में कुल कितने अक्षर होते हैं?",
+          "options": {
+            "A": "26",
+            "B": "52",
+            "C": "44",
+            "D": "36"
+          },
+          "correct_answer": "B",
+          "explanation": "हिंदी वर्णमाला में 52 अक्षर होते हैं (13 स्वर और 39 व्यंजन)।"
+        },
+        {
+          "question": "हिंदी का पहला अक्षर कौन सा है?",
+          "options": {
+            "A": "क",
+            "B": "अ",
+            "C": "आ",
+            "D": "इ"
+          },
+          "correct_answer": "B",
+          "explanation": "हिंदी वर्णमाला का पहला अक्षर 'अ' है।"
+        },
+        {
+          "question": "क से क्या शुरू होता है?",
+          "options": {
+            "A": "कमल",
+            "B": "कबूतर",
+            "C": "किताब",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "क से कमल, कबूतर, किताब आदि अनेक शब्द शुरू होते हैं।"
+        },
+        {
+          "question": "हिंदी में स्वर कितने होते हैं?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "13",
+            "D": "15"
+          },
+          "correct_answer": "C",
+          "explanation": "हिंदी में 13 स्वर होते हैं (अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ, अं, अः)।"
+        },
+        {
+          "question": "हिंदी सीखना क्यों जरूरी है?",
+          "options": {
+            "A": "राष्ट्रभाषा है",
+            "B": "संवाद के लिए",
+            "C": "शिक्षा के लिए",
+            "D": "ये सभी"
+          },
+          "correct_answer": "D",
+          "explanation": "हिंदी हमारी राष्ट्रभाषा है और यह संवाद व शिक्षा के लिए आवश्यक है।"
+        }
+      ]
     }
   ]
 }

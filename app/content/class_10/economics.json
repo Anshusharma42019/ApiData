@@ -1,0 +1,292 @@
+{
+    "class": 10,
+    "subject": "Economics",
+    "channel": "CBSE Guidence",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "chapter_name": "Development",
+            "video_url": "https://www.youtube.com/watch?v=6yolaQI7t_8&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=20",
+            "questions": [
+              {
+                "question": "What is development primarily concerned with?",
+                "options": {
+                  "A": "Economic growth",
+                  "B": "Social well-being",
+                  "C": "Material wealth",
+                  "D": "Environmental stability"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which measure is commonly used to assess development?",
+                "options": {
+                  "A": "Gross Domestic Product",
+                  "B": "Life expectancy",
+                  "C": "Literacy rates",
+                  "D": "Infant mortality rate"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a major challenge to development?",
+                "options": {
+                  "A": "Access to education",
+                  "B": "Income inequality",
+                  "C": "Unemployment",
+                  "D": "Rural-urban migration"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following sources of information is vital for planning development?",
+                "options": {
+                  "A": "Social media",
+                  "B": "Public opinion",
+                  "C": "Statistical data",
+                  "D": "Political affiliations"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What aspect of development focuses on individual capabilities?",
+                "options": {
+                  "A": "Income levels",
+                  "B": "Human development",
+                  "C": "Technological progress",
+                  "D": "Industrial growth"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Sectors of the Indian Economy",
+            "video_url": "https://www.youtube.com/watch?v=xonCBPL42HE&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=21",
+            "questions": [
+              {
+                "question": "What are the three main sectors of the economy?",
+                "options": {
+                  "A": "Primary, secondary, tertiary",
+                  "B": "Agricultural, industrial, commercial",
+                  "C": "Private, public, cooperative",
+                  "D": "Urban, rural, suburban"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which sector is primarily focused on agriculture?",
+                "options": {
+                  "A": "Primary",
+                  "B": "Secondary",
+                  "C": "Tertiary",
+                  "D": "Quaternary"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which sector includes manufacturing?",
+                "options": {
+                  "A": "Primary",
+                  "B": "Secondary",
+                  "C": "Tertiary",
+                  "D": "Quaternary"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What characterizes the tertiary sector?",
+                "options": {
+                  "A": "Production of goods",
+                  "B": "Providing services",
+                  "C": "Mining activities",
+                  "D": "Agricultural practices"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a challenge faced by the agricultural sector?",
+                "options": {
+                  "A": "Technological advancement",
+                  "B": "Urbanization",
+                  "C": "Climate change",
+                  "D": "Food security"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Money and Credit",
+            "video_url": "https://www.youtube.com/watch?v=cnQBSxxfosc&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=22",
+            "questions": [
+              {
+                "question": "What is the primary function of money?",
+                "options": {
+                  "A": "Medium of exchange",
+                  "B": "Store of value",
+                  "C": "Unit of account",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What is credit primarily used for?",
+                "options": {
+                  "A": "Saving money",
+                  "B": "Borrowing money",
+                  "C": "Investing only",
+                  "D": "Decreasing spending"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which institution plays a key role in monetary policy?",
+                "options": {
+                  "A": "Public sector banks",
+                  "B": "Reserve Bank",
+                  "C": "Credit unions",
+                  "D": "Non-banking financial companies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a common form of credit?",
+                "options": {
+                  "A": "Stocks",
+                  "B": "Loans",
+                  "C": "Bonds",
+                  "D": "Equities"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the primary risk associated with credit?",
+                "options": {
+                  "A": "Liquidity",
+                  "B": "Inflation",
+                  "C": "Default",
+                  "D": "Interest rate fluctuation"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Globalisation and the Indian Economy",
+            "video_url": "https://www.youtube.com/watch?v=Tgw-K9evYQQ&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=23",
+            "questions": [
+              {
+                "question": "What major change did globalization bring to the Indian economy?",
+                "options": {
+                  "A": "Reduced foreign investment",
+                  "B": "Increased employment",
+                  "C": "Expansion of the services sector",
+                  "D": "Decrease in technology transfer"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which sector has seen the most growth due to globalization?",
+                "options": {
+                  "A": "Agriculture",
+                  "B": "Manufacturing",
+                  "C": "Information technology",
+                  "D": "Mining"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What impact has globalization had on local industries?",
+                "options": {
+                  "A": "Increased protection",
+                  "B": "Enhanced competition",
+                  "C": "Decreased exports",
+                  "D": "Growth of monopolies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a major criticism of globalization?",
+                "options": {
+                  "A": "Economic integration",
+                  "B": "Inequality in wealth distribution",
+                  "C": "Access to international markets",
+                  "D": "Tech advancements"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following organizations promotes globalization?",
+                "options": {
+                  "A": "OPEC",
+                  "B": "WTO",
+                  "C": "UNESCO",
+                  "D": "IMF"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Consumer Rights",
+            "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+            "questions": [
+              {
+                "question": "What is the primary objective of consumer rights?",
+                "options": {
+                  "A": "Consumer empowerment",
+                  "B": "Government regulation",
+                  "C": "Profit maximization",
+                  "D": "Market monopolization"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which of the following is NOT a consumer right?",
+                "options": {
+                  "A": "Right to safety",
+                  "B": "Right to information",
+                  "C": "Right to ignore",
+                  "D": "Right to choice"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What does the right to redress entail?",
+                "options": {
+                  "A": "Compensation for faulty goods",
+                  "B": "Access to marketing materials",
+                  "C": "Right to receive advertisements",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is an important aspect of consumer advocacy?",
+                "options": {
+                  "A": "Promoting false advertising",
+                  "B": "Advocating for fair practices",
+                  "C": "Supporting monopoly businesses",
+                  "D": "Creating confusion among consumers"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which organization protects consumer rights in India?",
+                "options": {
+                  "A": "CACP",
+                  "B": "WTO",
+                  "C": "CERC",
+                  "D": "Consumer Court"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          }
+    ]
+}

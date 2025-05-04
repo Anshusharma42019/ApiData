@@ -5,407 +5,407 @@
         "chapters": [
           {
             "chapter_no": 1,
-            "chapter": "The French Revolution",
-            "url": "https://www.youtube.com/watch?v=nI8e5vrrmSk",
+            "chapter_name": "The French Revolution",
+            "video_url": "https://www.youtube.com/watch?v=nI8e5vrrmSk",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What was the main cause of the French Revolution?",
+                "question": "What was the main cause of the French Revolution?",
                 "options": {
-                  "1": "Economic inequality",
-                  "2": "Political stability",
-                  "3": "Cultural unity",
-                  "4": "Colonial expansion"
+                  "A": "Economic inequality",
+                  "B": "Political stability",
+                  "C": "Cultural unity",
+                  "D": "Colonial expansion"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which event is commonly seen as the start of the French Revolution?",
+                "question": "Which event is commonly seen as the start of the French Revolution?",
                 "options": {
-                  "1": "Storming of the Bastille",
-                  "2": "Signing of the Declaration of Rights",
-                  "3": "Execution of King Louis XVI",
-                  "4": "Reign of Terror"
+                  "A": "Storming of the Bastille",
+                  "B": "Signing of the Declaration of Rights",
+                  "C": "Execution of King Louis XVI",
+                  "D": "Reign of Terror"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Who were the main factions during the French Revolution?",
+                "question": "Who were the main factions during the French Revolution?",
                 "options": {
-                  "1": "Royalists and Republicans",
-                  "2": "Bourgeoisie and Nobles",
-                  "3": "Liberal and Conservative",
-                  "4": "Clerical and Secular"
+                  "A": "Royalists and Republicans",
+                  "B": "Bourgeoisie and Nobles",
+                  "C": "Liberal and Conservative",
+                  "D": "Clerical and Secular"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What was the outcome of the Reign of Terror?",
+                "question": "What was the outcome of the Reign of Terror?",
                 "options": {
-                  "1": "Establishment of a monarchy",
-                  "2": "Rise of Napoleon Bonaparte",
-                  "3": "End of economic strife",
-                  "4": "Restoration of noble privileges"
+                  "A": "Establishment of a monarchy",
+                  "B": "Rise of Napoleon Bonaparte",
+                  "C": "End of economic strife",
+                  "D": "Restoration of noble privileges"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which document proclaimed the rights of man and citizen?",
+                "question": "Which document proclaimed the rights of man and citizen?",
                 "options": {
-                  "1": "Constitution of 1791",
-                  "2": "Declaration of the Rights of Man",
-                  "3": "Civil Constitution of the Clergy",
-                  "4": "Treaty of Paris"
+                  "A": "Constitution of 1791",
+                  "B": "Declaration of the Rights of Man",
+                  "C": "Civil Constitution of the Clergy",
+                  "D": "Treaty of Paris"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 2,
-            "chapter": "Socialism in Europe and the Russian Revolution",
-            "url": "https://www.youtube.com/watch?v=EDf3vfsSE7Q",
+            "chapter_name": "Socialism in Europe and the Russian Revolution",
+            "video_url": "https://www.youtube.com/watch?v=EDf3vfsSE7Q",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What was a primary objective of socialism?",
+                "question": "What was a primary objective of socialism?",
                 "options": {
-                  "1": "Personal wealth acquisition",
-                  "2": "Collective ownership",
-                  "3": "Colonial expansion",
-                  "4": "Political dictatorship"
+                  "A": "Personal wealth acquisition",
+                  "B": "Collective ownership",
+                  "C": "Colonial expansion",
+                  "D": "Political dictatorship"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which event marked the beginning of the Russian Revolution?",
+                "question": "Which event marked the beginning of the Russian Revolution?",
                 "options": {
-                  "1": "October Revolution",
-                  "2": "February Revolution",
-                  "3": "Fall of the Tsar",
-                  "4": "Formation of USSR"
+                  "A": "October Revolution",
+                  "B": "February Revolution",
+                  "C": "Fall of the Tsar",
+                  "D": "Formation of USSR"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Who was the leader of the Bolsheviks?",
+                "question": "Who was the leader of the Bolsheviks?",
                 "options": {
-                  "1": "Trotsky",
-                  "2": "Stalin",
-                  "3": "Lenin",
-                  "4": "Kerensky"
+                  "A": "Trotsky",
+                  "B": "Stalin",
+                  "C": "Lenin",
+                  "D": "Kerensky"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What was the main economic change after the Russian Revolution?",
+                "question": "What was the main economic change after the Russian Revolution?",
                 "options": {
-                  "1": "Return to capitalism",
-                  "2": "Implementation of the New Economic Policy",
-                  "3": "Land reforms favoring landowners",
-                  "4": "Repression of peasant uprisings"
+                  "A": "Return to capitalism",
+                  "B": "Implementation of the New Economic Policy",
+                  "C": "Land reforms favoring landowners",
+                  "D": "Repression of peasant uprisings"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which ideology sought to establish a classless society?",
+                "question": "Which ideology sought to establish a classless society?",
                 "options": {
-                  "1": "Liberalism",
-                  "2": "Socialism",
-                  "3": "Fascism",
-                  "4": "Monarchism"
+                  "A": "Liberalism",
+                  "B": "Socialism",
+                  "C": "Fascism",
+                  "D": "Monarchism"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 3,
-            "chapter": "Nazism and the Rise of Hitler",
-            "url": "https://www.youtube.com/watch?v=K0m7xIwnHzI",
+            "chapter_name": "Nazism and the Rise of Hitler",
+            "video_url": "https://www.youtube.com/watch?v=K0m7xIwnHzI",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What was a key tenet of Nazism?",
+                "question": "What was a key tenet of Nazism?",
                 "options": {
-                  "1": "Anti-semantic policies",
-                  "2": "Labor rights",
-                  "3": "Universal suffrage",
-                  "4": "Free education"
+                  "A": "Anti-semantic policies",
+                  "B": "Labor rights",
+                  "C": "Universal suffrage",
+                  "D": "Free education"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What economic situation contributed to Hitler's rise?",
+                "question": "What economic situation contributed to Hitler's rise?",
                 "options": {
-                  "1": "Economic prosperity",
-                  "2": "Hyperinflation",
-                  "3": "Social welfare",
-                  "4": "High employment"
+                  "A": "Economic prosperity",
+                  "B": "Hyperinflation",
+                  "C": "Social welfare",
+                  "D": "High employment"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which party did Hitler lead?",
+                "question": "Which party did Hitler lead?",
                 "options": {
-                  "1": "Communist Party",
-                  "2": "Social Democratic Party",
-                  "3": "Nazi Party",
-                  "4": "Liberal Party"
+                  "A": "Communist Party",
+                  "B": "Social Democratic Party",
+                  "C": "Nazi Party",
+                  "D": "Liberal Party"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What was the Night of the Long Knives?",
+                "question": "What was the Night of the Long Knives?",
                 "options": {
-                  "1": "Attack on Jewish businesses",
-                  "2": "Purge of SA leaders",
-                  "3": "Assassination of political opponents",
-                  "4": "Takeover of German government"
+                  "A": "Attack on Jewish businesses",
+                  "B": "Purge of SA leaders",
+                  "C": "Assassination of political opponents",
+                  "D": "Takeover of German government"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "How did Hitler consolidate power?",
+                "question": "How did Hitler consolidate power?",
                 "options": {
-                  "1": "Through elections",
-                  "2": "Use of military force",
-                  "3": "Constitutional amendments",
-                  "4": "Political dialogue"
+                  "A": "Through elections",
+                  "B": "Use of military force",
+                  "C": "Constitutional amendments",
+                  "D": "Political dialogue"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 4,
-            "chapter": "Forest Society and Colonialism",
-            "url": "https://www.youtube.com/watch?v=2Z5x8Uk9YoA",
+            "chapter_name": "Forest Society and Colonialism",
+            "video_url": "https://www.youtube.com/watch?v=2Z5x8Uk9YoA",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What motivated colonial expansion into forested areas?",
+                "question": "What motivated colonial expansion into forested areas?",
                 "options": {
-                  "1": "Preservation of nature",
-                  "2": "Economic gain",
-                  "3": "Cultural exchange",
-                  "4": "Scientific research"
+                  "A": "Preservation of nature",
+                  "B": "Economic gain",
+                  "C": "Cultural exchange",
+                  "D": "Scientific research"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which group suffered due to colonial policies in forests?",
+                "question": "Which group suffered due to colonial policies in forests?",
                 "options": {
-                  "1": "Landowners",
-                  "2": "Farmers",
-                  "3": "Tribal communities",
-                  "4": "Urban merchants"
+                  "A": "Landowners",
+                  "B": "Farmers",
+                  "C": "Tribal communities",
+                  "D": "Urban merchants"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "How did colonial governments manage forest resources?",
+                "question": "How did colonial governments manage forest resources?",
                 "options": {
-                  "1": "Free access for all",
-                  "2": "State control",
-                  "3": "Privatization",
-                  "4": "Community management"
+                  "A": "Free access for all",
+                  "B": "State control",
+                  "C": "Privatization",
+                  "D": "Community management"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What was a common result of forest colonization?",
+                "question": "What was a common result of forest colonization?",
                 "options": {
-                  "1": "Biodiversity loss",
-                  "2": "Increased forest area",
-                  "3": "Cultural enrichment",
-                  "4": "Economic stability"
+                  "A": "Biodiversity loss",
+                  "B": "Increased forest area",
+                  "C": "Cultural enrichment",
+                  "D": "Economic stability"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which concept best describes the colonial view on forests?",
+                "question": "Which concept best describes the colonial view on forests?",
                 "options": {
-                  "1": "Sustainable development",
-                  "2": "Resource exploitation",
-                  "3": "Conservation",
-                  "4": "Local empowerment"
+                  "A": "Sustainable development",
+                  "B": "Resource exploitation",
+                  "C": "Conservation",
+                  "D": "Local empowerment"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 5,
-            "chapter": "Pastoralists in the Modern World - Part 1",
-            "url": "https://www.youtube.com/watch?v=nVNO9PLiTAA",
+            "chapter_name": "Pastoralists in the Modern World - Part 1",
+            "video_url": "https://www.youtube.com/watch?v=nVNO9PLiTAA",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What does pastoralism primarily involve?",
+                "question": "What does pastoralism primarily involve?",
                 "options": {
-                  "1": "Agricultural farming",
-                  "2": "Hunting and gathering",
-                  "3": "Raising livestock",
-                  "4": "Fishing"
+                  "A": "Agricultural farming",
+                  "B": "Hunting and gathering",
+                  "C": "Raising livestock",
+                  "D": "Fishing"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which factor affects pastoralists the most today?",
+                "question": "Which factor affects pastoralists the most today?",
                 "options": {
-                  "1": "Climate change",
-                  "2": "Technological advancements",
-                  "3": "Market demand",
-                  "4": "Urban migration"
+                  "A": "Climate change",
+                  "B": "Technological advancements",
+                  "C": "Market demand",
+                  "D": "Urban migration"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "How do pastoralists traditionally adapt to their environment?",
+                "question": "How do pastoralists traditionally adapt to their environment?",
                 "options": {
-                  "1": "By settling permanently",
-                  "2": "By changing livestock types",
-                  "3": "By migrating with livestock",
-                  "4": "By practicing crop rotation"
+                  "A": "By settling permanently",
+                  "B": "By changing livestock types",
+                  "C": "By migrating with livestock",
+                  "D": "By practicing crop rotation"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which is a common challenge faced by modern pastoralists?",
+                "question": "Which is a common challenge faced by modern pastoralists?",
                 "options": {
-                  "1": "Excessive rainfall",
-                  "2": "Resource scarcity",
-                  "3": "Biodiversity growth",
-                  "4": "Government support"
+                  "A": "Excessive rainfall",
+                  "B": "Resource scarcity",
+                  "C": "Biodiversity growth",
+                  "D": "Government support"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Pastoralists maintain their culture through?",
+                "question": "Pastoralists maintain their culture through?",
                 "options": {
-                  "1": "Urban integration",
-                  "2": "Cultural exchanges",
-                  "3": "Traditional practices",
-                  "4": "Education"
+                  "A": "Urban integration",
+                  "B": "Cultural exchanges",
+                  "C": "Traditional practices",
+                  "D": "Education"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               }
             ]
           },
           {
             "chapter_no": 5,
-            "chapter": "Pastoralists in the Modern World - Part 2",
-            "url": "https://www.youtube.com/watch?v=pZ7dM_M43m8",
+            "chapter_name": "Pastoralists in the Modern World - Part 2",
+            "video_url": "https://www.youtube.com/watch?v=pZ7dM_M43m8",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What type of region do pastoralists typically inhabit?",
+                "question": "What type of region do pastoralists typically inhabit?",
                 "options": {
-                  "1": "Urban cities",
-                  "2": "Coastal areas",
-                  "3": "Grasslands and deserts",
-                  "4": "Tropical forests"
+                  "A": "Urban cities",
+                  "B": "Coastal areas",
+                  "C": "Grasslands and deserts",
+                  "D": "Tropical forests"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which practice is vital for pastoralists?",
+                "question": "Which practice is vital for pastoralists?",
                 "options": {
-                  "1": "Agricultural irrigation",
-                  "2": "Group grazing",
-                  "3": "Seasonal migration",
-                  "4": "Permanent residency"
+                  "A": "Agricultural irrigation",
+                  "B": "Group grazing",
+                  "C": "Seasonal migration",
+                  "D": "Permanent residency"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What role does technology play in modern pastoralism?",
+                "question": "What role does technology play in modern pastoralism?",
                 "options": {
-                  "1": "No role",
-                  "2": "Enhances traditional methods",
-                  "3": "Replaces traditional practices",
-                  "4": "Only for urban pastoralists"
+                  "A": "No role",
+                  "B": "Enhances traditional methods",
+                  "C": "Replaces traditional practices",
+                  "D": "Only for urban pastoralists"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Pastoralist societies often rely on what type of governance?",
+                "question": "Pastoralist societies often rely on what type of governance?",
                 "options": {
-                  "1": "Democratic",
-                  "2": "Authoritarian",
-                  "3": "Tribal and decentralized",
-                  "4": "Socialist"
+                  "A": "Democratic",
+                  "B": "Authoritarian",
+                  "C": "Tribal and decentralized",
+                  "D": "Socialist"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "One of the challenges modern pastoralists face is:",
+                "question": "One of the challenges modern pastoralists face is:",
                 "options": {
-                  "1": "Continued support",
-                  "2": "Cultural preservation",
-                  "3": "Climate adaptation",
-                  "4": "Urban opportunities"
+                  "A": "Continued support",
+                  "B": "Cultural preservation",
+                  "C": "Climate adaptation",
+                  "D": "Urban opportunities"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               }
             ]
           },
           {
             "chapter_no": 5,
-            "chapter": "Pastoralists in the Modern World - Part 3",
-            "url": "https://www.youtube.com/watch?v=fr3Xg2bwHyo",
+            "chapter_name": "Pastoralists in the Modern World - Part 3",
+            "video_url": "https://www.youtube.com/watch?v=fr3Xg2bwHyo",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is a significant method of adapting to climate changes for pastoralists?",
+                "question": "What is a significant method of adapting to climate changes for pastoralists?",
                 "options": {
-                  "1": "Switching to crop growing",
-                  "2": "Government subsidies",
-                  "3": "Flexible herding practices",
-                  "4": "Reduced livestock numbers"
+                  "A": "Switching to crop growing",
+                  "B": "Government subsidies",
+                  "C": "Flexible herding practices",
+                  "D": "Reduced livestock numbers"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Modernization has led to:",
+                "question": "Modernization has led to:",
                 "options": {
-                  "1": "Total reliance on technology",
-                  "2": "A decline in pastoralism",
-                  "3": "Integration of traditional and modern practices",
-                  "4": "Disappearance of pastoral cultures"
+                  "A": "Total reliance on technology",
+                  "B": "A decline in pastoralism",
+                  "C": "Integration of traditional and modern practices",
+                  "D": "Disappearance of pastoral cultures"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Pastoralists mainly trade their livestock for what?",
+                "question": "Pastoralists mainly trade their livestock for what?",
                 "options": {
-                  "1": "Luxury items",
-                  "2": "Essential goods",
-                  "3": "Agricultural land",
-                  "4": "Technological gadgets"
+                  "A": "Luxury items",
+                  "B": "Essential goods",
+                  "C": "Agricultural land",
+                  "D": "Technological gadgets"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "How can pastoralists improve their livelihoods?",
+                "question": "How can pastoralists improve their livelihoods?",
                 "options": {
-                  "1": "Decreasing their livestock",
-                  "2": "Limit community access",
-                  "3": "Diversifying activities",
-                  "4": "Adhering strictly to traditions"
+                  "A": "Decreasing their livestock",
+                  "B": "Limit community access",
+                  "C": "Diversifying activities",
+                  "D": "Adhering strictly to traditions"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which participant is key in rural development?",
+                "question": "Which participant is key in rural development?",
                 "options": {
-                  "1": "Pastoralists",
-                  "2": "Urban planners",
-                  "3": "National governments",
-                  "4": "Private companies"
+                  "A": "Pastoralists",
+                  "B": "Urban planners",
+                  "C": "National governments",
+                  "D": "Private companies"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               }
             ]
           }
@@ -416,349 +416,349 @@
         "chapters": [
           {
             "chapter_no": 1,
-            "chapter": "India: Size and Location",
-            "url": "https://www.youtube.com/watch?v=UwTrh6KADx0",
+            "chapter_name": "India: Size and Location",
+            "video_url": "https://www.youtube.com/watch?v=UwTrh6KADx0",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the total area of India?",
+                "question": "What is the total area of India?",
                 "options": {
-                  "1": "2.4 million sq km",
-                  "2": "3.286 million sq km",
-                  "3": "2 million sq km",
-                  "4": "2.9 million sq km"
+                  "A": "2.4 million sq km",
+                  "B": "3.286 million sq km",
+                  "C": "2 million sq km",
+                  "D": "2.9 million sq km"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which latitude is the Tropic of Cancer located?",
+                "question": "Which latitude is the Tropic of Cancer located?",
                 "options": {
-                  "1": "23.5° N",
-                  "2": "30° N",
-                  "3": "15° N",
-                  "4": "25° N"
+                  "A": "23.5° N",
+                  "B": "30° N",
+                  "C": "15° N",
+                  "D": "25° N"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What is India's geographical position?",
+                "question": "What is India's geographical position?",
                 "options": {
-                  "1": "Only in the Northern Hemisphere",
-                  "2": "Equatorial",
-                  "3": "Partly in Northern and Southern Hemisphere",
-                  "4": "Desert"
+                  "A": "Only in the Northern Hemisphere",
+                  "B": "Equatorial",
+                  "C": "Partly in Northern and Southern Hemisphere",
+                  "D": "Desert"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which ocean lies to the south of India?",
+                "question": "Which ocean lies to the south of India?",
                 "options": {
-                  "1": "Atlantic Ocean",
-                  "2": "Indian Ocean",
-                  "3": "Arctic Ocean",
-                  "4": "Pacific Ocean"
+                  "A": "Atlantic Ocean",
+                  "B": "Indian Ocean",
+                  "C": "Arctic Ocean",
+                  "D": "Pacific Ocean"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which country lies to the north of India?",
+                "question": "Which country lies to the north of India?",
                 "options": {
-                  "1": "Bangladesh",
-                  "2": "Pakistan",
-                  "3": "China",
-                  "4": "Nepal"
+                  "A": "Bangladesh",
+                  "B": "Pakistan",
+                  "C": "China",
+                  "D": "Nepal"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               }
             ]
           },
           {
             "chapter_no": 2,
-            "chapter": "Physical Features of India",
-            "url": "https://www.youtube.com/watch?v=kkfFIP6r6Mw",
+            "chapter_name": "Physical Features of India",
+            "video_url": "https://www.youtube.com/watch?v=kkfFIP6r6Mw",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "Which mountain range runs along the northern border of India?",
+                "question": "Which mountain range runs along the northern border of India?",
                 "options": {
-                  "1": "Western Ghats",
-                  "2": "Eastern Ghats",
-                  "3": "Himalayas",
-                  "4": "Aravalli Range"
+                  "A": "Western Ghats",
+                  "B": "Eastern Ghats",
+                  "C": "Himalayas",
+                  "D": "Aravalli Range"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What type of climate is found in the Thar Desert?",
+                "question": "What type of climate is found in the Thar Desert?",
                 "options": {
-                  "1": "Tropical",
-                  "2": "Temperate",
-                  "3": "Arid",
-                  "4": "Mediterranean"
+                  "A": "Tropical",
+                  "B": "Temperate",
+                  "C": "Arid",
+                  "D": "Mediterranean"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which river is known as the 'Ganges of the South'?",
+                "question": "Which river is known as the 'Ganges of the South'?",
                 "options": {
-                  "1": "Godavari",
-                  "2": "Krishna",
-                  "3": "Kaveri",
-                  "4": "Mahanadi"
+                  "A": "Godavari",
+                  "B": "Krishna",
+                  "C": "Kaveri",
+                  "D": "Mahanadi"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What landform predominates in northeastern India?",
+                "question": "What landform predominates in northeastern India?",
                 "options": {
-                  "1": "Plains",
-                  "2": "Plateaus",
-                  "3": "Hills",
-                  "4": "Deserts"
+                  "A": "Plains",
+                  "B": "Plateaus",
+                  "C": "Hills",
+                  "D": "Deserts"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which is the largest river basin in India?",
+                "question": "Which is the largest river basin in India?",
                 "options": {
-                  "1": "Godavari Basin",
-                  "2": "Ganges Basin",
-                  "3": "Brahmaputra Basin",
-                  "4": "Krishna Basin"
+                  "A": "Godavari Basin",
+                  "B": "Ganges Basin",
+                  "C": "Brahmaputra Basin",
+                  "D": "Krishna Basin"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 3,
-            "chapter": "Drainage",
-            "url": "https://www.youtube.com/watch?v=rI45OrEpiRY",
+            "chapter_name": "Drainage",
+            "video_url": "https://www.youtube.com/watch?v=rI45OrEpiRY",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the primary drainage system of India?",
+                "question": "What is the primary drainage system of India?",
                 "options": {
-                  "1": "Eastern slopes rivers",
-                  "2": "Peninsular rivers",
-                  "3": "Indus River System",
-                  "4": "Ganges River System"
+                  "A": "Eastern slopes rivers",
+                  "B": "Peninsular rivers",
+                  "C": "Indus River System",
+                  "D": "Ganges River System"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               },
               {
-                "quiz_question": "Which river is the longest river in India?",
+                "question": "Which river is the longest river in India?",
                 "options": {
-                  "1": "Yamuna",
-                  "2": "Ganges",
-                  "3": "Godavari",
-                  "4": "Brahmaputra"
+                  "A": "Yamuna",
+                  "B": "Ganges",
+                  "C": "Godavari",
+                  "D": "Brahmaputra"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is a defining characteristic of the Himalayan rivers?",
+                "question": "What is a defining characteristic of the Himalayan rivers?",
                 "options": {
-                  "1": "They are perennial",
-                  "2": "They are seasonal",
-                  "3": "They are slow-flowing",
-                  "4": "They are narrow"
+                  "A": "They are perennial",
+                  "B": "They are seasonal",
+                  "C": "They are slow-flowing",
+                  "D": "They are narrow"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What type of river is the Narmada?",
+                "question": "What type of river is the Narmada?",
                 "options": {
-                  "1": "Perennial",
-                  "2": "Intermittent",
-                  "3": "Seasonal",
-                  "4": "Ephemeral"
+                  "A": "Perennial",
+                  "B": "Intermittent",
+                  "C": "Seasonal",
+                  "D": "Ephemeral"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which river is known as 'Saraswati'?",
+                "question": "Which river is known as 'Saraswati'?",
                 "options": {
-                  "1": "Ganges",
-                  "2": "Sindhu",
-                  "3": "Yamuna",
-                  "4": "Saraswati"
+                  "A": "Ganges",
+                  "B": "Sindhu",
+                  "C": "Yamuna",
+                  "D": "Saraswati"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               }
             ]
           },
           {
             "chapter_no": 4,
-            "chapter": "Climate",
-            "url": "https://www.youtube.com/watch?v=HEGUtvdMntQ",
+            "chapter_name": "Climate",
+            "video_url": "https://www.youtube.com/watch?v=HEGUtvdMntQ",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What are the main seasons in India?",
+                "question": "What are the main seasons in India?",
                 "options": {
-                  "1": "Winter and Spring",
-                  "2": "Summer and Monsoon",
-                  "3": "Tropical and Arid",
-                  "4": "Cold and Hot"
+                  "A": "Winter and Spring",
+                  "B": "Summer and Monsoon",
+                  "C": "Tropical and Arid",
+                  "D": "Cold and Hot"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which climate type predominates in India?",
+                "question": "Which climate type predominates in India?",
                 "options": {
-                  "1": "Arid",
-                  "2": "Temperate",
-                  "3": "Tropical",
-                  "4": "Polar"
+                  "A": "Arid",
+                  "B": "Temperate",
+                  "C": "Tropical",
+                  "D": "Polar"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "When does the southwest monsoon typically arrive in India?",
+                "question": "When does the southwest monsoon typically arrive in India?",
                 "options": {
-                  "1": "January",
-                  "2": "June",
-                  "3": "September",
-                  "4": "February"
+                  "A": "January",
+                  "B": "June",
+                  "C": "September",
+                  "D": "February"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the average rainfall in India?",
+                "question": "What is the average rainfall in India?",
                 "options": {
-                  "1": "750 mm",
-                  "2": "1000 mm",
-                  "3": "1500 mm",
-                  "4": "2000 mm"
+                  "A": "750 mm",
+                  "B": "1000 mm",
+                  "C": "1500 mm",
+                  "D": "2000 mm"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which part of India receives the highest rainfall?",
+                "question": "Which part of India receives the highest rainfall?",
                 "options": {
-                  "1": "Western Rajasthan",
-                  "2": "Eastern Himalayas",
-                  "3": "Gujarat",
-                  "4": "Coastal regions"
+                  "A": "Western Rajasthan",
+                  "B": "Eastern Himalayas",
+                  "C": "Gujarat",
+                  "D": "Coastal regions"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 5,
-            "chapter": "Natural Vegetation and Wildlife",
-            "url": "https://www.youtube.com/watch?v=2d7UIyyIHhk",
+            "chapter_name": "Natural Vegetation and Wildlife",
+            "video_url": "https://www.youtube.com/watch?v=2d7UIyyIHhk",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What type of vegetation is found in the Himalayan region?",
+                "question": "What type of vegetation is found in the Himalayan region?",
                 "options": {
-                  "1": "Tropical deciduous",
-                  "2": "Tropical evergreen",
-                  "3": "Mountainous",
-                  "4": "Scrub"
+                  "A": "Tropical deciduous",
+                  "B": "Tropical evergreen",
+                  "C": "Mountainous",
+                  "D": "Scrub"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which forest type is prevalent in India?",
+                "question": "Which forest type is prevalent in India?",
                 "options": {
-                  "1": "Coniferous",
-                  "2": "Deciduous",
-                  "3": "Tundra",
-                  "4": "Mangroves"
+                  "A": "Coniferous",
+                  "B": "Deciduous",
+                  "C": "Tundra",
+                  "D": "Mangroves"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the primary cause of deforestation in India?",
+                "question": "What is the primary cause of deforestation in India?",
                 "options": {
-                  "1": "Urbanization",
-                  "2": "Industrialization",
-                  "3": "Agricultural expansion",
-                  "4": "Natural disasters"
+                  "A": "Urbanization",
+                  "B": "Industrialization",
+                  "C": "Agricultural expansion",
+                  "D": "Natural disasters"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "Which wildlife is endemic to the Western Ghats?",
+                "question": "Which wildlife is endemic to the Western Ghats?",
                 "options": {
-                  "1": "Tiger",
-                  "2": "Asiatic elephant",
-                  "3": "Bengal tiger",
-                  "4": "Polar bear"
+                  "A": "Tiger",
+                  "B": "Asiatic elephant",
+                  "C": "Bengal tiger",
+                  "D": "Polar bear"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the significance of mangroves?",
+                "question": "What is the significance of mangroves?",
                 "options": {
-                  "1": "Provide shelter to wildlife",
-                  "2": "Contribute to fishing",
-                  "3": "Combat soil erosion",
-                  "4": "All of the above"
+                  "A": "Provide shelter to wildlife",
+                  "B": "Contribute to fishing",
+                  "C": "Combat soil erosion",
+                  "D": "All of the above"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               }
             ]
           },
           {
             "chapter_no": 6,
-            "chapter": "Population",
-            "url": "https://www.youtube.com/watch?v=Oj_aKrVyZNo",
+            "chapter_name": "Population",
+            "video_url": "https://www.youtube.com/watch?v=Oj_aKrVyZNo",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the most populous state in India?",
+                "question": "What is the most populous state in India?",
                 "options": {
-                  "1": "Maharashtra",
-                  "2": "Uttar Pradesh",
-                  "3": "Bihar",
-                  "4": "West Bengal"
+                  "A": "Maharashtra",
+                  "B": "Uttar Pradesh",
+                  "C": "Bihar",
+                  "D": "West Bengal"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the sex ratio of India?",
+                "question": "What is the sex ratio of India?",
                 "options": {
-                  "1": "940 females per 1000 males",
-                  "2": "1020 females per 1000 males",
-                  "3": "900 females per 1000 males",
-                  "4": "960 females per 1000 males"
+                  "A": "940 females per 1000 males",
+                  "B": "1020 females per 1000 males",
+                  "C": "900 females per 1000 males",
+                  "D": "960 females per 1000 males"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which age group forms the largest demographic in India?",
+                "question": "Which age group forms the largest demographic in India?",
                 "options": {
-                  "1": "Children",
-                  "2": "Working-age individuals",
-                  "3": "Elderly",
-                  "4": "Teenagers"
+                  "A": "Children",
+                  "B": "Working-age individuals",
+                  "C": "Elderly",
+                  "D": "Teenagers"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the population growth rate of India as of 2023?",
+                "question": "What is the population growth rate of India as of 2023?",
                 "options": {
-                  "1": "1.5%",
-                  "2": "0.8%",
-                  "3": "1.0%",
-                  "4": "2.0%"
+                  "A": "1.5%",
+                  "B": "0.8%",
+                  "C": "1.0%",
+                  "D": "2.0%"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which factor significantly affects population distribution?",
+                "question": "Which factor significantly affects population distribution?",
                 "options": {
-                  "1": "Climate",
-                  "2": "Urbanization",
-                  "3": "Employment opportunities",
-                  "4": "All of the above"
+                  "A": "Climate",
+                  "B": "Urbanization",
+                  "C": "Employment opportunities",
+                  "D": "All of the above"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               }
             ]
           }
@@ -769,291 +769,291 @@
         "chapters": [
           {
             "chapter_no": 1,
-            "chapter": "What is Democracy? Why Democracy?",
-            "url": "https://www.youtube.com/watch?v=y-W_8C7RMCA",
+            "chapter_name": "What is Democracy? Why Democracy?",
+            "video_url": "https://www.youtube.com/watch?v=y-W_8C7RMCA",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is a defining feature of democracy?",
+                "question": "What is a defining feature of democracy?",
                 "options": {
-                  "1": "Absence of government",
-                  "2": "People's participation",
-                  "3": "Constitutional monarchy",
-                  "4": "Centralized power"
+                  "A": "Absence of government",
+                  "B": "People's participation",
+                  "C": "Constitutional monarchy",
+                  "D": "Centralized power"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which principle underpins democratic governance?",
+                "question": "Which principle underpins democratic governance?",
                 "options": {
-                  "1": "Autocracy",
-                  "2": "Equality before law",
-                  "3": "Divine right of kings",
-                  "4": "Social hierarchy"
+                  "A": "Autocracy",
+                  "B": "Equality before law",
+                  "C": "Divine right of kings",
+                  "D": "Social hierarchy"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What does 'representation' mean in a democratic context?",
+                "question": "What does 'representation' mean in a democratic context?",
                 "options": {
-                  "1": "Absence of elections",
-                  "2": "Decision-making by a few",
-                  "3": "Direct governance by citizens",
-                  "4": "Elected officials act on behalf of citizens"
+                  "A": "Absence of elections",
+                  "B": "Decision-making by a few",
+                  "C": "Direct governance by citizens",
+                  "D": "Elected officials act on behalf of citizens"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               },
               {
-                "quiz_question": "What is essential for the functioning of democracy?",
+                "question": "What is essential for the functioning of democracy?",
                 "options": {
-                  "1": "Censorship",
-                  "2": "Freedom of expression",
-                  "3": "Authoritarian rule",
-                  "4": "Political monopolies"
+                  "A": "Censorship",
+                  "B": "Freedom of expression",
+                  "C": "Authoritarian rule",
+                  "D": "Political monopolies"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Why is democracy preferred over other forms of governance?",
+                "question": "Why is democracy preferred over other forms of governance?",
                 "options": {
-                  "1": "It ensures equal power for few individuals",
-                  "2": "It secures individual rights",
-                  "3": "It limits citizen participation",
-                  "4": "It creates social disparities"
+                  "A": "It ensures equal power for few individuals",
+                  "B": "It secures individual rights",
+                  "C": "It limits citizen participation",
+                  "D": "It creates social disparities"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 2,
-            "chapter": "Constitutional Design",
-            "url": "https://www.youtube.com/watch?v=Bt7wIfqP2qY",
+            "chapter_name": "Constitutional Design",
+            "video_url": "https://www.youtube.com/watch?v=Bt7wIfqP2qY",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the Constitution?",
+                "question": "What is the Constitution?",
                 "options": {
-                  "1": "A law passed by parliament",
-                  "2": "A set of fundamental principles",
-                  "3": "A declaration of independence",
-                  "4": "A political manifesto"
+                  "A": "A law passed by parliament",
+                  "B": "A set of fundamental principles",
+                  "C": "A declaration of independence",
+                  "D": "A political manifesto"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is one primary purpose of a Constitution?",
+                "question": "What is one primary purpose of a Constitution?",
                 "options": {
-                  "1": "To establish a monarchy",
-                  "2": "To create a framework for governance",
-                  "3": "To promote undemocratic practices",
-                  "4": "To enforce religious laws"
+                  "A": "To establish a monarchy",
+                  "B": "To create a framework for governance",
+                  "C": "To promote undemocratic practices",
+                  "D": "To enforce religious laws"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What does federalism mean in the context of the Indian Constitution?",
+                "question": "What does federalism mean in the context of the Indian Constitution?",
                 "options": {
-                  "1": "Centralized power",
-                  "2": "Division of powers between state and central government",
-                  "3": "Absolute monarchy",
-                  "4": "Socialism"
+                  "A": "Centralized power",
+                  "B": "Division of powers between state and central government",
+                  "C": "Absolute monarchy",
+                  "D": "Socialism"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which document outlines the fundamental rights of citizens?",
+                "question": "Which document outlines the fundamental rights of citizens?",
                 "options": {
-                  "1": "Directive Principles",
-                  "2": "Preamble",
-                  "3": "Bill of Rights",
-                  "4": "Constitution"
+                  "A": "Directive Principles",
+                  "B": "Preamble",
+                  "C": "Bill of Rights",
+                  "D": "Constitution"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               },
               {
-                "quiz_question": "How is the Constitution amended in India?",
+                "question": "How is the Constitution amended in India?",
                 "options": {
-                  "1": "By a simple majority",
-                  "2": "By a two-thirds majority",
-                  "3": "Unilaterally by the President",
-                  "4": "Through public referendum"
+                  "A": "By a simple majority",
+                  "B": "By a two-thirds majority",
+                  "C": "Unilaterally by the President",
+                  "D": "Through public referendum"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 3,
-            "chapter": "Electoral Politics",
-            "url": "https://www.youtube.com/watch?v=-Q6RbFTvQws",
+            "chapter_name": "Electoral Politics",
+            "video_url": "https://www.youtube.com/watch?v=-Q6RbFTvQws",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the importance of elections in a democracy?",
+                "question": "What is the importance of elections in a democracy?",
                 "options": {
-                  "1": "A tool for political manipulation",
-                  "2": "A means for citizen participation",
-                  "3": "A method to limit governance",
-                  "4": "A response to economic issues"
+                  "A": "A tool for political manipulation",
+                  "B": "A means for citizen participation",
+                  "C": "A method to limit governance",
+                  "D": "A response to economic issues"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the voting age in India?",
+                "question": "What is the voting age in India?",
                 "options": {
-                  "1": "18 years",
-                  "2": "21 years",
-                  "3": "25 years",
-                  "4": "16 years"
+                  "A": "18 years",
+                  "B": "21 years",
+                  "C": "25 years",
+                  "D": "16 years"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What is the role of the Election Commission?",
+                "question": "What is the role of the Election Commission?",
                 "options": {
-                  "1": "To conduct fair elections",
-                  "2": "To formulate party policies",
-                  "3": "To appoint the Prime Minister",
-                  "4": "To draft laws"
+                  "A": "To conduct fair elections",
+                  "B": "To formulate party policies",
+                  "C": "To appoint the Prime Minister",
+                  "D": "To draft laws"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What is the first step in the electoral process?",
+                "question": "What is the first step in the electoral process?",
                 "options": {
-                  "1": "Campaigning",
-                  "2": "Voting",
-                  "3": "Nominations",
-                  "4": "Electoral Roll"
+                  "A": "Campaigning",
+                  "B": "Voting",
+                  "C": "Nominations",
+                  "D": "Electoral Roll"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What is a common voting method used in India?",
+                "question": "What is a common voting method used in India?",
                 "options": {
-                  "1": "Direct voting",
-                  "2": "Proportional voting",
-                  "3": "Secret ballot",
-                  "4": "Open voting"
+                  "A": "Direct voting",
+                  "B": "Proportional voting",
+                  "C": "Secret ballot",
+                  "D": "Open voting"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               }
             ]
           },
           {
             "chapter_no": 4,
-            "chapter": "Working of Institutions",
-            "url": "https://www.youtube.com/watch?v=XFK9LvVo06k",
+            "chapter_name": "Working of Institutions",
+            "video_url": "https://www.youtube.com/watch?v=XFK9LvVo06k",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is the function of the Parliament?",
+                "question": "What is the function of the Parliament?",
                 "options": {
-                  "1": "To create laws",
-                  "2": "To enforce laws",
-                  "3": "To mediate disputes",
-                  "4": "To execute policies"
+                  "A": "To create laws",
+                  "B": "To enforce laws",
+                  "C": "To mediate disputes",
+                  "D": "To execute policies"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which institution is responsible for the implementation of laws?",
+                "question": "Which institution is responsible for the implementation of laws?",
                 "options": {
-                  "1": "Judiciary",
-                  "2": "Legislature",
-                  "3": "Executive",
-                  "4": "Civil Society"
+                  "A": "Judiciary",
+                  "B": "Legislature",
+                  "C": "Executive",
+                  "D": "Civil Society"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "How does the Judiciary function in a democracy?",
+                "question": "How does the Judiciary function in a democracy?",
                 "options": {
-                  "1": "Supports the government",
-                  "2": "Is independent and impartial",
-                  "3": "Is subject to public opinion",
-                  "4": "Is led by elected representatives"
+                  "A": "Supports the government",
+                  "B": "Is independent and impartial",
+                  "C": "Is subject to public opinion",
+                  "D": "Is led by elected representatives"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the role of the President in India?",
+                "question": "What is the role of the President in India?",
                 "options": {
-                  "1": "Head of State with ceremonial functions",
-                  "2": "Executive leader",
-                  "3": "Judicial officer",
-                  "4": "Legislative leader"
+                  "A": "Head of State with ceremonial functions",
+                  "B": "Executive leader",
+                  "C": "Judicial officer",
+                  "D": "Legislative leader"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Institutional checks and balances are meant to:",
+                "question": "Institutional checks and balances are meant to:",
                 "options": {
-                  "1": "Consolidate power",
-                  "2": "Maintain accountability",
-                  "3": "Suppress criticism",
-                  "4": "Limit public engagement"
+                  "A": "Consolidate power",
+                  "B": "Maintain accountability",
+                  "C": "Suppress criticism",
+                  "D": "Limit public engagement"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 5,
-            "chapter": "Democratic Rights",
-            "url": "https://www.youtube.com/watch?v=m7yygYZMQkg",
+            "chapter_name": "Democratic Rights",
+            "video_url": "https://www.youtube.com/watch?v=m7yygYZMQkg",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What are democratic rights?",
+                "question": "What are democratic rights?",
                 "options": {
-                  "1": "Rights granted by the government",
-                  "2": "Fundamental human rights",
-                  "3": "Privileges of the elite",
-                  "4": "Temporary permissions"
+                  "A": "Rights granted by the government",
+                  "B": "Fundamental human rights",
+                  "C": "Privileges of the elite",
+                  "D": "Temporary permissions"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which fundamental right protects the freedom of speech?",
+                "question": "Which fundamental right protects the freedom of speech?",
                 "options": {
-                  "1": "Right to equality",
-                  "2": "Right to freedom",
-                  "3": "Right to protection",
-                  "4": "Right to constitutional remedies"
+                  "A": "Right to equality",
+                  "B": "Right to freedom",
+                  "C": "Right to protection",
+                  "D": "Right to constitutional remedies"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the significance of the right to constitutional remedies?",
+                "question": "What is the significance of the right to constitutional remedies?",
                 "options": {
-                  "1": "It guarantees governmental power",
-                  "2": "It allows citizens to approach the courts",
-                  "3": "It is subject to legislative approval",
-                  "4": "It is limited to politically privileged"
+                  "A": "It guarantees governmental power",
+                  "B": "It allows citizens to approach the courts",
+                  "C": "It is subject to legislative approval",
+                  "D": "It is limited to politically privileged"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which of the following is not a fundamental right?",
+                "question": "Which of the following is not a fundamental right?",
                 "options": {
-                  "1": "Right to education",
-                  "2": "Right to work",
-                  "3": "Right to property",
-                  "4": "Right to vote"
+                  "A": "Right to education",
+                  "B": "Right to work",
+                  "C": "Right to property",
+                  "D": "Right to vote"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "How can citizens exercise their rights?",
+                "question": "How can citizens exercise their rights?",
                 "options": {
-                  "1": "By engaging in protests",
-                  "2": "By following laws",
-                  "3": "By voting",
-                  "4": "All of the above"
+                  "A": "By engaging in protests",
+                  "B": "By following laws",
+                  "C": "By voting",
+                  "D": "All of the above"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               }
             ]
           }
@@ -1064,233 +1064,233 @@
         "chapters": [
           {
             "chapter_no": 1,
-            "chapter": "The Story of Village Palampur",
-            "url": "https://www.youtube.com/watch?v=R4z5qEoEMnM",
+            "chapter_name": "The Story of Village Palampur",
+            "video_url": "https://www.youtube.com/watch?v=R4z5qEoEMnM",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What primarily characterizes the village of Palampur?",
+                "question": "What primarily characterizes the village of Palampur?",
                 "options": {
-                  "1": "Industrialization",
-                  "2": "Agricultural practices",
-                  "3": "Urban development",
-                  "4": "Mining activities"
+                  "A": "Industrialization",
+                  "B": "Agricultural practices",
+                  "C": "Urban development",
+                  "D": "Mining activities"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What are the main crops grown in Palampur?",
+                "question": "What are the main crops grown in Palampur?",
                 "options": {
-                  "1": "Rice and wheat",
-                  "2": "Cotton and coffee",
-                  "3": "Sugarcane and tea",
-                  "4": "Millets and pulses"
+                  "A": "Rice and wheat",
+                  "B": "Cotton and coffee",
+                  "C": "Sugarcane and tea",
+                  "D": "Millets and pulses"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "What type of farming is predominant in Palampur?",
+                "question": "What type of farming is predominant in Palampur?",
                 "options": {
-                  "1": "Commercial agriculture",
-                  "2": "Subsistence farming",
-                  "3": "Intensive farming",
-                  "4": "Organic farming"
+                  "A": "Commercial agriculture",
+                  "B": "Subsistence farming",
+                  "C": "Intensive farming",
+                  "D": "Organic farming"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What is a common method of irrigation in Palampur?",
+                "question": "What is a common method of irrigation in Palampur?",
                 "options": {
-                  "1": "Drip irrigation",
-                  "2": "Canal irrigation",
-                  "3": "Rainfed",
-                  "4": "Flood irrigation"
+                  "A": "Drip irrigation",
+                  "B": "Canal irrigation",
+                  "C": "Rainfed",
+                  "D": "Flood irrigation"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "How does the village economy function?",
+                "question": "How does the village economy function?",
                 "options": {
-                  "1": "Only through agriculture",
-                  "2": "Based on trade and services",
-                  "3": "Through primary and secondary sectors",
-                  "4": "Only reliant on local industries"
+                  "A": "Only through agriculture",
+                  "B": "Based on trade and services",
+                  "C": "Through primary and secondary sectors",
+                  "D": "Only reliant on local industries"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               }
             ]
           },
           {
             "chapter_no": 2,
-            "chapter": "People as Resource",
-            "url": "https://www.youtube.com/watch?v=KqDMoFPI6uY",
+            "chapter_name": "People as Resource",
+            "video_url": "https://www.youtube.com/watch?v=KqDMoFPI6uY",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What does the term 'human resource' refer to?",
+                "question": "What does the term 'human resource' refer to?",
                 "options": {
-                  "1": "Natural resources",
-                  "2": "Labor force",
-                  "3": "Capital",
-                  "4": "Natural gifts"
+                  "A": "Natural resources",
+                  "B": "Labor force",
+                  "C": "Capital",
+                  "D": "Natural gifts"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "How can education enhance human resources?",
+                "question": "How can education enhance human resources?",
                 "options": {
-                  "1": "By reducing employment",
-                  "2": "By improving skills and productivity",
-                  "3": "By distributing wealth",
-                  "4": "By increasing population"
+                  "A": "By reducing employment",
+                  "B": "By improving skills and productivity",
+                  "C": "By distributing wealth",
+                  "D": "By increasing population"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the main aim of workforce development?",
+                "question": "What is the main aim of workforce development?",
                 "options": {
-                  "1": "To create unemployment",
-                  "2": "To advance skills",
-                  "3": "To limit education",
-                  "4": "To promote hierarchy"
+                  "A": "To create unemployment",
+                  "B": "To advance skills",
+                  "C": "To limit education",
+                  "D": "To promote hierarchy"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the role of women in the economy?",
+                "question": "What is the role of women in the economy?",
                 "options": {
-                  "1": "Limited contribution",
-                  "2": "Equal role",
-                  "3": "Lower wages",
-                  "4": "Priority in labor force"
+                  "A": "Limited contribution",
+                  "B": "Equal role",
+                  "C": "Lower wages",
+                  "D": "Priority in labor force"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What does demographic dividend refer to?",
+                "question": "What does demographic dividend refer to?",
                 "options": {
-                  "1": "Population decline",
-                  "2": "Youth population dynamic",
-                  "3": "High unemployment",
-                  "4": "Older workforce"
+                  "A": "Population decline",
+                  "B": "Youth population dynamic",
+                  "C": "High unemployment",
+                  "D": "Older workforce"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 3,
-            "chapter": "Poverty as a Challenge",
-            "url": "https://www.youtube.com/watch?v=drBMgu-FgfA",
+            "chapter_name": "Poverty as a Challenge",
+            "video_url": "https://www.youtube.com/watch?v=drBMgu-FgfA",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is a significant measure of poverty?",
+                "question": "What is a significant measure of poverty?",
                 "options": {
-                  "1": "Income level",
-                  "2": "Education level",
-                  "3": "Employment status",
-                  "4": "Wealth distribution"
+                  "A": "Income level",
+                  "B": "Education level",
+                  "C": "Employment status",
+                  "D": "Wealth distribution"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which type of poverty refers to severe deprivation of basic human needs?",
+                "question": "Which type of poverty refers to severe deprivation of basic human needs?",
                 "options": {
-                  "1": "Relative poverty",
-                  "2": "Absolute poverty",
-                  "3": "Chronic poverty",
-                  "4": "Seasonal poverty"
+                  "A": "Relative poverty",
+                  "B": "Absolute poverty",
+                  "C": "Chronic poverty",
+                  "D": "Seasonal poverty"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is the main effect of poverty on education?",
+                "question": "What is the main effect of poverty on education?",
                 "options": {
-                  "1": "Improves education quality",
-                  "2": "Reduces access to schooling",
-                  "3": "Promotes literacy",
-                  "4": "Guarantees equal opportunities"
+                  "A": "Improves education quality",
+                  "B": "Reduces access to schooling",
+                  "C": "Promotes literacy",
+                  "D": "Guarantees equal opportunities"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which group is most vulnerable to poverty?",
+                "question": "Which group is most vulnerable to poverty?",
                 "options": {
-                  "1": "Urban dwellers",
-                  "2": "The elderly",
-                  "3": "Children",
-                  "4": "Skilled workers"
+                  "A": "Urban dwellers",
+                  "B": "The elderly",
+                  "C": "Children",
+                  "D": "Skilled workers"
                 },
-                "correct_answer": "3"
+                "correct_answer": "C"
               },
               {
-                "quiz_question": "What is a common solution to reduce poverty?",
+                "question": "What is a common solution to reduce poverty?",
                 "options": {
-                  "1": "Lack of education",
-                  "2": "Job creation",
-                  "3": "Tax increases",
-                  "4": "Population control"
+                  "A": "Lack of education",
+                  "B": "Job creation",
+                  "C": "Tax increases",
+                  "D": "Population control"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           },
           {
             "chapter_no": 4,
-            "chapter": "Food Security in India",
-            "url": "https://www.youtube.com/watch?v=2kghu2NCQ6A",
+            "chapter_name": "Food Security in India",
+            "video_url": "https://www.youtube.com/watch?v=2kghu2NCQ6A",
             "channel": "Social School by Unacademy",
             "questions": [
               {
-                "quiz_question": "What is meant by food security?",
+                "question": "What is meant by food security?",
                 "options": {
-                  "1": "Access to food for all",
-                  "2": "Availability of food",
-                  "3": "Quality of food",
-                  "4": "Stability of food prices"
+                  "A": "Access to food for all",
+                  "B": "Availability of food",
+                  "C": "Quality of food",
+                  "D": "Stability of food prices"
                 },
-                "correct_answer": "1"
+                "correct_answer": "A"
               },
               {
-                "quiz_question": "Which scheme aims to enhance food security?",
+                "question": "Which scheme aims to enhance food security?",
                 "options": {
-                  "1": "Mahatma Gandhi National Rural Employment Guarantee Act",
-                  "2": "National Food Security Act",
-                  "3": "Pradhan Mantri Awas Yojana",
-                  "4": "Swachh Bharat Abhiyan"
+                  "A": "Mahatma Gandhi National Rural Employment Guarantee Act",
+                  "B": "National Food Security Act",
+                  "C": "Pradhan Mantri Awas Yojana",
+                  "D": "Swachh Bharat Abhiyan"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "What is a major cause of food insecurity?",
+                "question": "What is a major cause of food insecurity?",
                 "options": {
-                  "1": "Increased agricultural productivity",
-                  "2": "Natural disasters",
-                  "3": "Improved distribution",
-                  "4": "Government policies"
+                  "A": "Increased agricultural productivity",
+                  "B": "Natural disasters",
+                  "C": "Improved distribution",
+                  "D": "Government policies"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               },
               {
-                "quiz_question": "Which crop is considered a staple food in India?",
+                "question": "Which crop is considered a staple food in India?",
                 "options": {
-                  "1": "Wheat",
-                  "2": "Soybean",
-                  "3": "Barley",
-                  "4": "Rice"
+                  "A": "Wheat",
+                  "B": "Soybean",
+                  "C": "Barley",
+                  "D": "Rice"
                 },
-                "correct_answer": "4"
+                "correct_answer": "D"
               },
               {
-                "quiz_question": "What role does the Public Distribution System (PDS) play?",
+                "question": "What role does the Public Distribution System (PDS) play?",
                 "options": {
-                  "1": "Regulates prices",
-                  "2": "Distributes food grains",
-                  "3": "Enhances exports",
-                  "4": "Controls imports"
+                  "A": "Regulates prices",
+                  "B": "Distributes food grains",
+                  "C": "Enhances exports",
+                  "D": "Controls imports"
                 },
-                "correct_answer": "2"
+                "correct_answer": "B"
               }
             ]
           }

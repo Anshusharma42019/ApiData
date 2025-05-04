@@ -1,0 +1,355 @@
+{
+    "class": "9",
+    "subject": "Geography",
+    "channel": "CBSE Guidence",
+    "chapters":[
+        {
+            "chapter_no": 1,
+            "chapter_name": "India: Size and Location",
+            "video_url": "https://www.youtube.com/watch?v=CwzQFwJlrYM&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=5",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the total area of India?",
+                "options": {
+                  "A": "2.4 million sq km",
+                  "B": "3.286 million sq km",
+                  "C": "2 million sq km",
+                  "D": "2.9 million sq km"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which latitude is the Tropic of Cancer located?",
+                "options": {
+                  "A": "23.5° N",
+                  "B": "30° N",
+                  "C": "15° N",
+                  "D": "25° N"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is India's geographical position?",
+                "options": {
+                  "A": "Only in the Northern Hemisphere",
+                  "B": "Equatorial",
+                  "C": "Partly in Northern and Southern Hemisphere",
+                  "D": "Desert"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which ocean lies to the south of India?",
+                "options": {
+                  "A": "Atlantic Ocean",
+                  "B": "Indian Ocean",
+                  "C": "Arctic Ocean",
+                  "D": "Pacific Ocean"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which country lies to the north of India?",
+                "options": {
+                  "A": "Bangladesh",
+                  "B": "Pakistan",
+                  "C": "China",
+                  "D": "Nepal"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Physical Features of India",
+            "video_url": "https://www.youtube.com/watch?v=aZOIFfKykgw&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=6",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "Which mountain range runs along the northern border of India?",
+                "options": {
+                  "A": "Western Ghats",
+                  "B": "Eastern Ghats",
+                  "C": "Himalayas",
+                  "D": "Aravalli Range"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What type of climate is found in the Thar Desert?",
+                "options": {
+                  "A": "Tropical",
+                  "B": "Temperate",
+                  "C": "Arid",
+                  "D": "Mediterranean"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which river is known as the 'Ganges of the South'?",
+                "options": {
+                  "A": "Godavari",
+                  "B": "Krishna",
+                  "C": "Kaveri",
+                  "D": "Mahanadi"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What landform predominates in northeastern India?",
+                "options": {
+                  "A": "Plains",
+                  "B": "Plateaus",
+                  "C": "Hills",
+                  "D": "Deserts"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which is the largest river basin in India?",
+                "options": {
+                  "A": "Godavari Basin",
+                  "B": "Ganges Basin",
+                  "C": "Brahmaputra Basin",
+                  "D": "Krishna Basin"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Drainage",
+            "video_url": "https://www.youtube.com/watch?v=sLd6G8vI-E8&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=7",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the primary drainage system of India?",
+                "options": {
+                  "A": "Eastern slopes rivers",
+                  "B": "Peninsular rivers",
+                  "C": "Indus River System",
+                  "D": "Ganges River System"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "Which river is the longest river in India?",
+                "options": {
+                  "A": "Yamuna",
+                  "B": "Ganges",
+                  "C": "Godavari",
+                  "D": "Brahmaputra"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a defining characteristic of the Himalayan rivers?",
+                "options": {
+                  "A": "They are perennial",
+                  "B": "They are seasonal",
+                  "C": "They are slow-flowing",
+                  "D": "They are narrow"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What type of river is the Narmada?",
+                "options": {
+                  "A": "Perennial",
+                  "B": "Intermittent",
+                  "C": "Seasonal",
+                  "D": "Ephemeral"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which river is known as 'Saraswati'?",
+                "options": {
+                  "A": "Ganges",
+                  "B": "Sindhu",
+                  "C": "Yamuna",
+                  "D": "Saraswati"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Climate",
+            "video_url": "https://www.youtube.com/watch?v=C5sw3gLE3k4&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=8",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What are the main seasons in India?",
+                "options": {
+                  "A": "Winter and Spring",
+                  "B": "Summer and Monsoon",
+                  "C": "Tropical and Arid",
+                  "D": "Cold and Hot"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which climate type predominates in India?",
+                "options": {
+                  "A": "Arid",
+                  "B": "Temperate",
+                  "C": "Tropical",
+                  "D": "Polar"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "When does the southwest monsoon typically arrive in India?",
+                "options": {
+                  "A": "January",
+                  "B": "June",
+                  "C": "September",
+                  "D": "February"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the average rainfall in India?",
+                "options": {
+                  "A": "750 mm",
+                  "B": "1000 mm",
+                  "C": "1500 mm",
+                  "D": "2000 mm"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which part of India receives the highest rainfall?",
+                "options": {
+                  "A": "Western Rajasthan",
+                  "B": "Eastern Himalayas",
+                  "C": "Gujarat",
+                  "D": "Coastal regions"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Natural Vegetation and Wildlife",
+            "video_url": "https://www.youtube.com/watch?v=H8dt_ae4g4k&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=9",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What type of vegetation is found in the Himalayan region?",
+                "options": {
+                  "A": "Tropical deciduous",
+                  "B": "Tropical evergreen",
+                  "C": "Mountainous",
+                  "D": "Scrub"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which forest type is prevalent in India?",
+                "options": {
+                  "A": "Coniferous",
+                  "B": "Deciduous",
+                  "C": "Tundra",
+                  "D": "Mangroves"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the primary cause of deforestation in India?",
+                "options": {
+                  "A": "Urbanization",
+                  "B": "Industrialization",
+                  "C": "Agricultural expansion",
+                  "D": "Natural disasters"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which wildlife is endemic to the Western Ghats?",
+                "options": {
+                  "A": "Tiger",
+                  "B": "Asiatic elephant",
+                  "C": "Bengal tiger",
+                  "D": "Polar bear"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the significance of mangroves?",
+                "options": {
+                  "A": "Provide shelter to wildlife",
+                  "B": "Contribute to fishing",
+                  "C": "Combat soil erosion",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          },
+          {
+            "chapter_no": 6,
+            "chapter_name": "Population",
+            "video_url": "https://www.youtube.com/watch?v=6nppIEsHkqg&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=20",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the most populous state in India?",
+                "options": {
+                  "A": "Maharashtra",
+                  "B": "Uttar Pradesh",
+                  "C": "Bihar",
+                  "D": "West Bengal"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the sex ratio of India?",
+                "options": {
+                  "A": "940 females per 1000 males",
+                  "B": "1020 females per 1000 males",
+                  "C": "900 females per 1000 males",
+                  "D": "960 females per 1000 males"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which age group forms the largest demographic in India?",
+                "options": {
+                  "A": "Children",
+                  "B": "Working-age individuals",
+                  "C": "Elderly",
+                  "D": "Teenagers"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the population growth rate of India as of 2023?",
+                "options": {
+                  "A": "1.5%",
+                  "B": "0.8%",
+                  "C": "1.0%",
+                  "D": "2.0%"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which factor significantly affects population distribution?",
+                "options": {
+                  "A": "Climate",
+                  "B": "Urbanization",
+                  "C": "Employment opportunities",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          }
+    ]
+}

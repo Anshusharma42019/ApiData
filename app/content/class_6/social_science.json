@@ -1,233 +1,1605 @@
 {
-    "class": 6,
-    "subject": "Social Studies",
-    "source": "Pebbles CBSE Board Syllabus YouTube Playlist",
-    "total_chapters": 28,
-    "total_videos": 28,
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "The Earth in the Solar System",
-        "video": {
-          "title": "The earth in the solar system full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=tPOarkxW0Nw"
+  "class": 6,
+  "subject": "Social Studies",
+  "channel": "Pebbles CBSE Board Syllabus",
+  "total_chapters": 28,
+  "total_videos": 28,
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "The Earth in the Solar System",
+      "video_url": "https://www.youtube.com/watch?v=tPOarkxW0Nw",
+      "questions": [
+        {
+          "question": "What is the center of the solar system?",
+          "options": {
+            "A": "Earth",
+            "B": "Moon",
+            "C": "Sun",
+            "D": "Stars"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": {
+            "A": "Earth",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Venus"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many planets are there in the solar system?",
+          "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which planet is closest to the Sun?",
+          "options": {
+            "A": "Venus",
+            "B": "Mercury",
+            "C": "Earth",
+            "D": "Mars"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the biggest planet in the solar system?",
+          "options": {
+            "A": "Earth",
+            "B": "Saturn",
+            "C": "Jupiter",
+            "D": "Neptune"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Globe Latitudes And Longitudes",
-        "video": {
-          "title": "Globe Latitudes And Longitudes full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=ZkY3a4ZK8sI"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Globe Latitudes And Longitudes",
+      "video_url": "https://www.youtube.com/watch?v=ZkY3a4ZK8sI",
+      "questions": [
+        {
+          "question": "What do you call the imaginary lines that run horizontally on the globe?",
+          "options": {
+            "A": "Longitudes",
+            "B": "Equator",
+            "C": "Latitudes",
+            "D": "Prime Meridian"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which line is considered 0° longitude?",
+          "options": {
+            "A": "Equator",
+            "B": "Tropic of Cancer",
+            "C": "Prime Meridian",
+            "D": "Tropic of Capricorn"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which latitude divides the Earth into Northern and Southern Hemispheres?",
+          "options": {
+            "A": "Prime Meridian",
+            "B": "Equator",
+            "C": "Tropic of Cancer",
+            "D": "Tropic of Capricorn"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main purpose of latitude and longitude?",
+          "options": {
+            "A": "To find directions",
+            "B": "To calculate area",
+            "C": "To measure temperature",
+            "D": "To create maps"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How many degrees are there in a complete circle?",
+          "options": {
+            "A": "180",
+            "B": "360",
+            "C": "720",
+            "D": "90"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Motions Of The Earth",
-        "video": {
-          "title": "Motions Of The Earth full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=3m1vRz0z7xA"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Motions Of The Earth",
+      "video_url": "https://www.youtube.com/watch?v=3m1vRz0z7xA",
+      "questions": [
+        {
+          "question": "What are the two main motions of the Earth?",
+          "options": {
+            "A": "Rotation and Revolution",
+            "B": "Orbit and Spin",
+            "C": "Tilt and Slide",
+            "D": "Swing and Roll"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How long does it take for the Earth to complete one rotation on its axis?",
+          "options": {
+            "A": "24 hours",
+            "B": "12 hours",
+            "C": "365 days",
+            "D": "30 days"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the effect of Earth's rotation?",
+          "options": {
+            "A": "Seasons",
+            "B": "Day and Night",
+            "C": "Tides",
+            "D": "Climate Change"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How long does it take for the Earth to revolve around the Sun?",
+          "options": {
+            "A": "24 hours",
+            "B": "30 days",
+            "C": "365 days",
+            "D": "12 months"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What causes the seasons on Earth?",
+          "options": {
+            "A": "Earth's rotation",
+            "B": "Earth's distance from the Sun",
+            "C": "Tilt of Earth's axis",
+            "D": "All of the above"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Maps",
-        "video": {
-          "title": "Maps full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=NiASaoJNrfM"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Maps",
+      "video_url": "https://www.youtube.com/watch?v=NiASaoJNrfM",
+      "questions": [
+        {
+          "question": "What is the purpose of a map?",
+          "options": {
+            "A": "To provide direction",
+            "B": "To represent an area",
+            "C": "To show distances",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which type of map shows elevation?",
+          "options": {
+            "A": "Political map",
+            "B": "Physical map",
+            "C": "Road map",
+            "D": "Thematic map"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What are the symbols used on maps called?",
+          "options": {
+            "A": "Legends",
+            "B": "Grid",
+            "C": "Index",
+            "D": "Compass"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which direction does the compass needle point to?",
+          "options": {
+            "A": "South",
+            "B": "East",
+            "C": "West",
+            "D": "North"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is a scale on a map used for?",
+          "options": {
+            "A": "To measure temperature",
+            "B": "To measure distances",
+            "C": "To show elevation",
+            "D": "To identify boundaries"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Major Domains Of The Earth",
-        "video": {
-          "title": "Major Domains Of The Earth full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=s5pPQP_eEMo"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Major Domains Of The Earth",
+      "video_url": "https://www.youtube.com/watch?v=s5pPQP_eEMo",
+      "questions": [
+        {
+          "question": "Which of the following is NOT a major domain of the Earth?",
+          "options": {
+            "A": "Lithosphere",
+            "B": "Hydrosphere",
+            "C": "Atmosphere",
+            "D": "Biosphere"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What does the lithosphere include?",
+          "options": {
+            "A": "The atmosphere",
+            "B": "The earth's crust and upper mantle",
+            "C": "All water bodies",
+            "D": "Plants and animals"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the hydrosphere composed of?",
+          "options": {
+            "A": "All living things",
+            "B": "Soil and rocks",
+            "C": "Water in all its forms",
+            "D": "The atmosphere"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the atmosphere?",
+          "options": {
+            "A": "The layer of gases surrounding Earth",
+            "B": "The solid surface of Earth",
+            "C": "The water bodies on Earth",
+            "D": "The living things on Earth"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which domain includes all plants and animals?",
+          "options": {
+            "A": "Lithosphere",
+            "B": "Atmosphere",
+            "C": "Hydrosphere",
+            "D": "Biosphere"
+          },
+          "correct_answer": "D"
         }
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Our Country India",
-        "video": {
-          "title": "Our country India full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=1U0YadM5g_g"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Our Country India",
+      "video_url": "https://www.youtube.com/watch?v=1U0YadM5g_g",
+      "questions": [
+        {
+          "question": "What is the capital city of India?",
+          "options": {
+            "A": "Mumbai",
+            "B": "Delhi",
+            "C": "Kolkata",
+            "D": "Bangalore"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is the largest state in India by area?",
+          "options": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "Rajasthan",
+            "D": "West Bengal"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the official currency of India?",
+          "options": {
+            "A": "Dollar",
+            "B": "Euro",
+            "C": "Rupee",
+            "D": "Yen"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which river is considered the holiest river in India?",
+          "options": {
+            "A": "Ganga",
+            "B": "Yamuna",
+            "C": "Sarasvati",
+            "D": "Narmada"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How many Union Territories does India have?",
+          "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "India Climate",
-        "video": {
-          "title": "India climate full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=4z8ZV3JpZxY"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "India Climate",
+      "video_url": "https://www.youtube.com/watch?v=4z8ZV3JpZxY",
+      "questions": [
+        {
+          "question": "What type of climate does India have?",
+          "options": {
+            "A": "Tropical",
+            "B": "Desert",
+            "C": "Polar",
+            "D": "Temperate"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which season in India is associated with heavy rainfall?",
+          "options": {
+            "A": "Winter",
+            "B": "Summer",
+            "C": "Monsoon",
+            "D": "Spring"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the term for the dry winds that blow in summer?",
+          "options": {
+            "A": "Monsoon",
+            "B": "Loo",
+            "C": "Breeze",
+            "D": "Storm"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How is climate different from weather?",
+          "options": {
+            "A": "Climate refers to short-term conditions",
+            "B": "Weather refers to long-term averages",
+            "C": "Climate refers to long-term average conditions",
+            "D": "There is no difference"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is NOT a factor affecting Indian climate?",
+          "options": {
+            "A": "Altitude",
+            "B": "Longitude",
+            "C": "Geographical features",
+            "D": "Color of buildings"
+          },
+          "correct_answer": "D"
         }
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "What, Where, How And When?",
-        "video": {
-          "title": "WHAT, WHERE, HOW AND WHEN? full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=vhlpxPV4c38"
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "What, Where, How And When?",
+      "video_url": "https://www.youtube.com/watch?v=vhlpxPV4c38",
+      "questions": [
+        {
+          "question": "What does the term 'history' refer to?",
+          "options": {
+            "A": "Events of the past",
+            "B": "Future events",
+            "C": "Current happenings",
+            "D": "Fictional stories"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a timeline?",
+          "options": {
+            "A": "A list of historical events in order",
+            "B": "A graphical representation of history",
+            "C": "Only dates of events",
+            "D": "A method to predict the future"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who are historians?",
+          "options": {
+            "A": "Scientists who study living beings",
+            "B": "People who study and write about history",
+            "C": "People who explore outer space",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the focus of archaeological studies?",
+          "options": {
+            "A": "Studying past human activity through artifacts",
+            "B": "Studying modern technology",
+            "C": "Studying current events",
+            "D": "Studying astronomy"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "When was the Indus Valley Civilization discovered?",
+          "options": {
+            "A": "1840",
+            "B": "1920",
+            "C": "1945",
+            "D": "1960"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "On The Trail Of Earliest People",
-        "video": {
-          "title": "ON THE TRAIL OF EARLIEST PEOPLE full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=5x6sKqGQn1g"
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "On The Trail Of Earliest People",
+      "video_url": "https://www.youtube.com/watch?v=5x6sKqGQn1g",
+      "questions": [
+        {
+          "question": "The earliest humans are believed to have lived during which time period?",
+          "options": {
+            "A": "Hunting-gathering",
+            "B": "Agricultural",
+            "C": "Industrial",
+            "D": "Modern"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did early humans use as tools?",
+          "options": {
+            "A": "Metal",
+            "B": "Wood and stone",
+            "C": "Plastic",
+            "D": "Glass"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Where is the evidence of early human activity mostly found?",
+          "options": {
+            "A": "Mountains",
+            "B": "Urban areas",
+            "C": "Caves",
+            "D": "Deserts"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How did early humans acquire food?",
+          "options": {
+            "A": "Farming",
+            "B": "Hunting and gathering",
+            "C": "Trade",
+            "D": "Fisheries"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the significance of studying the earliest people?",
+          "options": {
+            "A": "To understand our origin",
+            "B": "To learn about technology",
+            "C": "To study climate change",
+            "D": "To diminish history"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "From Gathering To Growing Food",
-        "video": {
-          "title": "FROM GATHERING TO GROWING FOOD full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=2G5X5g5Yv0Y"
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "From Gathering To Growing Food",
+      "video_url": "https://www.youtube.com/watch?v=2G5X5g5Yv0Y",
+      "questions": [
+        {
+          "question": "What marked the beginning of agriculture?",
+          "options": {
+            "A": "Hunting",
+            "B": "Food gathering",
+            "C": "Domestication of plants and animals",
+            "D": "Trading"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which crop is considered one of the first domesticated?",
+          "options": {
+            "A": "Rice",
+            "B": "Wheat",
+            "C": "Maize",
+            "D": "Barley"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What did the Neolithic Revolution lead to?",
+          "options": {
+            "A": "Urbanization",
+            "B": "Decline of civilization",
+            "C": "Famine",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is NOT a reason for the shift to agriculture?",
+          "options": {
+            "A": "Climate change",
+            "B": "Population growth",
+            "C": "Need for surplus food",
+            "D": "Decrease in wildlife"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How did early farmers grow crops?",
+          "options": {
+            "A": "Using mechanized tools",
+            "B": "Using basic tools and techniques",
+            "C": "Using modern technology",
+            "D": "Not growing at all"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "In The Earliest Cities",
-        "video": {
-          "title": "In the earliest Cities full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=6D9z0xj1V9c"
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "In The Earliest Cities",
+      "video_url": "https://www.youtube.com/watch?v=6D9z0xj1V9c",
+      "questions": [
+        {
+          "question": "Which civilization is known for its urban planning?",
+          "options": {
+            "A": "Roman",
+            "B": "Harappan",
+            "C": "Mesopotamian",
+            "D": "Mayan"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was a significant feature of the earliest cities?",
+          "options": {
+            "A": "Mud houses",
+            "B": "Paved roads",
+            "C": "Skyscrapers",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the purpose of the Indus Valley's drainage system?",
+          "options": {
+            "A": "Decoration",
+            "B": "Transport",
+            "C": "Sanitation",
+            "D": "Food storage"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did people in early cities primarily trade?",
+          "options": {
+            "A": "Gold",
+            "B": "Agricultural products",
+            "C": "Technology",
+            "D": "Textiles"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a city from the Indus Valley Civilization?",
+          "options": {
+            "A": "Delhi",
+            "B": "Mohenjo-Daro",
+            "C": "Varanasi",
+            "D": "Agra"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "What Books And Burials Tell Us",
-        "video": {
-          "title": "What Books And Burials Tell Us full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=9X8hY8Yv0zY"
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "What Books And Burials Tell Us",
+      "video_url": "https://www.youtube.com/watch?v=9X8hY8Yv0zY",
+      "questions": [
+        {
+          "question": "What can books provide information about?",
+          "options": {
+            "A": "Plants",
+            "B": "History and culture",
+            "C": "Weather patterns",
+            "D": "Currency"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What can the study of burial practices tell us?",
+          "options": {
+            "A": "Artistic development",
+            "B": "Social structure and beliefs",
+            "C": "Culinary trends",
+            "D": "Fashion trends"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a critical source for historians?",
+          "options": {
+            "A": "Television",
+            "B": "Movies",
+            "C": "Written records",
+            "D": "Photographs"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does archaeology study?",
+          "options": {
+            "A": "Living organisms",
+            "B": "Past human activity",
+            "C": "Modern technology",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is one of the oldest known texts?",
+          "options": {
+            "A": "The Bible",
+            "B": "The Vedas",
+            "C": "Homer's Iliad",
+            "D": "The Quran"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "Kingdoms, Kings And An Early Republic",
-        "video": {
-          "title": "Kingdoms, Kings And An Early Republic full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=7Y8Z7Yv0xZ0"
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Kingdoms, Kings And An Early Republic",
+      "video_url": "https://www.youtube.com/watch?v=7Y8Z7Yv0xZ0",
+      "questions": [
+        {
+          "question": "Which of the following is a feature of early kingdoms?",
+          "options": {
+            "A": "Monarchy",
+            "B": "Democracy",
+            "C": "Anarchy",
+            "D": "Socialism"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What did kings of early kingdoms usually claim?",
+          "options": {
+            "A": "Divine right to rule",
+            "B": "Elected by people",
+            "C": "Selection by elders",
+            "D": "Random selection"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What was the primary source of income for early kingdoms?",
+          "options": {
+            "A": "Taxation",
+            "B": "Donations",
+            "C": "Trade",
+            "D": "Foreign aid"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What was one of the first republics in India?",
+          "options": {
+            "A": "Maharashtra",
+            "B": "Kosala",
+            "C": "Vaishali",
+            "D": "Magadha"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of early kingdoms?",
+          "options": {
+            "A": "Centralized power",
+            "B": "Social stratification",
+            "C": "Political democracy",
+            "D": "Military control"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "New Questions and Ideas",
-        "video": {
-          "title": "New questions and Ideas full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=8Z9Z9Yv0yA0"
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "New Questions and Ideas",
+      "video_url": "https://www.youtube.com/watch?v=8Z9Z9Yv0yA0",
+      "questions": [
+        {
+          "question": "What is a major focus of the chapter on New Questions and Ideas?",
+          "options": {
+            "A": "Cultural practices",
+            "B": "Technological advances",
+            "C": "Philosophical and scientific thought",
+            "D": "Fashion trends"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following reflects the spirit of inquiry?",
+          "options": {
+            "A": "Dogma",
+            "B": "Open-mindedness",
+            "C": "Cynicism",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What did thinkers in ancient India primarily focus on?",
+          "options": {
+            "A": "Wealth accumulation",
+            "B": "Religious practices",
+            "C": "Self-realization and ethics",
+            "D": "Military strategies"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following fosters the development of new ideas?",
+          "options": {
+            "A": "Isolation",
+            "B": "Communication",
+            "C": "Stagnation",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What role does questioning play in intellectual discussions?",
+          "options": {
+            "A": "None",
+            "B": "Hinders progress",
+            "C": "Encourages critical thinking",
+            "D": "Confuses people"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "Ashoka The Emperor Who Gave Up War",
-        "video": {
-          "title": "Ashoka the emperor who gave up war full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=0A1A1Yv0zB0"
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "Ashoka The Emperor Who Gave Up War",
+      "video_url": "https://www.youtube.com/watch?v=0A1A1Yv0zB0",
+      "questions": [
+        {
+          "question": "What religion did Ashoka promote after his conversion?",
+          "options": {
+            "A": "Hinduism",
+            "B": "Christianity",
+            "C": "Buddhism",
+            "D": "Jainism"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which battle led Ashoka to renounce violence?",
+          "options": {
+            "A": "Battle of Kalinga",
+            "B": "Battle of Panipat",
+            "C": "Battle of Plassey",
+            "D": "Battle of Haldighati"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What are edicts?",
+          "options": {
+            "A": "Statues",
+            "B": "Written laws",
+            "C": "Palaces",
+            "D": "Temples"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was Ashoka's contribution to society?",
+          "options": {
+            "A": "Promoting art and culture",
+            "B": "Establishing military dominance",
+            "C": "Creating a new religion",
+            "D": "Ending trade relations"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following did Ashoka establish for public welfare?",
+          "options": {
+            "A": "Schools",
+            "B": "Hospitals",
+            "C": "Temples",
+            "D": "Roads"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "Vital Villages, Thriving Towns",
-        "video": {
-          "title": "VITAL VILLAGES, THRIVING TOWNS full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=9voLLn_vsFc"
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "Vital Villages, Thriving Towns",
+      "video_url": "https://www.youtube.com/watch?v=9voLLn_vsFc",
+      "questions": [
+        {
+          "question": "What characterizes a thriving town?",
+          "options": {
+            "A": "Fewer inhabitants",
+            "B": "Trade and commerce",
+            "C": "Rural settings",
+            "D": "Isolation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following contributed to village growth?",
+          "options": {
+            "A": "Agricultural development",
+            "B": "Desertification",
+            "C": "Conflict",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What was a major factor in the rise of towns?",
+          "options": {
+            "A": "Decline of arts",
+            "B": "Trade expansion",
+            "C": "Migration to cities",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does population growth affect villages?",
+          "options": {
+            "A": "Increases social issues",
+            "B": "Enhances sustainability",
+            "C": "Leads to rural decline",
+            "D": "Encourages tourism"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is crucial for village vitality?",
+          "options": {
+            "A": "Limited interaction",
+            "B": "Community engagement",
+            "C": "Resources depletion",
+            "D": "None of these"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 17,
-        "chapter_name": "Traders, Kings And Pilgrims",
-        "video": {
-          "title": "TRADERS, KINGS AND PILGRIMS full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=1B2B2Yv0cC0"
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "Traders, Kings And Pilgrims",
+      "video_url": "https://www.youtube.com/watch?v=1B2B2Yv0cC0",
+      "questions": [
+        {
+          "question": "What role did traders play in ancient societies?",
+          "options": {
+            "A": "Driving technological innovations",
+            "B": "Establishing peace treaties",
+            "C": "Facilitating cultural exchange",
+            "D": "Starting wars"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which road was famously used for trade in ancient India?",
+          "options": {
+            "A": "Grand Trunk Road",
+            "B": "Silk Road",
+            "C": "Mariner's Road",
+            "D": "Neptune's Way"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who were the officials that helped kings in administration?",
+          "options": {
+            "A": "Generals",
+            "B": "Ministers",
+            "C": "Traders",
+            "D": "Scribes"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a hallmark of pilgrim exchanges?",
+          "options": {
+            "A": "Holidays",
+            "B": "Spiritual searches",
+            "C": "Market trading",
+            "D": "Militaristic efforts"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "In which era did trade expand significantly?",
+          "options": {
+            "A": "Prehistoric",
+            "B": "Classical",
+            "C": "Postmodern",
+            "D": "Industrial"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 18,
-        "chapter_name": "New Empires And Kingdoms",
-        "video": {
-          "title": "NEW EMPIRES AND KINGDOMS full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=2C3C3Yv0dD0"
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "New Empires And Kingdoms",
+      "video_url": "https://www.youtube.com/watch?v=2C3C3Yv0dD0",
+      "questions": [
+        {
+          "question": "What is a key characteristic of empires?",
+          "options": {
+            "A": "Small territories",
+            "B": "Limited economy",
+            "C": "Expansionism",
+            "D": "Isolation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Who was a notable ruler of the Mauryan Empire?",
+          "options": {
+            "A": "Akbar",
+            "B": "Ashoka",
+            "C": "Shivaji",
+            "D": "Jahangir"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which empire is known for its architectural wonders?",
+          "options": {
+            "A": "Mughal Empire",
+            "B": "Mauryan Empire",
+            "C": "Gupta Empire",
+            "D": "Chola Empire"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What often signifies the beginning of a new kingdom?",
+          "options": {
+            "A": "Barter trading",
+            "B": "Military conquest",
+            "C": "Diplomatic relations",
+            "D": "Environmental changes"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How were new ideas spread in empires?",
+          "options": {
+            "A": "Through wars",
+            "B": "Via trade and travel",
+            "C": "By isolation",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 19,
-        "chapter_name": "Buildings, Paintings And Books",
-        "video": {
-          "title": "BUILDINGS, PAINTINGS AND BOOKS full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=3D4D4Yv0eE0"
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "chapter_name": "Buildings, Paintings And Books",
+      "video_url": "https://www.youtube.com/watch?v=3D4D4Yv0eE0",
+      "questions": [
+        {
+          "question": "What do ancient structures primarily tell us?",
+          "options": {
+            "A": "Social structure",
+            "B": "Artistic skills",
+            "C": "Cultural values",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which of the following is NOT a painting medium?",
+          "options": {
+            "A": "Watercolor",
+            "B": "Oil",
+            "C": "Graphite",
+            "D": "Sculpting"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is a prominent feature of ancient manuscripts?",
+          "options": {
+            "A": "Absence of illustrations",
+            "B": "Use of paper",
+            "C": "Handwritten text",
+            "D": "Printing technology"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was the primary purpose of ancient art?",
+          "options": {
+            "A": "Entertainment",
+            "B": "Religious expression",
+            "C": "Commercial gain",
+            "D": "Political propaganda"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which material was often used for ancient books?",
+          "options": {
+            "A": "Paper",
+            "B": "Clay tablets",
+            "C": "Stone",
+            "D": "Metal"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 20,
-        "chapter_name": "Understanding Diversity",
-        "video": {
-          "title": "Understanding Diversity full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=mLBmDfFIFW8"
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "chapter_name": "Understanding Diversity",
+      "video_url": "https://www.youtube.com/watch?v=mLBmDfFIFW8",
+      "questions": [
+        {
+          "question": "What does diversity refer to?",
+          "options": {
+            "A": "Uniformity",
+            "B": "Variety",
+            "C": "Simplicity",
+            "D": "Stagnation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which aspect is an example of cultural diversity?",
+          "options": {
+            "A": "Language",
+            "B": "Population",
+            "C": "Climate",
+            "D": "Geography"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following promotes understanding of diversity?",
+          "options": {
+            "A": "Isolation",
+            "B": "Education",
+            "C": "Prejudice",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an outcome of respecting diversity?",
+          "options": {
+            "A": "Conflict",
+            "B": "Cooperation",
+            "C": "Discrimination",
+            "D": "Stagnation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is understanding diversity important?",
+          "options": {
+            "A": "For economic gain",
+            "B": "To enrich lives",
+            "C": "For political power",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 21,
-        "chapter_name": "Diversity And Discrimination",
-        "video": {
-          "title": "Diversity And Discrimination full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=5E6E6Yv0fF0"
+      ]
+    },
+    {
+      "chapter_no": 21,
+      "chapter_name": "Diversity And Discrimination",
+      "video_url": "https://www.youtube.com/watch?v=5E6E6Yv0fF0",
+      "questions": [
+        {
+          "question": "What is discrimination?",
+          "options": {
+            "A": "Treating everyone equally",
+            "B": "Favoring one group over another",
+            "C": "Acknowledging differences",
+            "D": "Promoting diversity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which form does discrimination commonly take?",
+          "options": {
+            "A": "Positive reinforcement",
+            "B": "Negative stereotyping",
+            "C": "Encouragement",
+            "D": "Cultural appreciation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an effect of discrimination?",
+          "options": {
+            "A": "Inclusivity",
+            "B": "Social harmony",
+            "C": "Division",
+            "D": "Community building"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How can we combat discrimination?",
+          "options": {
+            "A": "With knowledge and understanding",
+            "B": "With violence",
+            "C": "By ignoring it",
+            "D": "By creating divisions"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why is it important to address discrimination?",
+          "options": {
+            "A": "To foster unity",
+            "B": "To maintain the status quo",
+            "C": "To promote fear",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 22,
-        "chapter_name": "What is Government",
-        "video": {
-          "title": "What is Government full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=6F7F7Yv0gG0"
+      ]
+    },
+    {
+      "chapter_no": 22,
+      "chapter_name": "What is Government",
+      "video_url": "https://www.youtube.com/watch?v=6F7F7Yv0gG0",
+      "questions": [
+        {
+          "question": "What is the primary purpose of a government?",
+          "options": {
+            "A": "To ensure safety and order",
+            "B": "To create poverty",
+            "C": "To promote anarchy",
+            "D": "None of these"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of government is ruled by a king or queen?",
+          "options": {
+            "A": "Democracy",
+            "B": "Monarchy",
+            "C": "Oligarchy",
+            "D": "Plutocracy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does a democracy ensure?",
+          "options": {
+            "A": "People's participation",
+            "B": "Absolute power",
+            "C": "Censorship",
+            "D": "Dictatorship"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a feature of a rule of law?",
+          "options": {
+            "A": "Laws only apply to certain people",
+            "B": "Everyone is equal before the law",
+            "C": "Laws change without notice",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is NOT a function of government?",
+          "options": {
+            "A": "Implement laws",
+            "B": "Enforce order",
+            "C": "Collect taxes",
+            "D": "Create divisions among citizens"
+          },
+          "correct_answer": "D"
         }
-      },
-      {
-        "chapter_no": 23,
-        "chapter_name": "Key Elements of a Democratic Government",
-        "video": {
-          "title": "Key Elements of a Democratic Government full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=7G8G8Yv0hH0"
+      ]
+    },
+    {
+      "chapter_no": 23,
+      "chapter_name": "Key Elements of a Democratic Government",
+      "video_url": "https://www.youtube.com/watch?v=7G8G8Yv0hH0",
+      "questions": [
+        {
+          "question": "What is a key feature of a democratic government?",
+          "options": {
+            "A": "Centralized power",
+            "B": "Elections",
+            "C": "Monopoly",
+            "D": "Censorship"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who holds the real power in a democracy?",
+          "options": {
+            "A": "The king",
+            "B": "Political parties",
+            "C": "The people",
+            "D": "The military"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does equality before the law signify?",
+          "options": {
+            "A": "Everyone is treated differently",
+            "B": "Everyone follows the same rules",
+            "C": "Only leaders follow laws",
+            "D": "Law does not apply to common people"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is one right of citizens in a democracy?",
+          "options": {
+            "A": "Right to vote",
+            "B": "Right to be silent",
+            "C": "Right to discriminate",
+            "D": "Right to police immunity"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which document outlines the rights of citizens?",
+          "options": {
+            "A": "Constitution",
+            "B": "Scroll of rights",
+            "C": "Bill of rights",
+            "D": "Book of laws"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 24,
-        "chapter_name": "Panchayati Raj",
-        "video": {
-          "title": "Panchayati raj full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=sl0gnnNbhtY"
+      ]
+    },
+    {
+      "chapter_no": 24,
+      "chapter_name": "Panchayati Raj",
+      "video_url": "https://www.youtube.com/watch?v=sl0gnnNbhtY",
+      "questions": [
+        {
+          "question": "What is Panchayati Raj?",
+          "options": {
+            "A": "A government body at state level",
+            "B": "Local self-governance system in villages",
+            "C": "National parliament",
+            "D": "Urban governance body"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is the lowest level of Panchayati Raj?",
+          "options": {
+            "A": "Zila Parishad",
+            "B": "Panchayat Samiti",
+            "C": "Gram Panchayat",
+            "D": "Sarpanch"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the role of the Sarpanch?",
+          "options": {
+            "A": "To lead the village council",
+            "B": "To conduct state elections",
+            "C": "To govern the city",
+            "D": "To enforce laws"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who elects the members of the Gram Panchayat?",
+          "options": {
+            "A": "The village head",
+            "B": "Village council members",
+            "C": "Residents of the village",
+            "D": "Local MLA"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is a key feature of the Panchayati Raj system?",
+          "options": {
+            "A": "Centralized decision-making",
+            "B": "Democratic local governance",
+            "C": "Monopoly of power",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 25,
-        "chapter_name": "Rural Administration",
-        "video": {
-          "title": "Rural administration full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=9I0I0Yv0jJ0"
+      ]
+    },
+    {
+      "chapter_no": 25,
+      "chapter_name": "Rural Administration",
+      "video_url": "https://www.youtube.com/watch?v=9I0I0Yv0jJ0",
+      "questions": [
+        {
+          "question": "Who is responsible for maintaining law and order in rural areas?",
+          "options": {
+            "A": "Sarpanch",
+            "B": "District collector",
+            "C": "Tehsildar",
+            "D": "Small traders"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the role of a Tehsildar?",
+          "options": {
+            "A": "Judicial authority",
+            "B": "Revenue officer",
+            "C": "Legislative body",
+            "D": "Urban planner"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which document records land ownership?",
+          "options": {
+            "A": "Title deed",
+            "B": "Patta",
+            "C": "Lease agreement",
+            "D": "Contract"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do panchayat members address in villages?",
+          "options": {
+            "A": "Legal disputes",
+            "B": "Community issues",
+            "C": "Environmental policies",
+            "D": "National issues"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who helps the Sarpanch in village administration?",
+          "options": {
+            "A": "Legislators",
+            "B": "Village council members",
+            "C": "District officers",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 26,
-        "chapter_name": "Urban Administration",
-        "video": {
-          "title": "Urban administration full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=0J1J1Yv0kK0"
+      ]
+    },
+    {
+      "chapter_no": 26,
+      "chapter_name": "Urban Administration",
+      "video_url": "https://www.youtube.com/watch?v=0J1J1Yv0kK0",
+      "questions": [
+        {
+          "question": "Who is primarily responsible for urban governance?",
+          "options": {
+            "A": "Mayor",
+            "B": "Sarpanch",
+            "C": "Panchayat",
+            "D": "Tehsildar"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a municipal corporation?",
+          "options": {
+            "A": "Rural governance body",
+            "B": "Urban local government",
+            "C": "State legislature",
+            "D": "National parliament"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a responsibility of urban local bodies?",
+          "options": {
+            "A": "Rural development",
+            "B": "Maintaining parks",
+            "C": "Agricultural policy",
+            "D": "Military enlistment"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the role of urban planners?",
+          "options": {
+            "A": "Healthcare",
+            "B": "Housing development",
+            "C": "Tax collection",
+            "D": "Cultural heritage preservation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an important aspect of urban governance?",
+          "options": {
+            "A": "Centralized authority",
+            "B": "Public participation",
+            "C": "Autocracy",
+            "D": "Surveillance"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 27,
-        "chapter_name": "Rural Livelihood",
-        "video": {
-          "title": "Rural livelihood full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=R8jjdNIu_u4"
+      ]
+    },
+    {
+      "chapter_no": 27,
+      "chapter_name": "Rural Livelihood",
+      "video_url": "https://www.youtube.com/watch?v=R8jjdNIu_u4",
+      "questions": [
+        {
+          "question": "What is the primary source of income in rural areas?",
+          "options": {
+            "A": "Industry",
+            "B": "Agriculture",
+            "C": "Technology",
+            "D": "Tourism"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a common rural occupation?",
+          "options": {
+            "A": "Banking",
+            "B": "Farming",
+            "C": "Retail",
+            "D": "Software development"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the significance of cooperative societies in rural areas?",
+          "options": {
+            "A": "To increase competition",
+            "B": "To build community support",
+            "C": "To bankrupt members",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which skill is essential for improving rural livelihoods?",
+          "options": {
+            "A": "Management skills",
+            "B": "Technical skills",
+            "C": "Marketing skills",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What impacts the livelihood options for villagers?",
+          "options": {
+            "A": "Only crop yield",
+            "B": "Weather, market and regulations",
+            "C": "Migration to cities",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 28,
-        "chapter_name": "Urban Livelihood",
-        "video": {
-          "title": "Urban livelihood full lesson | Social studies | Class 6 | CBSE Syllabus",
-          "url": "https://www.youtube.com/watch?v=2L3L3Yv0mM0"
+      ]
+    },
+    {
+      "chapter_no": 28,
+      "chapter_name": "Urban Livelihood",
+      "video_url": "https://www.youtube.com/watch?v=2L3L3Yv0mM0",
+      "questions": [
+        {
+          "question": "What is the main source of employment in urban areas?",
+          "options": {
+            "A": "Agriculture",
+            "B": "Service sector",
+            "C": "Self-employment",
+            "D": "Unemployment"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a common urban profession?",
+          "options": {
+            "A": "Farming",
+            "B": "Teaching",
+            "C": "Craftsmanship",
+            "D": "Mining"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is one challenge of urban livelihood?",
+          "options": {
+            "A": "Job availability",
+            "B": "Scarcity of resources",
+            "C": "High living costs",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How do urban areas typically provide services?",
+          "options": {
+            "A": "Government only",
+            "B": "Public and private sectors",
+            "C": "Rural assistance",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What skills are beneficial for securing jobs in urban areas?",
+          "options": {
+            "A": "Soft skills",
+            "B": "Technical skills",
+            "C": "Communication skills",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}

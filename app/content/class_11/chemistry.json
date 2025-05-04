@@ -1,94 +1,774 @@
-[
+{
+  "class": 11,
+  "subject": "Chemistry",
+  "channel": "NCERT WALLAH",
+  "chapters": [
     {
       "chapter_no": 1,
       "chapter_name": "Some Basic Concepts of Chemistry",
       "duration": "6:49:40",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=oc2QeBdSP-o"
+      "video_url": "https://www.youtube.com/watch?v=nZ195kh7V8k&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=1",
+      "questions": [
+        {
+          "question": "What is the SI unit of amount of substance?",
+          "options": {
+            "A": "Mole",
+            "B": "Gram",
+            "C": "Liter",
+            "D": "Kilogram"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following represents Avogadro's number?",
+          "options": {
+            "A": "6.022 × 10²³",
+            "B": "1.6 × 10⁻¹⁹",
+            "C": "3.14 × 10²",
+            "D": "9.11 × 10⁻³¹"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What happens during a chemical reaction?",
+          "options": {
+            "A": "Atoms are created and destroyed",
+            "B": "Atoms are rearranged to form new substances",
+            "C": "Mass is lost",
+            "D": "Only energy is transformed"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the molarity of a solution that contains 1 mole of solute in 1 liter of solution?",
+          "options": {
+            "A": "0.1 M",
+            "B": "1 M",
+            "C": "2 M",
+            "D": "3 M"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which law states that mass is neither created nor destroyed during a chemical reaction?",
+          "options": {
+            "A": "Law of multiple proportions",
+            "B": "Law of conservation of mass",
+            "C": "Law of definite proportions",
+            "D": "Dalton's atomic theory"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 2,
       "chapter_name": "Structure of Atom",
       "duration": "3:58:11",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=K7YzowJgY-c"
+      "video_url": "https://www.youtube.com/watch?v=yMPNzINbwXg&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=2",
+      "questions": [
+        {
+          "question": "Who proposed the planetary model of the atom?",
+          "options": {
+            "A": "Niels Bohr",
+            "B": "Ernest Rutherford",
+            "C": "John Dalton",
+            "D": "J.J. Thomson"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the charge of a neutron?",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Neutral",
+            "D": "Depends on the element"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "In which part of the atom are electrons found?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Electron cloud",
+            "C": "Protons",
+            "D": "Mass number"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the maximum number of electrons in a shell defined by n=3?",
+          "options": {
+            "A": "B",
+            "B": "8",
+            "C": "18",
+            "D": "32"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which particle has the least mass?",
+          "options": {
+            "A": "Proton",
+            "B": "Neutron",
+            "C": "Electron",
+            "D": "Alpha particle"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 3,
       "chapter_name": "Classification of Elements and Periodicity in Properties",
       "duration": "7:13:50",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=fXJ4BW4jqlg"
+      "video_url": "https://www.youtube.com/watch?v=3jvKTB9qVNo&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=3",
+      "questions": [
+        {
+          "question": "What is the main basis for the modern periodic table?",
+          "options": {
+            "A": "Mass",
+            "B": "Atomic number",
+            "C": "Density",
+            "D": "Volume"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which group contains noble gases?",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 7",
+            "C": "Group 8",
+            "D": "Group 3"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What trend is observed in the electronegativity of elements across a period?",
+          "options": {
+            "A": "Increases from left to right",
+            "B": "Decreases from left to right",
+            "C": "Remains constant",
+            "D": "Decreases down a group"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the period number of the element with atomic number 11?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following elements has the highest ionization energy?",
+          "options": {
+            "A": "Sodium",
+            "B": "Magnesium",
+            "C": "Chlorine",
+            "D": "Neon"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
       "chapter_no": 4,
       "chapter_name": "Chemical Bonding and Molecular Structure",
       "duration": "5:01:58",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=Z1aMaJbM3uM"
+      "video_url": "https://www.youtube.com/watch?v=a9Bh5YDDT6w&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=4",
+      "questions": [
+        {
+          "question": "What type of bond is formed by the transfer of electrons?",
+          "options": {
+            "A": "Ionic bond",
+            "B": "Covalent bond",
+            "C": "Metallic bond",
+            "D": "Hydrogen bond"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which molecule is an example of a polar covalent bond?",
+          "options": {
+            "A": "O₂",
+            "B": "H₂O",
+            "C": "Cl₂",
+            "D": "N₂"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the bond angle in a methane (CH₄) molecule?",
+          "options": {
+            "A": "90°",
+            "B": "109.5°",
+            "C": "120°",
+            "D": "180°"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which theory helps to explain the shape of molecular structures?",
+          "options": {
+            "A": "Valence Bond Theory",
+            "B": "Molecular Orbital Theory",
+            "C": "VSEPR Theory",
+            "D": "Quantum Theory"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What type of hybridization occurs in ethylene (C₂H₄)?",
+          "options": {
+            "A": "sp",
+            "B": "sp²",
+            "C": "sp³",
+            "D": "sd"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 5,
       "chapter_name": "Thermodynamics",
       "duration": "5:21:43",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=6o2CWyTD9fg"
+      "video_url": "https://www.youtube.com/watch?v=7dSQM860wes&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=5",
+      "questions": [
+        {
+          "question": "What does the first law of thermodynamics state?",
+          "options": {
+            "A": "Energy can be created and destroyed.",
+            "B": "Energy conservation.",
+            "C": "Entropy increases.",
+            "D": "Work done is independent of path."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the unit of enthalpy?",
+          "options": {
+            "A": "Joules",
+            "B": "Calories",
+            "C": "Liters",
+            "D": "Pascal"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the value of standard atmospheric pressure in kPa?",
+          "options": {
+            "A": "101.3 kPa",
+            "B": "76 kPa",
+            "C": "0.1 kPa",
+            "D": "1 kPa"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In which process is heat absorbed?",
+          "options": {
+            "A": "Exothermic",
+            "B": "Endothermic",
+            "C": "Adiabatic",
+            "D": "Isochoric"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does a negative change in enthalpy indicate?",
+          "options": {
+            "A": "Endothermic reaction",
+            "B": "Exothermic reaction",
+            "C": "No reaction",
+            "D": "Equilibrium"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 6,
       "chapter_name": "Chemical Equilibrium",
       "duration": "3:36:02",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=ROE-PMWYZ3I"
+      "video_url": "https://www.youtube.com/watch?v=3nErpCOQB9Y&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=6",
+      "questions": [
+        {
+          "question": "What does the equilibrium constant (K) represent?",
+          "options": {
+            "A": "Concentration of products",
+            "B": "Ratio of concentrations of products to reactants",
+            "C": "Temperature of reaction",
+            "D": "Pressure of gas"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "When does a reversible reaction reach equilibrium?",
+          "options": {
+            "A": "When reactants are exhausted",
+            "B": "When products are exhausted",
+            "C": "When the rates of forward and reverse reactions are equal",
+            "D": "At the beginning of the reaction"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which principle states that if a system at equilibrium is disturbed, the system will adjust to counteract the disturbance?",
+          "options": {
+            "A": "Le Chatelier's principle",
+            "B": "Gibbs's law",
+            "C": "Henry's law",
+            "D": "Raoult's law"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What effect does increasing temperature have on an exothermic reaction at equilibrium?",
+          "options": {
+            "A": "Shifts equilibrium to the right",
+            "B": "Shifts equilibrium to the left",
+            "C": "No effect",
+            "D": "Increases reaction rate"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the change in Gibbs free energy (ΔG) at equilibrium?",
+          "options": {
+            "A": "Positive",
+            "B": "Zero",
+            "C": "Negative",
+            "D": "Undefined"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 7,
       "chapter_name": "Ionic Equilibrium",
       "duration": "4:21:21",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=s7HD0eyETcs"
+      "video_url": "https://www.youtube.com/watch?v=jOSABvTn47o&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=7",
+      "questions": [
+        {
+          "question": "What is the main characteristic of an ionic bond?",
+          "options": {
+            "A": "Sharing of electrons",
+            "B": "Transfer of electrons",
+            "C": "Weak interactions",
+            "D": "Formation of molecular orbitals"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the pH of pure water at 25°C?",
+          "options": {
+            "A": "7",
+            "B": "0",
+            "C": "14",
+            "D": "7.4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the Henderson-Hasselbalch equation relate?",
+          "options": {
+            "A": "pH, pKa, and concentrations of acid and salt",
+            "B": "Temperature and pressure",
+            "C": "Concentrations of reactants and products",
+            "D": "Reaction time"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the common ion effect?",
+          "options": {
+            "A": "Decreased solubility of a salt in a solution containing a common ion",
+            "B": "Increase in pH",
+            "C": "Increase in solubility",
+            "D": "Decrease in temperature"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the primary factor affecting the strength of an ionic bond?",
+          "options": {
+            "A": "Covalent character",
+            "B": "Lattice energy",
+            "C": "Electronegativity difference",
+            "D": "Molecular size"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 8,
       "chapter_name": "Redox Reactions",
       "duration": "3:18:13",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=z9QfYEDWr9g"
+      "video_url": "https://www.youtube.com/watch?v=pR9FmbmZ8ic&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=8",
+      "questions": [
+        {
+          "question": "In a redox reaction, what is oxidized?",
+          "options": {
+            "A": "The reducing agent",
+            "B": "The oxidizing agent",
+            "C": "Both reactants",
+            "D": "The solvent"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the oxidation state of phosphorus in phosphoric acid (H₃PO₄)?",
+          "options": {
+            "A": "+5",
+            "B": "+3",
+            "C": "0",
+            "D": "-3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which reagent is commonly used to identify an oxidizing agent?",
+          "options": {
+            "A": "Benedict's solution",
+            "B": "Potassium permanganate",
+            "C": "Barium chloride",
+            "D": "Calcium hydroxide"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the reduction half-equation for the reduction of copper(II) ions (Cu²⁺)?",
+          "options": {
+            "A": "Cu²⁺ + 2e⁻ → Cu",
+            "B": "Cu + 2e⁻ → Cu²⁺",
+            "C": "Cu + 2e⁻ → CuO",
+            "D": "CuO + 2e⁻ → Cu"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which type of redox reaction involves the transfer of electrons?",
+          "options": {
+            "A": "Oxidation",
+            "B": "Reduction",
+            "C": "Displacement",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
       "chapter_no": 9,
       "chapter_name": "Hydrogen",
       "duration": "2:40:05",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=p0y3cHNmI-c"
+      "video_url": "https://www.youtube.com/watch?v=xH6_AhBy3e8&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=9",
+      "questions": [
+        {
+          "question": "What is the position of hydrogen in the periodic table?",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Group 7",
+            "D": "Group 0"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which is the most abundant element in the universe?",
+          "options": {
+            "A": "Hydrogen",
+            "B": "Oxygen",
+            "C": "Carbon",
+            "D": "Helium"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "At what temperature does hydrogen liquefy?",
+          "options": {
+            "A": "-253°C",
+            "B": "-273°C",
+            "C": "0°C",
+            "D": "100°C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the most common isotope of hydrogen?",
+          "options": {
+            "A": "Deuterium",
+            "B": "Tritium",
+            "C": "Protium",
+            "D": "Hydrogen-1"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which property distinguishes hydrogen from metals?",
+          "options": {
+            "A": "High ionization energy",
+            "B": "Ductility",
+            "C": "Density",
+            "D": "Melting point"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
       "chapter_no": 10,
       "chapter_name": "The s-Block Elements",
       "duration": "3:22:23",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=Qm9N9Jcw3iQ"
+      "video_url": "https://www.youtube.com/watch?v=jffq2LKR3rY&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=10",
+      "questions": [
+        {
+          "question": "What is the common oxidation state of alkali metals?",
+          "options": {
+            "A": "+1",
+            "B": "0",
+            "C": "+2",
+            "D": "-1"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which alkali metal is the lightest?",
+          "options": {
+            "A": "Lithium",
+            "B": "Sodium",
+            "C": "Potassium",
+            "D": "Rubidium"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which s-block element reacts vigorously with water?",
+          "options": {
+            "A": "Beryllium",
+            "B": "Magnesium",
+            "C": "Calcium",
+            "D": "Sodium"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the boiling point trend among alkali metals as the atomic number increases?",
+          "options": {
+            "A": "Decreases",
+            "B": "Increases",
+            "C": "Remains constant",
+            "D": "Fluctuates"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which ion has the highest hydration enthalpy among the alkali metals?",
+          "options": {
+            "A": "Li⁺",
+            "B": "Na⁺",
+            "C": "K⁺",
+            "D": "Rb⁺"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
       "chapter_no": 11,
       "chapter_name": "The p-Block Elements",
       "duration": "3:06:55",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=3ovZmgiOnFo"
+      "video_url": "https://www.youtube.com/watch?v=OOkAfv6U1rw&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=11",
+      "questions": [
+        {
+          "question": "Which group does boron belong to?",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Group 13",
+            "D": "Group 14"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What property is not typical of nonmetals?",
+          "options": {
+            "A": "Good conductors of heat",
+            "B": "Low density",
+            "C": "Higher ionization energy",
+            "D": "Form covalent bonds"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which compound is formed when phosphorus reacts with oxygen?",
+          "options": {
+            "A": "P₄O₁₀",
+            "B": "P₂O₅",
+            "C": "P₂O₃",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What element is known for its allotropes, including diamond and graphite?",
+          "options": {
+            "A": "Carbon",
+            "B": "Silicon",
+            "C": "Boron",
+            "D": "Nitrogen"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main use of sulfuric acid in industry?",
+          "options": {
+            "A": "Fertilizer production",
+            "B": "Petroleum refining",
+            "C": "Detergent manufacture",
+            "D": "Pesticide production"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
       "chapter_no": 12,
       "chapter_name": "Some Basic Principles and Techniques",
       "duration": "3:57:56",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=SKVYNekGdlk"
+      "video_url": "https://www.youtube.com/watch?v=xAI7Tj6N9Fw&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=12",
+      "questions": [
+        {
+          "question": "What is chromatography used for?",
+          "options": {
+            "A": "To separate mixtures",
+            "B": "To measure pH",
+            "C": "To calculate molarity",
+            "D": "To determine density"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What technique separates components based on boiling points?",
+          "options": {
+            "A": "Filtration",
+            "B": "Distillation",
+            "C": "Centrifugation",
+            "D": "Electrophoresis"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the purpose of recrystallization?",
+          "options": {
+            "A": "Purifying solids",
+            "B": "Separating gases",
+            "C": "Measuring concentrations",
+            "D": "Determining pH"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which technique separates charged particles in a magnetic field?",
+          "options": {
+            "A": "Centrifugation",
+            "B": "Destillation",
+            "C": "Electrophoresis",
+            "D": "Filtration"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the unit used to express concentration of solutions?",
+          "options": {
+            "A": "grams",
+            "B": "liters",
+            "C": "molarity (M)",
+            "D": "milliliters"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 13,
       "chapter_name": "Hydrocarbons",
       "duration": "2:49:56",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=cy1mszBYH9k"
+      "video_url": "https://www.youtube.com/watch?v=xzN_SZ_AWLw&list=PL2xF3HCNxGM-K7mCpoY7m-0HAFj1t01dJ&index=13",
+      "questions": [
+        {
+          "question": "What is the simplest alkene?",
+          "options": {
+            "A": "Ethylene",
+            "B": "Propylene",
+            "C": "Butylene",
+            "D": "Methane"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which type of hydrocarbons contain only single bonds?",
+          "options": {
+            "A": "Alkenes",
+            "B": "Alkynes",
+            "C": "Alkanes",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is a common reaction of alkenes?",
+          "options": {
+            "A": "Combustion",
+            "B": "Hydrogenation",
+            "C": "Halogenation",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which hydrocarbon is known as a saturated compound?",
+          "options": {
+            "A": "Alkene",
+            "B": "Alkyne",
+            "C": "Alkane",
+            "D": "Cycloalkane"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the general formula for alkenes?",
+          "options": {
+            "A": "CₙH₂ₙ",
+            "B": "CₙH₂ₙ₊₂",
+            "C": "CₙH₂ₙ₋₂",
+            "D": "CₙH₂ₙ₋₄"
+          },
+          "correct_answer": "A"
+        }
+      ]
     }
   ]
-  
+}

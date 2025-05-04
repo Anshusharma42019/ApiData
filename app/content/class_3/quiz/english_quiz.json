@@ -5,7 +5,7 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "Good Morning & The Magic Garden",
+        "chapter_name": "Good Morning & The Magic Garden",
         "questions": [
           {
             "question": "What does the child say 'Good Morning' to in the poem?",
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Bird Talk & Nina and The Baby Sparrows",
+        "chapter_name": "Bird Talk & Nina and The Baby Sparrows",
         "questions": [
           {
             "question": "What do the birds think about people in 'Bird Talk'?",
@@ -117,7 +117,7 @@
       },
       {
         "chapter_no": 3,
-        "title": "Little By Little & The Enormous Turnip",
+        "chapter_name": "Little By Little & The Enormous Turnip",
         "questions": [
           {
             "question": "What grows 'little by little' in the poem?",
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Sea Song & A Little Fish",
+        "chapter_name": "Sea Song & A Little Fish",
         "questions": [
           {
             "question": "Where did the child find the shell in 'Sea Song'?",
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "The Balloon Man & The Yellow Butterfly",
+        "chapter_name": "The Balloon Man & The Yellow Butterfly",
         "questions": [
           {
             "question": "Where does the balloon man stand in the poem?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "Trains & The Story of the Road",
+        "chapter_name": "Trains & The Story of the Road",
         "questions": [
           {
             "question": "Where do the trains run in the poem?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "Little Tiger, Big Tiger & Puppy and I",
+        "chapter_name": "Little Tiger, Big Tiger & Puppy and I",
         "questions": [
           {
             "question": "In 'Little Tiger, Big Tiger', who was Tim?",
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "What's in the Mailbox? & My Silly Sister",
+        "chapter_name": "What's in the Mailbox? & My Silly Sister",
         "questions": [
           {
             "question": "In 'What's in the Mailbox?', what does the child want to do?",
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "Don't Tell & He is My Brother",
+        "chapter_name": "Don't Tell & He is My Brother",
         "questions": [
           {
             "question": "In 'Don't Tell', what does the child want to do?",
@@ -509,7 +509,7 @@
       },
       {
         "chapter_no": 10,
-        "title": "The Ship of the Desert & How Creatures Move",
+        "chapter_name": "The Ship of the Desert & How Creatures Move",
         "questions": [
           {
             "question": "Why is the camel called the ship of the desert?",

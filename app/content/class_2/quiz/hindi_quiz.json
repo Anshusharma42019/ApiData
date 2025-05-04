@@ -5,7 +5,7 @@
   "chapters": [
     {
       "chapter_no": 1,
-      "title": "ऊँट चला (Oont Chala)",
+      "chapter_name": "ऊँट चला (Oont Chala)",
       "questions": [
         {
           "question": "कविता में ऊँट क्या कर रहा है?",
@@ -61,7 +61,7 @@
     },
     {
       "chapter_no": 2,
-      "title": "भालू ने खेली फुटबाल (Bhalu Ne Kheli Football)",
+      "chapter_name": "भालू ने खेली फुटबाल (Bhalu Ne Kheli Football)",
       "questions": [
         {
           "question": "भालू ने कौन सा खेल खेला?",
@@ -117,7 +117,7 @@
     },
     {
       "chapter_no": 3,
-      "title": "म्याऊँ म्याऊँ (Miyaun Miyaun)",
+      "chapter_name": "म्याऊँ म्याऊँ (Miyaun Miyaun)",
       "questions": [
         {
           "question": "कविता में किस जानवर की आवाज़ का वर्णन है?",
@@ -173,7 +173,7 @@
     },
     {
       "chapter_no": 4,
-      "title": "अधिक बलवान कौन? (Adhik Balvan Kaun?)",
+      "chapter_name": "अधिक बलवान कौन? (Adhik Balvan Kaun?)",
       "questions": [
         {
           "question": "इस कहानी में किसकी ताकत की बात हो रही है?",
@@ -229,7 +229,7 @@
     },
     {
       "chapter_no": 5,
-      "title": "दोस्त की मदद (Dost Ki Madad)",
+      "chapter_name": "दोस्त की मदद (Dost Ki Madad)",
       "questions": [
         {
           "question": "इस कहानी में कौन-कौन दोस्त हैं?",
@@ -285,7 +285,7 @@
     },
     {
       "chapter_no": 6,
-      "title": "बहुत हुआ (Bahut Hua)",
+      "chapter_name": "बहुत हुआ (Bahut Hua)",
       "questions": [
         {
           "question": "इस कविता में किसकी बात हो रही है?",
@@ -341,7 +341,7 @@
     },
     {
       "chapter_no": 7,
-      "title": "मेरी किताब (Meri Kitab)",
+      "chapter_name": "मेरी किताब (Meri Kitab)",
       "questions": [
         {
           "question": "कविता में बच्चा किसके बारे में बात कर रहा है?",
@@ -397,7 +397,7 @@
     },
     {
       "chapter_no": 8,
-      "title": "तितली और कली (Titli Aur Kali)",
+      "chapter_name": "तितली और कली (Titli Aur Kali)",
       "questions": [
         {
           "question": "तितली कहाँ बैठी थी?",
@@ -453,7 +453,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "बुलबुल (Bulbul)",
+      "chapter_name": "बुलबुल (Bulbul)",
       "questions": [
         {
           "question": "बुलबुल क्या है?",
@@ -509,7 +509,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "मीठी सारंगी (Meethi Sarangi)",
+      "chapter_name": "मीठी सारंगी (Meethi Sarangi)",
       "questions": [
         {
           "question": "सारंगी क्या है?",
@@ -565,7 +565,7 @@
     },
     {
       "chapter_no": 11,
-      "title": "टेसू राजा बीच बाज़ार (Tesu Raja Beech Bazar)",
+      "chapter_name": "टेसू राजा बीच बाज़ार (Tesu Raja Beech Bazar)",
       "questions": [
         {
           "question": "टेसू राजा कहाँ गए थे?",
@@ -621,7 +621,7 @@
     },
     {
       "chapter_no": 12,
-      "title": "बस के नीचे बाघ (Bus Ke Neeche Bagh)",
+      "chapter_name": "बस के नीचे बाघ (Bus Ke Neeche Bagh)",
       "questions": [
         {
           "question": "बस के नीचे क्या था?",
@@ -677,7 +677,7 @@
     },
     {
       "chapter_no": 13,
-      "title": "सूरज जल्दी आना जी (Sooraj Jaldi Aana Ji)",
+      "chapter_name": "सूरज जल्दी आना जी (Sooraj Jaldi Aana Ji)",
       "questions": [
         {
           "question": "बच्चा सूरज से क्या कहता है?",
@@ -733,7 +733,7 @@
     },
     {
       "chapter_no": 14,
-      "title": "नटखट चूहा (Natkhat Chuha)",
+      "chapter_name": "नटखट चूहा (Natkhat Chuha)",
       "questions": [
         {
           "question": "चूहा कैसा था?",
@@ -789,7 +789,7 @@
     },
     {
       "chapter_no": 15,
-      "title": "एक्की दोक्की (Ekki Dokki)",
+      "chapter_name": "एक्की दोक्की (Ekki Dokki)",
       "questions": [
         {
           "question": "एक्की और दोक्की कौन थीं?",

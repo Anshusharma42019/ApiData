@@ -1,321 +1,831 @@
 {
-    "class": 6,
-    "subject": "Science",
-    "source": "Magnet Brains YouTube Playlist",
-    "total_chapters": 14,
-    "total_videos": 54,
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Components of Food",
-        "videos": [
-          {
-            "title": "What do Different Food Items Contain - Components of Food | Class 6 Science Chapter 1",
-            "url": "https://www.youtube.com/watch?v=1oJmYr2hvJY"
+  "class": 6,
+  "subject": "Science",
+  "channel": "Magnet Brains",
+  "total_chapters": 14,
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Components of Food",
+      "video_url": "https://www.youtube.com/watch?v=_BY2BmMYsmE&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=1",
+      "video_url_1": "https://www.youtube.com/watch?v=BXwJ1ACPPk8&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=2",
+      "video_url_2": "https://www.youtube.com/watch?v=HJlWxUZ4QWU&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=3",
+      "video_url_3": "https://www.youtube.com/watch?v=S6xeZKjYWBs&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=4",
+      "questions": [
+        {
+          "question": "What are the main components of food?",
+          "options": {
+            "A": "Proteins, Carbohydrates, Fats",
+            "B": "Salt, Sugar, Water",
+            "C": "Vitamins, Minerals, Fiber",
+            "D": "All of the above"
           },
-          {
-            "title": "What Do Various Nutrients Do for Our Body - Components of Food | Class 6 Science Chapter 1",
-            "url": "https://www.youtube.com/watch?v=Fz9RzIxoQYY"
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the primary function of carbohydrates?",
+          "options": {
+            "A": "Growth",
+            "B": "Energy",
+            "C": "Repair",
+            "D": "Digestion"
           },
-          {
-            "title": "Loss of Nutrients and Balanced Diet - Components of Food | Class 6 Science Chapter 1",
-            "url": "https://www.youtube.com/watch?v=11G7wQxGJmY"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which nutrient is essential for body repair?",
+          "options": {
+            "A": "Carbohydrates",
+            "B": "Fats",
+            "C": "Proteins",
+            "D": "Vitamins"
           },
-          {
-            "title": "Frequently Asked Questions - Components of Food | Class 6 Science Chapter 1",
-            "url": "https://www.youtube.com/watch?v=EqFxuF2PvQw"
-          }
-        ]
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Sorting Materials Into Groups",
-        "videos": [
-          {
-            "title": "What is Classification? - Sorting Materials Into Groups | Class 6 Science Chapter 2",
-            "url": "https://www.youtube.com/watch?v=wP15kBB1r8Y"
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is a balanced diet?",
+          "options": {
+            "A": "Only vegetables",
+            "B": "Mix of various food items",
+            "C": "Only fruits",
+            "D": "No food items"
           },
-          {
-            "title": "Frequently Asked Questions - Sorting Materials Into Groups | Class 6 Science Chapter 2",
-            "url": "https://www.youtube.com/watch?v=RhpHKXBwlHo"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Separation of Substance",
-        "videos": [
-          {
-            "title": "Separation of Mixtures - Separation of Substance | Class 6 Science Chapter 3",
-            "url": "https://www.youtube.com/watch?v=wHZMue-jxq8"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What can result from a deficiency in vitamins?",
+          "options": {
+            "A": "Obesity",
+            "B": "Ailments",
+            "C": "Increased energy",
+            "D": "None"
           },
-          {
-            "title": "Sedimentation and Decantation - Separation of Substance | Class 6 Science Chapter 3",
-            "url": "https://www.youtube.com/watch?v=IuymIjcFOco"
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Sorting Materials Into Groups",
+      "video_url": "https://www.youtube.com/watch?v=BIv-BW6_uFQ&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=5",
+      "video_url_1": "https://www.youtube.com/watch?v=DhXSwmFAo50&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=6",
+      "questions": [
+        {
+          "question": "What is classification?",
+          "options": {
+            "A": "Arranging materials randomly",
+            "B": "Grouping materials based on similar characteristics",
+            "C": "Throwing away materials",
+            "D": "Collecting all materials"
           },
-          {
-            "title": "Frequently Asked Questions - Seperation of Substance | Class 6 Science Chapter 3",
-            "url": "https://www.youtube.com/watch?v=csBbQHtWttQ"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Getting to Know Plants",
-        "videos": [
-          {
-            "title": "Herbs, Shrubs and Trees - Getting to Know Plants | Class 6 Science Chapter 4",
-            "url": "https://www.youtube.com/watch?v=Od0sfqcZ3Go"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a reason for sorting materials?",
+          "options": {
+            "A": "For proper management and study",
+            "B": "To make a mess",
+            "C": "To confuse others",
+            "D": "None"
           },
-          {
-            "title": "Types of Roots - Getting to know Plants (Activity 3 and 4) | Class 6 Science Chapter 4",
-            "url": "https://www.youtube.com/watch?v=F1rF6P_Ewhw"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which category would glass belong to?",
+          "options": {
+            "A": "Metal",
+            "B": "Plastic",
+            "C": "Non-metal",
+            "D": "Organic"
           },
-          {
-            "title": "Parts of a Flower - Getting to Know Plants | Class 6 Science Chapter 4",
-            "url": "https://www.youtube.com/watch?v=kzFfVsqDN9g"
+          "correct_answer": "C"
+        },
+        {
+          "question": "Why is it important to sort materials?",
+          "options": {
+            "A": "To waste time",
+            "B": "For better recycling and utilization",
+            "C": "Just for fun",
+            "D": "To avoid accidents"
           },
-          {
-            "title": "Frequently Asked Questions - Getting to Know Plants | Class 6 Science Chapter 4",
-            "url": "https://www.youtube.com/watch?v=xyRg9G-Q7d0"
-          }
-        ]
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Body Movements",
-        "videos": [
-          {
-            "title": "Bones and It's Functions - Body Movements | Class 6 Science Chapter 5",
-            "url": "https://www.youtube.com/watch?v=eHwFh7VOfgI"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is NOT a method of classification?",
+          "options": {
+            "A": "By state",
+            "B": "By color",
+            "C": "By size",
+            "D": "By taste"
           },
-          {
-            "title": "Different Types of Joints - Body Movement | Class 6 Science Chapter 5",
-            "url": "https://www.youtube.com/watch?v=v6LDQ6y6qu0"
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Separation of Substance",
+      "video_url": "https://www.youtube.com/watch?v=VGKohJWEBmU&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=7",
+      "video_url_1": "https://www.youtube.com/watch?v=FVXoPMTyRyw&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=8",
+      "video_url_2": "https://www.youtube.com/watch?v=dgEfoReeVZU&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=9",
+      "questions": [
+        {
+          "question": "What does separation of substances refer to?",
+          "options": {
+            "A": "Combining different materials",
+            "B": "Keeping substances together",
+            "C": "Removing one or more components from a mixture",
+            "D": "Throwing away everything"
           },
-          {
-            "title": "Movements - Body Movement | Class 6 Science Chapter 5 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=l9HX5egzI_U"
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which method is used to separate a mixture of sand and salt?",
+          "options": {
+            "A": "Evaporation",
+            "B": "Filtration",
+            "C": "Magnetism",
+            "D": "Sedimentation"
           },
-          {
-            "title": "Frequently Asked Question - Body Movements | Class 6 Science Chapter 5 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=cH7lfPv-6jw"
-          }
-        ]
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "The Living Organisms Characteristics & Habitats",
-        "videos": [
-          {
-            "title": "Habitat and Adaptation - The Living Organisms Characteristics & Habitats | Class 6 Science Chapter 6",
-            "url": "https://www.youtube.com/watch?v=44whBfFf6fQ"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is decantation?",
+          "options": {
+            "A": "Pouring off a liquid and leaving the solid behind",
+            "B": "Mixing two substances",
+            "C": "Heating mixtures",
+            "D": "Filtering"
           },
-          {
-            "title": "Journey Through Different Habitat-The Living Organisms Characteristics & Habitats | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=J_XHzDlTh-8"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following does NOT involve separation?",
+          "options": {
+            "A": "Sieving",
+            "B": "Dissolving",
+            "C": "Filtration",
+            "D": "Sifting"
           },
-          {
-            "title": "Characteristics of Living Beings - The Living Organisms Characteristics & Habitats | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=wAkUqXKPAuw"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What separation technique is used for separating oil and water?",
+          "options": {
+            "A": "Sedimentation",
+            "B": "Filtration",
+            "C": "Using a separating funnel",
+            "D": "Evaporation"
           },
-          {
-            "title": "The Living Organisms Characteristics & Habitats - FAQs | Class 6 Science Ch6 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=HpBC5m2f0w8"
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Getting to Know Plants",
+      "video_url": "https://www.youtube.com/watch?v=ut3NchYB1Yc&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=10",
+      "video_url_1": "https://www.youtube.com/watch?v=uOKCkBnyZCU&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=11",
+      "video_url_2": "https://www.youtube.com/watch?v=BZIGEOX8jms&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=12",
+      "video_url_3": "https://www.youtube.com/watch?v=oiuTtzMU_k0&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=13",
+      "questions": [
+        {
+          "question": "Which part of the plant is primarily responsible for photosynthesis?",
+          "options": {
+            "A": "Roots",
+            "B": "Stem",
+            "C": "Leaves",
+            "D": "Flowers"
           },
-          {
-            "title": "Biotic and Abiotic - Living Organisms - Characteristics and Habitats | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=Jcxlggl7JRU"
-          }
-        ]
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Motion and Measurement of Distances",
-        "videos": [
-          {
-            "title": "How we Measure - Motion and Measurement of Distances | Class 6 Science Chapter 7 |",
-            "url": "https://www.youtube.com/watch?v=9mswTXFxEdw"
+          "correct_answer": "C"
+        },
+        {
+          "question": "What type of plant is a cactus?",
+          "options": {
+            "A": "Herb",
+            "B": "Shrub",
+            "C": "Tree",
+            "D": "Succulent"
           },
-          {
-            "title": "Types Of Motion - Motion and Measurement of Distances | Class 6 Science Chapter 7 |",
-            "url": "https://www.youtube.com/watch?v=g03T0VZQ2-Q"
+          "correct_answer": "D"
+        },
+        {
+          "question": "What do we call plants that grow in water?",
+          "options": {
+            "A": "Aquatic plants",
+            "B": "Desert plants",
+            "C": "Terrestrial plants",
+            "D": "None"
           },
-          {
-            "title": "Frequently Asked Questions - Motion and Measurement of Distances | Class 6 Science Chapter 7 |",
-            "url": "https://www.youtube.com/watch?v=3nWAUoU6wQQ"
-          }
-        ]
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Lights, Shadows and Reflections",
-        "videos": [
-          {
-            "title": "Introduction - Lights, Shadows and Reflections - | Class 6 Science Chapter 8",
-            "url": "https://www.youtube.com/watch?v=6oGzaz6dSoI"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is NOT a type of root?",
+          "options": {
+            "A": "Tap root",
+            "B": "Fibrous root",
+            "C": "Adventitious root",
+            "D": "Supportive root"
           },
-          {
-            "title": "Pinhole Camera - Lights, Shadows and Reflections | Class 6 Science Chapter 8 |",
-            "url": "https://www.youtube.com/watch?v=cjY5ZFcjNjo"
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which part of the plant attracts pollinators?",
+          "options": {
+            "A": "Roots",
+            "B": "Leaves",
+            "C": "Stem",
+            "D": "Flowers"
           },
-          {
-            "title": "Reflection and Mirrors - Lights, Shadows and Reflections | Class 6 Science Chapter 8 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=ggY7kIklf48"
-          }
-        ]
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Electricity and Circuits",
-        "videos": [
-          {
-            "title": "Cell and battery - Electricity and Circuits | Class 6 Science Chapter 9",
-            "url": "https://www.youtube.com/watch?v=yRrsn0leFhQ"
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Body Movements",
+      "video_url": "https://www.youtube.com/watch?v=3FaTo_19qEc&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=14",
+      "video_url_1": "https://www.youtube.com/watch?v=fcTu-py3fqM&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=15",
+      "video_url_2": "https://www.youtube.com/watch?v=bHznWG5RyZg&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=16",
+      "video_url_3": "https://www.youtube.com/watch?v=q_Ya9b8RIsg&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=17",
+      "questions": [
+        {
+          "question": "What are the main functions of bones?",
+          "options": {
+            "A": "Support and protection",
+            "B": "Only support",
+            "C": "Only protection",
+            "D": "Helps in digestion"
           },
-          {
-            "title": "Electric Circuit - Electricity and Circuits | Class 6 Science Chapter 9",
-            "url": "https://www.youtube.com/watch?v=xfPzwjxWh4Q"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of joint allows for circular movement?",
+          "options": {
+            "A": "Hinge joint",
+            "B": "Ball and socket joint",
+            "C": "Pivot joint",
+            "D": "Fixed joint"
           },
-          {
-            "title": "Conductors and Insulators - Electricity and Circuit | Class 6 Science Chapter 9",
-            "url": "https://www.youtube.com/watch?v=t8G7HtI0Qj0"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a hinge joint?",
+          "options": {
+            "A": "Shoulder",
+            "B": "Elbow",
+            "C": "Hip",
+            "D": "Neck"
           },
-          {
-            "title": "Frequently Asked Questions - Electricity and Circuits | Class 6 Science Chapter 9",
-            "url": "https://www.youtube.com/watch?v=gwcoNdkHY_A"
-          }
-        ]
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "Fun With Magnets",
-        "videos": [
-          {
-            "title": "Introduction and Activity 1 - Fun With Magnets | Class 6 Science Chapter 10",
-            "url": "https://www.youtube.com/watch?v=eJmGjOrUp24"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What helps us to move our joints?",
+          "options": {
+            "A": "Muscles",
+            "B": "Tendons",
+            "C": "Ligaments",
+            "D": "Both A and B"
           },
-          {
-            "title": "Magnetic Poles - Fun With Magnets | Class 6 Science Chapter 10",
-            "url": "https://www.youtube.com/watch?v=3fiA9KfVpXs"
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of movement occurs when walking?",
+          "options": {
+            "A": "Linear",
+            "B": "Rotational",
+            "C": "Translational",
+            "D": "Circular"
           },
-          {
-            "title": "Frequently Asked Questions - Fun With Magnets | Class 6 Science Chapter 10",
-            "url": "https://www.youtube.com/watch?v=RiLOchR8kFQ"
-          }
-        ]
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "Air Around us",
-        "videos": [
-          {
-            "title": "Presence of Air - Air Around us | Class 6 Science Chapter 11",
-            "url": "https://www.youtube.com/watch?v=b8o8x2hxQ_E"
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "The Living Organisms Characteristics & Habitats",
+      "video_url": "https://www.youtube.com/watch?v=X0jpymLKxQY&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=18",
+      "video_url_1": "https://www.youtube.com/watch?v=MNleMIhKjNc&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=19",
+      "video_url_2": "https://www.youtube.com/watch?v=UMdI4OmY6_8&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=20",
+      "video_url_3": "https://www.youtube.com/watch?v=3c_dTtx7ob8&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=21",
+      "questions": [
+        {
+          "question": "What is a habitat?",
+          "options": {
+            "A": "A type of plant",
+            "B": "An environment where an organism lives",
+            "C": "A food source",
+            "D": "A kind of soil"
           },
-          {
-            "title": "Composition of Air - Air Around us | Class 6 Science Chapter 11",
-            "url": "https://www.youtube.com/watch?v=YlGR66wGpFw"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do you call organisms that can live in extreme conditions?",
+          "options": {
+            "A": "Endangered species",
+            "B": "Adaptations",
+            "C": "Extremophiles",
+            "D": "Common organisms"
           },
-          {
-            "title": "The Oxygen-Carbon Dioxide Balance in the Air - Air Around Us | Class 6 Science Ch 11 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=3I2dsOe0FMI"
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a terrestrial habitat?",
+          "options": {
+            "A": "Forest",
+            "B": "Ocean",
+            "C": "Lake",
+            "D": "River"
           },
-          {
-            "title": "Frequently Asked Questions - Air Around Us | Class 6 Science Chapter 11",
-            "url": "https://www.youtube.com/watch?v=Rhwv5oQ4wbM"
-          }
-        ]
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "Garbage In, Garbage Out",
-        "videos": [
-          {
-            "title": "Class 6 Science | Sources of Waste - Garbage in, Garbage out",
-            "url": "https://www.youtube.com/watch?v=1Qw0k35NFCw"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Adaptation refers to:",
+          "options": {
+            "A": "Change to survive in an environment",
+            "B": "Eating habits",
+            "C": "Reproduction methods",
+            "D": "Growth rate"
           },
-          {
-            "title": "Disposal of Waste - Garbage In, Garbage Out | Class 6 Science Chapter",
-            "url": "https://www.youtube.com/watch?v=bD1aytUqHeA"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which organism is found in aquatic habitats?",
+          "options": {
+            "A": "Frog",
+            "B": "Tiger",
+            "C": "Monkey",
+            "D": "Camel"
           },
-          {
-            "title": "Impact of Waste - Garbage In, Garbage Out | Class 6 Science Chapter | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=5cMcxaBz38w"
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Motion and Measurement of Distances",
+      "video_url": "https://www.youtube.com/watch?v=VvQMxbceYk0&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=22",
+      "video_url_1": "https://www.youtube.com/watch?v=3A4ZYLI-XDg&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=23",
+      "questions": [
+        {
+          "question": "What is motion?",
+          "options": {
+            "A": "Changing place or position",
+            "B": "Staying still",
+            "C": "Being heavy",
+            "D": "Non-movement"
           },
-          {
-            "title": "Class 6 Science Chapter 16 | Garbage In, Garbage Out - Frequently Asked Questions",
-            "url": "https://www.youtube.com/watch?v=F0uFc6hz1Xs"
-          }
-        ]
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "Food: Where Does It Come From?",
-        "videos": [
-          {
-            "title": "Class 6 Science Chapter 1 | Food: Where Does It Come From? - Explanation",
-            "url": "https://www.youtube.com/watch?v=JpvlMhD4ofg"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which unit is used to measure distance?",
+          "options": {
+            "A": "Kilogram",
+            "B": "Meter",
+            "C": "Liter",
+            "D": "Gram"
           },
-          {
-            "title": "Class 6 Science Chapter 1 | Food: Where Does It Come From? - Question Answer",
-            "url": "https://www.youtube.com/watch?v=ltP70ywwpuY"
-          }
-        ]
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "Water",
-        "videos": [
-          {
-            "title": "Class 6 Science | Chapter 14 | Uses of Water - Water",
-            "url": "https://www.youtube.com/watch?v=70trV-QlTp0"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of motion does a spinning top demonstrate?",
+          "options": {
+            "A": "Linear motion",
+            "B": "Rotational motion",
+            "C": "Translational motion",
+            "D": "Random motion"
           },
-          {
-            "title": "The Water Cycle - Water | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=ljfv3G_n5-c"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which tool is commonly used to measure distances?",
+          "options": {
+            "A": "Ruler",
+            "B": "Thermometer",
+            "C": "Barometer",
+            "D": "Compass"
           },
-          {
-            "title": "Class 6 Science | Chapter 14 | Sources of Water - Water",
-            "url": "https://www.youtube.com/watch?v=l1giAPjwSNE"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the formula for speed?",
+          "options": {
+            "A": "Distance x Time",
+            "B": "Distance / Time",
+            "C": "Time / Distance",
+            "D": "Time x Distance"
           },
-          {
-            "title": "Class 6 Science Chapter 14 | Water - Frequently Asked Questions",
-            "url": "https://www.youtube.com/watch?v=rN3HYWhTHdE"
-          }
-        ]
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "Fiber to Fabric",
-        "videos": [
-          {
-            "title": "Fiber to Fabric - Explanation | Class 6 Science Chapter 3",
-            "url": "https://www.youtube.com/watch?v=Ri6zoBnkfsY"
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Lights, Shadows and Reflections",
+      "video_url": "https://www.youtube.com/watch?v=3bOJfnCVFsk&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=25",
+      "video_url_1": "https://www.youtube.com/watch?v=McZV5VhFn-Y&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=26",
+      "video_url_2": "https://www.youtube.com/watch?v=TrsIAqYDl2s&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=27",
+      "questions": [
+        {
+          "question": "What is light?",
+          "options": {
+            "A": "A form of energy",
+            "B": "A substance",
+            "C": "A color",
+            "D": "A type of wave"
           },
-          {
-            "title": "Spinning - Fiber to Fabric | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=fdyw5rpjpTI"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What helps to form shadows?",
+          "options": {
+            "A": "Light",
+            "B": "Water",
+            "C": "Air",
+            "D": "Darkness"
           },
-          {
-            "title": "Frequently Asked Questions - Fiber to Fabric | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=Jcxlggl7JRU"
-          }
-        ]
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "Changes Around Us",
-        "videos": [
-          {
-            "title": "How to Study Changes - Changes Around Us | Class 6 Science",
-            "url": "https://www.youtube.com/watch?v=Ri6zoBnkfsY"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is necessary for reflection to occur?",
+          "options": {
+            "A": "A barrier",
+            "B": "A mirror",
+            "C": "Light",
+            "D": "All of the above"
           },
-          {
-            "title": "Class 6 Science | Chapter 6 | Changes Around us - Questions Answers",
-            "url": "https://www.youtube.com/watch?v=fdyw5rpjpTI"
-          }
-        ]
-      }
-    ]
-  }
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of image is formed in a pinhole camera?",
+          "options": {
+            "A": "Real and inverted image",
+            "B": "Virtual image",
+            "C": "1:1 image",
+            "D": "Colored image"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Where do we see reflections?",
+          "options": {
+            "A": "In mirrors",
+            "B": "In windows",
+            "C": "In still water",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Electricity and Circuits",
+      "video_url": "https://www.youtube.com/watch?v=X7aL2E3Oofg&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=29",
+      "video_url_1": "https://www.youtube.com/watch?v=w7EDVIaqKg8&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=30",
+      "questions": [
+        {
+          "question": "What is an electric circuit?",
+          "options": {
+            "A": "A path for electric current",
+            "B": "A path for water",
+            "C": "A pathway for sound",
+            "D": "A manufacturing process"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What are conductors?",
+          "options": {
+            "A": "Materials that allow electricity to flow",
+            "B": "Materials that do not allow electricity",
+            "C": "Heavy materials",
+            "D": "Insulations"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a good conductor of electricity?",
+          "options": {
+            "A": "Rubber",
+            "B": "Wood",
+            "C": "Copper",
+            "D": "Glass"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does a battery do?",
+          "options": {
+            "A": "Stores electrical energy",
+            "B": "Provides heat",
+            "C": "Cools the system",
+            "D": "Secures energy"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why should we not touch electrical wires with wet hands?",
+          "options": {
+            "A": "We will get electrocuted",
+            "B": "The wire will get damaged",
+            "C": "We will get dirty",
+            "D": "None"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Fun With Magnets",
+      "video_url": "https://www.youtube.com/watch?v=ntOa7dUP4xI&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=32",
+      "video_url_1": "https://www.youtube.com/watch?v=NZ1qVLQ9UsM&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=33",
+      "questions": [
+        {
+          "question": "What do magnets attract?",
+          "options": {
+            "A": "All materials",
+            "B": "Only iron and its alloys",
+            "C": "Gold and silver",
+            "D": "Plastic and rubber"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What are the two types of magnetic poles?",
+          "options": {
+            "A": "North and South",
+            "B": "East and West",
+            "C": "Positive and Negative",
+            "D": "Inward and Outward"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What happens when like poles of two magnets are brought together?",
+          "options": {
+            "A": "They attract each other",
+            "B": "They repel each other",
+            "C": "They combine",
+            "D": "Nothing happens"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a common use of magnets?",
+          "options": {
+            "A": "Holding papers",
+            "B": "In fridges",
+            "C": "In speakers",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which of the following is NOT a magnetic material?",
+          "options": {
+            "A": "Iron",
+            "B": "Nickel",
+            "C": "Cobalt",
+            "D": "Wood"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Air Around us",
+      "video_url": "https://www.youtube.com/watch?v=nlKqBlKQ7B4&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=35",
+      "video_url_1": "https://www.youtube.com/watch?v=YS_NxsVmZMU&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=36",
+      "video_url_2": "https://www.youtube.com/watch?v=JVuCF2dYKHw&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=37",
+      "questions": [
+        {
+          "question": "What is air made of?",
+          "options": {
+            "A": "Only oxygen",
+            "B": "Only nitrogen",
+            "C": "A mixture of gases",
+            "D": "None"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which gas is essential for humans to breathe?",
+          "options": {
+            "A": "Nitrogen",
+            "B": "Carbon Dioxide",
+            "C": "Oxygen",
+            "D": "Hydrogen"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What happens to air when it is heated?",
+          "options": {
+            "A": "It contracts",
+            "B": "It expands",
+            "C": "It becomes cold",
+            "D": "It turns into water"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is NOT a property of air?",
+          "options": {
+            "A": "It occupies space",
+            "B": "It has weight",
+            "C": "It is colorless",
+            "D": "It is visible"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How do we prove that air is present around us?",
+          "options": {
+            "A": "By using a balloon",
+            "B": "By using a fan",
+            "C": "By blowing candles",
+            "D": "By making sound"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Garbage In, Garbage Out",
+      "video_url": "https://www.youtube.com/watch?v=nLTazwro5as&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=39",
+      "video_url_1": "https://www.youtube.com/watch?v=s-kpfZL4srY&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=40",
+      "questions": [
+        {
+          "question": "What does garbage refer to?",
+          "options": {
+            "A": "Food waste",
+            "B": "Unwanted materials",
+            "C": "Hazardous materials",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the impact of littering?",
+          "options": {
+            "A": "Improves aesthetics",
+            "B": "Pollutes the environment",
+            "C": "Grows flora",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a method of waste disposal?",
+          "options": {
+            "A": "Burning",
+            "B": "Burying",
+            "C": "Recycling",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is composting?",
+          "options": {
+            "A": "Burning waste",
+            "B": "Converting organic waste into fertilizer",
+            "C": "Throwing away waste",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which is the best way to manage waste?",
+          "options": {
+            "A": "Litter everywhere",
+            "B": "Reduce, Reuse, Recycle",
+            "C": "Throw it in the ocean",
+            "D": "Burn all waste"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Food: Where Does It Come From?",
+      "video_url": "https://www.youtube.com/watch?v=Mhat-F6GUiY&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=43",
+      "video_url_1": "https://www.youtube.com/watch?v=KrU4C3vVNxM&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=44",
+      "questions": [
+        {
+          "question": "What is the main source of food?",
+          "options": {
+            "A": "Plants",
+            "B": "Animals",
+            "C": "Both",
+            "D": "None"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a plant product?",
+          "options": {
+            "A": "Milk",
+            "B": "Wheat",
+            "C": "Chicken",
+            "D": "Fish"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we get from animals?",
+          "options": {
+            "A": "Fruits",
+            "B": "Carbohydrates",
+            "C": "Meat and dairy",
+            "D": "Vegetables"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Where do we get honey from?",
+          "options": {
+            "A": "Bees",
+            "B": "Trees",
+            "C": "Plants",
+            "D": "Flowers"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which process do plants use to make their food?",
+          "options": {
+            "A": "Digestion",
+            "B": "Photosynthesis",
+            "C": "Respiration",
+            "D": "Reproduction"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Water",
+      "video_url": "https://www.youtube.com/watch?v=H2z8xfhTfRg&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=50",
+      "video_url_1": "https://www.youtube.com/watch?v=V0x9-K-CKAY&list=PLVLoWQFkZbhXq3hjhx5TQMhL3lNiF_OLy&index=52",
+      "questions": [
+        {
+          "question": "What is the essential function of water?",
+          "options": {
+            "A": "Cools the environment",
+            "B": "Supports life",
+            "C": "Precipitation",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which cycle describes the movement of water?",
+          "options": {
+            "A": "Food cycle",
+            "B": "Water cycle",
+            "C": "Nitrogen cycle",
+            "D": "Carbon cycle"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main source of fresh water?",
+          "options": {
+            "A": "Lakes",
+            "B": "Oceans",
+            "C": "Rivers",
+            "D": "Rain"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Why is it important to conserve water?",
+          "options": {
+            "A": "No reason",
+            "B": "Scarcity of water",
+            "C": "It is harmful",
+            "D": "Wasting resources"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we call the process of water changing from liquid to vapor?",
+          "options": {
+            "A": "Condensation",
+            "B": "Sublimation",
+            "C": "Evaporation",
+            "D": "Precipitation"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    }
+  ]
+}

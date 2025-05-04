@@ -2,799 +2,799 @@
     "Mathematics": [
       {
         "chapter_no": 1,
-        "title": "Real Numbers",
-        "url": "https://www.youtube.com/watch?v=PVZPLTQmSOM",
+        "chapter_name": "Real Numbers",
+        "video_url": "https://www.youtube.com/watch?v=PVZPLTQmSOM",
         "questions": [
           {
             "question": "Which of the following is NOT a rational number?",
             "options": {
-              "1": "1/2",
-              "2": "√2",
-              "3": "3.75",
-              "4": "1"
+              "A": "1/2",
+              "B": "√2",
+              "C": "3.75",
+              "D": "1"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the least common multiple (LCM) of 12 and 15?",
             "options": {
-              "1": "30",
-              "2": "60",
-              "3": "90",
-              "4": "15"
+              "A": "30",
+              "B": "60",
+              "C": "90",
+              "D": "15"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which number can be expressed as a terminating decimal?",
             "options": {
-              "1": "1/3",
-              "2": "1/4",
-              "3": "2/7",
-              "4": "5/6"
+              "A": "1/3",
+              "B": "1/4",
+              "C": "2/7",
+              "D": "5/6"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "If a and b are irrational numbers, which of the following statements is true?",
             "options": {
-              "1": "a + b is always irrational",
-              "2": "a - b is always rational",
-              "3": "a*b is always rational",
-              "4": "a/b can be rational or irrational"
+              "A": "a + b is always irrational",
+              "B": "a - b is always rational",
+              "C": "a*b is always rational",
+              "D": "a/b can be rational or irrational"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the decimal equivalent of the fraction 7/8?",
             "options": {
-              "1": "0.75",
-              "2": "0.875",
-              "3": "0.65",
-              "4": "0.85"
+              "A": "0.75",
+              "B": "0.875",
+              "C": "0.65",
+              "D": "0.85"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "title": "Polynomials",
-        "url": "https://www.youtube.com/watch?v=kyYV5S5Aw7c",
+        "chapter_name": "Polynomials",
+        "video_url": "https://www.youtube.com/watch?v=kyYV5S5Aw7c",
         "questions": [
           {
             "question": "What is the degree of the polynomial 4x^3 - 2x^2 + x + 7?",
             "options": {
-              "1": "3",
-              "2": "4",
-              "3": "2",
-              "4": "1"
+              "A": "C",
+              "B": "D",
+              "C": "B",
+              "D": "A"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a factor of the polynomial x^2 - 9?",
             "options": {
-              "1": "x - 3",
-              "2": "x + 3",
-              "3": "Both 1 and 2",
-              "4": "None of the above"
+              "A": "x - 3",
+              "B": "x + 3",
+              "C": "Both 1 and 2",
+              "D": "None of the above"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the value of k if the polynomial x^2 + kx + 6 has roots 2 and 3?",
             "options": {
-              "1": "5",
-              "2": "-5",
-              "3": "-6",
-              "4": "6"
+              "A": "5",
+              "B": "-5",
+              "C": "-6",
+              "D": "6"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If p(x) = x^2 + 4x + 4, what is p(-2)?",
             "options": {
-              "1": "0",
-              "2": "4",
-              "3": "8",
-              "4": "12"
+              "A": "0",
+              "B": "D",
+              "C": "8",
+              "D": "12"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the sum of the roots of the polynomial 2x^2 - 8x + 6?",
             "options": {
-              "1": "6",
-              "2": "4",
-              "3": "-4",
-              "4": "-1.5"
+              "A": "6",
+              "B": "D",
+              "C": "-4",
+              "D": "-1.5"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "title": "Pair of Linear Equations in Two Variables",
-        "url": "https://www.youtube.com/watch?v=48mVq7ZxRxM",
+        "chapter_name": "Pair of Linear Equations in Two Variables",
+        "video_url": "https://www.youtube.com/watch?v=48mVq7ZxRxM",
         "questions": [
           {
             "question": "What is the solution of the equations x + y = 10 and 2x + 2y = 20?",
             "options": {
-              "1": "Infinitely many solutions",
-              "2": "No solution",
-              "3": "One unique solution",
-              "4": "x = 2, y = 8"
+              "A": "Infinitely many solutions",
+              "B": "No solution",
+              "C": "One unique solution",
+              "D": "x = 2, y = 8"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If 3x - 2y = 8 and 6x + y = 11, what is the value of x?",
             "options": {
-              "1": "2",
-              "2": "3",
-              "3": "4",
-              "4": "5"
+              "A": "B",
+              "B": "C",
+              "C": "D",
+              "D": "5"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In which quadrant do the solutions of the equations x + y = 8 and x - y = 2 lie?",
             "options": {
-              "1": "Quadrant I",
-              "2": "Quadrant II",
-              "3": "Quadrant III",
-              "4": "Quadrant IV"
+              "A": "Quadrant I",
+              "B": "Quadrant II",
+              "C": "Quadrant III",
+              "D": "Quadrant IV"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following represents the equation of a line with no solution?",
             "options": {
-              "1": "y = 2x + 2",
-              "2": "y = 2x + 5",
-              "3": "3x + 5y = 15",
-              "4": "x + y = 5"
+              "A": "y = 2x + 2",
+              "B": "y = 2x + 5",
+              "C": "3x + 5y = 15",
+              "D": "x + y = 5"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "If the two equations are intersecting lines, how many solutions do they have?",
             "options": {
-              "1": "No solution",
-              "2": "One solution",
-              "3": "Infinitely many solutions",
-              "4": "Two solutions"
+              "A": "No solution",
+              "B": "One solution",
+              "C": "Infinitely many solutions",
+              "D": "Two solutions"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "title": "Quadratic Equations",
-        "url": "https://www.youtube.com/watch?v=QHdJ-OKeZYU",
+        "chapter_name": "Quadratic Equations",
+        "video_url": "https://www.youtube.com/watch?v=QHdJ-OKeZYU",
         "questions": [
           {
             "question": "What is the discriminant of the equation x^2 - 4x + 4?",
             "options": {
-              "1": "0",
-              "2": "4",
-              "3": "8",
-              "4": "16"
+              "A": "0",
+              "B": "D",
+              "C": "8",
+              "D": "16"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "How many real roots does the equation x^2 + 5x + 6 = 0 have?",
             "options": {
-              "1": "2",
-              "2": "1",
-              "3": "0",
-              "4": "Infinite"
+              "A": "B",
+              "B": "A",
+              "C": "0",
+              "D": "Infinite"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Using the quadratic formula, what are the roots of the equation 2x^2 - 3x - 5 = 0?",
             "options": {
-              "1": "3, -5/2",
-              "2": "5/2, -3",
-              "3": "-3/4, 5/2",
-              "4": "None of the above"
+              "A": "3, -5/2",
+              "B": "5/2, -3",
+              "C": "-3/4, 5/2",
+              "D": "None of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "If the roots of a quadratic equation are 3 and -2, what is the quadratic equation?",
             "options": {
-              "1": "x^2 - x - 6 = 0",
-              "2": "x^2 + x - 6 = 0",
-              "3": "x^2 - 5x - 6 = 0",
-              "4": "x^2 + 5x - 6 = 0"
+              "A": "x^2 - x - 6 = 0",
+              "B": "x^2 + x - 6 = 0",
+              "C": "x^2 - 5x - 6 = 0",
+              "D": "x^2 + 5x - 6 = 0"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the vertex form of a quadratic equation?",
             "options": {
-              "1": "y = ax^2 + bx + c",
-              "2": "y = a(x - h)^2 + k",
-              "3": "y = a(x + p) + k",
-              "4": "y = (x - p)(x - q)"
+              "A": "y = ax^2 + bx + c",
+              "B": "y = a(x - h)^2 + k",
+              "C": "y = a(x + p) + k",
+              "D": "y = (x - p)(x - q)"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "title": "Arithmetic Progressions",
-        "url": "https://www.youtube.com/watch?v=PIhMiOwpT94",
+        "chapter_name": "Arithmetic Progressions",
+        "video_url": "https://www.youtube.com/watch?v=PIhMiOwpT94",
         "questions": [
           {
             "question": "What is the nth term of the arithmetic progression 5, 10, 15,...?",
             "options": {
-              "1": "5n",
-              "2": "10n",
-              "3": "5 + (n - 1) * 5",
-              "4": "5n + 5"
+              "A": "5n",
+              "B": "10n",
+              "C": "5 + (n - 1) * 5",
+              "D": "5n + 5"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "If the first term is 3 and common difference is 4, what is the 10th term?",
             "options": {
-              "1": "39",
-              "2": "40",
-              "3": "41",
-              "4": "42"
+              "A": "39",
+              "B": "40",
+              "C": "41",
+              "D": "42"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the sum of the first 20 terms of the arithmetic progression where the first term is 2 and common difference is 3?",
             "options": {
-              "1": "120",
-              "2": "180",
-              "3": "210",
-              "4": "300"
+              "A": "120",
+              "B": "180",
+              "C": "210",
+              "D": "300"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In an arithmetic progression, if the first term is a and the last term is l, how is the sum of n terms calculated?",
             "options": {
-              "1": "S_n = n/2 * (a + l)",
-              "2": "S_n = n * (a + d)",
-              "3": "S_n = n * (l - a)",
-              "4": "S_n = (a + l)/n"
+              "A": "S_n = n/2 * (a + l)",
+              "B": "S_n = n * (a + d)",
+              "C": "S_n = n * (l - a)",
+              "D": "S_n = (a + l)/n"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "How many terms are there in the arithmetic sequence: 2, 5, 8, ..., 29?",
             "options": {
-              "1": "9",
-              "2": "10",
-              "3": "11",
-              "4": "12"
+              "A": "9",
+              "B": "10",
+              "C": "11",
+              "D": "12"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 6,
-        "title": "Triangles",
-        "url": "https://www.youtube.com/watch?v=O6P6VLSeXrE",
+        "chapter_name": "Triangles",
+        "video_url": "https://www.youtube.com/watch?v=O6P6VLSeXrE",
         "questions": [
           {
             "question": "What is the sum of the interior angles of a triangle?",
             "options": {
-              "1": "90 degrees",
-              "2": "180 degrees",
-              "3": "360 degrees",
-              "4": "270 degrees"
+              "A": "90 degrees",
+              "B": "180 degrees",
+              "C": "360 degrees",
+              "D": "270 degrees"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In a right triangle, which trigonometric ratio represents the sine of an angle?",
             "options": {
-              "1": "Opposite / Adjacent",
-              "2": "Adjacent / Hypotenuse",
-              "3": "Opposite / Hypotenuse",
-              "4": "Hypotenuse / Adjacent"
+              "A": "Opposite / Adjacent",
+              "B": "Adjacent / Hypotenuse",
+              "C": "Opposite / Hypotenuse",
+              "D": "Hypotenuse / Adjacent"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides?",
             "options": {
-              "1": "Pythagorean theorem",
-              "2": "Triangle inequality theorem",
-              "3": "Sine theorem",
-              "4": "Cosine theorem"
+              "A": "Pythagorean theorem",
+              "B": "Triangle inequality theorem",
+              "C": "Sine theorem",
+              "D": "Cosine theorem"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If the lengths of two sides of a triangle are 7 and 10, what is the maximum possible length of the third side?",
             "options": {
-              "1": "17",
-              "2": "10",
-              "3": "7",
-              "4": "20"
+              "A": "17",
+              "B": "10",
+              "C": "7",
+              "D": "20"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "In triangle ABC, if angle A = 30 degrees and side a = 10, what is the length of side b assuming angle B = 60 degrees?",
             "options": {
-              "1": "5√3",
-              "2": "10",
-              "3": "10√3",
-              "4": "20"
+              "A": "5√3",
+              "B": "10",
+              "C": "10√3",
+              "D": "20"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 7,
-        "title": "Coordinate Geometry",
-        "url": "https://www.youtube.com/watch?v=RSsEGNoYpS0",
+        "chapter_name": "Coordinate Geometry",
+        "video_url": "https://www.youtube.com/watch?v=RSsEGNoYpS0",
         "questions": [
           {
             "question": "What is the distance between the points (3, 4) and (0, 0)?",
             "options": {
-              "1": "3",
-              "2": "4",
-              "3": "5",
-              "4": "7"
+              "A": "C",
+              "B": "D",
+              "C": "5",
+              "D": "7"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the midpoint of the line segment joining the points (2, 6) and (8, 10)?",
             "options": {
-              "1": "(5, 8)",
-              "2": "(4, 8)",
-              "3": "(6, 8)",
-              "4": "(8, 6)"
+              "A": "(5, 8)",
+              "B": "(4, 8)",
+              "C": "(6, 8)",
+              "D": "(8, 6)"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If the coordinates of point A are (3, 2) and the coordinates of point B are (7, 6), what is the slope of line AB?",
             "options": {
-              "1": "1",
-              "2": "2",
-              "3": "0.5",
-              "4": "4"
+              "A": "A",
+              "B": "B",
+              "C": "0.5",
+              "D": "D"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the equation of the line passing through the origin with a slope of 3?",
             "options": {
-              "1": "y = 3x",
-              "2": "y = -3x",
-              "3": "y = x + 3",
-              "4": "y = 3x + 1"
+              "A": "y = 3x",
+              "B": "y = -3x",
+              "C": "y = x + 3",
+              "D": "y = 3x + 1"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the area of the triangle formed by the points (0, 0), (4, 0), and (0, 3)?",
             "options": {
-              "1": "6",
-              "2": "8",
-              "3": "12",
-              "4": "9"
+              "A": "6",
+              "B": "8",
+              "C": "12",
+              "D": "9"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 8,
-        "title": "Introduction to Trigonometry",
-        "url": "https://www.youtube.com/watch?v=cGSKh8PDHPM",
+        "chapter_name": "Introduction to Trigonometry",
+        "video_url": "https://www.youtube.com/watch?v=cGSKh8PDHPM",
         "questions": [
           {
             "question": "What is the value of sin(90 degrees)?",
             "options": {
-              "1": "0",
-              "2": "1",
-              "3": "0.5",
-              "4": "None of the above"
+              "A": "0",
+              "B": "A",
+              "C": "0.5",
+              "D": "None of the above"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In a right triangle, if the opposite side is 4 and the hypotenuse is 5, what is sin(θ)?",
             "options": {
-              "1": "4/5",
-              "2": "5/4",
-              "3": "3/5",
-              "4": "2/5"
+              "A": "4/5",
+              "B": "5/4",
+              "C": "3/5",
+              "D": "2/5"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the cosine of 60 degrees?",
             "options": {
-              "1": "1/2",
-              "2": "√3/2",
-              "3": "0",
-              "4": "0.5"
+              "A": "1/2",
+              "B": "√3/2",
+              "C": "0",
+              "D": "0.5"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which trigonometric ratio is defined as the ratio of the adjacent side to the hypotenuse?",
             "options": {
-              "1": "sin",
-              "2": "cos",
-              "3": "tan",
-              "4": "cosec"
+              "A": "sin",
+              "B": "cos",
+              "C": "tan",
+              "D": "cosec"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is tan(45 degrees)?",
             "options": {
-              "1": "0",
-              "2": "1",
-              "3": "∞",
-              "4": "-1"
+              "A": "0",
+              "B": "A",
+              "C": "∞",
+              "D": "-1"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 9,
-        "title": "Some Applications of Trigonometry",
-        "url": "https://www.youtube.com/watch?v=LgqxovVDZt8",
+        "chapter_name": "Some Applications of Trigonometry",
+        "video_url": "https://www.youtube.com/watch?v=LgqxovVDZt8",
         "questions": [
           {
             "question": "If a building casts a shadow of 30 meters when the angle of elevation is 60 degrees, what is the height of the building?",
             "options": {
-              "1": "30√3",
-              "2": "60",
-              "3": "15√3",
-              "4": "45"
+              "A": "30√3",
+              "B": "60",
+              "C": "15√3",
+              "D": "45"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the length of the shadow of a 5-meter tall pole, if the angle of elevation of the sun is 45 degrees?",
             "options": {
-              "1": "5",
-              "2": "10",
-              "3": "15",
-              "4": "20"
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If the distance from a point on the ground to the top of a tree is 10 meters and the height of the tree is 8 meters, what is the angle of elevation?",
             "options": {
-              "1": "0.6 radians",
-              "2": "0.8 radians",
-              "3": "0.9 radians",
-              "4": "0.7 radians"
+              "A": "0.6 radians",
+              "B": "0.8 radians",
+              "C": "0.9 radians",
+              "D": "0.7 radians"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "If the angle of elevation is 30 degrees and the height of the point is 50 meters, what is the horizontal distance from the point to the object?",
             "options": {
-              "1": "50√3",
-              "2": "25√3",
-              "3": "50/√3",
-              "4": "25"
+              "A": "50√3",
+              "B": "25√3",
+              "C": "50/√3",
+              "D": "25"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In a triangle, if side a = 10, side b = 10, and angle A = 60 degrees, what is the length of side c?",
             "options": {
-              "1": "10",
-              "2": "10√3",
-              "3": "20",
-              "4": "15"
+              "A": "10",
+              "B": "10√3",
+              "C": "20",
+              "D": "15"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 10,
-        "title": "Circles",
-        "url": "https://www.youtube.com/watch?v=alNqvqOp4zE",
+        "chapter_name": "Circles",
+        "video_url": "https://www.youtube.com/watch?v=alNqvqOp4zE",
         "questions": [
           {
             "question": "What is the area of a circle with a radius of r?",
             "options": {
-              "1": "πr²",
-              "2": "2πr",
-              "3": "πd",
-              "4": "2r"
+              "A": "πr²",
+              "B": "2πr",
+              "C": "πd",
+              "D": "2r"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the circumference of a circle with a diameter of d?",
             "options": {
-              "1": "πd",
-              "2": "2πd",
-              "3": "πr²",
-              "4": "2r"
+              "A": "πd",
+              "B": "2πd",
+              "C": "πr²",
+              "D": "2r"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "If the radius of a circle is doubled, what happens to its area?",
             "options": {
-              "1": "It remains the same",
-              "2": "It doubles",
-              "3": "It quadruples",
-              "4": "It halves"
+              "A": "It remains the same",
+              "B": "It doubles",
+              "C": "It quadruples",
+              "D": "It halves"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the distance from the center of a circle to any point on the perimeter?",
             "options": {
-              "1": "Diameter",
-              "2": "Radius",
-              "3": "Chord",
-              "4": "Circumference"
+              "A": "Diameter",
+              "B": "Radius",
+              "C": "Chord",
+              "D": "Circumference"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In a circle, a diameter divides the circle into two equal parts. What are these parts called?",
             "options": {
-              "1": "Sections",
-              "2": "Segments",
-              "3": "Sectors",
-              "4": "Chords"
+              "A": "Sections",
+              "B": "Segments",
+              "C": "Sectors",
+              "D": "Chords"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 11,
-        "title": "Areas Related to Circles",
-        "url": "https://www.youtube.com/watch?v=wAwzBP5lgq8",
+        "chapter_name": "Areas Related to Circles",
+        "video_url": "https://www.youtube.com/watch?v=wAwzBP5lgq8",
         "questions": [
           {
             "question": "What is the area of a sector of a circle with radius r and angle θ in radians?",
             "options": {
-              "1": "0.5r²θ",
-              "2": "0.5θr²",
-              "3": "πr²(θ/2π)",
-              "4": "πr²θ"
+              "A": "0.5r²θ",
+              "B": "0.5θr²",
+              "C": "πr²(θ/2π)",
+              "D": "πr²θ"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the area of a circle with diameter d?",
             "options": {
-              "1": "π(r²)",
-              "2": "2πr",
-              "3": "π(d/2)²",
-              "4": "πd²"
+              "A": "π(r²)",
+              "B": "2πr",
+              "C": "π(d/2)²",
+              "D": "πd²"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "The area of a circle is 154 cm². What is its radius?",
             "options": {
-              "1": "7 cm",
-              "2": "14 cm",
-              "3": "11 cm",
-              "4": "10 cm"
+              "A": "7 cm",
+              "B": "14 cm",
+              "C": "11 cm",
+              "D": "10 cm"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If the radius of a circle is 10 cm, what is the area of the corresponding semicircle?",
             "options": {
-              "1": "50π cm²",
-              "2": "100π cm²",
-              "3": "25π cm²",
-              "4": "75π cm²"
+              "A": "50π cm²",
+              "B": "100π cm²",
+              "C": "25π cm²",
+              "D": "75π cm²"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "A circular park has a radius of 14 meters. What is the area of the park?",
             "options": {
-              "1": "196π m²",
-              "2": "28π m²",
-              "3": "98 m²",
-              "4": "49π m²"
+              "A": "196π m²",
+              "B": "28π m²",
+              "C": "98 m²",
+              "D": "49π m²"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 12,
-        "title": "Surface Areas and Volumes",
-        "url": "https://www.youtube.com/watch?v=trqkeHKEMGM",
+        "chapter_name": "Surface Areas and Volumes",
+        "video_url": "https://www.youtube.com/watch?v=trqkeHKEMGM",
         "questions": [
           {
             "question": "What is the surface area of a cube with side length a?",
             "options": {
-              "1": "6a²",
-              "2": "2a²",
-              "3": "4a²",
-              "4": "3a²"
+              "A": "6a²",
+              "B": "2a²",
+              "C": "4a²",
+              "D": "3a²"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the volume of a cylinder with radius r and height h?",
             "options": {
-              "1": "πr²h",
-              "2": "2πrh",
-              "3": "πd²h",
-              "4": "2πr²h"
+              "A": "πr²h",
+              "B": "2πrh",
+              "C": "πd²h",
+              "D": "2πr²h"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the surface area of a sphere with radius r?",
             "options": {
-              "1": "4πr²",
-              "2": "2πr²",
-              "3": "πr²",
-              "4": "3πr²"
+              "A": "4πr²",
+              "B": "2πr²",
+              "C": "πr²",
+              "D": "3πr²"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the volume of a cone with radius r and height h?",
             "options": {
-              "1": "(1/3)πr²h",
-              "2": "πr²h",
-              "3": "2/3πr²h",
-              "4": "πr²h/2"
+              "A": "(1/3)πr²h",
+              "B": "πr²h",
+              "C": "2/3πr²h",
+              "D": "πr²h/2"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the volume of a prism with base area A and height h?",
             "options": {
-              "1": "Ah",
-              "2": "2Ah",
-              "3": "A/h",
-              "4": "2A/h"
+              "A": "Ah",
+              "B": "2Ah",
+              "C": "A/h",
+              "D": "2A/h"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 13,
-        "title": "Statistics",
-        "url": "https://www.youtube.com/watch?v=G5RXYAqTFjU",
+        "chapter_name": "Statistics",
+        "video_url": "https://www.youtube.com/watch?v=G5RXYAqTFjU",
         "questions": [
           {
             "question": "What is the mean of the following data set: 3, 7, 5, 9, 2?",
             "options": {
-              "1": "5.2",
-              "2": "5",
-              "3": "7",
-              "4": "6"
+              "A": "5.2",
+              "B": "5",
+              "C": "7",
+              "D": "6"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the mode of the following data set: 4, 1, 2, 2, 3, 4, 4?",
             "options": {
-              "1": "2",
-              "2": "3",
-              "3": "4",
-              "4": "1"
+              "A": "B",
+              "B": "C",
+              "C": "D",
+              "D": "A"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the median of the following data set: 1, 3, 3, 6, 7, 8, 9?",
             "options": {
-              "1": "3",
-              "2": "6",
-              "3": "7",
-              "4": "8"
+              "A": "C",
+              "B": "6",
+              "C": "7",
+              "D": "8"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "If there are 100 students in a class, and 40 scored below 60%, what percentage scored above 60%?",
             "options": {
-              "1": "50%",
-              "2": "40%",
-              "3": "70%",
-              "4": "60%"
+              "A": "50%",
+              "B": "40%",
+              "C": "70%",
+              "D": "60%"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the range of the data set: 2, 4, 6, 8, 10?",
             "options": {
-              "1": "4",
-              "2": "8",
-              "3": "10",
-              "4": "6"
+              "A": "D",
+              "B": "8",
+              "C": "10",
+              "D": "6"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 14,
-        "title": "Probability",
-        "url": "https://www.youtube.com/watch?v=zAz3QDUzKx8",
+        "chapter_name": "Probability",
+        "video_url": "https://www.youtube.com/watch?v=zAz3QDUzKx8",
         "questions": [
           {
             "question": "What is the probability of getting a head when flipping a coin?",
             "options": {
-              "1": "1/2",
-              "2": "1/4",
-              "3": "1/3",
-              "4": "0"
+              "A": "1/2",
+              "B": "1/4",
+              "C": "1/3",
+              "D": "0"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "If a die is rolled, what is the probability of rolling an even number?",
             "options": {
-              "1": "1/2",
-              "2": "1/6",
-              "3": "1/3",
-              "4": "1/4"
+              "A": "1/2",
+              "B": "1/6",
+              "C": "1/3",
+              "D": "1/4"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "In a standard deck of cards, what is the probability of drawing an ace?",
             "options": {
-              "1": "1/52",
-              "2": "1/13",
-              "3": "1/26",
-              "4": "1/4"
+              "A": "1/52",
+              "B": "1/13",
+              "C": "1/26",
+              "D": "1/4"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the probability of drawing a red card from a standard deck of cards?",
             "options": {
-              "1": "1/4",
-              "2": "1/2",
-              "3": "1/3",
-              "4": "1/52"
+              "A": "1/4",
+              "B": "1/2",
+              "C": "1/3",
+              "D": "1/52"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "If a bag contains 5 red balls and 3 blue balls, what is the probability of drawing a red ball?",
             "options": {
-              "1": "5/8",
-              "2": "3/8",
-              "3": "1/2",
-              "4": "1/4"
+              "A": "5/8",
+              "B": "3/8",
+              "C": "1/2",
+              "D": "1/4"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       }

@@ -1,0 +1,587 @@
+{
+    "class":7,
+    "subject":"Civics",
+    "channel":"Examrace",
+    "chapters":[
+        {
+            "chapter_no": 1,
+            "subject_part": "Political Science",
+            "chapter_name": "On Equality",
+            "video_url": "https://www.youtube.com/watch?v=ePpLdSaG2-k&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=21",
+            "questions": [
+              {
+                "question": "What does equality refer to?",
+                "options": {
+                  "A": "Same treatment for everyone",
+                  "B": "Equal wealth",
+                  "C": "Same beliefs",
+                  "D": "Equal growth"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Why is equality important in society?",
+                "options": {
+                  "A": "Promotes harmony and justice",
+                  "B": "Creates division",
+                  "C": "Encourages discrimination",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What instruments help promote equality?",
+                "options": {
+                  "A": "Laws and regulations",
+                  "B": "Racism",
+                  "C": "Corruption",
+                  "D": "Discrimination"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which article of the Indian Constitution promotes equality?",
+                "options": {
+                  "A": "Article 14",
+                  "B": "Article 15",
+                  "C": "Article 16",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "Discrimination based on race or caste is known as?",
+                "options": {
+                  "A": "Justice",
+                  "B": "Inequality",
+                  "C": "Fairness",
+                  "D": "Equity"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "subject_part": "Political Science",
+            "chapter_name": "Role of the Government in Health",
+            "video_url": "https://www.youtube.com/watch?v=a7uwdVpF_NE&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=22",
+            "questions": [
+              {
+                "question": "What is the primary role of the government in health?",
+                "options": {
+                  "A": "To provide mental health services",
+                  "B": "To ensure public health and safety",
+                  "C": "To promote personal health",
+                  "D": "To limit access to healthcare"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a key public health issue?",
+                "options": {
+                  "A": "Education",
+                  "B": "Nutrition",
+                  "C": "Employment",
+                  "D": "Tourism"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is government funding in health used for?",
+                "options": {
+                  "A": "For sports only",
+                  "B": "For healthcare facilities and services",
+                  "C": "For entertainment",
+                  "D": "For private sectors only"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a public health initiative?",
+                "options": {
+                  "A": "Vaccination programs",
+                  "B": "Private hospitals",
+                  "C": "Luxury healthcare",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Health policies should focus on?",
+                "options": {
+                  "A": "Preventive healthcare",
+                  "B": "Only curative services",
+                  "C": "Just hospitals",
+                  "D": "More private clinics"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "subject_part": "Political Science",
+            "chapter_name": "How the State Government Works",
+            "video_url": "https://www.youtube.com/watch?v=gsIR6Q4LR1U&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=23",
+            "questions": [
+              {
+                "question": "What is the primary function of the state government?",
+                "options": {
+                  "A": "To rule all the nations",
+                  "B": "To govern a specific state",
+                  "C": "To control local bodies",
+                  "D": "None of the above"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a responsibility of the state government?",
+                "options": {
+                  "A": "Maintaining law and order",
+                  "B": "Conducting foreign affairs",
+                  "C": "Managing defense",
+                  "D": "Funding national projects"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "How does the state legislature function?",
+                "options": {
+                  "A": "Only in emergencies",
+                  "B": "By passing laws",
+                  "C": "By collecting taxes",
+                  "D": "By making treaties"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does the Chief Minister do?",
+                "options": {
+                  "A": "Leads the state government",
+                  "B": "Acts as the head of the state",
+                  "C": "Is merely a figurehead",
+                  "D": "Conducts investigations"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is commonly discussed in the state assembly?",
+                "options": {
+                  "A": "Daily life issues of citizens",
+                  "B": "International relations",
+                  "C": "Family matters",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "subject_part": "Political Science",
+            "chapter_name": "Growing Up as Boys & Girls",
+            "video_url": "https://www.youtube.com/watch?v=SvmknzaU3tA&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=24",
+            "questions": [
+              {
+                "question": "What is a significant aspect of growing up?",
+                "options": {
+                  "A": "Only physical changes",
+                  "B": "Emotional development",
+                  "C": "Increased pressure only",
+                  "D": "Education only"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is a challenge faced by adolescents?",
+                "options": {
+                  "A": "Understanding relationships",
+                  "B": "Maintaining a balanced diet",
+                  "C": "Making new friends",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What role does education play during adolescence?",
+                "options": {
+                  "A": "Only to pass exams",
+                  "B": "To develop critical thinking and skills",
+                  "C": "To avoid responsibilities",
+                  "D": "To socialize only"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is peer pressure?",
+                "options": {
+                  "A": "Pressure from friends to conform",
+                  "B": "Pressure from teachers",
+                  "C": "Pressure based on academics",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which of the following is important for adolescents?",
+                "options": {
+                  "A": "Physical appearance only",
+                  "B": "Mental health",
+                  "C": "Social media presence",
+                  "D": "Long-term friendships"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "subject_part": "Political Science",
+            "chapter_name": "Women Change the World",
+            "video_url": "https://www.youtube.com/watch?v=JxUeYb8rCOc&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=25",
+            "questions": [
+              {
+                "question": "What is the role of women in social change?",
+                "options": {
+                  "A": "Advocates for justice",
+                  "B": "Maintaining traditions only",
+                  "C": "Supporting patriarchal norms",
+                  "D": "Promoting isolation"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which movement focused on women's rights?",
+                "options": {
+                  "A": "Civil Rights Movement",
+                  "B": "Feminist Movement",
+                  "C": "Labor Movement",
+                  "D": "Environmental Movement"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What was a significant achievement for women's rights?",
+                "options": {
+                  "A": "More restrictions",
+                  "B": "Right to vote",
+                  "C": "Less education",
+                  "D": "Increased discrimination"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How do women contribute to the economy?",
+                "options": {
+                  "A": "Only as homemakers",
+                  "B": "As active participants in the workforce",
+                  "C": "By simply avoiding work",
+                  "D": "None of the above"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What barriers do women face today?",
+                "options": {
+                  "A": "Equal opportunities",
+                  "B": "Gender discrimination and stereotypes",
+                  "C": "Total freedom",
+                  "D": "Affirmative action only"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 6,
+            "subject_part": "Political Science",
+            "chapter_name": "Understanding Media",
+            "video_url": "https://www.youtube.com/watch?v=qsjCPouDYA8&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=26",
+            "questions": [
+              {
+                "question": "What is the role of media?",
+                "options": {
+                  "A": "Only entertainment",
+                  "B": "To inform and educate",
+                  "C": "To create confusion",
+                  "D": "To invade privacy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which type of media is most prevalent today?",
+                "options": {
+                  "A": "Print media",
+                  "B": "Digital media",
+                  "C": "Radio",
+                  "D": "Television only"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does 'media literacy' mean?",
+                "options": {
+                  "A": "Understanding and analyzing media content",
+                  "B": "Learning to read",
+                  "C": "Only using digital devices",
+                  "D": "Ignoring media altogether"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "How can media influence public opinion?",
+                "options": {
+                  "A": "By spreading misinformation",
+                  "B": "By providing accurate information",
+                  "C": "Only through advertisements",
+                  "D": "By avoiding critical issues"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the impact of social media?",
+                "options": {
+                  "A": "Promotes isolation",
+                  "B": "Encourages networking and connections",
+                  "C": "Reduces communication",
+                  "D": "Increases misinformation"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 7,
+            "subject_part": "Political Science",
+            "chapter_name": "Understanding Advertisements",
+            "video_url": "https://www.youtube.com/watch?v=qUXCYDiOLy4&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=27",
+            "questions": [
+              {
+                "question": "What is the primary purpose of advertisements?",
+                "options": {
+                  "A": "To entertain",
+                  "B": "To inform customers about products",
+                  "C": "To confuse consumers",
+                  "D": "To promote minimalism"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which type of advertisement appeals to emotions?",
+                "options": {
+                  "A": "Informative ads",
+                  "B": "Emotional appeal ads",
+                  "C": "Direct response ads",
+                  "D": "Classified ads"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is misleading advertising?",
+                "options": {
+                  "A": "Ads that provide accurate information",
+                  "B": "Ads that exaggerate benefits",
+                  "C": "Ads that are boring",
+                  "D": "None of the above"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How can consumers protect themselves against misleading ads?",
+                "options": {
+                  "A": "By ignoring all ads",
+                  "B": "By researching products",
+                  "C": "By believing everything",
+                  "D": "By following trends blindly"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What impact do advertisements have on society?",
+                "options": {
+                  "A": "Only negative",
+                  "B": "Promote consumption and brand awareness",
+                  "C": "Discourage innovation",
+                  "D": "Have no impact"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 8,
+            "subject_part": "Political Science",
+            "chapter_name": "Markets Around Us",
+            "video_url": "https://www.youtube.com/watch?v=zCW2ZSBXb1w&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=28",
+            "questions": [
+              {
+                "question": "What is a market?",
+                "options": {
+                  "A": "Only a physical space for buying and selling",
+                  "B": "A place where buyers and sellers interact",
+                  "C": "Only an online shopping platform",
+                  "D": "None of the above"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What types of goods can be found in a market?",
+                "options": {
+                  "A": "Only luxury goods",
+                  "B": "Only food items",
+                  "C": "All kinds of goods and services",
+                  "D": "Only second-hand items"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is the role of prices in a market?",
+                "options": {
+                  "A": "To confuse consumers",
+                  "B": "To determine supply and demand",
+                  "C": "To increase profits only",
+                  "D": "To standardize products"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How do markets facilitate economic growth?",
+                "options": {
+                  "A": "By limiting consumer choices",
+                  "B": "By encouraging trade and commerce",
+                  "C": "By reducing competition",
+                  "D": "None of the above"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a common challenge in markets?",
+                "options": {
+                  "A": "Saturation",
+                  "B": "Lack of variety",
+                  "C": "Price fluctuations",
+                  "D": "None of the above"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 9,
+            "subject_part": "Political Science",
+            "chapter_name": "A Shirt in the Market",
+            "video_url": "https://www.youtube.com/watch?v=gyw1FAdQDV8&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=29",
+            "questions": [
+              {
+                "question": "What is the product discussed in this chapter?",
+                "options": {
+                  "A": "Shirt",
+                  "B": "Pants",
+                  "C": "Hat",
+                  "D": "Belt"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What does the chapter illustrate about production?",
+                "options": {
+                  "A": "It's solely manual",
+                  "B": "Involves multiple processes and labor",
+                  "C": "Only takes place in factories",
+                  "D": "Doesn't require resources"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What role do workers play in the production process?",
+                "options": {
+                  "A": "None",
+                  "B": "Vital contributors",
+                  "C": "Only overseers",
+                  "D": "Only suppliers"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How is demand determined in the market?",
+                "options": {
+                  "A": "By consumer needs and preferences",
+                  "B": "Only by advertising",
+                  "C": "By availability only",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is a significant factor affecting the cost of the shirt?",
+                "options": {
+                  "A": "Quality of fabric",
+                  "B": "Color choice",
+                  "C": "Only brand name",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 10,
+            "subject_part": "Political Science",
+            "chapter_name": "Struggle for Equality",
+            "video_url": "https://www.youtube.com/watch?v=fGxv0Go_9xg&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=30",
+            "questions": [
+              {
+                "question": "What does the struggle for equality refer to?",
+                "options": {
+                  "A": "Fighting against inequality and discrimination",
+                  "B": "Maintaining the status quo",
+                  "C": "Promoting one group over another",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Who are commonly involved in the struggle for equality?",
+                "options": {
+                  "A": "Activists and leaders",
+                  "B": "Only government officials",
+                  "C": "Citizens only",
+                  "D": "Exclusively scholars"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What are common methods used in the struggle for equality?",
+                "options": {
+                  "A": "Peaceful protests and advocacy",
+                  "B": "Violence",
+                  "C": "Complete isolation",
+                  "D": "None of the above"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is a key outcome of the struggle for equality?",
+                "options": {
+                  "A": "Continued discrimination",
+                  "B": "Greater social justice",
+                  "C": "Increased division",
+                  "D": "Loss of rights"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Why is awareness important in the struggle for equality?",
+                "options": {
+                  "A": "To maintain silence",
+                  "B": "To educate others and promote understanding",
+                  "C": "To encourage apathy",
+                  "D": "To promote misinformation"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          }
+    ]
+}

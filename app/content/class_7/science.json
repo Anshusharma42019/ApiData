@@ -1,134 +1,1070 @@
 {
-    "class": "Class 7",
-    "subject": "Science",
-    "book": "NCERT",
-    "video_explanations": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Nutrition in Plants",
-        "video_duration": "2:08:14",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=JbnxZR01HrY"
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Nutrition in Animals",
-        "video_duration": "2:04:45",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=j_CNO4WkhfE"
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Fibre to Fabric",
-        "video_duration": "2:06:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=jD2D_quVqEw"
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Heat",
-        "video_duration": "3:44:32",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=aO9Az9rAy18"
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Acids, Bases and Salts",
-        "video_duration": "1:58:37",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=05PJau1as1k"
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Physical and Chemical Changes",
-        "video_duration": "2:11:30",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=qow08FLukTs"
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Weather, Climate & Adaptations of Animals to Climate",
-        "video_duration": "2:36:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=jVURAAlrgA4"
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Winds, Storms and Cyclones",
-        "video_duration": "3:11:55",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=P75I22TefJ4"
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Soil",
-        "video_duration": "2:17:12",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=kXcNYeQVD_Q"
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "Respiration in Organisms",
-        "video_duration": "2:26:05",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=xtlxl3TVljY"
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "Transportation in Animals & Plants",
-        "video_duration": "1:48:00",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=xJhfWHdM1LM"
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "Reproduction in Plants",
-        "video_duration": "3:02:10",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=uMeHZIZ_GSA"
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "Motion and Time",
-        "video_duration": "2:42:47",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=512OfbG3iUA"
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "Electric Current and Its Effects",
-        "video_duration": "3:00:26",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=m9wY3byBo8M"
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "Light",
-        "video_duration": "3:07:11",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=dg7sXrE4Qm8"
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "Water: A Precious Resource",
-        "video_duration": "3:19:30",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=JbnxZR01HrY"
-      },
-      {
-        "chapter_no": 17,
-        "chapter_name": "Forests: Our Lifeline",
-        "video_duration": "2:44:49",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=j_CNO4WkhfE"
-      },
-      {
-        "chapter_no": 18,
-        "chapter_name": "Wastewater Story",
-        "video_duration": "2:33:59",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=jD2D_quVqEw"
-      }
-    ]
-  }
-  
+  "class": "Class 7",
+  "subject": "Science",
+  "book": "NCERT",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Nutrition in Plants",
+      "video_duration": "2:08:14",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=JbnxZR01HrY",
+      "questions": [
+        {
+          "question": "What process do plants use to prepare their own food?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Respiration",
+            "C": "Digestion",
+            "D": "Assimilation"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do plants primarily use to absorb sunlight?",
+          "options": {
+            "A": "Roots",
+            "B": "Leaves",
+            "C": "Flowers",
+            "D": "Branches"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which gas is a byproduct of photosynthesis?",
+          "options": {
+            "A": "Carbon Dioxide",
+            "B": "Oxygen",
+            "C": "Nitrogen",
+            "D": "Hydrogen"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What pigment is responsible for photosynthesis?",
+          "options": {
+            "A": "Chlorophyll",
+            "B": "Melanin",
+            "C": "Carotene",
+            "D": "Hemoglobin"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Where does photosynthesis mainly occur in plants?",
+          "options": {
+            "A": "Stems",
+            "B": "Roots",
+            "C": "Leaves",
+            "D": "Flowers"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Nutrition in Animals",
+      "video_duration": "2:04:45",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=j_CNO4WkhfE",
+      "questions": [
+        {
+          "question": "Which of the following is not a type of nutrition found in animals?",
+          "options": {
+            "A": "Heterotrophic Nutrition",
+            "B": "Autotrophic Nutrition",
+            "C": "Saprophytic Nutrition",
+            "D": "Parasitic Nutrition"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an example of a parasitic animal?",
+          "options": {
+            "A": "Cow",
+            "B": "Lion",
+            "C": "Tapeworm",
+            "D": "Eagle"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which organ in mammals is primarily responsible for digestion?",
+          "options": {
+            "A": "Stomach",
+            "B": "Liver",
+            "C": "Heart",
+            "D": "Brain"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do herbivores primarily eat?",
+          "options": {
+            "A": "Meat",
+            "B": "Plants",
+            "C": "Both",
+            "D": "None"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which nutrient is essential for energy?",
+          "options": {
+            "A": "Vitamins",
+            "B": "Proteins",
+            "C": "Carbohydrates",
+            "D": "Minerals"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Fibre to Fabric",
+      "video_duration": "2:06:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=jD2D_quVqEw",
+      "questions": [
+        {
+          "question": "What is the primary source of natural fiber?",
+          "options": {
+            "A": "Silk",
+            "B": "Plastic",
+            "C": "Nylon",
+            "D": "Cotton"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which process is used to convert fibers into fabric?",
+          "options": {
+            "A": "Weaving",
+            "B": "Sewing",
+            "C": "Knitting",
+            "D": "Dyeing"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a synthetic fiber?",
+          "options": {
+            "A": "Cotton",
+            "B": "Wool",
+            "C": "Nylon",
+            "D": "Silk"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which animal produces silk?",
+          "options": {
+            "A": "Sheep",
+            "B": "Camel",
+            "C": "Silkworm",
+            "D": "Rabbit"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the benefit of using synthetic fibers?",
+          "options": {
+            "A": "They are biodegradable.",
+            "B": "They are mostly waterproof.",
+            "C": "They are expensive.",
+            "D": "They are difficult to produce."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Heat",
+      "video_duration": "3:44:32",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=aO9Az9rAy18",
+      "questions": [
+        {
+          "question": "What is the unit of heat?",
+          "options": {
+            "A": "Joule",
+            "B": "Watt",
+            "C": "Kelvin",
+            "D": "Celsius"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the process of heat transfer without direct contact called?",
+          "options": {
+            "A": "Conduction",
+            "B": "Convection",
+            "C": "Radiation",
+            "D": "Insulation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which substance is the best conductor of heat?",
+          "options": {
+            "A": "Wood",
+            "B": "Metal",
+            "C": "Plastic",
+            "D": "Glass"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the boiling point of water?",
+          "options": {
+            "A": "100°C",
+            "B": "0°C",
+            "C": "50°C",
+            "D": "25°C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What happens to solids when they are heated?",
+          "options": {
+            "A": "They harden.",
+            "B": "They melt.",
+            "C": "They ignite.",
+            "D": "They evaporate."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Acids, Bases and Salts",
+      "video_duration": "1:58:37",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=05PJau1as1k",
+      "questions": [
+        {
+          "question": "What property do acids generally have?",
+          "options": {
+            "A": "Taste bitter",
+            "B": "Taste sour",
+            "C": "Feel slippery",
+            "D": "Are good conductors of electricity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the pH level of neutral substances?",
+          "options": {
+            "A": "0",
+            "B": "7",
+            "C": "14",
+            "D": "10"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a strong acid?",
+          "options": {
+            "A": "Vinegar",
+            "B": "Lemon juice",
+            "C": "Hydrochloric acid",
+            "D": "Baking soda"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What forms when an acid reacts with a base?",
+          "options": {
+            "A": "Salt and water",
+            "B": "Gas and ash",
+            "C": "Energy and light",
+            "D": "Smoke and vapour"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of these is a common base?",
+          "options": {
+            "A": "Vinegar",
+            "B": "Lemon juice",
+            "C": "Sodium hydroxide",
+            "D": "Lactic acid"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Physical and Chemical Changes",
+      "video_duration": "2:11:30",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=qow08FLukTs",
+      "questions": [
+        {
+          "question": "Which of the following is an example of a chemical change?",
+          "options": {
+            "A": "Ice melting",
+            "B": "Sugar dissolving in water",
+            "C": "Burning wood",
+            "D": "Chopping vegetables"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What characterizes a physical change?",
+          "options": {
+            "A": "New substances are formed.",
+            "B": "No new substances are formed.",
+            "C": "Energy is absorbed.",
+            "D": "It is irreversible."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is rusting of iron an example of?",
+          "options": {
+            "A": "Physical change",
+            "B": "Chemical change",
+            "C": "Biological change",
+            "D": "Mechanical change"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a reversible change?",
+          "options": {
+            "A": "Cooking food",
+            "B": "Melting ice",
+            "C": "Burning paper",
+            "D": "Rusting iron"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens during a chemical change?",
+          "options": {
+            "A": "Substances absorb heat.",
+            "B": "Substances change shape.",
+            "C": "New bonds form.",
+            "D": "Only mass changes."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Weather, Climate & Adaptations of Animals to Climate",
+      "video_duration": "2:36:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=jVURAAlrgA4",
+      "questions": [
+        {
+          "question": "What is weather?",
+          "options": {
+            "A": "Long-term atmospheric conditions.",
+            "B": "Short-term atmospheric conditions.",
+            "C": "A seasonal trend.",
+            "D": "Uniform temperature."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What affects climate?",
+          "options": {
+            "A": "Altitude",
+            "B": "Latitude",
+            "C": "Vegetation",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which of the following adaptations helps animals survive in cold climates?",
+          "options": {
+            "A": "Migration",
+            "B": "Hibernation",
+            "C": "Camouflage",
+            "D": "Coloration"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a common feature of deserts?",
+          "options": {
+            "A": "High rainfall",
+            "B": "High temperatures",
+            "C": "Rich vegetation",
+            "D": "High humidity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which instruments are used to measure temperature?",
+          "options": {
+            "A": "Barometer",
+            "B": "Anemometer",
+            "C": "Thermometer",
+            "D": "Hygrometer"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Winds, Storms and Cyclones",
+      "video_duration": "3:11:55",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=P75I22TefJ4",
+      "questions": [
+        {
+          "question": "What is a cyclone?",
+          "options": {
+            "A": "A type of storm.",
+            "B": "A desert phenomenon.",
+            "C": "A mountain formation.",
+            "D": "A weather measurement."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What direction do cyclones generally rotate in the Northern Hemisphere?",
+          "options": {
+            "A": "Clockwise",
+            "B": "Counterclockwise",
+            "C": "Random direction",
+            "D": "Lateral"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which instrument is used to measure wind speed?",
+          "options": {
+            "A": "Barometer",
+            "B": "Anemometer",
+            "C": "Thermometer",
+            "D": "Hygrometer"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main cause of winds?",
+          "options": {
+            "A": "Differences in temperature and pressure.",
+            "B": "Earthquakes.",
+            "C": "Human activities.",
+            "D": "Water bodies."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of pressure results in calm weather?",
+          "options": {
+            "A": "High pressure",
+            "B": "Low pressure",
+            "C": "Changing pressure",
+            "D": "Fluctuating pressure"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Soil",
+      "video_duration": "2:17:12",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=kXcNYeQVD_Q",
+      "questions": [
+        {
+          "question": "What is soil made of?",
+          "options": {
+            "A": "Rock and minerals",
+            "B": "Organic matter",
+            "C": "Water",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of soil is best for agriculture?",
+          "options": {
+            "A": "Sandy soil",
+            "B": "Clay soil",
+            "C": "Loamy soil",
+            "D": "Salty soil"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is topsoil?",
+          "options": {
+            "A": "The deepest layer of soil.",
+            "B": "The uppermost layer of soil.",
+            "C": "A layer of clay.",
+            "D": "A type of rock."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which soil is known for drainage?",
+          "options": {
+            "A": "Clay",
+            "B": "Sandy",
+            "C": "Loamy",
+            "D": "Peaty"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which factor is most important for soil formation?",
+          "options": {
+            "A": "Temperature",
+            "B": "Time",
+            "C": "Organic content",
+            "D": "Water"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Respiration in Organisms",
+      "video_duration": "2:26:05",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=xtlxl3TVljY",
+      "questions": [
+        {
+          "question": "What is respiration?",
+          "options": {
+            "A": "Process of breathing.",
+            "B": "Process of obtaining energy.",
+            "C": "Process of digestion.",
+            "D": "Process of growth."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What gas do humans exhale during respiration?",
+          "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Carbon Dioxide",
+            "D": "Hydrogen"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is aerobic respiration?",
+          "options": {
+            "A": "Respiration without oxygen.",
+            "B": "Respiration in plants only.",
+            "C": "Respiration with oxygen.",
+            "D": "Respiration in small animals."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Where does respiration take place in cells?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Cytoplasm",
+            "C": "Mitochondria",
+            "D": "Ribosomes"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the byproduct of aerobic respiration?",
+          "options": {
+            "A": "Glucose",
+            "B": "Lactate",
+            "C": "Water and carbon dioxide",
+            "D": "Oxygen"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Transportation in Animals & Plants",
+      "video_duration": "1:48:00",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=xJhfWHdM1LM",
+      "questions": [
+        {
+          "question": "What is the main transport system in humans?",
+          "options": {
+            "A": "Digestive system",
+            "B": "Respiratory system",
+            "C": "Circulatory system",
+            "D": "Nervous system"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which component of blood carries oxygen?",
+          "options": {
+            "A": "White blood cells",
+            "B": "Platelets",
+            "C": "Red blood cells",
+            "D": "Plasma"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the process of water movement in plants from roots to leaves called?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Transpiration",
+            "C": "Respiration",
+            "D": "Absorption"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the plant is responsible for transporting water and minerals?",
+          "options": {
+            "A": "Phloem",
+            "B": "Xylem",
+            "C": "Stomata",
+            "D": "Chloroplast"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the function of platelets in the blood?",
+          "options": {
+            "A": "Fight infection",
+            "B": "Carry oxygen",
+            "C": "Clot blood",
+            "D": "Transport nutrients"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Reproduction in Plants",
+      "video_duration": "3:02:10",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=uMeHZIZ_GSA",
+      "questions": [
+        {
+          "question": "What is the process of producing new individuals from parent plants called?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Germination",
+            "C": "Reproduction",
+            "D": "Fertilization"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which part of a flower contains pollen?",
+          "options": {
+            "A": "Petal",
+            "B": "Sepal",
+            "C": "Stamen",
+            "D": "Pistil"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is pollination?",
+          "options": {
+            "A": "The fusion of male and female gametes.",
+            "B": "The transfer of pollen from the anther to the stigma.",
+            "C": "The development of a seed.",
+            "D": "The growth of a plant."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a method of asexual reproduction in plants?",
+          "options": {
+            "A": "Pollination",
+            "B": "Fertilization",
+            "C": "Vegetative propagation",
+            "D": "Seed formation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the function of the ovary in a flower?",
+          "options": {
+            "A": "Produce pollen",
+            "B": "Attract insects",
+            "C": "Develop into a fruit",
+            "D": "Protect the bud"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Motion and Time",
+      "video_duration": "2:42:47",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=512OfbG3iUA",
+      "questions": [
+        {
+          "question": "What is motion?",
+          "options": {
+            "A": "A change in position over time.",
+            "B": "The force applied to an object.",
+            "C": "The distance traveled by an object.",
+            "D": "The speed of an object."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the unit of speed?",
+          "options": {
+            "A": "Meter",
+            "B": "Second",
+            "C": "Meter per second",
+            "D": "Kilogram"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is uniform motion?",
+          "options": {
+            "A": "Motion with changing speed.",
+            "B": "Motion with constant speed in a straight line.",
+            "C": "Motion in a circle.",
+            "D": "Motion with increasing speed."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which instrument is used to measure time?",
+          "options": {
+            "A": "Thermometer",
+            "B": "Barometer",
+            "C": "Stopwatch",
+            "D": "Anemometer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If a car travels 100 meters in 10 seconds, what is its speed?",
+          "options": {
+            "A": "1 m/s",
+            "B": "10 m/s",
+            "C": "100 m/s",
+            "D": "0.1 m/s"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Electric Current and Its Effects",
+      "video_duration": "3:00:26",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=m9wY3byBo8M",
+      "questions": [
+        {
+          "question": "What is electric current?",
+          "options": {
+            "A": "The flow of heat.",
+            "B": "The flow of light.",
+            "C": "The flow of electric charge.",
+            "D": "The flow of water."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the unit of electric current?",
+          "options": {
+            "A": "Volt",
+            "B": "Ohm",
+            "C": "Ampere",
+            "D": "Watt"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the heating effect of electric current?",
+          "options": {
+            "A": "When electric current cools down a wire.",
+            "B": "When electric current generates heat in a wire.",
+            "C": "When electric current produces light.",
+            "D": "When electric current causes motion."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which device is used to measure electric current?",
+          "options": {
+            "A": "Voltmeter",
+            "B": "Ammeter",
+            "C": "Ohmmeter",
+            "D": "Wattmeter"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an electric circuit?",
+          "options": {
+            "A": "A path for heat to flow.",
+            "B": "A path for light to travel.",
+            "C": "A closed loop through which electric current can flow.",
+            "D": "A place where electricity is generated."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "Light",
+      "video_duration": "3:07:11",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=dg7sXrE4Qm8",
+      "questions": [
+        {
+          "question": "What is light?",
+          "options": {
+            "A": "A form of energy.",
+            "B": "A type of sound.",
+            "C": "A substance.",
+            "D": "A force."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is reflection of light?",
+          "options": {
+            "A": "Light bending as it passes through different mediums.",
+            "B": "Light bouncing off a surface.",
+            "C": "Light spreading out.",
+            "D": "Light being absorbed."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following can form a real image?",
+          "options": {
+            "A": "Plane mirror",
+            "B": "Convex mirror",
+            "C": "Concave mirror",
+            "D": "Concave lens"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the speed of light in a vacuum?",
+          "options": {
+            "A": "343 m/s",
+            "B": "3 x 10^8 m/s",
+            "C": "1500 m/s",
+            "D": "1000 km/h"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens when white light passes through a prism?",
+          "options": {
+            "A": "It becomes black.",
+            "B": "It splits into seven colors.",
+            "C": "It becomes brighter.",
+            "D": "It disappears."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "Water: A Precious Resource",
+      "video_duration": "3:19:30",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=JbnxZR01HrY",
+      "questions": [
+        {
+          "question": "What percentage of the Earth's surface is covered by water?",
+          "options": {
+            "A": "50%",
+            "B": "71%",
+            "C": "90%",
+            "D": "30%"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which form of water is most abundant on Earth?",
+          "options": {
+            "A": "Freshwater",
+            "B": "Saltwater",
+            "C": "Groundwater",
+            "D": "Ice"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is groundwater?",
+          "options": {
+            "A": "Water found in rivers.",
+            "B": "Water found beneath the Earth's surface.",
+            "C": "Water in the atmosphere.",
+            "D": "Water in the oceans."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the process of water changing from liquid to gas called?",
+          "options": {
+            "A": "Condensation",
+            "B": "Precipitation",
+            "C": "Evaporation",
+            "D": "Sublimation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is water conservation?",
+          "options": {
+            "A": "Using more water.",
+            "B": "Wasting water.",
+            "C": "Protecting and managing water resources.",
+            "D": "Polluting water."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "Forests: Our Lifeline",
+      "video_duration": "2:44:49",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=j_CNO4WkhfE",
+      "questions": [
+        {
+          "question": "What is the main role of forests in the environment?",
+          "options": {
+            "A": "Produce oxygen",
+            "B": "Cause pollution",
+            "C": "Increase soil erosion",
+            "D": "Decrease biodiversity"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is deforestation?",
+          "options": {
+            "A": "Planting new trees.",
+            "B": "The clearing of forests.",
+            "C": "Protecting forests.",
+            "D": "Studying forests."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a product obtained from forests?",
+          "options": {
+            "A": "Plastic",
+            "B": "Glass",
+            "C": "Wood",
+            "D": "Steel"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the canopy of a forest?",
+          "options": {
+            "A": "The forest floor.",
+            "B": "The top layer of leaves and branches.",
+            "C": "The roots of the trees.",
+            "D": "The trunks of the trees."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why are forests considered important for preventing floods?",
+          "options": {
+            "A": "They repel water.",
+            "B": "Their roots help absorb water and hold soil.",
+            "C": "They increase rainfall.",
+            "D": "They cause droughts."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "Wastewater Story",
+      "video_duration": "2:33:59",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=jD2D_quVqEw",
+      "questions": [
+        {
+          "question": "What is wastewater?",
+          "options": {
+            "A": "Clean water.",
+            "B": "Used water from homes, industries, etc.",
+            "C": "Rainwater.",
+            "D": "Bottled water."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is sewage?",
+          "options": {
+            "A": "Drinking water.",
+            "B": "Wastewater from toilets and drains.",
+            "C": "Water from rivers.",
+            "D": "Water used for irrigation."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the purpose of wastewater treatment plants?",
+          "options": {
+            "A": "To make water salty.",
+            "B": "To remove pollutants from wastewater.",
+            "C": "To store wastewater.",
+            "D": "To add chemicals to water."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is sludge?",
+          "options": {
+            "A": "Clean water.",
+            "B": "Solid waste settled during wastewater treatment.",
+            "C": "Gas produced during treatment.",
+            "D": "Liquid removed during treatment."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is it important to treat wastewater before releasing it into rivers or lakes?",
+          "options": {
+            "A": "To make it taste better.",
+            "B": "To prevent pollution and protect aquatic life.",
+            "C": "To increase its volume.",
+            "D": "To change its color."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+}

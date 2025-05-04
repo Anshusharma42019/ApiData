@@ -1,78 +1,598 @@
 {
-    "class": "Class 7",
-    "subject": "English",
-    "book": "Honeycomb",
-    "video_explanations": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Three Questions",
-        "video_duration": "1:29:33",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=IBsEStHX2E4"
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "A Gift of Chappals & The Rebel",
-        "video_duration": "2:05:05",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=hUATSxWe3Rg"
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Gopal and the Hilsa Fish",
-        "video_duration": "1:27:08",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=ox-aC8UuExQ"
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "The Ashes That Made Trees Bloom",
-        "video_duration": "2:08:06",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=9MF2vBSZ4fM"
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Quality",
-        "video_duration": "1:41:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=sRFrDuvAiwc"
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Expert Detectives",
-        "video_duration": "1:22:47",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=x5cgsLV3XPM"
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "The Invention of Vita-wonk",
-        "video_duration": "1:15:31",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=iVrePCuq_2s"
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Fire: Friend and Foe",
-        "video_duration": "1:33:24",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=2KhfQUO4b64"
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "A Bicycle in Good Repair",
-        "video_duration": "1:24:37",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=XG8t_-1vBG0"
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "The Story of Cricket",
-        "video_duration": "1:33:25",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=5Ql36HiysUU"
-      }
-    ]
-  }
-  
+  "class": "Class 7",
+  "subject": "English",
+  "book": "Honeycomb",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Three Questions",
+      "video_duration": "1:29:33",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=IBsEStHX2E4",
+      "questions": [
+        {
+          "question": "What are the three questions the king wants to answer?",
+          "options": {
+            "A": "What is the most important time?",
+            "B": "Who is the most important person?",
+            "C": "What is the most important task?",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Who helps the king find the answers?",
+          "options": {
+            "A": "A hermit",
+            "B": "A scholar",
+            "C": "His advisor",
+            "D": "His friend"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why does the king want to know the answers?",
+          "options": {
+            "A": "To rule better.",
+            "B": "To feel more confident.",
+            "C": "To be popular.",
+            "D": "To gain wealth."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the king realize at the end?",
+          "options": {
+            "A": "The importance of independence.",
+            "B": "The importance of the present.",
+            "C": "The value of wealth.",
+            "D": "The need for power."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does the story end?",
+          "options": {
+            "A": "With a celebration.",
+            "B": "With the king's resignation.",
+            "C": "With the king finding peace.",
+            "D": "With a battle."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "A Gift of Chappals & The Rebel",
+      "video_duration": "2:05:05",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=hUATSxWe3Rg",
+      "questions": [
+        {
+          "question": "What is the father's lesson in 'A Gift of Chappals'?",
+          "options": {
+            "A": "The importance of generosity.",
+            "B": "The value of material things.",
+            "C": "The significance of hard work.",
+            "D": "The necessity of education."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who is the main character in 'The Rebel'?",
+          "options": {
+            "A": "A teacher",
+            "B": "A student",
+            "C": "A politician",
+            "D": "A parent"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why does the protagonist rebel?",
+          "options": {
+            "A": "To gain freedom.",
+            "B": "To be accepted.",
+            "C": "To challenge authority.",
+            "D": "To teach a lesson."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the gift symbolize in 'A Gift of Chappals'?",
+          "options": {
+            "A": "Love and care",
+            "B": "Wealth",
+            "C": "Selfishness",
+            "D": "Power"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does society view the rebel?",
+          "options": {
+            "A": "With respect.",
+            "B": "With confusion.",
+            "C": "With disdain.",
+            "D": "With admiration."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Gopal and the Hilsa Fish",
+      "video_duration": "1:27:08",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=ox-aC8UuExQ",
+      "questions": [
+        {
+          "question": "What does Gopal want to buy?",
+          "options": {
+            "A": "A new boat.",
+            "B": "A Hilsa fish.",
+            "C": "A horse.",
+            "D": "A house."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What trick does Gopal play on the guards?",
+          "options": {
+            "A": "He dresses as a fisherman.",
+            "B": "He pretends to be a sailor.",
+            "C": "He dresses as a woman.",
+            "D": "He uses a deception."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does Gopal prove by catching the fish?",
+          "options": {
+            "A": "He is clever.",
+            "B": "He is a good cook.",
+            "C": "He is strong.",
+            "D": "He is brave."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why do the townspeople gather around Gopal?",
+          "options": {
+            "A": "They are curious.",
+            "B": "They want to help.",
+            "C": "They want to watch the show.",
+            "D": "They want the fish."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the moral of the story?",
+          "options": {
+            "A": "Honesty is the best policy.",
+            "B": "Quick thinking can win.",
+            "C": "Patience is a virtue.",
+            "D": "Loyalty to friends matters."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "The Ashes That Made Trees Bloom",
+      "video_duration": "2:08:06",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=9MF2vBSZ4fM",
+      "questions": [
+        {
+          "question": "What does the story emphasize?",
+          "options": {
+            "A": "Destruction.",
+            "B": "Restoration.",
+            "C": "Indifference.",
+            "D": "Disaster."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Where are the ashes spread?",
+          "options": {
+            "A": "In the sea.",
+            "B": "In the forest.",
+            "C": "In the garden.",
+            "D": "On the mountains."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What happens to the trees in the garden?",
+          "options": {
+            "A": "They die.",
+            "B": "They bloom.",
+            "C": "They wither.",
+            "D": "They become fruitless."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the gardener represent?",
+          "options": {
+            "A": "Patience.",
+            "B": "Hope.",
+            "C": "Greed.",
+            "D": "Detachment."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the overall message?",
+          "options": {
+            "A": "Life finds a way.",
+            "B": "Nature must be preserved.",
+            "C": "Beauty is temporary.",
+            "D": "Effort leads to success."
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Quality",
+      "video_duration": "1:41:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=sRFrDuvAiwc",
+      "questions": [
+        {
+          "question": "What does the main character emphasize?",
+          "options": {
+            "A": "Quality over quantity.",
+            "B": "Speed of service.",
+            "C": "Cost efficiency.",
+            "D": "Trendy products."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What trade does the main character have?",
+          "options": {
+            "A": "Carpenter.",
+            "B": "Tailor.",
+            "C": "Baker.",
+            "D": "Blacksmith."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the protagonist's philosophy?",
+          "options": {
+            "A": "Earn more money.",
+            "B": "Provide the best service.",
+            "C": "Save time.",
+            "D": "Outsource work."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does the protagonist view others' work?",
+          "options": {
+            "A": "With disdain.",
+            "B": "With indifference.",
+            "C": "With respect.",
+            "D": "With envy."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the major theme of the story?",
+          "options": {
+            "A": "Competition.",
+            "B": "Ethics.",
+            "C": "Integrity.",
+            "D": "Hard work."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Expert Detectives",
+      "video_duration": "1:22:47",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=x5cgsLV3XPM",
+      "questions": [
+        {
+          "question": "What is the main purpose of the children’s investigation?",
+          "options": {
+            "A": "To find a lost dog.",
+            "B": "To solve a mystery.",
+            "C": "To impress their parents.",
+            "D": "To learn about detective work."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who are the main characters in the story?",
+          "options": {
+            "A": "Siblings.",
+            "B": "Friends.",
+            "C": "Neighbors.",
+            "D": "Classmates."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What skills do the children use in their investigation?",
+          "options": {
+            "A": "Physical strength.",
+            "B": "Creative thinking and observation.",
+            "C": "Bribery.",
+            "D": "Technology."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What challenges do they face?",
+          "options": {
+            "A": "Lack of time.",
+            "B": "Adults not believing them.",
+            "C": "Fear of danger.",
+            "D": "Low resources."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What resolves the mystery?",
+          "options": {
+            "A": "A confession.",
+            "B": "Finding evidence.",
+            "C": "A witness.",
+            "D": "Circumstantial evidence."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "The Invention of Vita-wonk",
+      "video_duration": "1:15:31",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=iVrePCuq_2s",
+      "questions": [
+        {
+          "question": "What is Vita-wonk?",
+          "options": {
+            "A": "A health supplement.",
+            "B": "A time machine.",
+            "C": "A magical drink.",
+            "D": "A longevity potion."
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Who invents Vita-wonk?",
+          "options": {
+            "A": "A scientist.",
+            "B": "A layman.",
+            "C": "An inventor.",
+            "D": "A scholar."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What ethical dilemma does Vita-wonk present?",
+          "options": {
+            "A": "Time travel for personal gain.",
+            "B": "Ignoring health advice.",
+            "C": "Creating dependency.",
+            "D": "Manipulating nature."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the invention imply about aging?",
+          "options": {
+            "A": "It is inevitable.",
+            "B": "It can be prevented.",
+            "C": "It is a choice.",
+            "D": "It should be embraced."
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What consequence does the protagonist face?",
+          "options": {
+            "A": "Becoming famous.",
+            "B": "Facing challenges.",
+            "C": "Regret over his actions.",
+            "D": "Winning an award."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Fire: Friend and Foe",
+      "video_duration": "1:33:24",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=2KhfQUO4b64",
+      "questions": [
+        {
+          "question": "How is fire depicted in the story?",
+          "options": {
+            "A": "As purely destructive.",
+            "B": "As useful yet dangerous.",
+            "C": "As neutral.",
+            "D": "As a source of warmth."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What positive aspect of fire is mentioned?",
+          "options": {
+            "A": "Cooking food.",
+            "B": "Causing harm.",
+            "C": "Setting boundaries.",
+            "D": "Creating waste."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a major risk associated with fire?",
+          "options": {
+            "A": "It can be controlled.",
+            "B": "It can cause wildfires.",
+            "C": "It is beneficial.",
+            "D": "It is predictable."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What role does fire play in human civilization?",
+          "options": {
+            "A": "It symbolizes fear.",
+            "B": "It is a tool for survival.",
+            "C": "It creates pollution.",
+            "D": "It divides communities."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What should be prioritized to handle fire responsibly?",
+          "options": {
+            "A": "Use of more fire.",
+            "B": "Education about fire safety.",
+            "C": "Avoidance of fire.",
+            "D": "Expansion of fire activities."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "A Bicycle in Good Repair",
+      "video_duration": "1:24:37",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=XG8t_-1vBG0",
+      "questions": [
+        {
+          "question": "What does the bicycle symbolize?",
+          "options": {
+            "A": "Freedom.",
+            "B": "Routine maintenance.",
+            "C": "Labor.",
+            "D": "Adventure."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens to the bicycle in the story?",
+          "options": {
+            "A": "It is lost.",
+            "B": "It is repaired.",
+            "C": "It is upgraded.",
+            "D": "It is gifted."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does the protagonist feel about fixing the bicycle?",
+          "options": {
+            "A": "Frustrated.",
+            "B": "Indifferent.",
+            "C": "Happy.",
+            "D": "Bored."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the story convey about maintenance?",
+          "options": {
+            "A": "It is important.",
+            "B": "It can be skipped.",
+            "C": "It is costly.",
+            "D": "It is unnecessary."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What lesson does the protagonist learn?",
+          "options": {
+            "A": "To avoid chores.",
+            "B": "To appreciate tools.",
+            "C": "To respect others' belongings.",
+            "D": "To care for his possessions."
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "The Story of Cricket",
+      "video_duration": "1:33:25",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=5Ql36HiysUU",
+      "questions": [
+        {
+          "question": "How does cricket reflect national identity?",
+          "options": {
+            "A": "Promotes independence.",
+            "B": "Unifies people.",
+            "C": "Divides communities.",
+            "D": "Ignores culture."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What issue does cricket face?",
+          "options": {
+            "A": "Corruption.",
+            "B": "Popularity decline.",
+            "C": "Less funding.",
+            "D": "Global overshadowing."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does cricket symbolize?",
+          "options": {
+            "A": "Destruction.",
+            "B": "Unity.",
+            "C": "Conflict.",
+            "D": "Isolation."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What makes cricket unique?",
+          "options": {
+            "A": "Its history.",
+            "B": "Its groups.",
+            "C": "Its players.",
+            "D": "Its complexity."
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is a key takeaway from the story?",
+          "options": {
+            "A": "Sport is vital.",
+            "B": "Competition is personal.",
+            "C": "Winning is everything.",
+            "D": "Tradition should be upheld."
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}

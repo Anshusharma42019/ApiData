@@ -1,0 +1,294 @@
+
+{
+  "class": "10",
+  "channel": "CBSE Guidence",
+  "subject": "History",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "The Rise of Nationalism in Europe",
+      "video_url": "https://www.youtube.com/watch?v=Irp-Hev4_7A&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=1",
+      "questions": [
+        {
+          "question": "What was a significant effect of the rise of nationalism in Europe?",
+          "options": {
+            "A": "Fragmentation of empires",
+            "B": "Increased trade",
+            "C": "Cultural homogeneity",
+            "D": "Political stability"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which event marked the beginning of the rise of nationalism in Europe?",
+          "options": {
+            "A": "The French Revolution",
+            "B": "The Industrial Revolution",
+            "C": "World War I",
+            "D": "The Treaty of Versailles"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What role did the concept of nation-state play in European nationalism?",
+          "options": {
+            "A": "Promoted religious tolerance",
+            "B": "Encouraged ethnic conflicts",
+            "C": "Strengthened feudal systems",
+            "D": "Reduced cultural identity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who was a key figure in the unification of Germany?",
+          "options": {
+            "A": "Otto von Bismarck",
+            "B": "Kaiser Wilhelm",
+            "C": "Adolf Hitler",
+            "D": "Konrad Adenauer"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following nations did NOT undergo a nationalist movement in Europe in the 19th century?",
+          "options": {
+            "A": "Italy",
+            "B": "France",
+            "C": "Austria",
+            "D": "Spain"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Nationalism in India",
+      "video_url": "https://www.youtube.com/watch?v=YuqdmQB9-L0&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=2",
+      "questions": [
+        {
+          "question": "What event ignited the Indian Nationalist Movement in 1857?",
+          "options": {
+            "A": "Civil Disobedience Movement",
+            "B": "Sepoy Mutiny",
+            "C": "Dandi March",
+            "D": "Quit India Movement"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which leader is known for the non-violent resistance against British rule?",
+          "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Sardar Vallabhbhai Patel",
+            "C": "Mahatma Gandhi",
+            "D": "Subhas Chandra Bose"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was the main goal of the Indian National Congress when it was formed?",
+          "options": {
+            "A": "Complete independence",
+            "B": "Self-governance",
+            "C": "Economic reforms",
+            "D": "Cultural revival"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which movement aimed at a complete boycott of British goods?",
+          "options": {
+            "A": "Swadeshi Movement",
+            "B": "Non-Cooperation Movement",
+            "C": "Civil Disobedience Movement",
+            "D": "Salt March"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following was a significant outcome of the partition of India?",
+          "options": {
+            "A": "Strengthened communal harmony",
+            "B": "Increased economic cooperation",
+            "C": "Mass migrations and violence",
+            "D": "Formation of a united front against colonial powers"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "The Making of a Global World",
+      "video_url": "https://www.youtube.com/watch?v=yJRiPDUb-BA&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=3",
+      "questions": [
+        {
+          "question": "What was a significant feature of globalization after World War II?",
+          "options": {
+            "A": "Protectionism",
+            "B": "Expanded international trade",
+            "C": "Isolationism",
+            "D": "Decolonization"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following was a major factor in the spread of globalization?",
+          "options": {
+            "A": "Advancements in technology",
+            "B": "Decrease in population",
+            "C": "Increased agricultural production",
+            "D": "Cultural stagnation"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How has globalization affected local economies?",
+          "options": {
+            "A": "Eliminated local economies",
+            "B": "Strengthened local production",
+            "C": "Promoted local cultural practices",
+            "D": "Facilitated access to global markets"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is one of the criticisms of globalization?",
+          "options": {
+            "A": "Enhanced cooperation among nations",
+            "B": "Increased economic inequalities",
+            "C": "Promotion of cultural exchanges",
+            "D": "Reduction in migration"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which organization was established to facilitate international trade?",
+          "options": {
+            "A": "World Health Organization",
+            "B": "World Trade Organization",
+            "C": "International Monetary Fund",
+            "D": "United Nations"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "The Age of Industrialisation",
+      "video_url": "https://www.youtube.com/watch?v=9XWKDo5LElU",
+      "questions": [
+        {
+          "question": "What was the primary catalyst for the Industrial Revolution?",
+          "options": {
+            "A": "Agricultural advancements",
+            "B": "Technology and inventions",
+            "C": "Colonialism",
+            "D": "Labor movements"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which industry was the first to undergo industrialization?",
+          "options": {
+            "A": "Agriculture",
+            "B": "Textiles",
+            "C": "Mining",
+            "D": "Transportation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following cities became a significant center of industrial activity?",
+          "options": {
+            "A": "London",
+            "B": "Paris",
+            "C": "Birmingham",
+            "D": "Berlin"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was a social consequence of industrialization?",
+          "options": {
+            "A": "Urbanization",
+            "B": "Depopulation of cities",
+            "C": "Strengthening of feudal systems",
+            "D": "Increase in rural communities"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What role did labor unions play during industrialization?",
+          "options": {
+            "A": "Promoted strict labor laws",
+            "B": "Advocated for workers' rights",
+            "C": "Hindered economic growth",
+            "D": "Discouraged strikes"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Print Culture and the Modern World",
+      "video_url": "https://www.youtube.com/watch?v=Oks9O8BNeZw&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=4",
+      "questions": [
+        {
+          "question": "How did print culture influence society?",
+          "options": {
+            "A": "Decreased literacy rates",
+            "B": "Spread of ideas and knowledge",
+            "C": "Promoted rigid social hierarchies",
+            "D": "Limited communication"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What role did newspapers play in the modern world?",
+          "options": {
+            "A": "Discouraged public discourse",
+            "B": "Promoted awareness and reform",
+            "C": "Reduced cultural exchange",
+            "D": "Impeded journalism"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which invention significantly boosted print culture?",
+          "options": {
+            "A": "The typewriter",
+            "B": "The printing press",
+            "C": "The telegraph",
+            "D": "The radio"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was a consequence of the spread of print culture?",
+          "options": {
+            "A": "Increased censorship",
+            "B": "Rise of nationalism",
+            "C": "Fall of empires",
+            "D": "Stagnation of creativity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did print culture affect education?",
+          "options": {
+            "A": "Made education exclusive",
+            "B": "Expanded access to materials",
+            "C": "Limited educational growth",
+            "D": "Discouraged independent thinking"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+  
+}

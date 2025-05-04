@@ -1,59 +1,578 @@
 {
-    "subject": "English",
-    "class": "10",
-    "board": "CBSE",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "title": "A Letter to God",
-        "url": "https://www.youtube.com/watch?v=g7ZVR8EzKko&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=1"
-      },
-      {
-        "chapter_no": 2,
-        "title": "Nelson Mandela: Long Walk to Freedom",
-        "url": "https://www.youtube.com/watch?v=mKwPRX7XDr0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=2"
-      },
-      {
-        "chapter_no": 3,
-        "title": "Two Stories About Flying",
-        "url": "https://www.youtube.com/watch?v=0esv8bISwTg&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=3"
-      },
-      {
-        "chapter_no": 4,
-        "title": "From the Diary of Anne Frank",
-        "url": "https://www.youtube.com/watch?v=6wMbERJb_QA&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=4"
-      },
-      {
-        "chapter_no": 5,
-        "title": "The Hundred Dresses – I",
-        "url": "https://www.youtube.com/watch?v=dJsGui5b3PY&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=5"
-      },
-      {
-        "chapter_no": 6,
-        "title": "The Hundred Dresses – II",
-        "url": "https://www.youtube.com/watch?v=ZD3NCIx0PDw&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=6"
-      },
-      {
-        "chapter_no": 7,
-        "title": "Glimpses of India",
-        "url": "https://www.youtube.com/watch?v=BXptgogkGTU&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=7"
-      },
-      {
-        "chapter_no": 8,
-        "title": "Mijbil the Otter",
-        "url": "https://www.youtube.com/watch?v=5UPHz0BZ5O0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=8"
-      },
-      {
-        "chapter_no": 9,
-        "title": "Madam Rides the Bus",
-        "url": "https://www.youtube.com/watch?v=a8lQrEbuNOQ&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=9"
-      },
-      {
-        "chapter_no": 10,
-        "title": "The Sermon at Benares",
-        "url": "https://www.youtube.com/watch?v=SqnQEzIeJQ4&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=10"
-      }
-    ]
-  }
-  
+  "subject": "English",
+  "class": "10",
+  "board": "CBSE",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "A Letter to God",
+      "video_url": "https://www.youtube.com/watch?v=g7ZVR8EzKko&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=1",
+      "questions": [
+        {
+          "question": "What is the main theme of 'A Letter to God'?",
+          "options": {
+            "A": "Faith in God",
+            "B": "Cycle of Life",
+            "C": "Nature's Fury",
+            "D": "Human Relationships"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does Lencho react to the hailstorm?",
+          "options": {
+            "A": "He is indifferent.",
+            "B": "He blames God.",
+            "C": "He welcomes it.",
+            "D": "He is grateful."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does Lencho ask for in his letter?",
+          "options": {
+            "A": "More crops",
+            "B": "Money",
+            "C": "Food",
+            "D": "Help"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the postmaster do with Lencho's letter?",
+          "options": {
+            "A": "Throws it away",
+            "B": "Forwards it to the government",
+            "C": "Replies to it",
+            "D": "Makes fun of it"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is Lencho's impression of the post office?",
+          "options": {
+            "A": "Untrustworthy",
+            "B": "Full of crooks",
+            "C": "Very helpful",
+            "D": "Incompetent"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
+      "video_url": "https://www.youtube.com/watch?v=mKwPRX7XDr0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=2",
+      "questions": [
+        {
+          "question": "What was the core message of Nelson Mandela's struggle?",
+          "options": {
+            "A": "Unity and Equality",
+            "B": "Violence",
+            "C": "Submission",
+            "D": "Isolation"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How long did Mandela spend in prison?",
+          "options": {
+            "A": "10 years",
+            "B": "27 years",
+            "C": "15 years",
+            "D": "20 years"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was significant about May 10, 1994?",
+          "options": {
+            "A": "Mandela's birth",
+            "B": "End of apartheid",
+            "C": "Mandela's inauguration",
+            "D": "The first election"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which party did Mandela lead?",
+          "options": {
+            "A": "ANC",
+            "B": "ID",
+            "C": "DA",
+            "D": "PAC"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What inspired Mandela to fight against apartheid?",
+          "options": {
+            "A": "His father's teachings",
+            "B": "His education",
+            "C": "Witnessing injustice",
+            "D": "Peer pressure"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Two Stories About Flying",
+      "video_url": "https://www.youtube.com/watch?v=0esv8bISwTg&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=3",
+      "questions": [
+        {
+          "question": "What is the main difference between the two stories?",
+          "options": {
+            "A": "Theme",
+            "B": "Characters",
+            "C": "Setting",
+            "D": "Narrative style"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does the first story portray fear?",
+          "options": {
+            "A": "As a weakness",
+            "B": "As a challenge",
+            "C": "As an obstacle",
+            "D": "As inevitable"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What lesson is conveyed through the character's experiences?",
+          "options": {
+            "A": "Courage conquers fear",
+            "B": "Success requires luck",
+            "C": "Fear leads to failure",
+            "D": "Avoiding challenges is wise"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In 'The Black Aeroplane', what symbolizes freedom?",
+          "options": {
+            "A": "Aeroplane",
+            "B": "Sky",
+            "C": "Clouds",
+            "D": "Distance"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the second story focus on?",
+          "options": {
+            "A": "Courage of animals",
+            "B": "Overcoming limits",
+            "C": "The thrill of flying",
+            "D": "The joy of family"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "From the Diary of Anne Frank",
+      "video_url": "https://www.youtube.com/watch?v=6wMbERJb_QA&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=4",
+      "questions": [
+        {
+          "question": "What does Anne's diary symbolize?",
+          "options": {
+            "A": "Hope",
+            "B": "Freedom",
+            "C": "Loss",
+            "D": "Rebellion"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does Anne view her relationship with her family?",
+          "options": {
+            "A": "As supportive",
+            "B": "As burdensome",
+            "C": "As distant",
+            "D": "As compulsory"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which event deeply affected Anne and her family?",
+          "options": {
+            "A": "World War I",
+            "B": "The Holocaust",
+            "C": "The Civil War",
+            "D": "The Great Depression"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does Anne aspire to become?",
+          "options": {
+            "A": "A teacher",
+            "B": "A painter",
+            "C": "A journalist",
+            "D": "A scientist"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How does Anne express her feelings in her diary?",
+          "options": {
+            "A": "With bitterness",
+            "B": "With hope",
+            "C": "With humor",
+            "D": "With despair"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "The Hundred Dresses – I",
+      "video_url": "https://www.youtube.com/watch?v=dJsGui5b3PY&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=5",
+      "questions": [
+        {
+          "question": "What does Wanda Petronski's character represent?",
+          "options": {
+            "A": "Isolation",
+            "B": "Popularity",
+            "C": "Strength",
+            "D": "Courage"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How do Wanda's classmates treat her?",
+          "options": {
+            "A": "With respect",
+            "B": "With kindness",
+            "C": "With cruelty",
+            "D": "With indifference"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What do the hundred dresses symbolize?",
+          "options": {
+            "A": "Materialism",
+            "B": "Identity",
+            "C": "Dreams",
+            "D": "Loneliness"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What lesson is learned by the end of the story?",
+          "options": {
+            "A": "Empathy is crucial",
+            "B": "Winning is everything",
+            "C": "Popularity is important",
+            "D": "Material possessions matter"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why does Wanda stop coming to school?",
+          "options": {
+            "A": "Family issues",
+            "B": "She is sick",
+            "C": "Bullying",
+            "D": "Moving away"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "The Hundred Dresses – II",
+      "video_url": "https://www.youtube.com/watch?v=ZD3NCIx0PDw&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=6",
+      "questions": [
+        {
+          "question": "What realization does Peggy have about Wanda?",
+          "options": {
+            "A": "She is inferior",
+            "B": "She is unique",
+            "C": "She is wealthy",
+            "D": "She is shy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does Maddie feel about her treatment of Wanda?",
+          "options": {
+            "A": "Proud",
+            "B": "Indifferent",
+            "C": "Regretful",
+            "D": "Happy"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What does the ending of the story emphasize?",
+          "options": {
+            "A": "Justice",
+            "B": "Revenge",
+            "C": "Understanding",
+            "D": "Winning"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Why is Wanda's art appreciated later?",
+          "options": {
+            "A": "Creativity",
+            "B": "Skill",
+            "C": "Popularity",
+            "D": "Price"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does Maddie promise to do in the future?",
+          "options": {
+            "A": "Be quiet",
+            "B": "Stand up for others",
+            "C": "Ignore bullying",
+            "D": "Join the bullies"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Glimpses of India",
+      "video_url": "https://www.youtube.com/watch?v=BXptgogkGTU&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=7",
+      "questions": [
+        {
+          "question": "What is the central theme of 'Glimpses of India'?",
+          "options": {
+            "A": "Unity in Diversity",
+            "B": "Rich Culture",
+            "C": "Nature",
+            "D": "Economy"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which place is described in detail?",
+          "options": {
+            "A": "Delhi",
+            "B": "Goa",
+            "C": "Kerala",
+            "D": "Kolkata"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What role do festivals play in Indian culture?",
+          "options": {
+            "A": "Unity",
+            "B": "Division",
+            "C": "Isolation",
+            "D": "Commercialization"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does the author depict the lifestyle of the local people?",
+          "options": {
+            "A": "Busy and hurried",
+            "B": "Simple and joyful",
+            "C": "Complicated",
+            "D": "Mechanized"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the author emphasize through India’s landscape?",
+          "options": {
+            "A": "Industrial growth",
+            "B": "Neglect",
+            "C": "Natural beauty",
+            "D": "Urbanization"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Mijbil the Otter",
+      "video_url": "https://www.youtube.com/watch?v=5UPHz0BZ5O0&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=8",
+      "questions": [
+        {
+          "question": "What is unique about Mijbil compared to other otters?",
+          "options": {
+            "A": "His size",
+            "B": "His playfulness",
+            "C": "His intelligence",
+            "D": "His color"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How does the author describe his bond with Mijbil?",
+          "options": {
+            "A": "Superficial",
+            "B": "Deep and emotional",
+            "C": "Business-like",
+            "D": "Temporary"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does Mijbil help the author to realize?",
+          "options": {
+            "A": "Responsibility",
+            "B": "Joy of companionship",
+            "C": "Need for freedom",
+            "D": "Importance of training"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What event showcases Mijbil’s intelligence?",
+          "options": {
+            "A": "His first swim",
+            "B": "His first meal",
+            "C": "Opening a door",
+            "D": "His first bark"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How does Mijbil's arrival change the author's life?",
+          "options": {
+            "A": "Brings chaos",
+            "B": "Provides companionship",
+            "C": "Makes him famous",
+            "D": "Gives him responsibility"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Madam Rides the Bus",
+      "video_url": "https://www.youtube.com/watch?v=a8lQrEbuNOQ&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=9",
+      "questions": [
+        {
+          "question": "What does the bus ride symbolize for the protagonist?",
+          "options": {
+            "A": "Freedom",
+            "B": "Escape",
+            "C": "Adventure",
+            "D": "Fear"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does the protagonist react to the new environments?",
+          "options": {
+            "A": "Indifferently",
+            "B": "Fearfully",
+            "C": "Curiously",
+            "D": "Hostile"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What societal issue is highlighted in the story?",
+          "options": {
+            "A": "Racism",
+            "B": "Isolation",
+            "C": "Gender inequality",
+            "D": "Poverty"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What lesson can be learned from the protagonist's experience?",
+          "options": {
+            "A": "Be cautious",
+            "B": "Embrace change",
+            "C": "Avoid strangers",
+            "D": "Stay home"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does the encounter with the bus conductor affect the protagonist?",
+          "options": {
+            "A": "Creates fear",
+            "B": "Shows kindness",
+            "C": "Leads to rejection",
+            "D": "Inspires confidence"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "The Sermon at Benares",
+      "video_url": "https://www.youtube.com/watch?v=SqnQEzIeJQ4&list=PLVLoWQFkZbhXpg4hcxszEqeNEOnl7LOtY&index=10",
+      "questions": [
+        {
+          "question": "What is the central theme of the sermon?",
+          "options": {
+            "A": "Compassion",
+            "B": "Wisdom",
+            "C": "Power",
+            "D": "Greed"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does Buddha's teaching impact his followers?",
+          "options": {
+            "A": "It leads to fear.",
+            "B": "It brings happiness.",
+            "C": "It creates confusion.",
+            "D": "It inspires resentment."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the essence of Buddha's message?",
+          "options": {
+            "A": "Detachment",
+            "B": "Desire",
+            "C": "Materialism",
+            "D": "Compassion"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Who is deeply affected by the sermon?",
+          "options": {
+            "A": "The king",
+            "B": "The merchants",
+            "C": "The common people",
+            "D": "The scholars"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What lesson does the sermon teach about suffering?",
+          "options": {
+            "A": "It is unavoidable.",
+            "B": "It should be escaped.",
+            "C": "It can be eliminated.",
+            "D": "It can be embraced."
+          },
+          "correct_answer": "D"
+        }
+      ]
+    }
+  ]
+}

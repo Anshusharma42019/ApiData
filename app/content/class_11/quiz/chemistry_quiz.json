@@ -9,52 +9,52 @@
           {
             "question": "What is the SI unit of amount of substance?",
             "options": {
-              "1": "Mole",
-              "2": "Gram",
-              "3": "Liter",
-              "4": "Kilogram"
+              "A": "Mole",
+              "B": "Gram",
+              "C": "Liter",
+              "D": "Kilogram"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following represents Avogadro's number?",
             "options": {
-              "1": "6.022 × 10²³",
-              "2": "1.6 × 10⁻¹⁹",
-              "3": "3.14 × 10²",
-              "4": "9.11 × 10⁻³¹"
+              "A": "6.022 × 10²³",
+              "B": "1.6 × 10⁻¹⁹",
+              "C": "3.14 × 10²",
+              "D": "9.11 × 10⁻³¹"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What happens during a chemical reaction?",
             "options": {
-              "1": "Atoms are created and destroyed",
-              "2": "Atoms are rearranged to form new substances",
-              "3": "Mass is lost",
-              "4": "Only energy is transformed"
+              "A": "Atoms are created and destroyed",
+              "B": "Atoms are rearranged to form new substances",
+              "C": "Mass is lost",
+              "D": "Only energy is transformed"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the molarity of a solution that contains 1 mole of solute in 1 liter of solution?",
             "options": {
-              "1": "0.1 M",
-              "2": "1 M",
-              "3": "2 M",
-              "4": "3 M"
+              "A": "0.1 M",
+              "B": "1 M",
+              "C": "2 M",
+              "D": "3 M"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which law states that mass is neither created nor destroyed during a chemical reaction?",
             "options": {
-              "1": "Law of multiple proportions",
-              "2": "Law of conservation of mass",
-              "3": "Law of definite proportions",
-              "4": "Dalton's atomic theory"
+              "A": "Law of multiple proportions",
+              "B": "Law of conservation of mass",
+              "C": "Law of definite proportions",
+              "D": "Dalton's atomic theory"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
@@ -67,52 +67,52 @@
           {
             "question": "Who proposed the planetary model of the atom?",
             "options": {
-              "1": "Niels Bohr",
-              "2": "Ernest Rutherford",
-              "3": "John Dalton",
-              "4": "J.J. Thomson"
+              "A": "Niels Bohr",
+              "B": "Ernest Rutherford",
+              "C": "John Dalton",
+              "D": "J.J. Thomson"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the charge of a neutron?",
             "options": {
-              "1": "Positive",
-              "2": "Negative",
-              "3": "Neutral",
-              "4": "Depends on the element"
+              "A": "Positive",
+              "B": "Negative",
+              "C": "Neutral",
+              "D": "Depends on the element"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "In which part of the atom are electrons found?",
             "options": {
-              "1": "Nucleus",
-              "2": "Electron cloud",
-              "3": "Protons",
-              "4": "Mass number"
+              "A": "Nucleus",
+              "B": "Electron cloud",
+              "C": "Protons",
+              "D": "Mass number"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the maximum number of electrons in a shell defined by n=3?",
             "options": {
-              "1": "2",
-              "2": "8",
-              "3": "18",
-              "4": "32"
+              "A": "B",
+              "B": "8",
+              "C": "18",
+              "D": "32"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which particle has the least mass?",
             "options": {
-              "1": "Proton",
-              "2": "Neutron",
-              "3": "Electron",
-              "4": "Alpha particle"
+              "A": "Proton",
+              "B": "Neutron",
+              "C": "Electron",
+              "D": "Alpha particle"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
@@ -125,52 +125,52 @@
           {
             "question": "What is the main basis for the modern periodic table?",
             "options": {
-              "1": "Mass",
-              "2": "Atomic number",
-              "3": "Density",
-              "4": "Volume"
+              "A": "Mass",
+              "B": "Atomic number",
+              "C": "Density",
+              "D": "Volume"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which group contains noble gases?",
             "options": {
-              "1": "Group 1",
-              "2": "Group 7",
-              "3": "Group 8",
-              "4": "Group 3"
+              "A": "Group 1",
+              "B": "Group 7",
+              "C": "Group 8",
+              "D": "Group 3"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What trend is observed in the electronegativity of elements across a period?",
             "options": {
-              "1": "Increases from left to right",
-              "2": "Decreases from left to right",
-              "3": "Remains constant",
-              "4": "Decreases down a group"
+              "A": "Increases from left to right",
+              "B": "Decreases from left to right",
+              "C": "Remains constant",
+              "D": "Decreases down a group"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the period number of the element with atomic number 11?",
             "options": {
-              "1": "1",
-              "2": "2",
-              "3": "3",
-              "4": "4"
+              "A": "A",
+              "B": "B",
+              "C": "C",
+              "D": "D"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which of the following elements has the highest ionization energy?",
             "options": {
-              "1": "Sodium",
-              "2": "Magnesium",
-              "3": "Chlorine",
-              "4": "Neon"
+              "A": "Sodium",
+              "B": "Magnesium",
+              "C": "Chlorine",
+              "D": "Neon"
             },
-            "answer": 4
+            "correct_answer": "D"
           }
         ]
       },
@@ -183,52 +183,52 @@
           {
             "question": "What type of bond is formed by the transfer of electrons?",
             "options": {
-              "1": "Ionic bond",
-              "2": "Covalent bond",
-              "3": "Metallic bond",
-              "4": "Hydrogen bond"
+              "A": "Ionic bond",
+              "B": "Covalent bond",
+              "C": "Metallic bond",
+              "D": "Hydrogen bond"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which molecule is an example of a polar covalent bond?",
             "options": {
-              "1": "O₂",
-              "2": "H₂O",
-              "3": "Cl₂",
-              "4": "N₂"
+              "A": "O₂",
+              "B": "H₂O",
+              "C": "Cl₂",
+              "D": "N₂"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the bond angle in a methane (CH₄) molecule?",
             "options": {
-              "1": "90°",
-              "2": "109.5°",
-              "3": "120°",
-              "4": "180°"
+              "A": "90°",
+              "B": "109.5°",
+              "C": "120°",
+              "D": "180°"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which theory helps to explain the shape of molecular structures?",
             "options": {
-              "1": "Valence Bond Theory",
-              "2": "Molecular Orbital Theory",
-              "3": "VSEPR Theory",
-              "4": "Quantum Theory"
+              "A": "Valence Bond Theory",
+              "B": "Molecular Orbital Theory",
+              "C": "VSEPR Theory",
+              "D": "Quantum Theory"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What type of hybridization occurs in ethylene (C₂H₄)?",
             "options": {
-              "1": "sp",
-              "2": "sp²",
-              "3": "sp³",
-              "4": "sd"
+              "A": "sp",
+              "B": "sp²",
+              "C": "sp³",
+              "D": "sd"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
@@ -241,52 +241,52 @@
           {
             "question": "What does the first law of thermodynamics state?",
             "options": {
-              "1": "Energy can be created and destroyed.",
-              "2": "Energy conservation.",
-              "3": "Entropy increases.",
-              "4": "Work done is independent of path."
+              "A": "Energy can be created and destroyed.",
+              "B": "Energy conservation.",
+              "C": "Entropy increases.",
+              "D": "Work done is independent of path."
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the unit of enthalpy?",
             "options": {
-              "1": "Joules",
-              "2": "Calories",
-              "3": "Liters",
-              "4": "Pascal"
+              "A": "Joules",
+              "B": "Calories",
+              "C": "Liters",
+              "D": "Pascal"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the value of standard atmospheric pressure in kPa?",
             "options": {
-              "1": "101.3 kPa",
-              "2": "76 kPa",
-              "3": "0.1 kPa",
-              "4": "1 kPa"
+              "A": "101.3 kPa",
+              "B": "76 kPa",
+              "C": "0.1 kPa",
+              "D": "1 kPa"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "In which process is heat absorbed?",
             "options": {
-              "1": "Exothermic",
-              "2": "Endothermic",
-              "3": "Adiabatic",
-              "4": "Isochoric"
+              "A": "Exothermic",
+              "B": "Endothermic",
+              "C": "Adiabatic",
+              "D": "Isochoric"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What does a negative change in enthalpy indicate?",
             "options": {
-              "1": "Endothermic reaction",
-              "2": "Exothermic reaction",
-              "3": "No reaction",
-              "4": "Equilibrium"
+              "A": "Endothermic reaction",
+              "B": "Exothermic reaction",
+              "C": "No reaction",
+              "D": "Equilibrium"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
@@ -299,52 +299,52 @@
           {
             "question": "What does the equilibrium constant (K) represent?",
             "options": {
-              "1": "Concentration of products",
-              "2": "Ratio of concentrations of products to reactants",
-              "3": "Temperature of reaction",
-              "4": "Pressure of gas"
+              "A": "Concentration of products",
+              "B": "Ratio of concentrations of products to reactants",
+              "C": "Temperature of reaction",
+              "D": "Pressure of gas"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "When does a reversible reaction reach equilibrium?",
             "options": {
-              "1": "When reactants are exhausted",
-              "2": "When products are exhausted",
-              "3": "When the rates of forward and reverse reactions are equal",
-              "4": "At the beginning of the reaction"
+              "A": "When reactants are exhausted",
+              "B": "When products are exhausted",
+              "C": "When the rates of forward and reverse reactions are equal",
+              "D": "At the beginning of the reaction"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which principle states that if a system at equilibrium is disturbed, the system will adjust to counteract the disturbance?",
             "options": {
-              "1": "Le Chatelier's principle",
-              "2": "Gibbs's law",
-              "3": "Henry's law",
-              "4": "Raoult's law"
+              "A": "Le Chatelier's principle",
+              "B": "Gibbs's law",
+              "C": "Henry's law",
+              "D": "Raoult's law"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What effect does increasing temperature have on an exothermic reaction at equilibrium?",
             "options": {
-              "1": "Shifts equilibrium to the right",
-              "2": "Shifts equilibrium to the left",
-              "3": "No effect",
-              "4": "Increases reaction rate"
+              "A": "Shifts equilibrium to the right",
+              "B": "Shifts equilibrium to the left",
+              "C": "No effect",
+              "D": "Increases reaction rate"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the change in Gibbs free energy (ΔG) at equilibrium?",
             "options": {
-              "1": "Positive",
-              "2": "Zero",
-              "3": "Negative",
-              "4": "Undefined"
+              "A": "Positive",
+              "B": "Zero",
+              "C": "Negative",
+              "D": "Undefined"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
@@ -357,52 +357,52 @@
           {
             "question": "What is the main characteristic of an ionic bond?",
             "options": {
-              "1": "Sharing of electrons",
-              "2": "Transfer of electrons",
-              "3": "Weak interactions",
-              "4": "Formation of molecular orbitals"
+              "A": "Sharing of electrons",
+              "B": "Transfer of electrons",
+              "C": "Weak interactions",
+              "D": "Formation of molecular orbitals"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the pH of pure water at 25°C?",
             "options": {
-              "1": "7",
-              "2": "0",
-              "3": "14",
-              "4": "7.4"
+              "A": "7",
+              "B": "0",
+              "C": "14",
+              "D": "7.4"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What does the Henderson-Hasselbalch equation relate?",
             "options": {
-              "1": "pH, pKa, and concentrations of acid and salt",
-              "2": "Temperature and pressure",
-              "3": "Concentrations of reactants and products",
-              "4": "Reaction time"
+              "A": "pH, pKa, and concentrations of acid and salt",
+              "B": "Temperature and pressure",
+              "C": "Concentrations of reactants and products",
+              "D": "Reaction time"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the common ion effect?",
             "options": {
-              "1": "Decreased solubility of a salt in a solution containing a common ion",
-              "2": "Increase in pH",
-              "3": "Increase in solubility",
-              "4": "Decrease in temperature"
+              "A": "Decreased solubility of a salt in a solution containing a common ion",
+              "B": "Increase in pH",
+              "C": "Increase in solubility",
+              "D": "Decrease in temperature"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the primary factor affecting the strength of an ionic bond?",
             "options": {
-              "1": "Covalent character",
-              "2": "Lattice energy",
-              "3": "Electronegativity difference",
-              "4": "Molecular size"
+              "A": "Covalent character",
+              "B": "Lattice energy",
+              "C": "Electronegativity difference",
+              "D": "Molecular size"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
@@ -415,52 +415,52 @@
           {
             "question": "In a redox reaction, what is oxidized?",
             "options": {
-              "1": "The reducing agent",
-              "2": "The oxidizing agent",
-              "3": "Both reactants",
-              "4": "The solvent"
+              "A": "The reducing agent",
+              "B": "The oxidizing agent",
+              "C": "Both reactants",
+              "D": "The solvent"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the oxidation state of phosphorus in phosphoric acid (H₃PO₄)?",
             "options": {
-              "1": "+5",
-              "2": "+3",
-              "3": "0",
-              "4": "-3"
+              "A": "+5",
+              "B": "+3",
+              "C": "0",
+              "D": "-3"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which reagent is commonly used to identify an oxidizing agent?",
             "options": {
-              "1": "Benedict's solution",
-              "2": "Potassium permanganate",
-              "3": "Barium chloride",
-              "4": "Calcium hydroxide"
+              "A": "Benedict's solution",
+              "B": "Potassium permanganate",
+              "C": "Barium chloride",
+              "D": "Calcium hydroxide"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the reduction half-equation for the reduction of copper(II) ions (Cu²⁺)?",
             "options": {
-              "1": "Cu²⁺ + 2e⁻ → Cu",
-              "2": "Cu + 2e⁻ → Cu²⁺",
-              "3": "Cu + 2e⁻ → CuO",
-              "4": "CuO + 2e⁻ → Cu"
+              "A": "Cu²⁺ + 2e⁻ → Cu",
+              "B": "Cu + 2e⁻ → Cu²⁺",
+              "C": "Cu + 2e⁻ → CuO",
+              "D": "CuO + 2e⁻ → Cu"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which type of redox reaction involves the transfer of electrons?",
             "options": {
-              "1": "Oxidation",
-              "2": "Reduction",
-              "3": "Displacement",
-              "4": "All of the above"
+              "A": "Oxidation",
+              "B": "Reduction",
+              "C": "Displacement",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           }
         ]
       },
@@ -473,52 +473,52 @@
           {
             "question": "What is the position of hydrogen in the periodic table?",
             "options": {
-              "1": "Group 1",
-              "2": "Group 2",
-              "3": "Group 7",
-              "4": "Group 0"
+              "A": "Group 1",
+              "B": "Group 2",
+              "C": "Group 7",
+              "D": "Group 0"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which is the most abundant element in the universe?",
             "options": {
-              "1": "Hydrogen",
-              "2": "Oxygen",
-              "3": "Carbon",
-              "4": "Helium"
+              "A": "Hydrogen",
+              "B": "Oxygen",
+              "C": "Carbon",
+              "D": "Helium"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "At what temperature does hydrogen liquefy?",
             "options": {
-              "1": "-253°C",
-              "2": "-273°C",
-              "3": "0°C",
-              "4": "100°C"
+              "A": "-253°C",
+              "B": "-273°C",
+              "C": "0°C",
+              "D": "100°C"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the most common isotope of hydrogen?",
             "options": {
-              "1": "Deuterium",
-              "2": "Tritium",
-              "3": "Protium",
-              "4": "Hydrogen-1"
+              "A": "Deuterium",
+              "B": "Tritium",
+              "C": "Protium",
+              "D": "Hydrogen-1"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which property distinguishes hydrogen from metals?",
             "options": {
-              "1": "High ionization energy",
-              "2": "Ductility",
-              "3": "Density",
-              "4": "Melting point"
+              "A": "High ionization energy",
+              "B": "Ductility",
+              "C": "Density",
+              "D": "Melting point"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
@@ -531,52 +531,52 @@
           {
             "question": "What is the common oxidation state of alkali metals?",
             "options": {
-              "1": "+1",
-              "2": "0",
-              "3": "+2",
-              "4": "-1"
+              "A": "+1",
+              "B": "0",
+              "C": "+2",
+              "D": "-1"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which alkali metal is the lightest?",
             "options": {
-              "1": "Lithium",
-              "2": "Sodium",
-              "3": "Potassium",
-              "4": "Rubidium"
+              "A": "Lithium",
+              "B": "Sodium",
+              "C": "Potassium",
+              "D": "Rubidium"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which s-block element reacts vigorously with water?",
             "options": {
-              "1": "Beryllium",
-              "2": "Magnesium",
-              "3": "Calcium",
-              "4": "Sodium"
+              "A": "Beryllium",
+              "B": "Magnesium",
+              "C": "Calcium",
+              "D": "Sodium"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the boiling point trend among alkali metals as the atomic number increases?",
             "options": {
-              "1": "Decreases",
-              "2": "Increases",
-              "3": "Remains constant",
-              "4": "Fluctuates"
+              "A": "Decreases",
+              "B": "Increases",
+              "C": "Remains constant",
+              "D": "Fluctuates"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which ion has the highest hydration enthalpy among the alkali metals?",
             "options": {
-              "1": "Li⁺",
-              "2": "Na⁺",
-              "3": "K⁺",
-              "4": "Rb⁺"
+              "A": "Li⁺",
+              "B": "Na⁺",
+              "C": "K⁺",
+              "D": "Rb⁺"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
@@ -589,52 +589,52 @@
           {
             "question": "Which group does boron belong to?",
             "options": {
-              "1": "Group 1",
-              "2": "Group 2",
-              "3": "Group 13",
-              "4": "Group 14"
+              "A": "Group 1",
+              "B": "Group 2",
+              "C": "Group 13",
+              "D": "Group 14"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What property is not typical of nonmetals?",
             "options": {
-              "1": "Good conductors of heat",
-              "2": "Low density",
-              "3": "Higher ionization energy",
-              "4": "Form covalent bonds"
+              "A": "Good conductors of heat",
+              "B": "Low density",
+              "C": "Higher ionization energy",
+              "D": "Form covalent bonds"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which compound is formed when phosphorus reacts with oxygen?",
             "options": {
-              "1": "P₄O₁₀",
-              "2": "P₂O₅",
-              "3": "P₂O₃",
-              "4": "All of the above"
+              "A": "P₄O₁₀",
+              "B": "P₂O₅",
+              "C": "P₂O₃",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What element is known for its allotropes, including diamond and graphite?",
             "options": {
-              "1": "Carbon",
-              "2": "Silicon",
-              "3": "Boron",
-              "4": "Nitrogen"
+              "A": "Carbon",
+              "B": "Silicon",
+              "C": "Boron",
+              "D": "Nitrogen"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the main use of sulfuric acid in industry?",
             "options": {
-              "1": "Fertilizer production",
-              "2": "Petroleum refining",
-              "3": "Detergent manufacture",
-              "4": "Pesticide production"
+              "A": "Fertilizer production",
+              "B": "Petroleum refining",
+              "C": "Detergent manufacture",
+              "D": "Pesticide production"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
@@ -647,52 +647,52 @@
           {
             "question": "What is chromatography used for?",
             "options": {
-              "1": "To separate mixtures",
-              "2": "To measure pH",
-              "3": "To calculate molarity",
-              "4": "To determine density"
+              "A": "To separate mixtures",
+              "B": "To measure pH",
+              "C": "To calculate molarity",
+              "D": "To determine density"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What technique separates components based on boiling points?",
             "options": {
-              "1": "Filtration",
-              "2": "Distillation",
-              "3": "Centrifugation",
-              "4": "Electrophoresis"
+              "A": "Filtration",
+              "B": "Distillation",
+              "C": "Centrifugation",
+              "D": "Electrophoresis"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the purpose of recrystallization?",
             "options": {
-              "1": "Purifying solids",
-              "2": "Separating gases",
-              "3": "Measuring concentrations",
-              "4": "Determining pH"
+              "A": "Purifying solids",
+              "B": "Separating gases",
+              "C": "Measuring concentrations",
+              "D": "Determining pH"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which technique separates charged particles in a magnetic field?",
             "options": {
-              "1": "Centrifugation",
-              "2": "Destillation",
-              "3": "Electrophoresis",
-              "4": "Filtration"
+              "A": "Centrifugation",
+              "B": "Destillation",
+              "C": "Electrophoresis",
+              "D": "Filtration"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the unit used to express concentration of solutions?",
             "options": {
-              "1": "grams",
-              "2": "liters",
-              "3": "molarity (M)",
-              "4": "milliliters"
+              "A": "grams",
+              "B": "liters",
+              "C": "molarity (M)",
+              "D": "milliliters"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
@@ -705,52 +705,52 @@
           {
             "question": "What is the simplest alkene?",
             "options": {
-              "1": "Ethylene",
-              "2": "Propylene",
-              "3": "Butylene",
-              "4": "Methane"
+              "A": "Ethylene",
+              "B": "Propylene",
+              "C": "Butylene",
+              "D": "Methane"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which type of hydrocarbons contain only single bonds?",
             "options": {
-              "1": "Alkenes",
-              "2": "Alkynes",
-              "3": "Alkanes",
-              "4": "None of the above"
+              "A": "Alkenes",
+              "B": "Alkynes",
+              "C": "Alkanes",
+              "D": "None of the above"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a common reaction of alkenes?",
             "options": {
-              "1": "Combustion",
-              "2": "Hydrogenation",
-              "3": "Halogenation",
-              "4": "All of the above"
+              "A": "Combustion",
+              "B": "Hydrogenation",
+              "C": "Halogenation",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Which hydrocarbon is known as a saturated compound?",
             "options": {
-              "1": "Alkene",
-              "2": "Alkyne",
-              "3": "Alkane",
-              "4": "Cycloalkane"
+              "A": "Alkene",
+              "B": "Alkyne",
+              "C": "Alkane",
+              "D": "Cycloalkane"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the general formula for alkenes?",
             "options": {
-              "1": "CₙH₂ₙ",
-              "2": "CₙH₂ₙ₊₂",
-              "3": "CₙH₂ₙ₋₂",
-              "4": "CₙH₂ₙ₋₄"
+              "A": "CₙH₂ₙ",
+              "B": "CₙH₂ₙ₊₂",
+              "C": "CₙH₂ₙ₋₂",
+              "D": "CₙH₂ₙ₋₄"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       }

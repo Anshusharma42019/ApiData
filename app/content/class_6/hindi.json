@@ -1,172 +1,1035 @@
 {
-    "class": 6,
-    "subject": "Hindi",
-    "book": "Vasant",
-    "source": "Magnet Brains YouTube Playlist",
-    "total_chapters": 17,
-    "total_videos": 18,
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "वह चिड़िया जो",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 1 | Vah Chidiya Jo Poem Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=1oJmYr2hvJY",
-          "duration": "19:22"
+  "class": 6,
+  "subject": "Hindi",
+  "book": "Vasant",
+  "channel": "Magnet Brains ",
+  "total_chapters": 18,
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "वह चिड़िया जो",
+      "video_url": "https://www.youtube.com/watch?v=ge3VC4pv3NE&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=1",
+      "questions": [
+        {
+          "question": "इस कविता में चिड़िया का क्या महत्व बताया गया है?",
+          "options": {
+            "A": "स्वतंत्रता",
+            "B": "परिवार",
+            "C": "खुशी",
+            "D": "दोस्ती"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "चिड़िया कौन से गुण का प्रतीक है?",
+          "options": {
+            "A": "सच्चाई",
+            "B": "सहयोग",
+            "C": "स्वतंत्रता",
+            "D": "धैर्य"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कविता का भाव क्या है?",
+          "options": {
+            "A": "आंसू",
+            "B": "उड़ान",
+            "C": "दोस्ती",
+            "D": "बचपन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कविता के लेखक कौन हैं?",
+          "options": {
+            "A": "नंदन",
+            "B": "सुभाष",
+            "C": "रामकृष्ण",
+            "D": "अनजान"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस कविता में कितनी पंक्तियाँ हैं?",
+          "options": {
+            "A": "D",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_answer": "D"
         }
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "बचपन",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 2 | Bachpan Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=Fz9RzIxoQYY",
-          "duration": "33:33"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "बचपन",
+      "video_url": "https://www.youtube.com/watch?v=BLRkBJ0e0fo&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=2",
+      "questions": [
+        {
+          "question": "पाठ में बचपन की कौन सी विशेषता बताई गई है?",
+          "options": {
+            "A": "खेल",
+            "B": "काम",
+            "C": "जिम्मेदारी",
+            "D": "चिंता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किस भावना का वर्णन किया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशी",
+            "C": "गुस्सा",
+            "D": "नफ़रत"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या बचपन में बहुत सी यादें होती हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "पाठ के लेखक कौन हैं?",
+          "options": {
+            "A": "सूर्यकांत Tripathi 'Nirala'",
+            "B": "हरिवंश राय बच्चन",
+            "C": "कन्हैया लाल नंदन",
+            "D": "शिवani"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "बचपन किसकी निशानी है?",
+          "options": {
+            "A": "बुद्धिमानी",
+            "B": "मासूमियत",
+            "C": "जिम्मेदारी",
+            "D": "संबंध"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "नादान दोस्त",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 3 | Nadan Dost Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=11G7wQxGJmY",
-          "duration": "36:07"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "नादान दोस्त",
+      "video_url": "https://www.youtube.com/watch?v=NxTzdIoOV_8&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=3",
+      "questions": [
+        {
+          "question": "नादान दोस्त की विशेषता क्या है?",
+          "options": {
+            "A": "चतुर होना",
+            "B": "सच्चा होना",
+            "C": "दुखी होना",
+            "D": "अज्ञानी होना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस भावना का अनुभव नादान दोस्त में है?",
+          "options": {
+            "A": "महत्वकांक्षा",
+            "B": "दया",
+            "C": "वफादारी",
+            "D": "क्रोध"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "नादान दोस्त कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "दुख",
+            "B": "नफरत",
+            "C": "मित्रता",
+            "D": "स्वार्थ"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस पाठ में दोस्ती का क्या महत्व है?",
+          "options": {
+            "A": "कमजोरी",
+            "B": "शक्ति",
+            "C": "आवश्यकता",
+            "D": "धोखा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी के लेखक कौन हैं?",
+          "options": {
+            "A": "अज्ञेय",
+            "B": "प्रेमचंद",
+            "C": "गोपेश्वर",
+            "D": "धर्मवीर भारती"
+          },
+          "correct_answer": "D"
         }
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "चाँद से थोड़ी सी गप्पें",
-        "video": {
-          "title": "Chaand Se Thodi Si Gappe - Full Chapter Explanation & Exercise | Class 6 Hindi (Vasant) Chapter 4",
-          "url": "https://www.youtube.com/watch?v=EqFxuF2PvQw",
-          "duration": "14:35"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "चाँद से थोड़ी सी गप्पें",
+      "video_url": "https://www.youtube.com/watch?v=FQ-I5Fk6edM&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=4",
+      "questions": [
+        {
+          "question": "चाँद से बातें करने का आनंद क्या है?",
+          "options": {
+            "A": "सुख",
+            "B": "आनंद",
+            "C": "खुशी",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "पाठ में चाँद क्या संकेत करता है?",
+          "options": {
+            "A": "जागरूकता",
+            "B": "ज्ञान",
+            "C": "विश्वास",
+            "D": "ऊर्जा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में किस भावना का अनुभव किया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशी",
+            "C": "गुस्सा",
+            "D": "यादें"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "चाँद की विशेषताएँ क्या हैं?",
+          "options": {
+            "A": "सफेद और गोल",
+            "B": "गोल और नीला",
+            "C": "लाल और बड़ा",
+            "D": "हरा और लम्बा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "पाठ में चाँद के साथ कौन सी भावनाएँ जुड़ी हैं?",
+          "options": {
+            "A": "आंसू",
+            "B": "खुशी",
+            "C": "नफरत",
+            "D": "क्रोध"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "अक्षरों का महत्व",
-        "video": {
-          "title": "Akhsharon Ka Mahatva - Full Chapter Explanation & Exercise | Class 6 Hindi (Vasant) Chapter 5",
-          "url": "https://www.youtube.com/watch?v=wP15kBB1r8Y",
-          "duration": "26:20"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "अक्षरों का महत्व",
+      "video_url": "https://www.youtube.com/watch?v=kAQbTyGss_I&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=5",
+      "questions": [
+        {
+          "question": "अक्षरों का जीवन में क्या महत्व है?",
+          "options": {
+            "A": "ज्ञान",
+            "B": "खुशी",
+            "C": "स्वाद",
+            "D": "धैर्य"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या अक्षर हमारे विचारों को व्यक्त करने में मदद करते हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "अक्षर किसका आधार है?",
+          "options": {
+            "A": "कविता",
+            "B": "साहित्य",
+            "C": "ज्ञान",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "लेखन में अक्षरों का क्या स्थान है?",
+          "options": {
+            "A": "गति",
+            "B": "आधार",
+            "C": "कमजोरी",
+            "D": "धोखा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या अक्षरों से जुड़ी कहानियाँ होती हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "पार नज़र के",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 6 | Paar Nazar Ke Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=RhpHKXBwlHo",
-          "duration": "33:41"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "पार नज़र के",
+      "video_url": "https://www.youtube.com/watch?v=rf0NsSVjRT8&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=6o",
+      "questions": [
+        {
+          "question": "पार नज़र का क्या अर्थ है?",
+          "options": {
+            "A": "गहरी सोच",
+            "B": "साधारण",
+            "C": "सीधा",
+            "D": "एकतरफा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में नज़र का क्या संकेत है?",
+          "options": {
+            "A": "जागरूकता",
+            "B": "दृष्टिहीनता",
+            "C": "अज्ञानता",
+            "D": "प्रेम"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किस भावना का अनुभव पाठ के माध्यम से किया गया?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशी",
+            "C": "गुस्सा",
+            "D": "संतोष"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "क्या पार नज़र जीवन की गहराई को संतुलित करता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कभी-कभी",
+            "D": "शायद"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य सन्देश क्या है?",
+          "options": {
+            "A": "अज्ञानी रहना",
+            "B": "दृश्यता",
+            "C": "गहरी सोच",
+            "D": "सरलता"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "साथी हाथ बढ़ाना",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 7 | Saathi Haath Badhana Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=wHZMue-jxq8",
-          "duration": "17:52"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "साथी हाथ बढ़ाना",
+      "video_url": "https://www.youtube.com/watch?v=3qfIyItzcJc&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=7",
+      "questions": [
+        {
+          "question": "इस पाठ में सहयोग का महत्व क्या है?",
+          "options": {
+            "A": "अवसर",
+            "B": "शक्ति",
+            "C": "कमजोरी",
+            "D": "स्वार्थ"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या मदद करने से संबंध मजबूत होते हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में मित्रता का क्या महत्व है?",
+          "options": {
+            "A": "मामूली",
+            "B": "मुख्य",
+            "C": "गैरजरूरी",
+            "D": "कमज़ोर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस भावना को पाठ में व्यक्त किया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "गुस्सा",
+            "C": "खुशी",
+            "D": "नफरत"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "सच्ची मित्रता का क्या असर होता है?",
+          "options": {
+            "A": "उदासी",
+            "B": "स्वास्थ्य",
+            "C": "शांति",
+            "D": "शायद"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "ऐसे-ऐसे",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 8 | Aise Aise Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=IuymIjcFOco",
-          "duration": "36:06"
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "ऐसे-ऐसे",
+      "video_url": "https://www.youtube.com/watch?v=hFGXOBXcodw&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=8",
+      "questions": [
+        {
+          "question": "पाठ में व्यक्त की गई मुख्य विचारधारा क्या है?",
+          "options": {
+            "A": "सकारात्मकता",
+            "B": "नकारात्मकता",
+            "C": "उदासी",
+            "D": "संतोष"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या पाठ में विविधताओं का उल्लेख है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में किस भावना का अनुभव करा गया है?",
+          "options": {
+            "A": "हर्ष",
+            "B": "दुख",
+            "C": "गुस्सा",
+            "D": "बोरियत"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या यह पाठ जीवन के अनुभवों को व्यक्त करता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "पाठ का सन्देश क्या है?",
+          "options": {
+            "A": "सकारात्मक सोच",
+            "B": "नकारात्मकता",
+            "C": "अज्ञानता",
+            "D": "भावनाओं का त्याग"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "टिकट एल्बम",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 9 | Ticket Album Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=csBbQHtWttQ",
-          "duration": "45:03"
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "टिकट एल्बम",
+      "video_url": "https://www.youtube.com/watch?v=_4ivt2QOc_4&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=9",
+      "questions": [
+        {
+          "question": "टिकट एल्बम का क्या महत्व है?",
+          "options": {
+            "A": "यात्रा के अनुभव",
+            "B": "धन",
+            "C": "प्रतिष्ठा",
+            "D": "बुद्धिमानी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या यह एल्बम यादों को संजोने का काम करता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "टिकट सबूत के रूप में क्यों होते हैं?",
+          "options": {
+            "A": "खर्च का",
+            "B": "सामाजिकता का",
+            "C": "मिलनसारिता का",
+            "D": "प्रेम का"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या टिकट एल्बम को साझा किया जा सकता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "घोषणा",
+            "B": "यात्रा का अनुभव",
+            "C": "कटुता",
+            "D": "शांति"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "झाँसी की रानी",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 10 | Jhansi Ki Rani Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=Od0sfqcZ3Go",
-          "duration": "45:39"
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "झाँसी की रानी",
+      "video_url": "https://www.youtube.com/watch?v=mNBNU0a9Trs&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=10",
+      "questions": [
+        {
+          "question": "झाँसी की रानी की विशेषता क्या है?",
+          "options": {
+            "A": "दया",
+            "B": "शक्ति",
+            "C": "कमज़ोरी",
+            "D": "प्रेरणा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या रानी ने साहस दिखाया?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "न्याय",
+            "B": "क्रांति",
+            "C": "अतिरिक्त",
+            "D": "नकारात्मक"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "रानी का क्या योगदान था?",
+          "options": {
+            "A": "अवशिष्ट",
+            "B": "भूमिका",
+            "C": "अतिक्रमण",
+            "D": "धोखा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या रानी लोगों के लिए प्रेरणा थी?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "जो देखकर भी नहीं देखते",
-        "video": {
-          "title": "Class 6 Hindi Vasant Chapter 11 | Jo Dekhkar Bhi Nahi Dekhte Full Chapter Explanation & Exercise",
-          "url": "https://www.youtube.com/watch?v=F1rF6P_Ewhw",
-          "duration": "22:24"
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "जो देखकर भी नहीं देखते",
+      "video_url": "https://www.youtube.com/watch?v=SMkNfl-YrJk&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=11",
+      "questions": [
+        {
+          "question": "इस पाठ में क्या महत्वपूर्ण है?",
+          "options": {
+            "A": "अज्ञानता",
+            "B": "देखना",
+            "C": "समझना",
+            "D": "अनदेखा करना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या यह पाठ जीवन की गहराई को 보여ता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या हमें अपने आस-पास की चीज़ों पर ध्यान देना चाहिए?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "दृष्टिहीनता",
+            "B": "जागरूकता",
+            "C": "शत्रुता",
+            "D": "उदासी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या हमें यह समझना चाहिए कि देखने से ज्यादा महत्वपूर्ण क्या है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "संसार पुस्तक है",
-        "video": {
-          "title": "Class 6 Hindi Chapter 12 | Sansar Pustak Hai Full Chapter Explanation and Exercise 2022-23",
-          "url": "https://www.youtube.com/watch?v=kzFfVsqDN9g",
-          "duration": "29:10"
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "संसार पुस्तक है",
+      "video_url": "https://www.youtube.com/watch?v=pB8k-jToMXw&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=12",
+      "questions": [
+        {
+          "question": "इस पाठ में जीवन को किस रूप में दर्शाया गया है?",
+          "options": {
+            "A": "कविता",
+            "B": "पुस्तक",
+            "C": "गाना",
+            "D": "कहानी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या यह पाठ अनुभवों की बात करता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "ज्ञान",
+            "B": "अज्ञानता",
+            "C": "संवेदनहीनता",
+            "D": "नकारात्मकता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "पुस्तक में क्या महत्वपूर्ण है?",
+          "options": {
+            "A": "शिक्षा",
+            "B": "धन",
+            "C": "प्रेरणा",
+            "D": "कड़ी मेहनत"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में कौन सी भावनाएँ व्यक्त की गई हैं?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशी",
+            "C": "अहमियत",
+            "D": "भ्रम"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "मैं सबसे छोटी होऊँ",
-        "video": {
-          "title": "Class 6 Hindi Chapter 13 | Main Sabse Chhoti Hun Full Chapter Explanation and Exercise",
-          "url": "https://www.youtube.com/watch?v=xyRg9G-Q7d0",
-          "duration": "17:17"
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "मैं सबसे छोटी होऊँ",
+      "video_url": "https://www.youtube.com/watch?v=_bgnUR5Lpbg&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=13",
+      "questions": [
+        {
+          "question": "छोटी होने का क्या महत्व है?",
+          "options": {
+            "A": "कमज़ोरी",
+            "B": "मासूमियत",
+            "C": "संपन्नता",
+            "D": "महत्वपूर्णता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या छोटी महिलाएँ भी प्रभावी हो सकती हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "शक्ति",
+            "B": "कमज़ोरी",
+            "C": "महत्व",
+            "D": "कमज़ोर होना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या छोटी चीज़ें हममें बड़ा बदलाव ला सकती हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में छोटी चीज़ों का कैसे संदर्भित किया गया है?",
+          "options": {
+            "A": "महत्वपूर्ण",
+            "B": "गैरज़रूरी",
+            "C": "साधारण",
+            "D": "कमज़ोर"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "लोकगीत",
-        "video": {
-          "title": "Class 6 Hindi Chapter 14 | Lokgeet Full Chapter Explanation and Exercise",
-          "url": "https://www.youtube.com/watch?v=eHwFh7VOfgI",
-          "duration": "36:06"
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "लोकगीत",
+      "video_url": "https://www.youtube.com/watch?v=OvWXIIsvPKg&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=14",
+      "questions": [
+        {
+          "question": "लोकगीत का क्या महत्व है?",
+          "options": {
+            "A": "संस्कृति",
+            "B": "पारंपरिकता",
+            "C": "सफलता",
+            "D": "धन"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या लोकगीत समाज को जोड़ते हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "विविधता",
+            "B": "एकता",
+            "C": "अवशिष्ट",
+            "D": "कमज़ोर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "लोकगीतों में कौन सी भावनाएं होती हैं?",
+          "options": {
+            "A": "आंसू",
+            "B": "खुशी",
+            "C": "गुस्सा",
+            "D": "उदासी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या लोकगीत कलाओं का हिस्सा है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "नौकर",
-        "video": {
-          "title": "Class 6 Hindi Chapter 15 | Naukar Full Chapter Explanation and Exercise",
-          "url": "https://www.youtube.com/watch?v=v6LDQ6y6qu0",
-          "duration": "51:45"
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "नौकर",
+      "video_url": "https://www.youtube.com/watch?v=GrHG0asfeMc&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=15",
+      "questions": [
+        {
+          "question": "इस पाठ में नौकर की विशेषता क्या है?",
+          "options": {
+            "A": "ईमानदारी",
+            "B": "कमज़ोरी",
+            "C": "धोखा",
+            "D": "अज्ञानता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "नौकर समाज में क्या भूमिका निभाता है?",
+          "options": {
+            "A": "मतदान",
+            "B": "गुणवत्ता",
+            "C": "खुलापन",
+            "D": "सहयोग"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "क्या नौकर का योगदान महत्वपूर्ण है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "अवशिष्ट",
+            "B": "शक्ति",
+            "C": "सहयोग",
+            "D": "धोखा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या हमें नौकर के प्रति अधिक सम्मान करना चाहिए?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "वन के मार्ग में",
-        "video": {
-          "title": "Class 6 Hindi Chapter 16 | Van Ke Marg Full Chapter Explanation and Exercise",
-          "url": "https://www.youtube.com/watch?v=l9HX5egzI_U",
-          "duration": "18:41"
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "वन के मार्ग में",
+      "video_url": "https://www.youtube.com/watch?v=tzY4fhujqK4&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=16",
+      "questions": [
+        {
+          "question": "इस पाठ में वन के महत्व का क्या वर्णन है?",
+          "options": {
+            "A": "धन",
+            "B": "जीवों का निवास",
+            "C": "खुशहाली",
+            "D": "शांति"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या वन हमारी जीवनशैली में महत्वपूर्ण हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "पाठ में वन का पर्यावरण पर क्या प्रभाव है?",
+          "options": {
+            "A": "सकारात्मक",
+            "B": "नकारात्मक",
+            "C": "शायद",
+            "D": "दुष्प्रभाव"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "उचित देखभाल",
+            "B": "विनाश",
+            "C": "जागरूकता",
+            "D": "धोखा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या हमें वन की रक्षा करनी चाहिए?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 17,
-        "chapter_name": "साँस-साँस में बाँस",
-        "video": {
-          "title": "Class 6 Hindi Chapter 17 | Saans Saans Mein Baans Explanation and Exercise",
-          "url": "https://www.youtube.com/watch?v=cH7lfPv-6jw",
-          "duration": "30:47"
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "साँस-साँस में बाँस",
+      "video_url": "https://www.youtube.com/watch?v=FoPT-9Z__po&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=17",
+      "questions": [
+        {
+          "question": "इस पाठ में बांस का क्या महत्व बताया गया है?",
+          "options": {
+            "A": "सामग्री",
+            "B": "खुदरा",
+            "C": "संस्कृति",
+            "D": "सृष्टि"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या बांस का उपयोग जीवन में किया जाता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य सन्देश क्या है?",
+          "options": {
+            "A": "विनाश",
+            "B": "रक्षा",
+            "C": "अन्योन्याश्रितता",
+            "D": "अवधारणाएँ"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या बांस पर्यावरण का अभिन्न हिस्सा है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में बांस के प्राचीन उपयोगों का क्या वर्णन है?",
+          "options": {
+            "A": "धोखा",
+            "B": "सामग्री",
+            "C": "समर्पण",
+            "D": "धन"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 18,
-        "chapter_name": "बाल रामायण (विशेष)",
-        "video": {
-          "title": "Bal Ramayan in Hindi | Bal Ram Katha in One Shot | Ramayan Full Stories",
-          "url": "https://www.youtube.com/watch?v=44whBfFf6fQ",
-          "duration": "6:35:20"
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "बाल रामायण (विशेष)",
+      "video_url": "https://www.youtube.com/watch?v=6A7TCbk5e5s&list=PLVLoWQFkZbhVsHHeeVR8NGIg1fkChKLzd&index=18",
+      "questions": [
+        {
+          "question": "बाल रामायण का मुख्य विषय क्या है?",
+          "options": {
+            "A": "कथा",
+            "B": "इतिहास",
+            "C": "धर्म",
+            "D": "नैतिकता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या बाल रामायण से नैतिक शिक्षा मिलती है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में किसकी भूमिका प्रमुख है?",
+          "options": {
+            "A": "भगवान राम",
+            "B": "सीता",
+            "C": "लक्ष्मण",
+            "D": "रावण"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या रामायण में भारत की संस्कृति को दर्शाया गया है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी-कभी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "धोखा",
+            "B": "ईमानदारी",
+            "C": "बलिदान",
+            "D": "अन्याय"
+          },
+          "correct_answer": "C"
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}

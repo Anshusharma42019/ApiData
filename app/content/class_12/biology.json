@@ -1,94 +1,775 @@
-[
+{
+  "class": "12",
+  "subject": "Biology",
+  "batch": "Vijeta Batch",
+  "channel": "NCERT Wallah",
+  "chapters": [
     {
-       "chapter_no":1, 
-      "chapter": "Sexual Reproduction in Flowering Plants",
+      "chapter_no": 1,
+      "chapter_name": "Sexual Reproduction in Flowering Plants",
       "duration": "5:35:17",
+      "video_url": "https://www.youtube.com/watch?v=953Lk4HlweA",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=953Lk4HlweA"
+      "questions": [
+        {
+          "question": "What is the function of the anther in flowering plants?",
+          "options": {
+            "A": "It produces pollen grains.",
+            "B": "It receives pollen.",
+            "C": "It supports the flower.",
+            "D": "It attracts pollinators."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In angiosperms, where does fertilization occur?",
+          "options": {
+            "A": "In the ovule",
+            "B": "In the pollen tube",
+            "C": "In the stigma",
+            "D": "In the style"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the role of pollinators in flowering plants?",
+          "options": {
+            "A": "To disperse seeds",
+            "B": "To carry pollen from anther to stigma",
+            "C": "To provide nutrients to the plant",
+            "D": "To increase photosynthesis"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a method of asexual reproduction in plants?",
+          "options": {
+            "A": "Pollination",
+            "B": "Budding",
+            "C": "Fertilization",
+            "D": "Germination"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is double fertilization in flowering plants?",
+          "options": {
+            "A": "One sperm fertilizes the egg, the other fuses with polar nuclei.",
+            "B": "Both sperm fertilize the egg.",
+            "C": "Fertilization occurs twice per ovule.",
+            "D": "Fertilization occurs in two different flowers."
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-        "chapter_no":2, 
-      "chapter": "Human Reproduction",
+      "chapter_no": 2,
+      "chapter_name": "Human Reproduction",
       "duration": "7:12:44",
+      "video_url": "https://www.youtube.com/watch?v=VK4A7o_V7Hs",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=VK4A7o_V7Hs"
+      "questions": [
+        {
+          "question": "Which hormone is primarily responsible for ovulation?",
+          "options": {
+            "A": "FSH",
+            "B": "LH",
+            "C": "Estrogen",
+            "D": "Progesterone"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the function of the placenta?",
+          "options": {
+            "A": "Nutrient exchange between mother and fetus",
+            "B": "Production of hormones",
+            "C": "Deciding the sex of the fetus",
+            "D": "Protection of the fetus"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "During which stage does embryo implantation occur?",
+          "options": {
+            "A": "Gastrulation",
+            "B": "Cleavage",
+            "C": "Morula",
+            "D": "Blastocyst stage"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of cell division occurs in the early stages of embryonic development?",
+          "options": {
+            "A": "Mitosis",
+            "B": "Meiosis",
+            "C": "Binary fission",
+            "D": "Budding"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which part of the male reproductive system is responsible for sperm maturation?",
+          "options": {
+            "A": "Seminal vesicle",
+            "B": "Epididymis",
+            "C": "Vas deferens",
+            "D": "Prostate gland"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-        "chapter_no":3, 
-      "chapter": "Reproductive Health",
+      "chapter_no": 3,
+      "chapter_name": "Reproductive Health",
       "duration": "4:41:34",
+      "video_url": "https://www.youtube.com/watch?v=ol4i__QdvK4",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=ol4i__QdvK4"
+      "questions": [
+        {
+          "question": "What is the primary goal of reproductive health?",
+          "options": {
+            "A": "To control population",
+            "B": "To maintain healthy reproductive systems",
+            "C": "To increase fertility rates",
+            "D": "To eliminate sexually transmitted diseases"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a sexually transmitted disease?",
+          "options": {
+            "A": "Diabetes",
+            "B": "Syphilis",
+            "C": "Hypertension",
+            "D": "Asthma"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an important aspect of sex education?",
+          "options": {
+            "A": "Discussing all forms of contraception",
+            "B": "Promoting early marriage",
+            "C": "Encouraging multiple partnerships",
+            "D": "Avoiding discussions about reproduction"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is NOT a method of contraception?",
+          "options": {
+            "A": "Contraceptive pills",
+            "B": "Condoms",
+            "C": "Abstinence",
+            "D": "Hormone therapy"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the term for the cessation of menstruation?",
+          "options": {
+            "A": "Menstrual cycle",
+            "B": "Menarche",
+            "C": "Menopause",
+            "D": "Ovulation"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-        "chapter_no":4, 
-      "chapter": "Principles of Inheritance and Variation",
+      "chapter_no": 4,
+      "chapter_name": "Principles of Inheritance and Variation",
       "duration": "5:51:05",
+      "video_url": "https://www.youtube.com/watch?v=NyHhIWm3B-g",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=NyHhIWm3B-g"
+      "questions": [
+        {
+          "question": "What does Mendel's law of segregation state?",
+          "options": {
+            "A": "Alleles segregate during gamete formation.",
+            "B": "Genes are inherited independently.",
+            "C": "Traits are blended.",
+            "D": "Dominant traits mask recessive traits."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Incomplete dominance results in what type of phenotype?",
+          "options": {
+            "A": "One dominant",
+            "B": "One recessive",
+            "C": "Intermediate",
+            "D": "Both dominant and recessive"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is a genetic cross?",
+          "options": {
+            "A": "Combining genes from different individuals",
+            "B": "The merging of DNA sequences",
+            "C": "An experiment to study inheritance patterns",
+            "D": "Creating genetically modified organisms"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What pattern of inheritance does blood type show?",
+          "options": {
+            "A": "Codominance",
+            "B": "Incomplete dominance",
+            "C": "Multiple alleles",
+            "D": "Simple dominance"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is an example of a phenotype?",
+          "options": {
+            "A": "BB",
+            "B": "bb",
+            "C": "Brown eyes",
+            "D": "Bb"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-        "chapter_no":5, 
-      "chapter": "Molecular Basis of Inheritance",
+      "chapter_no": 5,
+      "chapter_name": "Molecular Basis of Inheritance",
       "duration": "5:05:25",
+      "video_url": "https://www.youtube.com/watch?v=R_EkwKXvslk",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=R_EkwKXvslk"
+      "questions": [
+        {
+          "question": "What is the structure of DNA?",
+          "options": {
+            "A": "Single helix",
+            "B": "Double helix",
+            "C": "Triple helix",
+            "D": "Linear structure"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which base pairs with Adenine in DNA?",
+          "options": {
+            "A": "Thymine",
+            "B": "Uracil",
+            "C": "Cytosine",
+            "D": "Guanine"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the function of RNA?",
+          "options": {
+            "A": "Holds genetic information",
+            "B": "Synthesizes proteins",
+            "C": "Replicates DNA",
+            "D": "Stores energy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What process involves the copying of DNA?",
+          "options": {
+            "A": "Transcription",
+            "B": "Translation",
+            "C": "Replication",
+            "D": "Recombination"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which enzyme is responsible for synthesizing RNA from a DNA template?",
+          "options": {
+            "A": "DNA polymerase",
+            "B": "RNA polymerase",
+            "C": "Helicase",
+            "D": "Ligase"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-        "chapter_no":6, 
-      "chapter": "Evolution",
+      "chapter_no": 6,
+      "chapter_name": "Evolution",
       "duration": "2:09:01",
+      "video_url": "https://www.youtube.com/watch?v=rr5lPYbVY3U",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=rr5lPYbVY3U"
+      "questions": [
+        {
+          "question": "What is the primary mechanism of evolution proposed by Darwin?",
+          "options": {
+            "A": "Migration",
+            "B": "Natural selection",
+            "C": "Mutation",
+            "D": "Genetic drift"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is evidence for evolution?",
+          "options": {
+            "A": "Fossil records",
+            "B": "Homologous structures",
+            "C": "Genetic similarities",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is speciation?",
+          "options": {
+            "A": "Formation of new species",
+            "B": "Extinction of species",
+            "C": "Adaptation to environment",
+            "D": "Migration of species"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of evolution occurs when species adapt in similar ways due to similar environments?",
+          "options": {
+            "A": "Convergent evolution",
+            "B": "Divergent evolution",
+            "C": "Parallel evolution",
+            "D": "Adaptive radiation"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does 'fitness' refer to in evolutionary terms?",
+          "options": {
+            "A": "Survival of the fittest",
+            "B": "Reproductive success",
+            "C": "Physical strength",
+            "D": "Longevity"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-        "chapter_no":7, 
-      "chapter": "Human Health and Disease",
+      "chapter_no": 7,
+      "chapter_name": "Human Health and Disease",
       "duration": "3:14:45",
+      "video_url": "https://www.youtube.com/watch?v=D0ghaeDmHWs",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=D0ghaeDmHWs"
+      "questions": [
+        {
+          "question": "What is the causative agent of malaria?",
+          "options": {
+            "A": "Virus",
+            "B": "Bacteria",
+            "C": "Protozoa",
+            "D": "Fungi"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which immunity is acquired through vaccinations?",
+          "options": {
+            "A": "Innate immunity",
+            "B": "Passive immunity",
+            "C": "Active immunity",
+            "D": "Natural immunity"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the function of white blood cells?",
+          "options": {
+            "A": "Transport oxygen",
+            "B": "Fight infections",
+            "C": "Clot blood",
+            "D": "Regulate temperature"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a common symptom of diabetes?",
+          "options": {
+            "A": "Increased urination",
+            "B": "High blood pressure",
+            "C": "Blurred vision",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the role of antibiotics?",
+          "options": {
+            "A": "Treat viral infections",
+            "B": "Kill bacteria",
+            "C": "Boost immunity",
+            "D": "Reduce inflammation"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-        "chapter_no":8,
-      "chapter": "Microbes in Human Welfare",
+      "chapter_no": 8,
+      "chapter_name": "Microbes in Human Welfare",
       "duration": "3:17:23",
+      "video_url": "https://www.youtube.com/watch?v=O9PB4nrVUE4",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=O9PB4nrVUE4"
+      "questions": [
+        {
+          "question": "What is the role of microbes in fermentation?",
+          "options": {
+            "A": "Decomposition",
+            "B": "Production of alcohol and acid",
+            "C": "Nitrogen fixation",
+            "D": "Carbon dioxide production"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which type of microorganism is used in the production of insulin?",
+          "options": {
+            "A": "Bacteria",
+            "B": "Viruses",
+            "C": "Fungi",
+            "D": "Algae"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is bioremediation?",
+          "options": {
+            "A": "Use of microbes to clean the environment",
+            "B": "Use of chemicals to kill pathogens",
+            "C": "Use of plants to absorb toxins",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a beneficial effect of microbes?",
+          "options": {
+            "A": "Pathogenic diseases",
+            "B": "Producing antibiotics",
+            "C": "Food spoilage",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following microbes is commonly used in yogurt production?",
+          "options": {
+            "A": "Lactobacillus",
+            "B": "Escherichia coli",
+            "C": "Bacillus",
+            "D": "Saccharomyces"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-        "chapter_no":9,
-      "chapter": "Biotechnology: Principles and Processes",
+      "chapter_no": 9,
+      "chapter_name": "Biotechnology: Principles and Processes",
       "duration": "4:18:31",
+      "video_url": "https://www.youtube.com/watch?v=3H73SXBFYyU",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=3H73SXBFYyU"
+      "questions": [
+        {
+          "question": "What is the basic unit of DNA technology?",
+          "options": {
+            "A": "Gene",
+            "B": "Chromosome",
+            "C": "RNA",
+            "D": "Plasmid"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does recombinant DNA technology involve?",
+          "options": {
+            "A": "Combining DNA from different organisms",
+            "B": "Gene therapy",
+            "C": "Cloning",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which enzyme is used to cut DNA at specific sites?",
+          "options": {
+            "A": "Ligase",
+            "B": "Helicase",
+            "C": "Restriction enzyme",
+            "D": "Polymerase"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is PCR used for?",
+          "options": {
+            "A": "Protein synthesis",
+            "B": "DNA amplification",
+            "C": "Gene cloning",
+            "D": "Sequencing DNA"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a genetically modified organism?",
+          "options": {
+            "A": "Transgenic plants",
+            "B": "Zebra",
+            "C": "Penguin",
+            "D": "Plankton"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-        "chapter_no":10,
-      "chapter": "Biotechnology and Its Applications",
+      "chapter_no": 10,
+      "chapter_name": "Biotechnology and Its Applications",
       "duration": "3:12:16",
+      "video_url": "https://www.youtube.com/watch?v=dwnn5X2YfRs",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=dwnn5X2YfRs"
+      "questions": [
+        {
+          "question": "What is one application of biotechnology in medicine?",
+          "options": {
+            "A": "Synthetic dyes",
+            "B": "Gene therapy",
+            "C": "Biodegradable plastics",
+            "D": "Chemical fertilizers"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which biotechnological process is used in the production of enzymes?",
+          "options": {
+            "A": "Fermentation",
+            "B": "Extraction",
+            "C": "Distillation",
+            "D": "Filtration"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the role of biotechnology in agriculture?",
+          "options": {
+            "A": "Increase crop yield",
+            "B": "Decrease pest resistance",
+            "C": "Reduce soil fertility",
+            "D": "Increase labor costs"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a common concern regarding genetic engineering?",
+          "options": {
+            "A": "Health risks",
+            "B": "Biodiversity loss",
+            "C": "Ethical issues",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which process involves the introduction of foreign DNA into an organism?",
+          "options": {
+            "A": "Transformation",
+            "B": "Transcription",
+            "C": "Translation",
+            "D": "Replication"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-        "chapter_no":11,
-      "chapter": "Organisms and Population",
+      "chapter_no": 11,
+      "chapter_name": "Organisms and Population",
       "duration": "2:49:18",
+      "video_url": "https://www.youtube.com/watch?v=PwZizspaN2Q",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=PwZizspaN2Q"
+      "questions": [
+        {
+          "question": "What is the primary factor determining the distribution of organisms in an ecosystem?",
+          "options": {
+            "A": "Nutrient availability",
+            "B": "Climate",
+            "C": "Soil type",
+            "D": "Water availability"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the term 'carrying capacity' refer to?",
+          "options": {
+            "A": "Maximum population size that an environment can sustain",
+            "B": "Minimum resources needed for survival",
+            "C": "Rate of population growth",
+            "D": "Diversity of species"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following describes a density-dependent factor?",
+          "options": {
+            "A": "Disease",
+            "B": "Climate",
+            "C": "Natural disasters",
+            "D": "Habitat destruction"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is an example of a mutualistic relationship?",
+          "options": {
+            "A": "Predation",
+            "B": "Commensalism",
+            "C": "Parasitism",
+            "D": "Pollination"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which type of growth model shows a rapid increase followed by stabilization?",
+          "options": {
+            "A": "Exponential growth",
+            "B": "Logistic growth",
+            "C": "Linear growth",
+            "D": "Population decline"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-        "chapter_no":12,
-      "chapter": "Ecosystem",
+      "chapter_no": 12,
+      "chapter_name": "Ecosystem",
       "duration": "2:37:06",
+      "video_url": "https://www.youtube.com/watch?v=QGHxyS27Nm4",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=QGHxyS27Nm4"
+      "questions": [
+        {
+          "question": "What is an ecosystem?",
+          "options": {
+            "A": "A community of living organisms interacting with their environment",
+            "B": "A specific type of organism",
+            "C": "A particular climate zone",
+            "D": "A geographical area without life"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a producer in an ecosystem?",
+          "options": {
+            "A": "An organism that can make its own food",
+            "B": "An organism that consumes other organisms",
+            "C": "An organism that decomposes dead matter",
+            "D": "A predator in the food chain"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main source of energy for an ecosystem?",
+          "options": {
+            "A": "Water",
+            "B": "Soil",
+            "C": "Sunlight",
+            "D": "Wind"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What role do decomposers play in an ecosystem?",
+          "options": {
+            "A": "Produce energy",
+            "B": "Convert sunlight into food",
+            "C": "Recycle nutrients",
+            "D": "Support primary production"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is an example of a tertiary consumer?",
+          "options": {
+            "A": "Grasshopper",
+            "B": "Rabbit",
+            "C": "Fox",
+            "D": "Plant"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-        "chapter_no":13,
-      "chapter": "Biodiversity and Conservation",
+      "chapter_no": 13,
+      "chapter_name": "Biodiversity and Conservation",
       "duration": "2:15:13",
+      "video_url": "https://www.youtube.com/watch?v=AwprWoMGoaQ",
       "channel": "NCERT Wallah",
-      "url": "https://www.youtube.com/watch?v=AwprWoMGoaQ"
+      "questions": [
+        {
+          "question": "What does biodiversity refer to?",
+          "options": {
+            "A": "Variety of life forms within an ecosystem",
+            "B": "Number of individuals in a population",
+            "C": "Specific habitat of an organism",
+            "D": "Total biomass in an ecosystem"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a cause of biodiversity loss?",
+          "options": {
+            "A": "Habitat destruction",
+            "B": "Pollution",
+            "C": "Climate change",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is conservation?",
+          "options": {
+            "A": "Preservation of biodiversity",
+            "B": "Increase in species variety",
+            "C": "Habitat destruction",
+            "D": "Reduction in pollution"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a method of conservation?",
+          "options": {
+            "A": "National parks",
+            "B": "Deforestation",
+            "C": "Urban development",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the role of protected areas in conservation?",
+          "options": {
+            "A": "Provide habitat for threatened species",
+            "B": "Increase urbanization",
+            "C": "Reduce biodiversity",
+            "D": "Promote agriculture"
+          },
+          "correct_answer": "A"
+        }
+      ]
     }
   ]
-  
+}

@@ -5,7 +5,7 @@
   "chapters": [
     {
       "chapter_no": 1,
-      "title": "कक्कू",
+      "chapter_name": "कक्कू",
       "questions": [
         {
           "question": "कक्कू किस प्रकार का पक्षी है?",
@@ -61,7 +61,7 @@
     },
     {
       "chapter_no": 2,
-      "title": "शेखीबाज़ मक्खी",
+      "chapter_name": "शेखीबाज़ मक्खी",
       "questions": [
         {
           "question": "मक्खी क्यों शेखी बघारती थी?",
@@ -117,7 +117,7 @@
     },
     {
       "chapter_no": 3,
-      "title": "चाँद वाली अम्मा",
+      "chapter_name": "चाँद वाली अम्मा",
       "questions": [
         {
           "question": "चाँद वाली अम्मा कौन थीं?",
@@ -173,7 +173,7 @@
     },
     {
       "chapter_no": 4,
-      "title": "मन करता है",
+      "chapter_name": "मन करता है",
       "questions": [
         {
           "question": "बच्चे का मन क्या करने को करता था?",
@@ -229,7 +229,7 @@
     },
     {
       "chapter_no": 5,
-      "title": "बहादुर बित्तो",
+      "chapter_name": "बहादुर बित्तो",
       "questions": [
         {
           "question": "बित्तो क्यों बहादुर था?",
@@ -285,7 +285,7 @@
     },
     {
       "chapter_no": 6,
-      "title": "मूस की मजदूरी",
+      "chapter_name": "मूस की मजदूरी",
       "questions": [
         {
           "question": "मूस क्या काम करता था?",
@@ -341,7 +341,7 @@
     },
     {
       "chapter_no": 7,
-      "title": "हमसे सब कहते",
+      "chapter_name": "हमसे सब कहते",
       "questions": [
         {
           "question": "बच्चे से सब क्या कहते हैं?",
@@ -397,7 +397,7 @@
     },
     {
       "chapter_no": 8,
-      "title": "टिपटिपवा",
+      "chapter_name": "टिपटिपवा",
       "questions": [
         {
           "question": "टिपटिपवा क्या था?",
@@ -453,7 +453,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "बन्दर बाँट (Part 1)",
+      "chapter_name": "बन्दर बाँट (Part 1)",
       "questions": [
         {
           "question": "बंदरों ने क्या बाँटने की कोशिश की?",
@@ -509,7 +509,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "बन्दर बाँट (Part 2)",
+      "chapter_name": "बन्दर बाँट (Part 2)",
       "questions": [
         {
           "question": "दूसरे भाग में बंदरों ने फल कैसे बाँटे?",
@@ -565,7 +565,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "कब आऊँ (Part 1)",
+      "chapter_name": "कब आऊँ (Part 1)",
       "questions": [
         {
           "question": "बच्चा किसका इंतज़ार कर रहा है?",
@@ -621,7 +621,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "कब आऊँ (Part 2)",
+      "chapter_name": "कब आऊँ (Part 2)",
       "questions": [
         {
           "question": "दूसरे भाग में बच्चे का पिता कब आता है?",
@@ -677,7 +677,7 @@
     },
     {
       "chapter_no": 11,
-      "title": "क्योंजीमल और कैसे कैसलिया",
+      "chapter_name": "क्योंजीमल और कैसे कैसलिया",
       "questions": [
         {
           "question": "क्योंजीमल कौन था?",
@@ -733,7 +733,7 @@
     },
     {
       "chapter_no": 12,
-      "title": "मीरा बहन और बाघ (Part 1)",
+      "chapter_name": "मीरा बहन और बाघ (Part 1)",
       "questions": [
         {
           "question": "मीरा बहन कौन थीं?",
@@ -789,7 +789,7 @@
     },
     {
       "chapter_no": 12,
-      "title": "मीरा बहन और बाघ (Part 2)",
+      "chapter_name": "मीरा बहन और बाघ (Part 2)",
       "questions": [
         {
           "question": "मीरा बहन ने बाघ को क्या किया?",
@@ -845,7 +845,7 @@
     },
     {
       "chapter_no": 13,
-      "title": "कहानी की कहानी",
+      "chapter_name": "कहानी की कहानी",
       "questions": [
         {
           "question": "यह कहानी किस बारे में है?",
@@ -901,7 +901,7 @@
     },
     {
       "chapter_no": 14,
-      "title": "जब मुझे साँप ने काटा",
+      "chapter_name": "जब मुझे साँप ने काटा",
       "questions": [
         {
           "question": "साँप ने बच्चे को कहाँ काटा?",
@@ -957,7 +957,7 @@
     },
     {
       "chapter_no": 15,
-      "title": "बच्चों का पत्र",
+      "chapter_name": "बच्चों का पत्र",
       "questions": [
         {
           "question": "बच्चे ने पत्र किसको लिखा?",
@@ -1013,7 +1013,7 @@
     },
     {
       "chapter_no": 16,
-      "title": "मिर्च का मज़ा",
+      "chapter_name": "मिर्च का मज़ा",
       "questions": [
         {
           "question": "मिर्च खाने पर क्या हुआ?",
@@ -1069,7 +1069,7 @@
     },
     {
       "chapter_no": 17,
-      "title": "सबसे अच्छा पेड़ (Part 1)",
+      "chapter_name": "सबसे अच्छा पेड़ (Part 1)",
       "questions": [
         {
           "question": "बच्चे किस पेड़ को सबसे अच्छा मानते थे?",
@@ -1125,7 +1125,7 @@
     },
     {
       "chapter_no": 17,
-      "title": "सबसे अच्छा पेड़ (Part 2)",
+      "chapter_name": "सबसे अच्छा पेड़ (Part 2)",
       "questions": [
         {
           "question": "अंत में बच्चे किस निष्कर्ष पर पहुँचे?",
@@ -1181,7 +1181,7 @@
     },
     {
       "chapter_no": 18,
-      "title": "पत्तियों का चिड़ियाघर",
+      "chapter_name": "पत्तियों का चिड़ियाघर",
       "questions": [
         {
           "question": "पत्तियों का चिड़ियाघर क्या है?",
@@ -1237,7 +1237,7 @@
     },
     {
       "chapter_no": 19,
-      "title": "नाना नानी के नाम",
+      "chapter_name": "नाना नानी के नाम",
       "questions": [
         {
           "question": "यह कहानी किस रिश्ते पर केंद्रित है?",

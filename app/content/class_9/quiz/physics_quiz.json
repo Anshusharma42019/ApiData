@@ -8,54 +8,54 @@
         "chapter_name": "Motion",
         "questions": [
           {
-            "quiz_question": "What is the SI unit of acceleration?",
+            "question": "What is the SI unit of acceleration?",
             "options": {
-              "1": "m/s",
-              "2": "m/s²",
-              "3": "km/h",
-              "4": "m²/s"
+              "A": "m/s",
+              "B": "m/s²",
+              "C": "km/h",
+              "D": "m²/s"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If a car accelerates from 20 m/s to 30 m/s in 5 seconds, what is its acceleration?",
+            "question": "If a car accelerates from 20 m/s to 30 m/s in 5 seconds, what is its acceleration?",
             "options": {
-              "1": "1 m/s²",
-              "2": "2 m/s²",
-              "3": "5 m/s²",
-              "4": "10 m/s²"
+              "A": "1 m/s²",
+              "B": "2 m/s²",
+              "C": "5 m/s²",
+              "D": "10 m/s²"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "An object moves with uniform velocity. What can be said about its acceleration?",
+            "question": "An object moves with uniform velocity. What can be said about its acceleration?",
             "options": {
-              "1": "It is constant.",
-              "2": "It is zero.",
-              "3": "It is increasing.",
-              "4": "It is changing direction."
+              "A": "It is constant.",
+              "B": "It is zero.",
+              "C": "It is increasing.",
+              "D": "It is changing direction."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "A cyclist travels 100 m in 10 seconds and then returns to the starting point in another 10 seconds. What is the cyclist's average speed?",
+            "question": "A cyclist travels 100 m in 10 seconds and then returns to the starting point in another 10 seconds. What is the cyclist's average speed?",
             "options": {
-              "1": "0 m/s",
-              "2": "5 m/s",
-              "3": "10 m/s",
-              "4": "15 m/s"
+              "A": "0 m/s",
+              "B": "5 m/s",
+              "C": "10 m/s",
+              "D": "15 m/s"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What does the slope of a distance-time graph represent?",
+            "question": "What does the slope of a distance-time graph represent?",
             "options": {
-              "1": "Speed",
-              "2": "Velocity",
-              "3": "Acceleration",
-              "4": "Displacement"
+              "A": "Speed",
+              "B": "Velocity",
+              "C": "Acceleration",
+              "D": "Displacement"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -64,54 +64,54 @@
         "chapter_name": "Force and Laws of Motion",
         "questions": [
           {
-            "quiz_question": "According to Newton's second law, what is the relationship between force, mass, and acceleration?",
+            "question": "According to Newton's second law, what is the relationship between force, mass, and acceleration?",
             "options": {
-              "1": "F = ma",
-              "2": "F = m/a",
-              "3": "F = a/m",
-              "4": "F = m + a"
+              "A": "F = ma",
+              "B": "F = m/a",
+              "C": "F = a/m",
+              "D": "F = m + a"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the net force acting on an object at rest?",
+            "question": "What is the net force acting on an object at rest?",
             "options": {
-              "1": "Equal to its weight",
-              "2": "Always zero",
-              "3": "Equal to the applied force",
-              "4": "Always non-zero"
+              "A": "Equal to its weight",
+              "B": "Always zero",
+              "C": "Equal to the applied force",
+              "D": "Always non-zero"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which law states that for every action there is an equal and opposite reaction?",
+            "question": "Which law states that for every action there is an equal and opposite reaction?",
             "options": {
-              "1": "First Law",
-              "2": "Second Law",
-              "3": "Third Law",
-              "4": "Conservation Law"
+              "A": "First Law",
+              "B": "Second Law",
+              "C": "Third Law",
+              "D": "Conservation Law"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If an object is in equilibrium, what can you conclude about the forces acting on it?",
+            "question": "If an object is in equilibrium, what can you conclude about the forces acting on it?",
             "options": {
-              "1": "Unbalanced",
-              "2": "Balanced",
-              "3": "Inertial",
-              "4": "Frictional"
+              "A": "Unbalanced",
+              "B": "Balanced",
+              "C": "Inertial",
+              "D": "Frictional"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is an example of a non-contact force?",
+            "question": "Which of the following is an example of a non-contact force?",
             "options": {
-              "1": "Friction",
-              "2": "Gravity",
-              "3": "Normal force",
-              "4": "Tension"
+              "A": "Friction",
+              "B": "Gravity",
+              "C": "Normal force",
+              "D": "Tension"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -120,54 +120,54 @@
         "chapter_name": "Gravitation",
         "questions": [
           {
-            "quiz_question": "What is the value of the acceleration due to gravity on Earth?",
+            "question": "What is the value of the acceleration due to gravity on Earth?",
             "options": {
-              "1": "9.8 m/s²",
-              "2": "10 m/s²",
-              "3": "8.8 m/s²",
-              "4": "12 m/s²"
+              "A": "9.8 m/s²",
+              "B": "10 m/s²",
+              "C": "8.8 m/s²",
+              "D": "12 m/s²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What shape does the Earth have?",
+            "question": "What shape does the Earth have?",
             "options": {
-              "1": "Perfectly spherical",
-              "2": "Oblate spheroid",
-              "3": "Cylindrical",
-              "4": "Cubical"
+              "A": "Perfectly spherical",
+              "B": "Oblate spheroid",
+              "C": "Cylindrical",
+              "D": "Cubical"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which force keeps the planets in orbit around the sun?",
+            "question": "Which force keeps the planets in orbit around the sun?",
             "options": {
-              "1": "Centrifugal force",
-              "2": "Gravitational force",
-              "3": "Electromagnetic force",
-              "4": "Frictional force"
+              "A": "Centrifugal force",
+              "B": "Gravitational force",
+              "C": "Electromagnetic force",
+              "D": "Frictional force"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "The weight of an object on another planet is determined by which of the following factors?",
+            "question": "The weight of an object on another planet is determined by which of the following factors?",
             "options": {
-              "1": "Mass of the object and distance from the planet's center",
-              "2": "Mass of the object and gravitational pull of the planet",
-              "3": "Distance of the object from the sun",
-              "4": "Temperature of the planet"
+              "A": "Mass of the object and distance from the planet's center",
+              "B": "Mass of the object and gravitational pull of the planet",
+              "C": "Distance of the object from the sun",
+              "D": "Temperature of the planet"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What happens to the gravitational force between two objects if the distance between them is doubled?",
+            "question": "What happens to the gravitational force between two objects if the distance between them is doubled?",
             "options": {
-              "1": "It doubles.",
-              "2": "It remains the same.",
-              "3": "It is halved.",
-              "4": "It is quartered."
+              "A": "It doubles.",
+              "B": "It remains the same.",
+              "C": "It is halved.",
+              "D": "It is quartered."
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
@@ -176,54 +176,54 @@
         "chapter_name": "Work and Energy",
         "questions": [
           {
-            "quiz_question": "What is the work done on an object when a force acts on it to move it a distance of 0 meters?",
+            "question": "What is the work done on an object when a force acts on it to move it a distance of 0 meters?",
             "options": {
-              "1": "Positive work",
-              "2": "Negative work",
-              "3": "Zero work",
-              "4": "Infinite work"
+              "A": "Positive work",
+              "B": "Negative work",
+              "C": "Zero work",
+              "D": "Infinite work"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If an object is lifted to a height, what type of energy does it acquire?",
+            "question": "If an object is lifted to a height, what type of energy does it acquire?",
             "options": {
-              "1": "Kinetic energy",
-              "2": "Potential energy",
-              "3": "Mechanical energy",
-              "4": "Thermal energy"
+              "A": "Kinetic energy",
+              "B": "Potential energy",
+              "C": "Mechanical energy",
+              "D": "Thermal energy"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "The SI unit of energy is the:",
+            "question": "The SI unit of energy is the:",
             "options": {
-              "1": "Newton",
-              "2": "Joule",
-              "3": "Watt",
-              "4": "Kilowatt"
+              "A": "Newton",
+              "B": "Joule",
+              "C": "Watt",
+              "D": "Kilowatt"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following forms of energy is associated with motion?",
+            "question": "Which of the following forms of energy is associated with motion?",
             "options": {
-              "1": "Potential energy",
-              "2": "Kinetic energy",
-              "3": "Chemical energy",
-              "4": "Nuclear energy"
+              "A": "Potential energy",
+              "B": "Kinetic energy",
+              "C": "Chemical energy",
+              "D": "Nuclear energy"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the principle of conservation of energy?",
+            "question": "What is the principle of conservation of energy?",
             "options": {
-              "1": "Energy can be created.",
-              "2": "Energy can be destroyed.",
-              "3": "Energy can change forms but cannot be created or destroyed.",
-              "4": "Energy can be converted to matter."
+              "A": "Energy can be created.",
+              "B": "Energy can be destroyed.",
+              "C": "Energy can change forms but cannot be created or destroyed.",
+              "D": "Energy can be converted to matter."
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -232,54 +232,54 @@
         "chapter_name": "Sound",
         "questions": [
           {
-            "quiz_question": "What is the frequency range of human hearing?",
+            "question": "What is the frequency range of human hearing?",
             "options": {
-              "1": "20 Hz to 20 kHz",
-              "2": "20 kHz to 20 MHz",
-              "3": "1 Hz to 100 Hz",
-              "4": "10 Hz to 10 kHz"
+              "A": "20 Hz to 20 kHz",
+              "B": "20 kHz to 20 MHz",
+              "C": "1 Hz to 100 Hz",
+              "D": "10 Hz to 10 kHz"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following waves are sound waves?",
+            "question": "Which of the following waves are sound waves?",
             "options": {
-              "1": "Transverse waves",
-              "2": "Longitudinal waves",
-              "3": "Electromagnetic waves",
-              "4": "Surface waves"
+              "A": "Transverse waves",
+              "B": "Longitudinal waves",
+              "C": "Electromagnetic waves",
+              "D": "Surface waves"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the phenomenon of change in frequency due to the relative motion of the source and the observer called?",
+            "question": "What is the phenomenon of change in frequency due to the relative motion of the source and the observer called?",
             "options": {
-              "1": "Doppler effect",
-              "2": "Reflection",
-              "3": "Refraction",
-              "4": "Diffraction"
+              "A": "Doppler effect",
+              "B": "Reflection",
+              "C": "Refraction",
+              "D": "Diffraction"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What determines the pitch of a sound?",
+            "question": "What determines the pitch of a sound?",
             "options": {
-              "1": "Amplitude",
-              "2": "Frequency",
-              "3": "Speed",
-              "4": "Wavelength"
+              "A": "Amplitude",
+              "B": "Frequency",
+              "C": "Speed",
+              "D": "Wavelength"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Sound travels fastest in which medium?",
+            "question": "Sound travels fastest in which medium?",
             "options": {
-              "1": "Air",
-              "2": "Water",
-              "3": "Steel",
-              "4": "Vacuum"
+              "A": "Air",
+              "B": "Water",
+              "C": "Steel",
+              "D": "Vacuum"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       }

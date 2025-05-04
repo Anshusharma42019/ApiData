@@ -1,69 +1,588 @@
 {
-    "class": "9",
-    "subject": "English",
-    "book": "Moments",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "title": "The Lost Child",
-        "duration": "1:31:09",
-        "url": "https://www.youtube.com/watch?v=zPf6SMy7YDs"
-      },
-      {
-        "chapter_no": 2,
-        "title": "The Adventures of Toto",
-        "duration": "1:25:21",
-        "url": "https://www.youtube.com/watch?v=cZAMPlGz3b8"
-      },
-      {
-        "chapter_no": 3,
-        "title": "Iswaran The Storyteller",
-        "duration": "1:34:10",
-        "url": "https://www.youtube.com/watch?v=2Y1_UYDCqnc"
-      },
-      {
-        "chapter_no": 4,
-        "title": "In the Kingdom of Fools",
-        "duration": "1:39:17",
-        "url": "https://www.youtube.com/watch?v=s-3AKkwOvm4"
-      },
-      {
-        "chapter_no": 5,
-        "title": "The Happy Prince",
-        "duration": "1:43:39",
-        "url": "https://www.youtube.com/watch?v=cS06uUgb7wM"
-      },
-      {
-        "chapter_no": 6,
-        "title": "Weathering the Storm in Ersama",
-        "duration": "1:24:13",
-        "url": "https://www.youtube.com/watch?v=Q4XnA_0FVl8"
-      },
-      {
-        "chapter_no": 7,
-        "title": "The Last Leaf",
-        "duration": "1:19:43",
-        "url": "https://www.youtube.com/watch?v=Fx0UQvIl8K0"
-      },
-      {
-        "chapter_no": 8,
-        "title": "A House is not a Home",
-        "duration": "1:49:20",
-        "url": "https://www.youtube.com/watch?v=VKdvOeXz-Q8"
-      },
-      {
-        "chapter_no": 9,
-        "title": "The Accidental Tourist",
-        "duration": "1:38:38",
-        "url": "https://www.youtube.com/watch?v=d4INzA5BLs8"
-      },
-      {
-        "chapter_no": 10,
-        "title": "The Beggar",
-        "duration": "1:54:36",
-        "url": "https://www.youtube.com/watch?v=3bgkmdG_p4g"
-      }
-    ]
-  }
-  
+  "class": "9",
+  "subject": "English",
+  "book": "Moments",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "The Lost Child",
+      "duration": "1:31:09",
+      "video_url": "https://www.youtube.com/watch?v=tGMrW7lD4zk&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=1",
+      "questions": [
+        {
+          "question": "What attracted the child in 'The Lost Child'?",
+          "options": {
+            "A": "A bird",
+            "B": "A toy",
+            "C": "A flower",
+            "D": "A fruit"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did the child react when he lost his way?",
+          "options": {
+            "A": "He cried",
+            "B": "He ran away",
+            "C": "He called for help",
+            "D": "He sat quietly"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who did the child look for after getting lost?",
+          "options": {
+            "A": "His mother",
+            "B": "His father",
+            "C": "His friend",
+            "D": "His pet"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What was the setting of 'The Lost Child'?",
+          "options": {
+            "A": "A market",
+            "B": "A fair",
+            "C": "A garden",
+            "D": "A house"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What did the child finally realize?",
+          "options": {
+            "A": "He wanted to go home",
+            "B": "He wanted to play",
+            "C": "He wanted to eat",
+            "D": "He wanted to sleep"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "The Adventures of Toto",
+      "duration": "1:25:21",
+      "video_url": "https://www.youtube.com/watch?v=FeqHjrFUqCA&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=2",
+      "questions": [
+        {
+          "question": "What kind of animal is Toto?",
+          "options": {
+            "A": "A monkey",
+            "B": "A dog",
+            "C": "A cat",
+            "D": "A rabbit"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What mischief did Toto create?",
+          "options": {
+            "A": "He stole food",
+            "B": "He broke things",
+            "C": "He climbed trees",
+            "D": "He ran away"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How did the grandmother react to Toto?",
+          "options": {
+            "A": "She loved him",
+            "B": "She was afraid of him",
+            "C": "She ignored him",
+            "D": "She scolded him"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What did Toto do with the plants?",
+          "options": {
+            "A": "Pulled them out",
+            "B": "Watered them",
+            "C": "Planted new ones",
+            "D": "Ignored them"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Why did Toto's owner decide to sell him?",
+          "options": {
+            "A": "He was too much trouble",
+            "B": "He was too quiet",
+            "C": "He ran away",
+            "D": "He ate too much"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Iswaran The Storyteller",
+      "duration": "1:34:10",
+      "video_url": "https://www.youtube.com/watch?v=edFAdN5hrwg&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=3",
+      "questions": [
+        {
+          "question": "What was Iswaran's profession?",
+          "options": {
+            "A": "A teacher",
+            "B": "A cook",
+            "C": "A storyteller",
+            "D": "A farmer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How did Iswaran captivate his listeners?",
+          "options": {
+            "A": "With music",
+            "B": "By telling ghost stories",
+            "C": "By reading books",
+            "D": "By acting"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the effect of Iswaran's stories on Mahendra?",
+          "options": {
+            "A": "He was bored",
+            "B": "He was scared",
+            "C": "He was amused",
+            "D": "He was confused"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What unique aspect did Iswaran add to his storytelling?",
+          "options": {
+            "A": "Facts",
+            "B": "Imaginary elements",
+            "C": "Experiences",
+            "D": "Predictions"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happened to Iswaran's story about the elephant?",
+          "options": {
+            "A": "It was true",
+            "B": "It was fabricated",
+            "C": "It was detailed",
+            "D": "It was confusing"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "In the Kingdom of Fools",
+      "duration": "1:39:17",
+      "video_url": "https://www.youtube.com/watch?v=HSAkYS6G-OM&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=4",
+      "questions": [
+        {
+          "question": "What was unique about the kingdom?",
+          "options": {
+            "A": "It was ruled by wise men",
+            "B": "Everyone was a fool",
+            "C": "It had no laws",
+            "D": "It was small"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What did the king and ministers decide?",
+          "options": {
+            "A": "To tax the people",
+            "B": "To hold annual festivals",
+            "C": "To change all rules",
+            "D": "To declare war"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Who came to the kingdom as a traveler?",
+          "options": {
+            "A": "A prince",
+            "B": "A merchant",
+            "C": "A sage",
+            "D": "A well-built man"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What did the traveler witness in the kingdom?",
+          "options": {
+            "A": "The cleverness of the people",
+            "B": "The innocence of the people",
+            "C": "The chaos in the kingdom",
+            "D": "The traditions of the kingdom"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What lesson is conveyed through the story?",
+          "options": {
+            "A": "Wisdom prevails",
+            "B": "Foolishness has consequences",
+            "C": "Bravery is rewarded",
+            "D": "Kindness matters"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "The Happy Prince",
+      "duration": "1:43:39",
+      "video_url": "https://www.youtube.com/watch?v=3kbh51MQEnE&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=5",
+      "questions": [
+        {
+          "question": "What was the statue made of?",
+          "options": {
+            "A": "Gold",
+            "B": "Silver",
+            "C": "Bronze",
+            "D": "Stone"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who helped the Happy Prince?",
+          "options": {
+            "A": "A cat",
+            "B": "A bird",
+            "C": "A child",
+            "D": "A magician"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What did the Happy Prince wish to do?",
+          "options": {
+            "A": "Travel",
+            "B": "Help the poor",
+            "C": "Live again",
+            "D": "Be admired"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the outcome of the Happy Prince's kindness?",
+          "options": {
+            "A": "He became happy",
+            "B": "He lost his beauty",
+            "C": "He found friends",
+            "D": "He became a king"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the story convey?",
+          "options": {
+            "A": "Kindness is essential",
+            "B": "Wealth is everything",
+            "C": "Beauty is important",
+            "D": "Power is needed"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Weathering the Storm in Ersama",
+      "duration": "1:24:13",
+      "video_url": "https://www.youtube.com/watch?v=nV0P4NVZu9A&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=6",
+      "questions": [
+        {
+          "question": "What event does the story describe?",
+          "options": {
+            "A": "A flood",
+            "B": "A storm",
+            "C": "An earthquake",
+            "D": "A drought"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who are the main characters in the story?",
+          "options": {
+            "A": "Children",
+            "B": "Strangers",
+            "C": "Survivors",
+            "D": "Neighboring families"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did the community do during the storm?",
+          "options": {
+            "A": "Helped each other",
+            "B": "Ran away",
+            "C": "Fought among themselves",
+            "D": "Ignored the situation"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How did the story end?",
+          "options": {
+            "A": "With destruction",
+            "B": "With loss of hope",
+            "C": "With survival",
+            "D": "With despair"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the message conveyed?",
+          "options": {
+            "A": "Unity is strength",
+            "B": "We should avoid storms",
+            "C": "Planning is essential",
+            "D": "Resilience is key"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "The Last Leaf",
+      "duration": "1:19:43",
+      "video_url": "https://www.youtube.com/watch?v=cPygjib3iz0&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=7",
+      "questions": [
+        {
+          "question": "What symbolizes hope in 'The Last Leaf'?",
+          "options": {
+            "A": "A flower",
+            "B": "A leaf",
+            "C": "A painting",
+            "D": "A tree"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who painted the last leaf?",
+          "options": {
+            "A": "John",
+            "B": "Mr. Behrman",
+            "C": "Suar",
+            "D": "An artist"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why did Sue become worried?",
+          "options": {
+            "A": "She was cold",
+            "B": "She fell sick",
+            "C": "She lost hope",
+            "D": "She lost her job"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What did the last leaf represent for Johnsy?",
+          "options": {
+            "A": "Death",
+            "B": "Revival",
+            "C": "Friendship",
+            "D": "Life"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What ultimately happened to Mr. Behrman?",
+          "options": {
+            "A": "He became famous",
+            "B": "He was lost",
+            "C": "He died",
+            "D": "He moved away"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "A House is not a Home",
+      "duration": "1:49:20",
+      "video_url": "https://www.youtube.com/watch?v=7r2LmgeM160&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=8",
+      "questions": [
+        {
+          "question": "What is the central theme of the story?",
+          "options": {
+            "A": "Love and belonging",
+            "B": "Wealth",
+            "C": "Success",
+            "D": "Friendship"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who is the main character in the story?",
+          "options": {
+            "A": "Suvigya",
+            "B": "An old man",
+            "C": "A boy",
+            "D": "A girl"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the boy miss the most?",
+          "options": {
+            "A": "His companions",
+            "B": "His home",
+            "C": "His toys",
+            "D": "His parents"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What changes did the boy experience in the story?",
+          "options": {
+            "A": "He became wealthy",
+            "B": "He gained love",
+            "C": "He felt lonely",
+            "D": "He made friends"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What lesson does the story teach?",
+          "options": {
+            "A": "Home is where love is",
+            "B": "Beauty is important",
+            "C": "Wealth buys happiness",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "The Accidental Tourist",
+      "duration": "1:38:38",
+      "video_url": "https://www.youtube.com/watch?v=alVtTm-38gc&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=9",
+      "questions": [
+        {
+          "question": "What does the term 'accidental tourist' mean?",
+          "options": {
+            "A": "A planned traveler",
+            "B": "A spontaneous traveler",
+            "C": "A business traveler",
+            "D": "A tourist with a guide"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What challenges does the character face?",
+          "options": {
+            "A": "Language barriers",
+            "B": "Cultural differences",
+            "C": "Transportation issues",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is emphasized in the story?",
+          "options": {
+            "A": "Planning is key",
+            "B": "Embracing spontaneity",
+            "C": "Traveling safely",
+            "D": "Budgeting for travel"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What transformation does the character undergo?",
+          "options": {
+            "A": "Becomes more disciplined",
+            "B": "Learns to enjoy life",
+            "C": "Becomes a planner",
+            "D": "Quits traveling"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What message does the story convey?",
+          "options": {
+            "A": "Life is about adventure",
+            "B": "Routine is fulfilling",
+            "C": "Travel is unnecessary",
+            "D": "Travel brings obstacles"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "The Beggar",
+      "duration": "1:54:36",
+      "video_url": "https://www.youtube.com/watch?v=yicMjO8vuOU&list=PLVLoWQFkZbhWiTnojfY8qJWNBKcO6JE7K&index=10",
+      "questions": [
+        {
+          "question": "What does the beggar do to survive?",
+          "options": {
+            "A": "Steals",
+            "B": "Lies",
+            "C": "Works",
+            "D": "Pretends to be sick"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who helps the beggar in the story?",
+          "options": {
+            "A": "A nobleman",
+            "B": "A teacher",
+            "C": "A kind woman",
+            "D": "A child"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What change does the beggar undergo?",
+          "options": {
+            "A": "Grows richer",
+            "B": "Becomes a better person",
+            "C": "Moves to another city",
+            "D": "Returns to stealing"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What lesson is conveyed through the beggar's story?",
+          "options": {
+            "A": "Honesty pays off",
+            "B": "Wealth is essential",
+            "C": "Help is always given",
+            "D": "Life is unfair"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the beggar ultimately realize?",
+          "options": {
+            "A": "He needs to change",
+            "B": "He is better off alone",
+            "C": "Money can't buy happiness",
+            "D": "Life is all about luxury"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}

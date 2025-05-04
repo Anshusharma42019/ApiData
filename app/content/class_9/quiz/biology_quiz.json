@@ -8,54 +8,54 @@
         "chapter_name": "The Fundamental Unit of Life",
         "questions": [
           {
-            "quiz_question": "What is considered the basic unit of life?",
+            "question": "What is considered the basic unit of life?",
             "options": {
-              "1": "Organ",
-              "2": "Cell",
-              "3": "Tissue",
-              "4": "Organism"
+              "A": "Organ",
+              "B": "Cell",
+              "C": "Tissue",
+              "D": "Organism"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which part of the cell controls its activities?",
+            "question": "Which part of the cell controls its activities?",
             "options": {
-              "1": "Cell wall",
-              "2": "Nucleus",
-              "3": "Cytoplasm",
-              "4": "Cell membrane"
+              "A": "Cell wall",
+              "B": "Nucleus",
+              "C": "Cytoplasm",
+              "D": "Cell membrane"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What do you call the jelly-like substance within the cell?",
+            "question": "What do you call the jelly-like substance within the cell?",
             "options": {
-              "1": "Protoplasm",
-              "2": "Chromatin",
-              "3": "Lysosome",
-              "4": "Chloroplast"
+              "A": "Protoplasm",
+              "B": "Chromatin",
+              "C": "Lysosome",
+              "D": "Chloroplast"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which type of cell lacks a nucleus?",
+            "question": "Which type of cell lacks a nucleus?",
             "options": {
-              "1": "Eukaryotic",
-              "2": "Prokaryotic",
-              "3": "Plant",
-              "4": "Animal"
+              "A": "Eukaryotic",
+              "B": "Prokaryotic",
+              "C": "Plant",
+              "D": "Animal"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which organelle is known as the powerhouse of the cell?",
+            "question": "Which organelle is known as the powerhouse of the cell?",
             "options": {
-              "1": "Lysosome",
-              "2": "Mitochondria",
-              "3": "Ribosome",
-              "4": "Golgi apparatus"
+              "A": "Lysosome",
+              "B": "Mitochondria",
+              "C": "Ribosome",
+              "D": "Golgi apparatus"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -64,54 +64,54 @@
         "chapter_name": "Tissues",
         "questions": [
           {
-            "quiz_question": "What are the two main types of plant tissues?",
+            "question": "What are the two main types of plant tissues?",
             "options": {
-              "1": "Meristematic and Permanent",
-              "2": "Parenchyma and Collenchyma",
-              "3": "Xylem and Phloem",
-              "4": "Epidermis and Cortex"
+              "A": "Meristematic and Permanent",
+              "B": "Parenchyma and Collenchyma",
+              "C": "Xylem and Phloem",
+              "D": "Epidermis and Cortex"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which tissue is responsible for transport in plants?",
+            "question": "Which tissue is responsible for transport in plants?",
             "options": {
-              "1": "Parenchyma",
-              "2": "Xylem",
-              "3": "Cortex",
-              "4": "Ground tissue"
+              "A": "Parenchyma",
+              "B": "Xylem",
+              "C": "Cortex",
+              "D": "Ground tissue"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What type of tissue connects muscles to bones?",
+            "question": "What type of tissue connects muscles to bones?",
             "options": {
-              "1": "Epithelial",
-              "2": "Nervous",
-              "3": "Connective",
-              "4": "Muscle"
+              "A": "Epithelial",
+              "B": "Nervous",
+              "C": "Connective",
+              "D": "Muscle"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which type of epithelial tissue is specialized for absorption?",
+            "question": "Which type of epithelial tissue is specialized for absorption?",
             "options": {
-              "1": "Ciliated",
-              "2": "Squamous",
-              "3": "Columnar",
-              "4": "Cuboidal"
+              "A": "Ciliated",
+              "B": "Squamous",
+              "C": "Columnar",
+              "D": "Cuboidal"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the main characteristic feature of cardiac muscle?",
+            "question": "What is the main characteristic feature of cardiac muscle?",
             "options": {
-              "1": "Voluntary control",
-              "2": "Involuntary control",
-              "3": "Multi-nucleated",
-              "4": "Lacks striation"
+              "A": "Voluntary control",
+              "B": "Involuntary control",
+              "C": "Multi-nucleated",
+              "D": "Lacks striation"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -120,54 +120,54 @@
         "chapter_name": "Diversity in Living Organisms",
         "questions": [
           {
-            "quiz_question": "What is the science of classifying organisms called?",
+            "question": "What is the science of classifying organisms called?",
             "options": {
-              "1": "Botany",
-              "2": "Ecology",
-              "3": "Taxonomy",
-              "4": "Genetics"
+              "A": "Botany",
+              "B": "Ecology",
+              "C": "Taxonomy",
+              "D": "Genetics"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is a characteristic of living organisms?",
+            "question": "Which of the following is a characteristic of living organisms?",
             "options": {
-              "1": "Ability to reproduce",
-              "2": "Ability to become fossilized",
-              "3": "Ability to be classified",
-              "4": "Ability to decay"
+              "A": "Ability to reproduce",
+              "B": "Ability to become fossilized",
+              "C": "Ability to be classified",
+              "D": "Ability to decay"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the largest group of living organisms?",
+            "question": "What is the largest group of living organisms?",
             "options": {
-              "1": "Plants",
-              "2": "Animals",
-              "3": "Fungi",
-              "4": "Bacteria"
+              "A": "Plants",
+              "B": "Animals",
+              "C": "Fungi",
+              "D": "Bacteria"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which kingdom do unicellular organisms belong to?",
+            "question": "Which kingdom do unicellular organisms belong to?",
             "options": {
-              "1": "Animalia",
-              "2": "Plantae",
-              "3": "Monera",
-              "4": "Fungi"
+              "A": "Animalia",
+              "B": "Plantae",
+              "C": "Monera",
+              "D": "Fungi"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the basic unit of classification?",
+            "question": "What is the basic unit of classification?",
             "options": {
-              "1": "Species",
-              "2": "Genus",
-              "3": "Family",
-              "4": "Order"
+              "A": "Species",
+              "B": "Genus",
+              "C": "Family",
+              "D": "Order"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -176,54 +176,54 @@
         "chapter_name": "Why Do We Fall Ill",
         "questions": [
           {
-            "quiz_question": "What is the primary cause of diseases?",
+            "question": "What is the primary cause of diseases?",
             "options": {
-              "1": "Genetic inheritance",
-              "2": "Microorganisms",
-              "3": "Environmental factors",
-              "4": "Dietary deficiencies"
+              "A": "Genetic inheritance",
+              "B": "Microorganisms",
+              "C": "Environmental factors",
+              "D": "Dietary deficiencies"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which type of disease is caused by pathogens?",
+            "question": "Which type of disease is caused by pathogens?",
             "options": {
-              "1": "Genetic disorder",
-              "2": "Nutritional disorder",
-              "3": "Infectious disease",
-              "4": "Psychosomatic disorder"
+              "A": "Genetic disorder",
+              "B": "Nutritional disorder",
+              "C": "Infectious disease",
+              "D": "Psychosomatic disorder"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What term is used for a disease that spreads easily from person to person?",
+            "question": "What term is used for a disease that spreads easily from person to person?",
             "options": {
-              "1": "Non-communicable",
-              "2": "Chronic",
-              "3": "Contagious",
-              "4": "Genetic"
+              "A": "Non-communicable",
+              "B": "Chronic",
+              "C": "Contagious",
+              "D": "Genetic"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is a non-communicable disease?",
+            "question": "Which of the following is a non-communicable disease?",
             "options": {
-              "1": "Flu",
-              "2": "Cancer",
-              "3": "Tuberculosis",
-              "4": "Measles"
+              "A": "Flu",
+              "B": "Cancer",
+              "C": "Tuberculosis",
+              "D": "Measles"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the role of vaccination?",
+            "question": "What is the role of vaccination?",
             "options": {
-              "1": "Cure diseases",
-              "2": "Prevent diseases",
-              "3": "Diagnose diseases",
-              "4": "None of the above"
+              "A": "Cure diseases",
+              "B": "Prevent diseases",
+              "C": "Diagnose diseases",
+              "D": "None of the above"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -232,54 +232,54 @@
         "chapter_name": "Natural Resources",
         "questions": [
           {
-            "quiz_question": "What are natural resources?",
+            "question": "What are natural resources?",
             "options": {
-              "1": "Man-made resources",
-              "2": "Resources obtained from nature",
-              "3": "Resources that are processed",
-              "4": "Resources that are consumed"
+              "A": "Man-made resources",
+              "B": "Resources obtained from nature",
+              "C": "Resources that are processed",
+              "D": "Resources that are consumed"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is a renewable resource?",
+            "question": "Which of the following is a renewable resource?",
             "options": {
-              "1": "Coal",
-              "2": "Natural gas",
-              "3": "Solar energy",
-              "4": "Petroleum"
+              "A": "Coal",
+              "B": "Natural gas",
+              "C": "Solar energy",
+              "D": "Petroleum"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What percentage of the Earth's surface is covered by water?",
+            "question": "What percentage of the Earth's surface is covered by water?",
             "options": {
-              "1": "50%",
-              "2": "70%",
-              "3": "90%",
-              "4": "30%"
+              "A": "50%",
+              "B": "70%",
+              "C": "90%",
+              "D": "30%"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which natural resource is essential for all life forms?",
+            "question": "Which natural resource is essential for all life forms?",
             "options": {
-              "1": "Soil",
-              "2": "Water",
-              "3": "Air",
-              "4": "All of the above"
+              "A": "Soil",
+              "B": "Water",
+              "C": "Air",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What type of resource is wood?",
+            "question": "What type of resource is wood?",
             "options": {
-              "1": "Non-renewable",
-              "2": "Renewable",
-              "3": "Synthetic",
-              "4": "Inexhaustible"
+              "A": "Non-renewable",
+              "B": "Renewable",
+              "C": "Synthetic",
+              "D": "Inexhaustible"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -288,54 +288,54 @@
         "chapter_name": "Improvement in Food Resources",
         "questions": [
           {
-            "quiz_question": "What does high-yield variety (HYV) of seeds refer to?",
+            "question": "What does high-yield variety (HYV) of seeds refer to?",
             "options": {
-              "1": "Seeds that produce maximum output",
-              "2": "Seeds that need less water",
-              "3": "Seeds that require less care",
-              "4": "Seeds that are smaller in size"
+              "A": "Seeds that produce maximum output",
+              "B": "Seeds that need less water",
+              "C": "Seeds that require less care",
+              "D": "Seeds that are smaller in size"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a primary goal of improving food resources?",
+            "question": "Which of the following is a primary goal of improving food resources?",
             "options": {
-              "1": "Increased crop yield",
-              "2": "Reduced soil fertility",
-              "3": "Higher prices for farmers",
-              "4": "Greater consumption of pesticides"
+              "A": "Increased crop yield",
+              "B": "Reduced soil fertility",
+              "C": "Higher prices for farmers",
+              "D": "Greater consumption of pesticides"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is organic farming?",
+            "question": "What is organic farming?",
             "options": {
-              "1": "Farming without chemicals",
-              "2": "Farming with synthetic fertilizers",
-              "3": "Farming using GMOs",
-              "4": "Farming on a large scale"
+              "A": "Farming without chemicals",
+              "B": "Farming with synthetic fertilizers",
+              "C": "Farming using GMOs",
+              "D": "Farming on a large scale"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is a significant challenge in improving food production?",
+            "question": "What is a significant challenge in improving food production?",
             "options": {
-              "1": "Water scarcity",
-              "2": "Technological advancement",
-              "3": "Government policies",
-              "4": "Increasing labor force"
+              "A": "Water scarcity",
+              "B": "Technological advancement",
+              "C": "Government policies",
+              "D": "Increasing labor force"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the role of fertilizers in food production?",
+            "question": "What is the role of fertilizers in food production?",
             "options": {
-              "1": "Decrease yield",
-              "2": "Enhance soil nutrients",
-              "3": "Increase pests",
-              "4": "Reduce plant growth"
+              "A": "Decrease yield",
+              "B": "Enhance soil nutrients",
+              "C": "Increase pests",
+              "D": "Reduce plant growth"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       }

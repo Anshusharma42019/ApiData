@@ -1,118 +1,692 @@
 {
-    "class": 6,
-    "subject": "Mathematics",
-    "type": "OneShot Videos",
-    "source": "BYJU'S - Class 6, 7 & 8 YouTube Playlist",
-    "total_chapters": 12,
-    "total_videos": 12,
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Knowing Our Numbers",
-        "video": {
-          "title": "Knowing Our Numbers | Class 6 | Maths | CHAMPS 2024 | BYJU'S",
-          "url": "https://www.youtube.com/watch?v=n-zJaQzoe8s&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=1",
-          "duration": "32:50"
+  "class": 6,
+  "subject": "Mathematics",
+  "channel": "BYJU'S - Class 6, 7 & 8",
+  "total_chapters": 12,
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Knowing Our Numbers",
+      "video_url": "https://www.youtube.com/watch?v=n-zJaQzoe8s",
+      "questions": [
+        {
+          "question": "What is the value of the digit 7 in the number 5,782?",
+          "options": {
+            "A": "7",
+            "B": "70",
+            "C": "700",
+            "D": "7000"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the greatest 4-digit number?",
+          "options": {
+            "A": "9999",
+            "B": "10000",
+            "C": "9998",
+            "D": "9500"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the smallest 5-digit number?",
+          "options": {
+            "A": "10000",
+            "B": "10001",
+            "C": "1000",
+            "D": "9999"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How many zeros are there in one million?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the place value of 3 in the number 83,145?",
+          "options": {
+            "A": "30",
+            "B": "C",
+            "C": "3,000",
+            "D": "300"
+          },
+          "correct_answer": "C"
         }
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Whole Numbers",
-        "video": {
-          "title": "What are Whole Numbers? | Whole Numbers Grade 6 | Maths | CHAMPS 2024",
-          "url": "https://www.youtube.com/watch?v=Kf58oSQk778&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=2",
-          "duration": "27:21"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Whole Numbers",
+      "video_url": "https://www.youtube.com/watch?v=Kf58oSQk778",
+      "questions": [
+        {
+          "question": "What is the result of adding the first five whole numbers?",
+          "options": {
+            "A": "15",
+            "B": "10",
+            "C": "5",
+            "D": "20"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the sum of 0 and any whole number?",
+          "options": {
+            "A": "0",
+            "B": "A",
+            "C": "The whole number itself",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the product of 9 and 0?",
+          "options": {
+            "A": "A",
+            "B": "9",
+            "C": "0",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is not a whole number?",
+          "options": {
+            "A": "5",
+            "B": "-3",
+            "C": "0",
+            "D": "12"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is the smallest whole number?",
+          "options": {
+            "A": "-1",
+            "B": "0",
+            "C": "A",
+            "D": "B"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Playing with Numbers",
-        "video": {
-          "title": "Playing with Numbers | Learn Factors and Multiples with an Activity! | CHAMPS 2024 |",
-          "url": "https://www.youtube.com/watch?v=Fao3gDKK7f0&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=3",
-          "duration": "23:00"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Playing with Numbers",
+      "video_url": "https://www.youtube.com/watch?v=Fao3gDKK7f0",
+      "questions": [
+        {
+          "question": "What is the least common multiple (LCM) of 4 and 5?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "5"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the greatest common factor (GCF) of 12 and 18?",
+          "options": {
+            "A": "C",
+            "B": "6",
+            "C": "9",
+            "D": "12"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If a number is divisible by both 2 and 3, what is the minimum number of its factors?",
+          "options": {
+            "A": "B",
+            "B": "C",
+            "C": "D",
+            "D": "6"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is 12 multiplied by 6?",
+          "options": {
+            "A": "72",
+            "B": "66",
+            "C": "12",
+            "D": "60"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the sum of all prime numbers between 1 and 10?",
+          "options": {
+            "A": "17",
+            "B": "28",
+            "C": "30",
+            "D": "24"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Basic Geometrical Ideas",
-        "video": {
-          "title": "Basic Geometrical Ideas in one shot | Class 6 | CHAMPS 2024",
-          "url": "https://www.youtube.com/watch?v=_T-Z6bPpyIk&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=4",
-          "duration": "47:38"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Basic Geometrical Ideas",
+      "video_url": "https://www.youtube.com/watch?v=_T-Z6bPpyIk",
+      "questions": [
+        {
+          "question": "What is the perimeter of a rectangle with length 5 cm and width 3 cm?",
+          "options": {
+            "A": "16 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "8 cm"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you call the point where two lines meet?",
+          "options": {
+            "A": "Angle",
+            "B": "Vertex",
+            "C": "Perimeter",
+            "D": "Line segment"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the area of a square with side length 4 cm?",
+          "options": {
+            "A": "16 cm²",
+            "B": "12 cm²",
+            "C": "8 cm²",
+            "D": "20 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How many sides does a triangle have?",
+          "options": {
+            "A": "B",
+            "B": "C",
+            "C": "D",
+            "D": "5"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the name of a 3D shape with circular ends?",
+          "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Pyramid"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Understanding Elementary Shapes",
-        "video": {
-          "title": "Understand Elementary Shapes in One Shot with Formula Cheat Sheet Class 6 Maths | BYJU'S - Class 6",
-          "url": "https://www.youtube.com/watch?v=Vgolb4M6180&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=5",
-          "duration": "50:21"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Understanding Elementary Shapes",
+      "video_url": "https://www.youtube.com/watch?v=Vgolb4M6180",
+      "questions": [
+        {
+          "question": "What is the total number of edges in a cube?",
+          "options": {
+            "A": "8",
+            "B": "6",
+            "C": "12",
+            "D": "10"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How many vertices does a triangular prism have?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "D",
+            "D": "C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the area of a rectangle with length 10 cm and width 5 cm?",
+          "options": {
+            "A": "40 cm²",
+            "B": "100 cm²",
+            "C": "50 cm²",
+            "D": "30 cm²"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is a characteristic of a parallelogram?",
+          "options": {
+            "A": "All angles are 90 degrees",
+            "B": "Opposite sides are equal",
+            "C": "Only one set of parallel sides",
+            "D": "All sides are equal"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many faces does a cylinder have?",
+          "options": {
+            "A": "A",
+            "B": "C",
+            "C": "B",
+            "D": "5"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Integers",
-        "video": {
-          "title": "Integers Class 6 Maths in One Shot (Formula Cheatsheet and Examples) | BYJU'S - Class 6",
-          "url": "https://www.youtube.com/watch?v=i7w29DUI6y4&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=6",
-          "duration": "46:13"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Integers",
+      "video_url": "https://www.youtube.com/watch?v=i7w29DUI6y4",
+      "questions": [
+        {
+          "question": "What is the sum of -3 and 7?",
+          "options": {
+            "A": "D",
+            "B": "10",
+            "C": "C",
+            "D": "0"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is -5 - (-3)?",
+          "options": {
+            "A": "-2",
+            "B": "-8",
+            "C": "-3",
+            "D": "B"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following integers is greater than -1?",
+          "options": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "-3"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the product of -6 and 4?",
+          "options": {
+            "A": "24",
+            "B": "-24",
+            "C": "10",
+            "D": "0"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do you get when you divide -10 by 2?",
+          "options": {
+            "A": "-5",
+            "B": "5",
+            "C": "0",
+            "D": "-20"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Fractions",
-        "video": {
-          "title": "Fractions | ONE SHOT | Easiest Explanation | Chapter 7 | Class 6",
-          "url": "https://www.youtube.com/watch?v=VB6fmr3GQ5k&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=7",
-          "duration": "1:03:48"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Fractions",
+      "video_url": "https://www.youtube.com/watch?v=VB6fmr3GQ5k",
+      "questions": [
+        {
+          "question": "What is 3/4 + 1/4?",
+          "options": {
+            "A": "A",
+            "B": "1/2",
+            "C": "2/4",
+            "D": "B"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 1/2 - 1/4?",
+          "options": {
+            "A": "1/4",
+            "B": "1/2",
+            "C": "3/4",
+            "D": "0"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the product of 2/3 and 3/4?",
+          "options": {
+            "A": "1/2",
+            "B": "6/12",
+            "C": "1/4",
+            "D": "1/3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 3/5 ÷ 3/10?",
+          "options": {
+            "A": "1/2",
+            "B": "1/5",
+            "C": "A",
+            "D": "B"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the simplest form of 8/12?",
+          "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "5/6"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Decimals",
-        "video": {
-          "title": "Decimals Class 6 Maths in One Shot | NCERT Class 6 Maths Chapter 8 | BYJU'S",
-          "url": "https://www.youtube.com/watch?v=7ap_qVv-rhY&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=8",
-          "duration": "57:56"
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Decimals",
+      "video_url": "https://www.youtube.com/watch?v=7ap_qVv-rhY",
+      "questions": [
+        {
+          "question": "What is 0.7 + 0.5?",
+          "options": {
+            "A": "1.1",
+            "B": "1.2",
+            "C": "0.12",
+            "D": "1.3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 2.5 - 1.2?",
+          "options": {
+            "A": "1.3",
+            "B": "0.5",
+            "C": "1.4",
+            "D": "1.1"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 1.5 × 2?",
+          "options": {
+            "A": "3.0",
+            "B": "2.5",
+            "C": "4.0",
+            "D": "3.5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 3.6 ÷ 0.6?",
+          "options": {
+            "A": "6",
+            "B": "5",
+            "C": "D",
+            "D": "C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the decimal equivalent of 3/4?",
+          "options": {
+            "A": "0.75",
+            "B": "0.5",
+            "C": "0.25",
+            "D": "1.0"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Data Handling",
-        "video": {
-          "title": "Data Handling Class 6 Maths (Chapter 9) in One Shot | BYJU'S - Class 6",
-          "url": "https://www.youtube.com/watch?v=4iOX2zuyYnA&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=9",
-          "duration": "51:31"
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Data Handling",
+      "video_url": "https://www.youtube.com/watch?v=4iOX2zuyYnA",
+      "questions": [
+        {
+          "question": "What is the mode of the following set: 2, 3, 4, 3, 4, 4, 5?",
+          "options": {
+            "A": "C",
+            "B": "D",
+            "C": "B",
+            "D": "5"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the median of the following set: 1, 3, 3, 6, 7, 8?",
+          "options": {
+            "A": "C",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a survey of students shows that 10 have smartphones and 15 do not, what is the total number of students surveyed?",
+          "options": {
+            "A": "25",
+            "B": "20",
+            "C": "30",
+            "D": "15"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In a bar graph showing scores, if 4 bars represent scores of 5, 3, 4, and 2 respectively, what is the total score?",
+          "options": {
+            "A": "14",
+            "B": "10",
+            "C": "8",
+            "D": "12"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the range of the following data set: 5, 10, 15, 20?",
+          "options": {
+            "A": "15",
+            "B": "20",
+            "C": "5",
+            "D": "10"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "Mensuration",
-        "video": {
-          "title": "Mensuration Class 6 Chapter 10 in One Shot | BYJU'S - Class 6",
-          "url": "https://www.youtube.com/watch?v=0wob4VIFNw0&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=10",
-          "duration": "1:06:55"
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Mensuration",
+      "video_url": "https://www.youtube.com/watch?v=0wob4VIFNw0",
+      "questions": [
+        {
+          "question": "What is the area of a rectangle with length 8 cm and breadth 3 cm?",
+          "options": {
+            "A": "24 cm²",
+            "B": "11 cm²",
+            "C": "12 cm²",
+            "D": "15 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the perimeter of a square with a side length of 5 cm?",
+          "options": {
+            "A": "20 cm",
+            "B": "25 cm",
+            "C": "15 cm",
+            "D": "10 cm"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the area of a triangle with a base of 10 cm and height of 5 cm?",
+          "options": {
+            "A": "25 cm²",
+            "B": "50 cm²",
+            "C": "15 cm²",
+            "D": "20 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How many square centimeters are there in a square with a side length of 4 cm?",
+          "options": {
+            "A": "16 cm²",
+            "B": "12 cm²",
+            "C": "8 cm²",
+            "D": "20 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the circumference of a circle with a diameter of 14 cm? (Use π = 22/7)",
+          "options": {
+            "A": "44 cm",
+            "B": "28 cm",
+            "C": "30 cm",
+            "D": "55 cm"
+          },
+          "correct_answer": "A"
         }
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "Algebra",
-        "video": {
-          "title": "Algebra Class 6 Maths in One Shot (Chapter 11) | BYJU'S - Class 6",
-          "url": "https://www.youtube.com/watch?v=k2o1PPBUdZI&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=11",
-          "duration": "1:01:35"
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Algebra",
+      "video_url": "https://www.youtube.com/watch?v=k2o1PPBUdZI",
+      "questions": [
+        {
+          "question": "What is the value of x if 2x = 10?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "B",
+            "D": "20"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 3a + 5 when a = 2?",
+          "options": {
+            "A": "6",
+            "B": "8",
+            "C": "11",
+            "D": "10"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "If 5 + x = 12, what is the value of x?",
+          "options": {
+            "A": "7",
+            "B": "5",
+            "C": "8",
+            "D": "10"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the result of simplifying the expression 2(3 + 4)?",
+          "options": {
+            "A": "14",
+            "B": "12",
+            "C": "10",
+            "D": "16"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the value of y in the equation 7y = 21?",
+          "options": {
+            "A": "B",
+            "B": "C",
+            "C": "D",
+            "D": "5"
+          },
+          "correct_answer": "B"
         }
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "Ratio and Proportion",
-        "video": {
-          "title": "Ratio and Proportion | Under 45 mins | Chapter 12 | Class 6 | Maths | BYJU'S",
-          "url": "https://www.youtube.com/watch?v=mexZZUUBa1o&list=PLAyDjaXmCbogavXtXHUmIVAwOfN3sS6CE&index=12",
-          "duration": "36:04"
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Ratio and Proportion",
+      "video_url": "https://www.youtube.com/watch?v=mexZZUUBa1o",
+      "questions": [
+        {
+          "question": "What is the ratio of 8 to 4?",
+          "options": {
+            "A": "1:2",
+            "B": "2:1",
+            "C": "4:1",
+            "D": "1:4"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "If 3 kg of apples cost $6, how much will 5 kg cost?",
+          "options": {
+            "A": "$8",
+            "B": "$10",
+            "C": "$12",
+            "D": "$15"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "A recipe requires a ratio of 2:3 for sugar to flour. If you use 1 cup of sugar, how much flour do you need?",
+          "options": {
+            "A": "1.5 cups",
+            "B": "2 cups",
+            "C": "3 cups",
+            "D": "2.5 cups"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the proportion if 120 is to 240 as 1 is to x?",
+          "options": {
+            "A": "B",
+            "B": "D",
+            "C": "1.5",
+            "D": "C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If the ratio of ages of A and B is 3:4 and the sum of their ages is 28 years, what is A’s age?",
+          "options": {
+            "A": "12",
+            "B": "16",
+            "C": "10",
+            "D": "14"
+          },
+          "correct_answer": "A"
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}

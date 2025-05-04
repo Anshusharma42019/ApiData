@@ -6,1047 +6,1047 @@
     "playlist": "Class 8 Maths All Chapters - One Shot",
     "chapters": [
       {
-        "chapter_number": 1,
-        "title": "Rational Numbers",
+        "chapter_no": 1,
+        "chapter_name": "Rational Numbers",
         "questions": [
           {
-            "quiz_question": "Calculate the product of -3/7 and 14/15.",
+            "question": "Calculate the product of -3/7 and 14/15.",
             "options": {
-              "1": "1/5",
-              "2": "-2/5",
-              "3": "0",
-              "4": "-7/15"
+              "A": "1/5",
+              "B": "-2/5",
+              "C": "0",
+              "D": "-7/15"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "If a = -2/3 and b = 4/5, what is the value of a + b?",
+            "question": "If a = -2/3 and b = 4/5, what is the value of a + b?",
             "options": {
-              "1": "2/15",
-              "2": "6/15",
-              "3": "10/15",
-              "4": "5/15"
+              "A": "2/15",
+              "B": "6/15",
+              "C": "10/15",
+              "D": "5/15"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the value of (-5/9) - (7/18)?",
+            "question": "What is the value of (-5/9) - (7/18)?",
             "options": {
-              "1": "-11/18",
-              "2": "-7/18",
-              "3": "-10/18",
-              "4": "-3/18"
+              "A": "-11/18",
+              "B": "-7/18",
+              "C": "-10/18",
+              "D": "-3/18"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Simplify: 2/3 + 4/9.",
+            "question": "Simplify: 2/3 + 4/9.",
             "options": {
-              "1": "10/9",
-              "2": "8/9",
-              "3": "6/3",
-              "4": "4/3"
+              "A": "10/9",
+              "B": "8/9",
+              "C": "6/3",
+              "D": "4/3"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If x = -1/2, calculate the value of 4x + 2.",
+            "question": "If x = -1/2, calculate the value of 4x + 2.",
             "options": {
-              "1": "0",
-              "2": "1",
-              "3": "2",
-              "4": "-1"
+              "A": "0",
+              "B": "A",
+              "C": "B",
+              "D": "-1"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=GJnvCdnrgqQ",
+        "video_url": "https://www.youtube.com/watch?v=GJnvCdnrgqQ",
         "duration": "1:27:17"
       },
       {
-        "chapter_number": 2,
-        "title": "Linear Equations in One Variable",
+        "chapter_no": 2,
+        "chapter_name": "Linear Equations in One Variable",
         "questions": [
           {
-            "quiz_question": "Solve for x: 2x + 5 = 17.",
+            "question": "Solve for x: 2x + 5 = 17.",
             "options": {
-              "1": "6",
-              "2": "5",
-              "3": "7",
-              "4": "10"
+              "A": "6",
+              "B": "5",
+              "C": "7",
+              "D": "10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 4x - 3 = 13, what is the value of x?",
+            "question": "If 4x - 3 = 13, what is the value of x?",
             "options": {
-              "1": "5",
-              "2": "4",
-              "3": "3",
-              "4": "10"
+              "A": "5",
+              "B": "D",
+              "C": "C",
+              "D": "10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the solution for 5(x - 2) = 15?",
+            "question": "What is the solution for 5(x - 2) = 15?",
             "options": {
-              "1": "1",
-              "2": "5",
-              "3": "8",
-              "4": "20"
+              "A": "A",
+              "B": "5",
+              "C": "8",
+              "D": "20"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Solve for y: 3y + 7 = 16.",
+            "question": "Solve for y: 3y + 7 = 16.",
             "options": {
-              "1": "3",
-              "2": "2",
-              "3": "1",
-              "4": "5"
+              "A": "C",
+              "B": "B",
+              "C": "A",
+              "D": "5"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 2x + 3 = 7, what is the value of x?",
+            "question": "If 2x + 3 = 7, what is the value of x?",
             "options": {
-              "1": "2",
-              "2": "3",
-              "3": "1",
-              "4": "4"
+              "A": "B",
+              "B": "C",
+              "C": "A",
+              "D": "D"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=FdS7KIVfks0",
+        "video_url": "https://www.youtube.com/watch?v=FdS7KIVfks0",
         "duration": "1:18:16"
       },
       {
-        "chapter_number": 3,
-        "title": "Understanding Quadrilaterals",
+        "chapter_no": 3,
+        "chapter_name": "Understanding Quadrilaterals",
         "questions": [
           {
-            "quiz_question": "Calculate the area of a rectangle with length 10 cm and width 5 cm.",
+            "question": "Calculate the area of a rectangle with length 10 cm and width 5 cm.",
             "options": {
-              "1": "50 cm²",
-              "2": "55 cm²",
-              "3": "70 cm²",
-              "4": "80 cm²"
+              "A": "50 cm²",
+              "B": "55 cm²",
+              "C": "70 cm²",
+              "D": "80 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Find the perimeter of a square whose side is 7 cm.",
+            "question": "Find the perimeter of a square whose side is 7 cm.",
             "options": {
-              "1": "28 cm",
-              "2": "35 cm",
-              "3": "21 cm",
-              "4": "18 cm"
+              "A": "28 cm",
+              "B": "35 cm",
+              "C": "21 cm",
+              "D": "18 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "A trapezium has bases of 10 cm and 6 cm, and a height of 5 cm. Find its area.",
+            "question": "A trapezium has bases of 10 cm and 6 cm, and a height of 5 cm. Find its area.",
             "options": {
-              "1": "40 cm²",
-              "2": "25 cm²",
-              "3": "30 cm²",
-              "4": "50 cm²"
+              "A": "40 cm²",
+              "B": "25 cm²",
+              "C": "30 cm²",
+              "D": "50 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the sum of interior angles of a quadrilateral?",
+            "question": "What is the sum of interior angles of a quadrilateral?",
             "options": {
-              "1": "360°",
-              "2": "180°",
-              "3": "540°",
-              "4": "3600°"
+              "A": "360°",
+              "B": "180°",
+              "C": "540°",
+              "D": "3600°"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Calculate the area of a parallelogram with base 8 cm and height 5 cm.",
+            "question": "Calculate the area of a parallelogram with base 8 cm and height 5 cm.",
             "options": {
-              "1": "40 cm²",
-              "2": "30 cm²",
-              "3": "50 cm²",
-              "4": "25 cm²"
+              "A": "40 cm²",
+              "B": "30 cm²",
+              "C": "50 cm²",
+              "D": "25 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=I3vp_4WIiVo",
+        "video_url": "https://www.youtube.com/watch?v=I3vp_4WIiVo",
         "duration": "1:27:24"
       },
       {
-        "chapter_number": 4,
-        "title": "Exponents and Powers",
+        "chapter_no": 4,
+        "chapter_name": "Exponents and Powers",
         "questions": [
           {
-            "quiz_question": "Calculate 3^4.",
+            "question": "Calculate 3^4.",
             "options": {
-              "1": "81",
-              "2": "27",
-              "3": "64",
-              "4": "12"
+              "A": "81",
+              "B": "27",
+              "C": "64",
+              "D": "12"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 2^x = 32, find the value of x.",
+            "question": "If 2^x = 32, find the value of x.",
             "options": {
-              "1": "4",
-              "2": "5",
-              "3": "6",
-              "4": "3"
+              "A": "D",
+              "B": "5",
+              "C": "6",
+              "D": "C"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is (5^2 * 5^3)?",
+            "question": "What is (5^2 * 5^3)?",
             "options": {
-              "1": "25",
-              "2": "125",
-              "3": "3125",
-              "4": "625"
+              "A": "25",
+              "B": "125",
+              "C": "3125",
+              "D": "625"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Calculate 4^3.",
+            "question": "Calculate 4^3.",
             "options": {
-              "1": "64",
-              "2": "16",
-              "3": "48",
-              "4": "56"
+              "A": "64",
+              "B": "16",
+              "C": "48",
+              "D": "56"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 10^4 = x, what is the value of x?",
+            "question": "If 10^4 = x, what is the value of x?",
             "options": {
-              "1": "10000",
-              "2": "1000",
-              "3": "100",
-              "4": "100000"
+              "A": "10000",
+              "B": "1000",
+              "C": "100",
+              "D": "100000"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=nfC8ihzSG58",
+        "video_url": "https://www.youtube.com/watch?v=nfC8ihzSG58",
         "duration": "1:29:01"
       },
       {
-        "chapter_number": 5,
-        "title": "Mensuration (Part 1)",
+        "chapter_no": 5,
+        "chapter_name": "Mensuration (Part 1)",
         "questions": [
           {
-            "quiz_question": "Find the area of a triangle with base 12 cm and height 5 cm.",
+            "question": "Find the area of a triangle with base 12 cm and height 5 cm.",
             "options": {
-              "1": "30 cm²",
-              "2": "40 cm²",
-              "3": "25 cm²",
-              "4": "20 cm²"
+              "A": "30 cm²",
+              "B": "40 cm²",
+              "C": "25 cm²",
+              "D": "20 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the volume of a cuboid with length 8 cm, breadth 4 cm, and height 3 cm?",
+            "question": "What is the volume of a cuboid with length 8 cm, breadth 4 cm, and height 3 cm?",
             "options": {
-              "1": "96 cm³",
-              "2": "60 cm³",
-              "3": "72 cm³",
-              "4": "24 cm³"
+              "A": "96 cm³",
+              "B": "60 cm³",
+              "C": "72 cm³",
+              "D": "24 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Calculate the circumference of a circle with radius 7 cm. (Use π = 22/7)",
+            "question": "Calculate the circumference of a circle with radius 7 cm. (Use π = 22/7)",
             "options": {
-              "1": "44 cm",
-              "2": "22 cm",
-              "3": "34 cm",
-              "4": "50 cm"
+              "A": "44 cm",
+              "B": "22 cm",
+              "C": "34 cm",
+              "D": "50 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the area of a circle with diameter 14 cm? (Use π = 22/7)",
+            "question": "What is the area of a circle with diameter 14 cm? (Use π = 22/7)",
             "options": {
-              "1": "154 cm²",
-              "2": "98 cm²",
-              "3": "100 cm²",
-              "4": "120 cm²"
+              "A": "154 cm²",
+              "B": "98 cm²",
+              "C": "100 cm²",
+              "D": "120 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Find the area of a rectangle with given dimensions 8 cm by 6 cm.",
+            "question": "Find the area of a rectangle with given dimensions 8 cm by 6 cm.",
             "options": {
-              "1": "48 cm²",
-              "2": "36 cm²",
-              "3": "54 cm²",
-              "4": "24 cm²"
+              "A": "48 cm²",
+              "B": "36 cm²",
+              "C": "54 cm²",
+              "D": "24 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=YpP6XEV0B34",
+        "video_url": "https://www.youtube.com/watch?v=YpP6XEV0B34",
         "duration": "1:36:22"
       },
       {
-        "chapter_number": 6,
-        "title": "Mensuration (Part 2)",
+        "chapter_no": 6,
+        "chapter_name": "Mensuration (Part 2)",
         "questions": [
           {
-            "quiz_question": "What is the surface area of a cube with a side of 5 cm?",
+            "question": "What is the surface area of a cube with a side of 5 cm?",
             "options": {
-              "1": "125 cm²",
-              "2": "150 cm²",
-              "3": "200 cm²",
-              "4": "300 cm²"
+              "A": "125 cm²",
+              "B": "150 cm²",
+              "C": "200 cm²",
+              "D": "300 cm²"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Find the volume of a cylinder with radius 3 cm and height 7 cm. (Use π = 22/7)",
+            "question": "Find the volume of a cylinder with radius 3 cm and height 7 cm. (Use π = 22/7)",
             "options": {
-              "1": "198 cm³",
-              "2": "66 cm³",
-              "3": "64 cm³",
-              "4": "70 cm³"
+              "A": "198 cm³",
+              "B": "66 cm³",
+              "C": "64 cm³",
+              "D": "70 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the area of a trapezium with bases 10 cm and 8 cm, and height 5 cm?",
+            "question": "What is the area of a trapezium with bases 10 cm and 8 cm, and height 5 cm?",
             "options": {
-              "1": "45 cm²",
-              "2": "65 cm²",
-              "3": "40 cm²",
-              "4": "50 cm²"
+              "A": "45 cm²",
+              "B": "65 cm²",
+              "C": "40 cm²",
+              "D": "50 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "A cone has a base radius of 3 cm and height of 4 cm. Find its volume. (Use π = 3.14)",
+            "question": "A cone has a base radius of 3 cm and height of 4 cm. Find its volume. (Use π = 3.14)",
             "options": {
-              "1": "37.68 cm³",
-              "2": "30.00 cm³",
-              "3": "40.00 cm³",
-              "4": "50.00 cm³"
+              "A": "37.68 cm³",
+              "B": "30.00 cm³",
+              "C": "40.00 cm³",
+              "D": "50.00 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the surface area of a cylinder with radius 4 cm and height 5 cm? (Use π = 3.14)",
+            "question": "What is the surface area of a cylinder with radius 4 cm and height 5 cm? (Use π = 3.14)",
             "options": {
-              "1": "226.88 cm²",
-              "2": "150.80 cm²",
-              "3": "192.56 cm²",
-              "4": "100.00 cm²"
+              "A": "226.88 cm²",
+              "B": "150.80 cm²",
+              "C": "192.56 cm²",
+              "D": "100.00 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=ypYpi2QSpao",
+        "video_url": "https://www.youtube.com/watch?v=ypYpi2QSpao",
         "duration": "1:51:54"
       },
       {
-        "chapter_number": 7,
-        "title": "Algebraic Expressions and Identities",
+        "chapter_no": 7,
+        "chapter_name": "Algebraic Expressions and Identities",
         "questions": [
           {
-            "quiz_question": "Simplify: 2(x + 3) + 3(x - 2).",
+            "question": "Simplify: 2(x + 3) + 3(x - 2).",
             "options": {
-              "1": "5x + 6",
-              "2": "5x + 4",
-              "3": "5x + 2",
-              "4": "5x + 8"
+              "A": "5x + 6",
+              "B": "5x + 4",
+              "C": "5x + 2",
+              "D": "5x + 8"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the result of (a + b)²?",
+            "question": "What is the result of (a + b)²?",
             "options": {
-              "1": "a² + 2ab + b²",
-              "2": "a² + ab + b²",
-              "3": "2ab",
-              "4": "a² - 2ab + b²"
+              "A": "a² + 2ab + b²",
+              "B": "a² + ab + b²",
+              "C": "2ab",
+              "D": "a² - 2ab + b²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Factorize: x² - 9.",
+            "question": "Factorize: x² - 9.",
             "options": {
-              "1": "(x + 3)(x - 3)",
-              "2": "(x - 3)",
-              "3": "(x + 9)(x - 1)",
-              "4": "(x - 9)(x - 1)"
+              "A": "(x + 3)(x - 3)",
+              "B": "(x - 3)",
+              "C": "(x + 9)(x - 1)",
+              "D": "(x - 9)(x - 1)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Expand: (x + 5)(x + 2).",
+            "question": "Expand: (x + 5)(x + 2).",
             "options": {
-              "1": "x² + 7x + 10",
-              "2": "x² + 10x + 5",
-              "3": "x² + 12x + 10",
-              "4": "x² + 8x + 5"
+              "A": "x² + 7x + 10",
+              "B": "x² + 10x + 5",
+              "C": "x² + 12x + 10",
+              "D": "x² + 8x + 5"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which identity is represented by (a + b)²?",
+            "question": "Which identity is represented by (a + b)²?",
             "options": {
-              "1": "a² + b² + ab",
-              "2": "a² + 2ab + b²",
-              "3": "a² - 2ab + b²",
-              "4": "(a + b)(a + b)"
+              "A": "a² + b² + ab",
+              "B": "a² + 2ab + b²",
+              "C": "a² - 2ab + b²",
+              "D": "(a + b)(a + b)"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=GQqQPY2wEQA",
+        "video_url": "https://www.youtube.com/watch?v=GQqQPY2wEQA",
         "duration": "1:45:19"
       },
       {
-        "chapter_number": 8,
-        "title": "Factorisation",
+        "chapter_no": 8,
+        "chapter_name": "Factorisation",
         "questions": [
           {
-            "quiz_question": "Factor the expression: x² + 5x + 6.",
+            "question": "Factor the expression: x² + 5x + 6.",
             "options": {
-              "1": "(x + 2)(x + 3)",
-              "2": "(x + 1)(x + 6)",
-              "3": "(x - 3)(x + 2)",
-              "4": "(x + 1)(x + 5)"
+              "A": "(x + 2)(x + 3)",
+              "B": "(x + 1)(x + 6)",
+              "C": "(x - 3)(x + 2)",
+              "D": "(x + 1)(x + 5)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Factor: 2x² - 8.",
+            "question": "Factor: 2x² - 8.",
             "options": {
-              "1": "2(x - 4)(x + 2)",
-              "2": "2(x - 2)(x - 2)",
-              "3": "2(x - 4)",
-              "4": "2(x + 4)(x - 2)"
+              "A": "2(x - 4)(x + 2)",
+              "B": "2(x - 2)(x - 2)",
+              "C": "2(x - 4)",
+              "D": "2(x + 4)(x - 2)"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the factorization of x² - 9x + 14?",
+            "question": "What is the factorization of x² - 9x + 14?",
             "options": {
-              "1": "(x - 7)(x - 2)",
-              "2": "(x + 7)(x - 2)",
-              "3": "(x - 14)(x + 9)",
-              "4": "(x - 6)(x - 3)"
+              "A": "(x - 7)(x - 2)",
+              "B": "(x + 7)(x - 2)",
+              "C": "(x - 14)(x + 9)",
+              "D": "(x - 6)(x - 3)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Factor: x² + 4x - 21.",
+            "question": "Factor: x² + 4x - 21.",
             "options": {
-              "1": "(x + 7)(x - 3)",
-              "2": "(x + 3)(x - 7)",
-              "3": "(x + 21)(x - 1)",
-              "4": "(x + 2)(x + 10)"
+              "A": "(x + 7)(x - 3)",
+              "B": "(x + 3)(x - 7)",
+              "C": "(x + 21)(x - 1)",
+              "D": "(x + 2)(x + 10)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Factor: 3x² + 12x.",
+            "question": "Factor: 3x² + 12x.",
             "options": {
-              "1": "3x(x + 4)",
-              "2": "3(x² + 4x)",
-              "3": "3x² + 4",
-              "4": "x(3x + 4)"
+              "A": "3x(x + 4)",
+              "B": "3(x² + 4x)",
+              "C": "3x² + 4",
+              "D": "x(3x + 4)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=HD3z0c9obrA",
+        "video_url": "https://www.youtube.com/watch?v=HD3z0c9obrA",
         "duration": "2:04:12"
       },
       {
-        "chapter_number": 9,
-        "title": "Comparing Quantities (Part 1)",
+        "chapter_no": 9,
+        "chapter_name": "Comparing Quantities (Part 1)",
         "questions": [
           {
-            "quiz_question": "Convert 10% into a fraction.",
+            "question": "Convert 10% into a fraction.",
             "options": {
-              "1": "1/10",
-              "2": "1/20",
-              "3": "1/50",
-              "4": "1/100"
+              "A": "1/10",
+              "B": "1/20",
+              "C": "1/50",
+              "D": "1/100"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "If a shirt costs $400 after a 20% discount, what was its original price?",
+            "question": "If a shirt costs $400 after a 20% discount, what was its original price?",
             "options": {
-              "1": "$500",
-              "2": "$480",
-              "3": "$400",
-              "4": "$450"
+              "A": "$500",
+              "B": "$480",
+              "C": "$400",
+              "D": "$450"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "A person invested $1000 at a rate of 5% per annum for 3 years. What will be the simple interest?",
+            "question": "A person invested $1000 at a rate of 5% per annum for 3 years. What will be the simple interest?",
             "options": {
-              "1": "$150",
-              "2": "$100",
-              "3": "$200",
-              "4": "$50"
+              "A": "$150",
+              "B": "$100",
+              "C": "$200",
+              "D": "$50"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 5% of a number is 20, what is the number?",
+            "question": "If 5% of a number is 20, what is the number?",
             "options": {
-              "1": "400",
-              "2": "300",
-              "3": "250",
-              "4": "450"
+              "A": "400",
+              "B": "300",
+              "C": "250",
+              "D": "450"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What will be 15% of 200?",
+            "question": "What will be 15% of 200?",
             "options": {
-              "1": "30",
-              "2": "25",
-              "3": "20",
-              "4": "35"
+              "A": "30",
+              "B": "25",
+              "C": "20",
+              "D": "35"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=7I7Z_ddhUhE",
+        "video_url": "https://www.youtube.com/watch?v=7I7Z_ddhUhE",
         "duration": "1:53:55"
       },
       {
-        "chapter_number": 10,
-        "title": "Comparing Quantities (Part 2)",
+        "chapter_no": 10,
+        "chapter_name": "Comparing Quantities (Part 2)",
         "questions": [
           {
-            "quiz_question": "A car's price is reduced by 25% and the new price is $30000. What was the original price?",
+            "question": "A car's price is reduced by 25% and the new price is $30000. What was the original price?",
             "options": {
-              "1": "$40000",
-              "2": "$35000",
-              "3": "$45000",
-              "4": "$37500"
+              "A": "$40000",
+              "B": "$35000",
+              "C": "$45000",
+              "D": "$37500"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a student scored 80% in a test with a maximum of 200 points, what was their score?",
+            "question": "If a student scored 80% in a test with a maximum of 200 points, what was their score?",
             "options": {
-              "1": "160",
-              "2": "180",
-              "3": "200",
-              "4": "150"
+              "A": "160",
+              "B": "180",
+              "C": "200",
+              "D": "150"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "In a class of 30 students, 12 are girls. What percentage of the class are boys?",
+            "question": "In a class of 30 students, 12 are girls. What percentage of the class are boys?",
             "options": {
-              "1": "60%",
-              "2": "70%",
-              "3": "50%",
-              "4": "40%"
+              "A": "60%",
+              "B": "70%",
+              "C": "50%",
+              "D": "40%"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a television is sold for $200 after a 10% discount, what was the original price?",
+            "question": "If a television is sold for $200 after a 10% discount, what was the original price?",
             "options": {
-              "1": "$220",
-              "2": "$230",
-              "3": "$240",
-              "4": "$250"
+              "A": "$220",
+              "B": "$230",
+              "C": "$240",
+              "D": "$250"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 25% of a number is 80, what is the number?",
+            "question": "If 25% of a number is 80, what is the number?",
             "options": {
-              "1": "320",
-              "2": "400",
-              "3": "300",
-              "4": "250"
+              "A": "320",
+              "B": "400",
+              "C": "300",
+              "D": "250"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=F2Gd_idGHOs",
+        "video_url": "https://www.youtube.com/watch?v=F2Gd_idGHOs",
         "duration": "1:42:16"
       },
       {
-        "chapter_number": 11,
-        "title": "Direct and Inverse Proportions",
+        "chapter_no": 11,
+        "chapter_name": "Direct and Inverse Proportions",
         "questions": [
           {
-            "quiz_question": "If 5 workers can complete a task in 10 days, how long will it take 10 workers?",
+            "question": "If 5 workers can complete a task in 10 days, how long will it take 10 workers?",
             "options": {
-              "1": "10 days",
-              "2": "5 days",
-              "3": "15 days",
-              "4": "20 days"
+              "A": "10 days",
+              "B": "5 days",
+              "C": "15 days",
+              "D": "20 days"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If x is directly proportional to y, and x = 8 when y = 4, what is the value of y when x = 12?",
+            "question": "If x is directly proportional to y, and x = 8 when y = 4, what is the value of y when x = 12?",
             "options": {
-              "1": "3",
-              "2": "6",
-              "3": "8",
-              "4": "12"
+              "A": "C",
+              "B": "6",
+              "C": "8",
+              "D": "12"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If the speed of a car is doubled, what will happen to the time taken?",
+            "question": "If the speed of a car is doubled, what will happen to the time taken?",
             "options": {
-              "1": "It will remain the same",
-              "2": "It will double",
-              "3": "It will halve",
-              "4": "It will triple"
+              "A": "It will remain the same",
+              "B": "It will double",
+              "C": "It will halve",
+              "D": "It will triple"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If 30 liters of water is needed for 10 plants, how many liters are needed for 15 plants?",
+            "question": "If 30 liters of water is needed for 10 plants, how many liters are needed for 15 plants?",
             "options": {
-              "1": "40 liters",
-              "2": "60 liters",
-              "3": "45 liters",
-              "4": "35 liters"
+              "A": "40 liters",
+              "B": "60 liters",
+              "C": "45 liters",
+              "D": "35 liters"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If the number of workers doubles, how will the time taken to complete a task change?",
+            "question": "If the number of workers doubles, how will the time taken to complete a task change?",
             "options": {
-              "1": "It will halve",
-              "2": "It will double",
-              "3": "It will remain the same",
-              "4": "It will increase by half"
+              "A": "It will halve",
+              "B": "It will double",
+              "C": "It will remain the same",
+              "D": "It will increase by half"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=oCx6f3wNP1w",
+        "video_url": "https://www.youtube.com/watch?v=oCx6f3wNP1w",
         "duration": "1:22:48"
       },
       {
-        "chapter_number": 12,
-        "title": "Introduction to Graphs",
+        "chapter_no": 12,
+        "chapter_name": "Introduction to Graphs",
         "questions": [
           {
-            "quiz_question": "What does the slope of a line represent in a graph?",
+            "question": "What does the slope of a line represent in a graph?",
             "options": {
-              "1": "Direction of the graph",
-              "2": "Rate of change",
-              "3": "Total area",
-              "4": "Maximum height"
+              "A": "Direction of the graph",
+              "B": "Rate of change",
+              "C": "Total area",
+              "D": "Maximum height"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "In a graph, if x increases and y decreases, what type of relationship exists?",
+            "question": "In a graph, if x increases and y decreases, what type of relationship exists?",
             "options": {
-              "1": "Direct proportion",
-              "2": "Inverse proportion",
-              "3": "Linear relationship",
-              "4": "No relationship"
+              "A": "Direct proportion",
+              "B": "Inverse proportion",
+              "C": "Linear relationship",
+              "D": "No relationship"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Identify the equation represented by a line with slope 3 and y-intercept 2.",
+            "question": "Identify the equation represented by a line with slope 3 and y-intercept 2.",
             "options": {
-              "1": "y = 3x + 2",
-              "2": "y = 2x + 3",
-              "3": "y = 2 + 3x",
-              "4": "y = 3 + 2x"
+              "A": "y = 3x + 2",
+              "B": "y = 2x + 3",
+              "C": "y = 2 + 3x",
+              "D": "y = 3 + 2x"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the coordinate of the y-intercept in the equation y = -2x + 5?",
+            "question": "What is the coordinate of the y-intercept in the equation y = -2x + 5?",
             "options": {
-              "1": "(0, 5)",
-              "2": "(5, 0)",
-              "3": "(2, 0)",
-              "4": "(0, -2)"
+              "A": "(0, 5)",
+              "B": "(5, 0)",
+              "C": "(2, 0)",
+              "D": "(0, -2)"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If the graph of y = x² opens upwards, what shape does it represent?",
+            "question": "If the graph of y = x² opens upwards, what shape does it represent?",
             "options": {
-              "1": "Parabola",
-              "2": "Hyperbola",
-              "3": "Line",
-              "4": "Circle"
+              "A": "Parabola",
+              "B": "Hyperbola",
+              "C": "Line",
+              "D": "Circle"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=vSDZAMsIaZI",
+        "video_url": "https://www.youtube.com/watch?v=vSDZAMsIaZI",
         "duration": "1:43:55"
       },
       {
-        "chapter_number": 13,
-        "title": "Playing with Numbers",
+        "chapter_no": 13,
+        "chapter_name": "Playing with Numbers",
         "questions": [
           {
-            "quiz_question": "What is the LCM of 12 and 15?",
+            "question": "What is the LCM of 12 and 15?",
             "options": {
-              "1": "30",
-              "2": "60",
-              "3": "45",
-              "4": "75"
+              "A": "30",
+              "B": "60",
+              "C": "45",
+              "D": "75"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Calculate the GCD of 16 and 24.",
+            "question": "Calculate the GCD of 16 and 24.",
             "options": {
-              "1": "4",
-              "2": "8",
-              "3": "12",
-              "4": "2"
+              "A": "D",
+              "B": "8",
+              "C": "12",
+              "D": "B"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If the sum of two numbers is 50 and their difference is 10, what are the numbers?",
+            "question": "If the sum of two numbers is 50 and their difference is 10, what are the numbers?",
             "options": {
-              "1": "20 and 30",
-              "2": "25 and 25",
-              "3": "30 and 20",
-              "4": "40 and 10"
+              "A": "20 and 30",
+              "B": "25 and 25",
+              "C": "30 and 20",
+              "D": "40 and 10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the LCM of 8, 12, and 16?",
+            "question": "What is the LCM of 8, 12, and 16?",
             "options": {
-              "1": "48",
-              "2": "144",
-              "3": "96",
-              "4": "60"
+              "A": "48",
+              "B": "144",
+              "C": "96",
+              "D": "60"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the result of 7 factorial (7!)?",
+            "question": "What is the result of 7 factorial (7!)?",
             "options": {
-              "1": "5040",
-              "2": "720",
-              "3": "4000",
-              "4": "600"
+              "A": "5040",
+              "B": "720",
+              "C": "4000",
+              "D": "600"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=3Zs15H-UoIY",
+        "video_url": "https://www.youtube.com/watch?v=3Zs15H-UoIY",
         "duration": "1:16:10"
       },
       {
-        "chapter_number": 14,
-        "title": "Visualising Solid Shapes",
+        "chapter_no": 14,
+        "chapter_name": "Visualising Solid Shapes",
         "questions": [
           {
-            "quiz_question": "What is the volume of a cylinder with radius 3 cm and height 5 cm (Use π = 3.14)?",
+            "question": "What is the volume of a cylinder with radius 3 cm and height 5 cm (Use π = 3.14)?",
             "options": {
-              "1": "141.3 cm³",
-              "2": "45.8 cm³",
-              "3": "28.26 cm³",
-              "4": "94.2 cm³"
+              "A": "141.3 cm³",
+              "B": "45.8 cm³",
+              "C": "28.26 cm³",
+              "D": "94.2 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Calculate the surface area of a cube with a side of 4 cm.",
+            "question": "Calculate the surface area of a cube with a side of 4 cm.",
             "options": {
-              "1": "96 cm²",
-              "2": "64 cm²",
-              "3": "48 cm²",
-              "4": "32 cm²"
+              "A": "96 cm²",
+              "B": "64 cm²",
+              "C": "48 cm²",
+              "D": "32 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "A cone has a base radius of 3 cm and a height of 4 cm. What is its volume? (Use π = 3.14)",
+            "question": "A cone has a base radius of 3 cm and a height of 4 cm. What is its volume? (Use π = 3.14)",
             "options": {
-              "1": "37.68 cm³",
-              "2": "28.26 cm³",
-              "3": "31.4 cm³",
-              "4": "50.24 cm³"
+              "A": "37.68 cm³",
+              "B": "28.26 cm³",
+              "C": "31.4 cm³",
+              "D": "50.24 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the total surface area of a cylinder with radius 3 cm and height 5 cm? (Use π = 3.14)",
+            "question": "What is the total surface area of a cylinder with radius 3 cm and height 5 cm? (Use π = 3.14)",
             "options": {
-              "1": "150.72 cm²",
-              "2": "96 cm²",
-              "3": "100 cm²",
-              "4": "125 cm²"
+              "A": "150.72 cm²",
+              "B": "96 cm²",
+              "C": "100 cm²",
+              "D": "125 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "A cube has sides of length 6 cm. What is its volume?",
+            "question": "A cube has sides of length 6 cm. What is its volume?",
             "options": {
-              "1": "216 cm³",
-              "2": "144 cm³",
-              "3": "180 cm³",
-              "4": "108 cm³"
+              "A": "216 cm³",
+              "B": "144 cm³",
+              "C": "180 cm³",
+              "D": "108 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=PxUHLlnBuCA",
+        "video_url": "https://www.youtube.com/watch?v=PxUHLlnBuCA",
         "duration": "1:16:26"
       },
       {
-        "chapter_number": 15,
-        "title": "Data Handling",
+        "chapter_no": 15,
+        "chapter_name": "Data Handling",
         "questions": [
           {
-            "quiz_question": "How do you find the mean of the numbers: 4, 8, 6, 5, 3?",
+            "question": "How do you find the mean of the numbers: 4, 8, 6, 5, 3?",
             "options": {
-              "1": "5.5",
-              "2": "4",
-              "3": "6",
-              "4": "5"
+              "A": "5.5",
+              "B": "D",
+              "C": "6",
+              "D": "5"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "In a frequency distribution of students' marks, if 10 students scored between 60-70, and 15 scored between 70-80, what is the total number of students?",
+            "question": "In a frequency distribution of students' marks, if 10 students scored between 60-70, and 15 scored between 70-80, what is the total number of students?",
             "options": {
-              "1": "25",
-              "2": "30",
-              "3": "20",
-              "4": "15"
+              "A": "25",
+              "B": "30",
+              "C": "20",
+              "D": "15"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Identify the mode in the dataset: 2, 3, 3, 5, 7, 8.",
+            "question": "Identify the mode in the dataset: 2, 3, 3, 5, 7, 8.",
             "options": {
-              "1": "3",
-              "2": "2",
-              "3": "5",
-              "4": "7"
+              "A": "C",
+              "B": "B",
+              "C": "5",
+              "D": "7"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the median of the numbers: 1, 2, 3, 4, 5, 6?",
+            "question": "What is the median of the numbers: 1, 2, 3, 4, 5, 6?",
             "options": {
-              "1": "3.5",
-              "2": "4",
-              "3": "3",
-              "4": "2"
+              "A": "3.5",
+              "B": "D",
+              "C": "C",
+              "D": "B"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If the data set is: 10, 12, 10, 14, 16, what is the range?",
+            "question": "If the data set is: 10, 12, 10, 14, 16, what is the range?",
             "options": {
-              "1": "6",
-              "2": "5",
-              "3": "4",
-              "4": "8"
+              "A": "6",
+              "B": "5",
+              "C": "D",
+              "D": "8"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=01nxKH9PNIs",
+        "video_url": "https://www.youtube.com/watch?v=01nxKH9PNIs",
         "duration": "1:41:19"
       },
       {
-        "chapter_number": 16,
-        "title": "Squares and Square Roots",
+        "chapter_no": 16,
+        "chapter_name": "Squares and Square Roots",
         "questions": [
           {
-            "quiz_question": "Calculate the square of 15.",
+            "question": "Calculate the square of 15.",
             "options": {
-              "1": "225",
-              "2": "150",
-              "3": "125",
-              "4": "175"
+              "A": "225",
+              "B": "150",
+              "C": "125",
+              "D": "175"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the square root of 144?",
+            "question": "What is the square root of 144?",
             "options": {
-              "1": "10",
-              "2": "12",
-              "3": "14",
-              "4": "15"
+              "A": "10",
+              "B": "12",
+              "C": "14",
+              "D": "15"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Find the number x if x² = 256.",
+            "question": "Find the number x if x² = 256.",
             "options": {
-              "1": "14",
-              "2": "16",
-              "3": "15",
-              "4": "18"
+              "A": "14",
+              "B": "16",
+              "C": "15",
+              "D": "18"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the square of 9?",
+            "question": "What is the square of 9?",
             "options": {
-              "1": "81",
-              "2": "72",
-              "3": "100",
-              "4": "90"
+              "A": "81",
+              "B": "72",
+              "C": "100",
+              "D": "90"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the square root of 225?",
+            "question": "What is the square root of 225?",
             "options": {
-              "1": "12",
-              "2": "15",
-              "3": "17",
-              "4": "20"
+              "A": "12",
+              "B": "15",
+              "C": "17",
+              "D": "20"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=HD3z0c9obrA",
+        "video_url": "https://www.youtube.com/watch?v=HD3z0c9obrA",
         "duration": "1:40:36"
       },
       {
-        "chapter_number": 17,
-        "title": "Cubes and Cube Roots",
+        "chapter_no": 17,
+        "chapter_name": "Cubes and Cube Roots",
         "questions": [
           {
-            "quiz_question": "Calculate the cube of 4.",
+            "question": "Calculate the cube of 4.",
             "options": {
-              "1": "64",
-              "2": "16",
-              "3": "48",
-              "4": "36"
+              "A": "64",
+              "B": "16",
+              "C": "48",
+              "D": "36"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the cube root of 729?",
+            "question": "What is the cube root of 729?",
             "options": {
-              "1": "9",
-              "2": "7",
-              "3": "6",
-              "4": "8"
+              "A": "9",
+              "B": "7",
+              "C": "6",
+              "D": "8"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Find the number x if x³ = 125.",
+            "question": "Find the number x if x³ = 125.",
             "options": {
-              "1": "5",
-              "2": "8",
-              "3": "10",
-              "4": "15"
+              "A": "5",
+              "B": "8",
+              "C": "10",
+              "D": "15"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Calculate the volume of a cube with a side of 3 cm.",
+            "question": "Calculate the volume of a cube with a side of 3 cm.",
             "options": {
-              "1": "27 cm³",
-              "2": "9 cm³",
-              "3": "12 cm³",
-              "4": "18 cm³"
+              "A": "27 cm³",
+              "B": "9 cm³",
+              "C": "12 cm³",
+              "D": "18 cm³"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the cube root of 64?",
+            "question": "What is the cube root of 64?",
             "options": {
-              "1": "2",
-              "2": "3",
-              "3": "4",
-              "4": "5"
+              "A": "B",
+              "B": "C",
+              "C": "D",
+              "D": "5"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=3nZvOWZhPjQ&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=17",
+        "video_url": "https://www.youtube.com/watch?v=3nZvOWZhPjQ&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=17",
         "duration": "1:09:21"
       },
       {
-        "chapter_number": 18,
-        "title": "Practical Geometry",
+        "chapter_no": 18,
+        "chapter_name": "Practical Geometry",
         "questions": [
           {
-            "quiz_question": "Construct a triangle with sides 5 cm, 6 cm, and 7 cm. What is the semi-perimeter of the triangle?",
+            "question": "Construct a triangle with sides 5 cm, 6 cm, and 7 cm. What is the semi-perimeter of the triangle?",
             "options": {
-              "1": "9 cm",
-              "2": "10 cm",
-              "3": "8 cm",
-              "4": "7 cm"
+              "A": "9 cm",
+              "B": "10 cm",
+              "C": "8 cm",
+              "D": "7 cm"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If you draw a circle with a radius of 3 cm, what is its diameter?",
+            "question": "If you draw a circle with a radius of 3 cm, what is its diameter?",
             "options": {
-              "1": "3 cm",
-              "2": "6 cm",
-              "3": "9 cm",
-              "4": "12 cm"
+              "A": "3 cm",
+              "B": "6 cm",
+              "C": "9 cm",
+              "D": "12 cm"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "In practical geometry, when two lines intersect at a right angle, what is the measurement of each angle formed?",
+            "question": "In practical geometry, when two lines intersect at a right angle, what is the measurement of each angle formed?",
             "options": {
-              "1": "90°",
-              "2": "45°",
-              "3": "60°",
-              "4": "30°"
+              "A": "90°",
+              "B": "45°",
+              "C": "60°",
+              "D": "30°"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the perimeter of a regular hexagon with side length 4 cm?",
+            "question": "What is the perimeter of a regular hexagon with side length 4 cm?",
             "options": {
-              "1": "24 cm",
-              "2": "20 cm",
-              "3": "16 cm",
-              "4": "22 cm"
+              "A": "24 cm",
+              "B": "20 cm",
+              "C": "16 cm",
+              "D": "22 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "How many degrees are in a full turn?",
+            "question": "How many degrees are in a full turn?",
             "options": {
-              "1": "180°",
-              "2": "360°",
-              "3": "90°",
-              "4": "270°"
+              "A": "180°",
+              "B": "360°",
+              "C": "90°",
+              "D": "270°"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ],
-        "youtube_link": "https://www.youtube.com/watch?v=z3gDmpLA1tY&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=18",
+        "video_url": "https://www.youtube.com/watch?v=z3gDmpLA1tY&list=PLBfq7owB1mSLs1vsuhkjxc3IWDixBhsLb&index=18",
         "duration": "1:06:11"
       }
     ]

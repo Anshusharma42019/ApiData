@@ -1,117 +1,1052 @@
 {
-    "class": 8,
-    "subject": "Science",
-    "book": "NCERT Science",
-    "channel": "StudyIQ IAS",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "title": "Crop Production & Management",
-        "video_title": "NCERT Science Class 8 Chapter 1 Crop Production & Management",
-        "video_url": "https://www.youtube.com/watch?v=9al_CSSaC6E"
-      },
-      {
-        "chapter_number": 2,
-        "title": "Microorganisms: Friends & Foe",
-        "video_title": "NCERT Science Class 8 Chapter 2 Microorganisms Friends & Foe",
-        "video_url": "https://www.youtube.com/watch?v=ZZAtqBQACb0"
-      },
-      {
-        "chapter_number": 3,
-        "title": "Synthetic Fibres & Plastics",
-        "video_title": "NCERT Science Class 8 Chapter 3 Synthetic Fibres & Plastics",
-        "video_url": "https://www.youtube.com/watch?v=9cbynpn4ZJg"
-      },
-      {
-        "chapter_number": 4,
-        "title": "Materials: Metals & Non-Metals",
-        "video_title": "NCERT Science Class 8 Chapter 4 Materials Metals & Non - Metals",
-        "video_url": "https://www.youtube.com/watch?v=K7t2c7sQtn0"
-      },
-      {
-        "chapter_number": 5,
-        "title": "Coal and Petroleum",
-        "video_title": "NCERT Science Class 8 Chapter 5 Coal and Petroleum",
-        "video_url": "https://www.youtube.com/watch?v=pmF43u5Vekg"
-      },
-      {
-        "chapter_number": 6,
-        "title": "Combustion and Flame",
-        "video_title": "NCERT Science Class 8 Chapter 6 Combustion And Flame",
-        "video_url": "https://www.youtube.com/watch?v=H-zZAdPA0Hg"
-      },
-      {
-        "chapter_number": 7,
-        "title": "Conservation of Plants & Animals",
-        "video_title": "NCERT Science Class 8 Chapter 7 Conservation of Plants & Animals",
-        "video_url": "https://www.youtube.com/watch?v=xR4ENPDeU-U"
-      },
-      {
-        "chapter_number": 8,
-        "title": "Cell Structure & Functions",
-        "video_title": "NCERT Science Class 8 Chapter 8 Cell Structure & Functions",
-        "video_url": "https://www.youtube.com/watch?v=bZ5FVwr5mcM"
-      },
-      {
-        "chapter_number": 9,
-        "title": "Reproduction in Animals",
-        "video_title": "NCERT Science Class 8 Chapter 9 Reproduction in Animals",
-        "video_url": "https://www.youtube.com/watch?v=zw9vhyLy7h8"
-      },
-      {
-        "chapter_number": 10,
-        "title": "Reaching the Age of Adolescence",
-        "video_title": "NCERT Science Class 8 Chapter 10 Reaching The Age of Adolescence",
-        "video_url": "https://www.youtube.com/watch?v=99OE7PvZ1V0"
-      },
-      {
-        "chapter_number": 11,
-        "title": "Force and Pressure",
-        "video_title": "NCERT Science Class 8 Chapter 11 Force and Pressure",
-        "video_url": "https://www.youtube.com/watch?v=OPsy-G5Ey3k"
-      },
-      {
-        "chapter_number": 12,
-        "title": "Friction",
-        "video_title": "NCERT Science Class 8 Chapter 12 Friction",
-        "video_url": "https://www.youtube.com/watch?v=WQvL3W7sHss"
-      },
-      {
-        "chapter_number": 13,
-        "title": "Sound",
-        "video_title": "NCERT Science Class 8 Chapter 13 Sound",
-        "video_url": "https://www.youtube.com/watch?v=g0CKoDY4ERU"
-      },
-      {
-        "chapter_number": 14,
-        "title": "Chemical Effect of Electricity",
-        "video_title": "NCERT Science Class 8 Chapter 14 Chemical Effect of Electricity",
-        "video_url": "https://www.youtube.com/watch?v=glA5mU49kys"
-      },
-      {
-        "chapter_number": 15,
-        "title": "Some Natural Phenomena",
-        "video_title": "NCERT Science Class 8 Chapter 15 Some Natural Phenomena",
-        "video_url": "https://www.youtube.com/watch?v=bEJyrn-iQTo"
-      },
-      {
-        "chapter_number": 16,
-        "title": "Light",
-        "video_title": "NCERT Science Class 8 Chapter 16 Light",
-        "video_url": "https://www.youtube.com/watch?v=tYXxAqZq_GQ"
-      },
-      {
-        "chapter_number": 17,
-        "title": "Stars and The Solar System",
-        "video_title": "NCERT Science Class 8 Chapter 17 Stars and The Solar System",
-        "video_url": "https://www.youtube.com/watch?v=Ry15h_4GdQk"
-      },
-      {
-        "chapter_number": 18,
-        "title": "Pollution of Air and Water",
-        "video_title": "NCERT Science Class 8 Chapter 18 Pollution of Air and Water",
-        "video_url": "https://www.youtube.com/watch?v=9JxjDYhxD50"
-      }
-    ]
-  }
-  
+  "class": "Class 8",
+  "subject": "Science",
+  "book": "NCERT Science",
+  "channel": "StudyIQ IAS",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Crop Production & Management",
+      "video_title": "NCERT Science Class 8 Chapter 1 Crop Production & Management",
+      "video_url": "https://www.youtube.com/watch?v=JunCdmRdH9w&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=52",
+      "questions": [
+        {
+          "question": "What is the primary purpose of crop production?",
+          "options": {
+            "A": "To grow flowers",
+            "B": "To produce food",
+            "C": "To create fuel",
+            "D": "To enhance biodiversity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a primary type of agricultural practice?",
+          "options": {
+            "A": "Horticulture",
+            "B": "Aquaculture",
+            "C": "Crop rotation",
+            "D": "Animal husbandry"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which method is used for irrigation in agriculture?",
+          "options": {
+            "A": "Drip irrigation",
+            "B": "Flooding",
+            "C": "Drenching",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do fertilizers provide to crops?",
+          "options": {
+            "A": "Pests",
+            "B": "Weeds",
+            "C": "Nutrients",
+            "D": "Water"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is one major challenge in crop management?",
+          "options": {
+            "A": "Too much sunlight",
+            "B": "Soil fertility",
+            "C": "Inefficient markets",
+            "D": "Excessive rainfall"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Microorganisms: Friends & Foe",
+      "video_title": "NCERT Science Class 8 Chapter 2 Microorganisms Friends & Foe",
+      "video_url": "https://www.youtube.com/watch?v=_eGXSbumYVE&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=51&t=26s",
+      "questions": [
+        {
+          "question": "What are microorganisms?",
+          "options": {
+            "A": "Large animals",
+            "B": "Tiny living organisms",
+            "C": "Plants",
+            "D": "Rocks"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following microorganisms is beneficial for digestion?",
+          "options": {
+            "A": "Bacteria",
+            "B": "Virus",
+            "C": "Fungi",
+            "D": "Algae"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What disease is caused by a virus?",
+          "options": {
+            "A": "Tuberculosis",
+            "B": "Hepatitis",
+            "C": "Fungal infections",
+            "D": "Malaria"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How can harmful microorganisms be controlled?",
+          "options": {
+            "A": "By vaccination",
+            "B": "By using fertilizers",
+            "C": "By planting more crops",
+            "D": "By using more water"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What role do microorganisms play in the nitrogen cycle?",
+          "options": {
+            "A": "They deplete nitrogen.",
+            "B": "They convert nitrogen in the air into a usable form.",
+            "C": "They have no role.",
+            "D": "They only harm plants."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Synthetic Fibres & Plastics",
+      "video_title": "NCERT Science Class 8 Chapter 3 Synthetic Fibres & Plastics",
+      "video_url": "https://www.youtube.com/watch?v=Uji-UAOcuDg&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=50",
+      "questions": [
+        {
+          "question": "What are synthetic fibers made from?",
+          "options": {
+            "A": "Natural resources",
+            "B": "Animal products",
+            "C": "Chemical processes",
+            "D": "Water and soil"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a common synthetic fiber?",
+          "options": {
+            "A": "Cotton",
+            "B": "Silk",
+            "C": "Nylon",
+            "D": "Wool"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is one major environmental concern with plastic use?",
+          "options": {
+            "A": "Renewable energy",
+            "B": "Biodegradability",
+            "C": "Natural resources",
+            "D": "High durability"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How are synthetic fibers beneficial in clothing?",
+          "options": {
+            "A": "They are always natural.",
+            "B": "They can be dyed easily.",
+            "C": "They are generally stronger and longer-lasting.",
+            "D": "They require less washing."
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the main use of synthetic plastics?",
+          "options": {
+            "A": "Only packaging",
+            "B": "To create furniture",
+            "C": "For a variety of applications including packaging, containers, and electronics",
+            "D": "For textiles"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Materials: Metals & Non-Metals",
+      "video_title": "NCERT Science Class 8 Chapter 4 Materials Metals & Non - Metals",
+      "video_url": "https://www.youtube.com/watch?v=HwSy40Oz-Jg&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=49",
+      "questions": [
+        {
+          "question": "What is a characteristic of metals?",
+          "options": {
+            "A": "They are good conductors of heat.",
+            "B": "They are always brittle.",
+            "C": "They can be dissolved in water.",
+            "D": "They are poor conductors of electricity."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a non-metal?",
+          "options": {
+            "A": "Iron",
+            "B": "Aluminum",
+            "C": "Gold",
+            "D": "Sulfur"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What happens to metals when they react with oxygen?",
+          "options": {
+            "A": "They become less dense.",
+            "B": "They produce oxides.",
+            "C": "They do not react.",
+            "D": "They explode."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which property is associated with non-metals?",
+          "options": {
+            "A": "Sonorous",
+            "B": "Malleable",
+            "C": "Dull appearance",
+            "D": "Conductive"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is one major difference between metals and non-metals?",
+          "options": {
+            "A": "Metals are heavier.",
+            "B": "Metals conduct electricity, non-metals do not.",
+            "C": "Metals are found underground, non-metals are not.",
+            "D": "Metals can fly, non-metals cannot."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Coal and Petroleum",
+      "video_title": "NCERT Science Class 8 Chapter 5 Coal and Petroleum",
+      "video_url": "https://www.youtube.com/watch?v=XhH_GV6O-ZA&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=48",
+      "questions": [
+        {
+          "question": "What is coal primarily used for?",
+          "options": {
+            "A": "To make toys",
+            "B": "As a source of energy",
+            "C": "To create plastics",
+            "D": "For heating water"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which process is involved in the formation of coal?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Evaporation",
+            "C": "Carbonization",
+            "D": "Distillation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is petroleum refined into?",
+          "options": {
+            "A": "Natural gas",
+            "B": "Plastic",
+            "C": "Gasoline and other fuels",
+            "D": "Carbon"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What are the two main products derived from fossil fuels?",
+          "options": {
+            "A": "Electricity and water",
+            "B": "Coal and petroleum",
+            "C": "Gas and wind",
+            "D": "Paper and plastics"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What environmental issue is associated with coal and petroleum use?",
+          "options": {
+            "A": "Deforestation",
+            "B": "Water pollution",
+            "C": "Air pollution",
+            "D": "Noise pollution"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Combustion and Flame",
+      "video_title": "NCERT Science Class 8 Chapter 6 Combustion And Flame",
+      "video_url": "https://www.youtube.com/watch?v=jfZVvafEA0I&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=47",
+      "questions": [
+        {
+          "question": "What is combustion?",
+          "options": {
+            "A": "Burning of a substance",
+            "B": "Cooling down of a substance",
+            "C": "Melting of a solid",
+            "D": "Dissolving a solid in a liquid"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you need for combustion to occur?",
+          "options": {
+            "A": "Only oxygen",
+            "B": "Heat, oxygen, and fuel",
+            "C": "Water and fuel",
+            "D": "Only heat"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which type of flame is indicative of complete combustion?",
+          "options": {
+            "A": "Yellow flame",
+            "B": "Blue flame",
+            "C": "Red flame",
+            "D": "Green flame"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the byproduct of combustion that is harmful to health?",
+          "options": {
+            "A": "Water vapor",
+            "B": "Carbon monoxide",
+            "C": "Oxygen",
+            "D": "Hydrogen"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main characteristic of an oxidizing agent?",
+          "options": {
+            "A": "It is a source of fuel.",
+            "B": "It facilitates combustion.",
+            "C": "It prevents burning.",
+            "D": "It cools down substances."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Conservation of Plants & Animals",
+      "video_title": "NCERT Science Class 8 Chapter 7 Conservation of Plants & Animals",
+      "video_url": "https://www.youtube.com/watch?v=j2KOZFUQxtk&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=46",
+      "questions": [
+        {
+          "question": "What is conservation?",
+          "options": {
+            "A": "Destruction of resources",
+            "B": "Preservation of resources",
+            "C": "Excessive farming",
+            "D": "Neglecting habitats"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a method of conserving biodiversity?",
+          "options": {
+            "A": "Deforestation",
+            "B": "Creating protected areas",
+            "C": "Urbanization",
+            "D": "Pollution"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is it important to conserve plants and animals?",
+          "options": {
+            "A": "To increase agricultural production",
+            "B": "To maintain ecological balance",
+            "C": "To reduce population growth",
+            "D": "To exploit resources"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do we call the practice of growing a variety of plants together?",
+          "options": {
+            "A": "Monoculture",
+            "B": "Polyculture",
+            "C": "Deforestation",
+            "D": "Agriculture"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is one effective way to conserve water in agriculture?",
+          "options": {
+            "A": "Flood irrigation",
+            "B": "Soil erosion",
+            "C": "Drip irrigation",
+            "D": "Overwatering"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Cell Structure & Functions",
+      "video_title": "NCERT Science Class 8 Chapter 8 Cell Structure & Functions",
+      "video_url": "https://www.youtube.com/watch?v=9T5zIXpR5Sk&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=45",
+      "questions": [
+        {
+          "question": "What is the basic unit of life?",
+          "options": {
+            "A": "Tissue",
+            "B": "Organ",
+            "C": "Cell",
+            "D": "Muscle"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What part of the cell contains the genetic material?",
+          "options": {
+            "A": "Cytoplasm",
+            "B": "Cell membrane",
+            "C": "Nucleus",
+            "D": "Ribosome"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the function of mitochondria?",
+          "options": {
+            "A": "Protein synthesis",
+            "B": "Energy production",
+            "C": "Cell division",
+            "D": "Waste removal"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What differentiates plant cells from animal cells?",
+          "options": {
+            "A": "Shape",
+            "B": "Presence of cell wall and chloroplasts",
+            "C": "Size",
+            "D": "Function"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the semi-permeable barrier that surrounds the cell?",
+          "options": {
+            "A": "Cell wall",
+            "B": "Cytoplasm",
+            "C": "Cell membrane",
+            "D": "Nucleus"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Reproduction in Animals",
+      "video_title": "NCERT Science Class 8 Chapter 9 Reproduction in Animals",
+      "video_url": "https://www.youtube.com/watch?v=v6B7DoCnV1o&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=44",
+      "questions": [
+        {
+          "question": "What is the primary purpose of reproduction?",
+          "options": {
+            "A": "To find food",
+            "B": "To produce offspring",
+            "C": "To enjoy life",
+            "D": "To build homes"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What are the two main types of reproduction in animals?",
+          "options": {
+            "A": "Asexual and sexual",
+            "B": "Cellular and sexual",
+            "C": "Human and animal",
+            "D": "Natural and synthetic"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is an example of asexual reproduction?",
+          "options": {
+            "A": "Budding in hydra",
+            "B": "Mating in animals",
+            "C": "Seed dispersal",
+            "D": "Cross-pollination"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of reproduction involves the fusion of gametes?",
+          "options": {
+            "A": "Asexual reproduction",
+            "B": "Sexual reproduction",
+            "C": "Cloning",
+            "D": "Fragmentation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is genetic diversity important?",
+          "options": {
+            "A": "It leads to extinction.",
+            "B": "It helps adapt to environmental changes.",
+            "C": "It decreases chances of survival.",
+            "D": "It is not important."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Reaching the Age of Adolescence",
+      "video_title": "NCERT Science Class 8 Chapter 10 Reaching The Age of Adolescence",
+      "video_url": "https://www.youtube.com/watch?v=xnYD0pknFT8&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=43",
+      "questions": [
+        {
+          "question": "What is adolescence?",
+          "options": {
+            "A": "Childhood stage",
+            "B": "Teenage years",
+            "C": "Old age",
+            "D": "Middle age"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What changes occur during puberty?",
+          "options": {
+            "A": "Physical and mental changes",
+            "B": "Financial changes",
+            "C": "No changes",
+            "D": "Only social changes"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which hormone is commonly associated with growth during adolescence?",
+          "options": {
+            "A": "Insulin",
+            "B": "Estrogen",
+            "C": "Testosterone",
+            "D": "Both B and C"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is a common psychological change in adolescents?",
+          "options": {
+            "A": "Increased understanding",
+            "B": "More independence",
+            "C": "More reliance on parents",
+            "D": "Lack of emotions"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is education important during adolescence?",
+          "options": {
+            "A": "It is not important.",
+            "B": "It helps in personal development and career preparation.",
+            "C": "It only builds friendships.",
+            "D": "It is a waste of time."
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Force and Pressure",
+      "video_title": "NCERT Science Class 8 Chapter 11 Force and Pressure",
+      "video_url": "https://www.youtube.com/watch?v=Dllt696H-9s&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=42",
+      "questions": [
+        {
+          "question": "What is force?",
+          "options": {
+            "A": "A push or pull",
+            "B": "A type of pressure",
+            "C": "An energy source",
+            "D": "A way to move objects"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is pressure?",
+          "options": {
+            "A": "Force applied over an area",
+            "B": "A unit of force",
+            "C": "The weight of objects",
+            "D": "Liquid density"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which instrument is used to measure force?",
+          "options": {
+            "A": "Thermometer",
+            "B": "Manometer",
+            "C": "Dynamometer",
+            "D": "Barometer"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What happens to pressure as the surface area increases with constant force?",
+          "options": {
+            "A": "Pressure increases",
+            "B": "Pressure decreases",
+            "C": "Pressure remains the same",
+            "D": "No relation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is an example of pressure in everyday life?",
+          "options": {
+            "A": "Walking",
+            "B": "Cutting with a knife",
+            "C": "Spectacles resting on the nose",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Friction",
+      "video_title": "NCERT Science Class 8 Chapter 12 Friction",
+      "video_url": "https://www.youtube.com/watch?v=_bRbL7qqIxo&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=41",
+      "questions": [
+        {
+          "question": "What is friction?",
+          "options": {
+            "A": "The force that opposes motion",
+            "B": "The force enhancing motion",
+            "C": "A type of energy",
+            "D": "A type of pressure"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What factors affect friction?",
+          "options": {
+            "A": "Surface texture and force",
+            "B": "Only weight",
+            "C": "Only speed",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is one benefit of friction?",
+          "options": {
+            "A": "It causes wear and tear.",
+            "B": "It allows us to walk without slipping.",
+            "C": "It slows down vehicles.",
+            "D": "It creates heat."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of surface would produce the least friction?",
+          "options": {
+            "A": "Rough surface",
+            "B": "Smooth surface",
+            "C": "Sticky surface",
+            "D": "Sandpaper surface"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How can friction be reduced?",
+          "options": {
+            "A": "Using lubricants",
+            "B": "Increasing roughness",
+            "C": "Increasing weight",
+            "D": "All of the above"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Sound",
+      "video_title": "NCERT Science Class 8 Chapter 13 Sound",
+      "video_url": "https://www.youtube.com/watch?v=6fNGIB-egd0&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=40",
+      "questions": [
+        {
+          "question": "What is sound?",
+          "options": {
+            "A": "A type of light",
+            "B": "A form of energy that travels in waves",
+            "C": "A chemical reaction",
+            "D": "A magnetic force"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does sound travel in different media?",
+          "options": {
+            "A": "Faster in air",
+            "B": "Faster in solids",
+            "C": "Faster in liquids than air",
+            "D": "Sound cannot travel"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What factor affects the pitch of a sound?",
+          "options": {
+            "A": "Volume",
+            "B": "Frequency",
+            "C": "Distance",
+            "D": "Material of the source"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an echo?",
+          "options": {
+            "A": "Sound traveling through water",
+            "B": "Sound bouncing back after hitting a surface",
+            "C": "Sound traveling vertically",
+            "D": "A complete silence"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which musical instrument produces sound by vibrating strings?",
+          "options": {
+            "A": "Flute",
+            "B": "Trumpet",
+            "C": "Violin",
+            "D": "Drum"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Chemical Effect of Electricity",
+      "video_title": "NCERT Science Class 8 Chapter 14 Chemical Effect of Electricity",
+      "video_url": "https://www.youtube.com/watch?v=62y72GJWR9A&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=39",
+      "questions": [
+        {
+          "question": "What is the primary effect of electric current passing through a solution?",
+          "options": {
+            "A": "Heating",
+            "B": "Chemical reaction",
+            "C": "Magnetic field generation",
+            "D": "Sound production"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is electrolysis?",
+          "options": {
+            "A": "The process of using electricity to separate elements in compounds",
+            "B": "The generation of electricity through friction",
+            "C": "The chemical reaction of acids and bases",
+            "D": "The process of heating metal"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which substance is commonly used for electrolysis?",
+          "options": {
+            "A": "Water",
+            "B": "Oxygen",
+            "C": "Copper",
+            "D": "Salt solution"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What does a chemical effect experiment demonstrate?",
+          "options": {
+            "A": "Effects of magnetism",
+            "B": "Effects of heat",
+            "C": "Effects of electric current on chemical composition",
+            "D": "Effects of gravity"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What happens to the electrodes during electrolysis?",
+          "options": {
+            "A": "They remain unchanged",
+            "B": "They get burnt out",
+            "C": "They dissolve",
+            "D": "They expand"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "Some Natural Phenomena",
+      "video_title": "NCERT Science Class 8 Chapter 15 Some Natural Phenomena",
+      "video_url": "https://www.youtube.com/watch?v=eZvZJQgrQao&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=38",
+      "questions": [
+        {
+          "question": "What is a natural phenomenon?",
+          "options": {
+            "A": "An event caused by human intervention",
+            "B": "An observable event in nature",
+            "C": "A scientific theory",
+            "D": "An imaginary event"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a natural phenomenon?",
+          "options": {
+            "A": "Rainbows",
+            "B": "The invention of electricity",
+            "C": "Fossil fuels",
+            "D": "Plastic waste"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What happens in static electricity?",
+          "options": {
+            "A": "Electrons are at rest.",
+            "B": "Electrons are in motion.",
+            "C": "Sound is produced.",
+            "D": "Water is formed."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is lightning?",
+          "options": {
+            "A": "A sound",
+            "B": "A flicker of light caused by electrical discharge",
+            "C": "Rainfall",
+            "D": "A type of gas"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What safety measures should one take during a thunderstorm?",
+          "options": {
+            "A": "Stay indoors and avoid using electrical appliances",
+            "B": "Go outside",
+            "C": "Use your phone",
+            "D": "Climb a tree"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "Light",
+      "video_title": "NCERT Science Class 8 Chapter 16 Light",
+      "video_url": "https://www.youtube.com/watch?v=tYXxAqZq_GQ",
+      "questions": [
+        {
+          "question": "What is light?",
+          "options": {
+            "A": "A type of sound",
+            "B": "A form of energy",
+            "C": "A solid object",
+            "D": "A gas"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How does light travel?",
+          "options": {
+            "A": "In a curved path",
+            "B": "In waves",
+            "C": "Directly only",
+            "D": "As a solid"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is reflection?",
+          "options": {
+            "A": "Bending of light",
+            "B": "Bouncing back of light",
+            "C": "Absorption of light",
+            "D": "Scattering of light"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following mirrors forms a virtual image?",
+          "options": {
+            "A": "Concave mirror",
+            "B": "Convex mirror",
+            "C": "Plane mirror",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the phenomenon of refraction?",
+          "options": {
+            "A": "Bending of light as it passes from one medium to another",
+            "B": "Bouncing back of light",
+            "C": "Absorption of light",
+            "D": "Creation of sound"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "Stars and The Solar System",
+      "video_title": "NCERT Science Class 8 Chapter 17 Stars and The Solar System",
+      "video_url": "https://www.youtube.com/watch?v=otYJuQ1CSgo&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=37",
+      "questions": [
+        {
+          "question": "What is a star?",
+          "options": {
+            "A": "A planet",
+            "B": "A celestial body that emits light",
+            "C": "A satellite",
+            "D": "A type of rock"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is our solar system primarily composed of?",
+          "options": {
+            "A": "Stars only",
+            "B": "Moons only",
+            "C": "Planets and a star (the Sun)",
+            "D": "Galaxies"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": {
+            "A": "Earth",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Venus"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main source of light in our solar system?",
+          "options": {
+            "A": "The Moon",
+            "B": "The Sun",
+            "C": "Planets",
+            "D": "Stars"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the largest planet in our solar system?",
+          "options": {
+            "A": "Earth",
+            "B": "Saturn",
+            "C": "Jupiter",
+            "D": "Neptune"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "Pollution of Air and Water",
+      "video_title": "NCERT Science Class 8 Chapter 18 Pollution of Air and Water",
+      "video_url": "https://www.youtube.com/watch?v=fLzphsYkejI&list=PLMDetQy00TVlPwZfJhcF4EH-UNt0t6q9B&index=35",
+      "questions": [
+        {
+          "question": "What is pollution?",
+          "options": {
+            "A": "Addition of harmful substances to the environment",
+            "B": "Cleaning of resources",
+            "C": "Natural disasters",
+            "D": "Urban development"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a major cause of air pollution?",
+          "options": {
+            "A": "Planting trees",
+            "B": "Burning fossil fuels",
+            "C": "Solar energy",
+            "D": "Wind energy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the impact of water pollution on marine life?",
+          "options": {
+            "A": "It has no impact.",
+            "B": "It can harm or kill aquatic organisms.",
+            "C": "It only affects humans.",
+            "D": "It promotes growth."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What pollutant is often found in urban water systems?",
+          "options": {
+            "A": "Oxygen",
+            "B": "Heavy metals",
+            "C": "Pure water",
+            "D": "Sunlight"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is one way to reduce air pollution?",
+          "options": {
+            "A": "Using public transportation",
+            "B": "Encouraging factory emissions",
+            "C": "Cutting down trees",
+            "D": "Increasing vehicle usage"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}

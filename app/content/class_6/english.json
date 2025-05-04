@@ -1,156 +1,631 @@
 {
-    "class": 6,
-    "subject": "English",
-    "book": "Honeysuckle",
-    "source": "Magnet Brains YouTube Playlist",
-    "total_chapters": 10,
-    "total_videos": 16,
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Who Did Patrick's Homework",
-        "videos": [
-          {
-            "title": "Class 6 English Chapter 1 | Who Did Patrick's Homework Full Chapter Explanation & NCERT Solutions",
-            "url": "https://www.youtube.com/watch?v=UFytXgzHZTo&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=1",
-            "duration": "1:28:19"
+  "class": "Class 6",
+  "subject": "English",
+  "book": "Honeysuckle",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Who Did Patrick's Homework",
+      "video_url": "https://www.youtube.com/watch?v=UFytXgzHZTo&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=1",
+      "video_url_1": "https://www.youtube.com/watch?v=MOzJXWf-Yps&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=2",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "Why didn't Patrick want to do his homework?",
+          "options": {
+            "A": "He was tired",
+            "B": "He didn't like studies",
+            "C": "He had a pet",
+            "D": "He wanted to play"
           },
-          {
-            "title": "Class 6 English Chapter 1 | Who Did Patrick's Homework Full Chapter Explanation & Exercise",
-            "url": "https://www.youtube.com/watch?v=MOzJXWf-Yps&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=2",
-            "duration": "1:11:24"
-          }
-        ]
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "How the Dog Found Himself a New Master & The Kite",
-        "videos": [
-          {
-            "title": "Class 6 English Chapter 2 | How the Dog Found Himself a New Master & the Kite Full Chapter Explanation",
-            "url": "https://www.youtube.com/watch?v=AW3lLjvts0c&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=3",
-            "duration": "1:09:26"
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "Who helped Patrick with his homework?",
+          "options": {
+            "A": "His mother",
+            "B": "A fairy",
+            "C": "His dog",
+            "D": "An elf"
           },
-          {
-            "title": "Class 6 English Chapter 2 | How the Dog Found Himself a New Master Full Chapter Explanation & Exercise",
-            "url": "https://www.youtube.com/watch?v=QngWG7OXZ6s&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=4",
-            "duration": "55:05"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Taro's Reward & The Quarrel",
-        "videos": [
-          {
-            "title": "Taro's Reward & The Quarrel - Full Chapter Explanation & MCQs | Class 6 English Ch 3 | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=xG-32otCdAg&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=5",
-            "duration": "1:14:13"
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 3,
+          "question": "What subject did Patrick struggle with the most?",
+          "options": {
+            "A": "Mathematics",
+            "B": "Science",
+            "C": "History",
+            "D": "All subjects"
           },
-          {
-            "title": "Class 6 English Chapter 3 | Taro's Reward Full Chapter Explanation & Exercise",
-            "url": "https://www.youtube.com/watch?v=wujGOd9qRyM&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=6",
-            "duration": "1:01:31"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "An Indian American Woman in Space: Kalpana Chawla & Beauty",
-        "videos": [
-          {
-            "title": "An Indian American Woman in Space: Kalpana Chawla & Beauty - Full Explanation | Class 6 English Ch 4",
-            "url": "https://www.youtube.com/watch?v=BJJiwtxxAjk&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=7",
-            "duration": "1:31:04"
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "What was the elf's condition for helping Patrick?",
+          "options": {
+            "A": "He had to clean his room",
+            "B": "He had to promise to finish his homework",
+            "C": "He had to solve puzzles",
+            "D": "He had to feed him"
           },
-          {
-            "title": "Class 6 English Chapter 4 | An Indian-American Woman In Space Kalpana Chawla Full Chapter Explanation",
-            "url": "https://www.youtube.com/watch?v=qqHi2kcVKjc&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=8",
-            "duration": "1:15:06"
-          }
-        ]
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "A Different Kind of School",
-        "videos": [
-          {
-            "title": "A Different Kind of School: Full Chapter Explanation, NCERT Solutions & MCQs | Class 6 English Ch 5",
-            "url": "https://www.youtube.com/watch?v=3qR3ZGlFM3I&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=9",
-            "duration": "1:22:35"
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "What was the outcome of Patrick's homework situation?",
+          "options": {
+            "A": "He learned to do homework himself",
+            "B": "He failed the class",
+            "C": "He never had to do homework again",
+            "D": "He didn't learn anything"
           },
-          {
-            "title": "Class 6 English Chapter 5 | A Different Kind Of School Full Chapter Explanation & Exercise",
-            "url": "https://www.youtube.com/watch?v=jnkY769JTHY&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=10",
-            "duration": "1:05:50"
-          }
-        ]
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Who I Am & The Wonderful Words",
-        "videos": [
-          {
-            "title": "Who I Am & The Wonderful Words: Full Chapter Explanation, NCERT Solutions & MCQs | Class 6 English Ch 6",
-            "url": "https://www.youtube.com/watch?v=us1xaCdahco&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=11",
-            "duration": "1:52:35"
-          }
-        ]
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Fair Play",
-        "videos": [
-          {
-            "title": "Fair Play - Full Chapter Explanation, NCERT Solutions & MCQs | Class 6 English Chapter 7",
-            "url": "https://www.youtube.com/watch?v=fyT-Vh1yxHM&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=12",
-            "duration": "1:02:24"
-          }
-        ]
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "A Game Of Chance & Vocation",
-        "videos": [
-          {
-            "title": "A Game Of Chance & Vocation - Full Chapter Explanation & NCERT Solutions | Class 6 English Chapter 8",
-            "url": "https://www.youtube.com/watch?v=hYCXAJTE6SU&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=13",
-            "duration": "1:30:07"
-          }
-        ]
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Desert Animals & WhatIf",
-        "videos": [
-          {
-            "title": "Desert Animals & WhatIf - Full Chapter Explanation & NCERT Solutions | Class 6 English Chapter 9",
-            "url": "https://www.youtube.com/watch?v=uxK7EmobL2Q&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=14",
-            "duration": "1:19:13"
-          }
-        ]
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "The Banyan Tree",
-        "videos": [
-          {
-            "title": "The Banyan Tree - Full Chapter Explanation & NCERT Solutions | Class 6 English Chapter 10",
-            "url": "https://www.youtube.com/watch?v=9ewte7-CQpM&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=15",
-            "duration": "59:15"
-          }
-        ]
-      },
-      {
-        "chapter_no": 0,
-        "chapter_name": "Full Book Revision",
-        "videos": [
-          {
-            "title": "English Honeysuckle - Full Chapter Multiple Choice Questions (MCQs) | Class 6 English | CBSE 2024-25",
-            "url": "https://www.youtube.com/watch?v=QZ6WGvOC-v0&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=16",
-            "duration": "1:41:35"
-          }
-        ]
-      }
-    ]
-  }
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "How the Dog Found Himself a New Master & The Kite",
+      "video_url": "https://www.youtube.com/watch?v=AW3lLjvts0c&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=3",
+      "video_url_1": "https://www.youtube.com/watch?v=QngWG7OXZ6s&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=4",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "How did the dog find a new master?",
+          "options": {
+            "A": "By being lost",
+            "B": "By choosing a man",
+            "C": "By wandering into a house",
+            "D": "By begging for food"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "What trait helped the dog to identify a good master?",
+          "options": {
+            "A": "Intelligence",
+            "B": "Loyalty",
+            "C": "Instincts",
+            "D": "Cunningness"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 3,
+          "question": "What does the story of 'The Kite' teach us?",
+          "options": {
+            "A": "Adventure is necessary",
+            "B": "Friendship is important",
+            "C": "Taking risks can be rewarding",
+            "D": "Education is the key to success"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "What happens when the kite gets stuck?",
+          "options": {
+            "A": "It is forgotten",
+            "B": "It becomes a tool for learning",
+            "C": "It teaches a lesson about persistence",
+            "D": "It is ignored"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 5,
+          "question": "Who wins in the end, the dog or the kite?",
+          "options": {
+            "A": "The dog",
+            "B": "The kite",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Taro's Reward & The Quarrel",
+      "video_url": "https://www.youtube.com/watch?v=xG-32otCdAg&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=5",
+      "video_url_1": "https://www.youtube.com/watch?v=wujGOd9qRyM&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=6",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "Why was Taro rewarded by the waterfall?",
+          "options": {
+            "A": "For hard work",
+            "B": "For kindness to his father",
+            "C": "For stealing from the neighbors",
+            "D": "For being a good student"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "What lesson does Taro's story teach?",
+          "options": {
+            "A": "Greed is good",
+            "B": "Kindness is rewarded",
+            "C": "Hard work pays off",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "What was the main issue in 'The Quarrel'?",
+          "options": {
+            "A": "A misunderstanding between friends",
+            "B": "A teacher scolding students",
+            "C": "A game of cricket",
+            "D": "Family arguments"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "How did the characters in 'The Quarrel' resolve their conflict?",
+          "options": {
+            "A": "By ignoring each other",
+            "B": "By apologizing",
+            "C": "By arguing more",
+            "D": "By running away"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "What does 'The Quarrel' emphasize about friendship?",
+          "options": {
+            "A": "Friends never fight",
+            "B": "Fighting is necessary",
+            "C": "Friendship involves resolution",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "An Indian American Woman in Space: Kalpana Chawla & Beauty",
+      "video_url": "https://www.youtube.com/watch?v=BJJiwtxxAjk&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=7",
+      "video_url_1": "https://www.youtube.com/watch?v=qqHi2kcVKjc&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=8",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "Who is Kalpana Chawla?",
+          "options": {
+            "A": "A famous artist",
+            "B": "An astronaut",
+            "C": "A scientist",
+            "D": "A politician"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "What achievements is Kalpana known for?",
+          "options": {
+            "A": "Space missions",
+            "B": "Sports victories",
+            "C": "Writing books",
+            "D": "Fashion designing"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "What message does Kalpana's journey convey?",
+          "options": {
+            "A": "Dreams can be achieved with hard work",
+            "B": "Space is dangerous",
+            "C": "Education is not important",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "What is the primary theme of 'Beauty'?",
+          "options": {
+            "A": "Physical appearance",
+            "B": "Inner beauty and kindness",
+            "C": "Fashion",
+            "D": "Artistry"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "How is beauty defined in the story?",
+          "options": {
+            "A": "By external features",
+            "B": "By wealth",
+            "C": "By one's character",
+            "D": "By relationships"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "A Different Kind of School",
+      "video_url": "https://www.youtube.com/watch?v=3qR3ZGlFM3I&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=9",
+      "video_url_1": "https://www.youtube.com/watch?v=jnkY769JTHY&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=10",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "Who is the main character in 'A Different Kind of School'?",
+          "options": {
+            "A": "A teacher",
+            "B": "A student",
+            "C": "An outsider",
+            "D": "A principal"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "What makes the school different?",
+          "options": {
+            "A": "Location",
+            "B": "Teaching methods",
+            "C": "Types of students",
+            "D": "Food served"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "What lesson does the school teach?",
+          "options": {
+            "A": "Only academics",
+            "B": "Life skills",
+            "C": "Discipline",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 4,
+          "question": "How does the protagonist feel about this kind of school?",
+          "options": {
+            "A": "Confused",
+            "B": "Excited",
+            "C": "Indifferent",
+            "D": "Bored"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "What do students learn about in 'A Different Kind of School'?",
+          "options": {
+            "A": "The importance of kindness",
+            "B": "Competitive exams",
+            "C": "Discipline",
+            "D": "Material wealth"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Who I Am & The Wonderful Words",
+      "video_url": "https://www.youtube.com/watch?v=us1xaCdahco&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=11",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "What does the chapter 'Who I Am' discuss?",
+          "options": {
+            "A": "Personal identity",
+            "B": "Famous personalities",
+            "C": "Physical traits",
+            "D": "Future aspirations"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "What is explored in 'The Wonderful Words'?",
+          "options": {
+            "A": "Meaning of words",
+            "B": "Vocabulary enhancement",
+            "C": "Power of language",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 3,
+          "question": "What does the author emphasize about words?",
+          "options": {
+            "A": "Words can hurt",
+            "B": "Words are unnecessary",
+            "C": "Words are always positive",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "How can words impact interactions?",
+          "options": {
+            "A": "They make fun",
+            "B": "They can build relationships",
+            "C": "They isolate",
+            "D": "They are always ignored"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "What is an important message from 'Who I Am'?",
+          "options": {
+            "A": "To conform to societal expectations",
+            "B": "To embrace individuality",
+            "C": "To blend in",
+            "D": "To ignore others' opinions"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Fair Play",
+      "video_url": "https://www.youtube.com/watch?v=fyT-Vh1yxHM&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=12",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "What is the central theme of 'Fair Play'?",
+          "options": {
+            "A": "Winning at all costs",
+            "B": "Importance of fair competition",
+            "C": "Discipline in sports",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "What situation is depicted in the story?",
+          "options": {
+            "A": "A sports match",
+            "B": "Classroom activities",
+            "C": "Family disputes",
+            "D": "Community games"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "How do characters portray fair play?",
+          "options": {
+            "A": "By cheating",
+            "B": "By helping each other",
+            "C": "By respecting others",
+            "D": "By ignoring rules"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "What is the outcome when fair play is observed?",
+          "options": {
+            "A": "Unhappiness",
+            "B": "Disputes",
+            "C": "Mutual respect",
+            "D": "Confusion"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 5,
+          "question": "Why is fair play significant in sports?",
+          "options": {
+            "A": "To annoy opponents",
+            "B": "To enjoy the game",
+            "C": "To win all the time",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "A Game Of Chance & Vocation",
+      "video_url": "https://www.youtube.com/watch?v=hYCXAJTE6SU&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=13",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "What is the primary focus of 'A Game of Chance'?",
+          "options": {
+            "A": "Luck and fortune",
+            "B": "Skills in sports",
+            "C": "Strategic planning",
+            "D": "Preparation for exams"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "How does chance affect events in the story?",
+          "options": {
+            "A": "Randomly",
+            "B": "Through careful planning",
+            "C": "By ignoring luck",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "What lesson can be learned from 'Vocation'?",
+          "options": {
+            "A": "Only work for money",
+            "B": "Find joy in one's work",
+            "C": "Avoid hard tasks",
+            "D": "Focus on others' work"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 4,
+          "question": "What is a vocation?",
+          "options": {
+            "A": "A type of game",
+            "B": "A job or profession",
+            "C": "A sport",
+            "D": "A random activity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "How are chances depicted in life according to the chapter?",
+          "options": {
+            "A": "They are irrelevant",
+            "B": "They are always favorable",
+            "C": "They vary and can be unpredictable",
+            "D": "Only bad luck exists"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Desert Animals & WhatIf",
+      "video_url": "https://www.youtube.com/watch?v=uxK7EmobL2Q&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=14",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "What is one characteristic of desert animals?",
+          "options": {
+            "A": "They are nocturnal",
+            "B": "They require lots of water",
+            "C": "They are always in groups",
+            "D": "They are large in size"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "What adaptation helps desert animals survive?",
+          "options": {
+            "A": "Extra layers of fat",
+            "B": "Bright colors",
+            "C": "Strong social bonds",
+            "D": "Efficient water usage"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 3,
+          "question": "What is the theme of 'WhatIf'?",
+          "options": {
+            "A": "Imagination and possibilities",
+            "B": "Fear of the unknown",
+            "C": "Planning for the future",
+            "D": "Solving problems"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "What kind of questions does 'WhatIf' explore?",
+          "options": {
+            "A": "Historical facts",
+            "B": "Hypothetical scenarios",
+            "C": "Scientific theories",
+            "D": "Mathematical problems"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "How can 'WhatIf' thinking be beneficial?",
+          "options": {
+            "A": "It leads to worry",
+            "B": "It sparks creativity",
+            "C": "It causes confusion",
+            "D": "It is useless"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "The Banyan Tree",
+      "video_url": "https://www.youtube.com/watch?v=F3K3y7L0t8E&list=PLVLoWQFkZbhWrXV_KWZ1E5EPK4Ctveqil&index=15",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "What is the banyan tree known for?",
+          "options": {
+            "A": "Its small size",
+            "B": "Its delicious fruit",
+            "C": "Its large spread and aerial roots",
+            "D": "Its beautiful flowers"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 2,
+          "question": "What does the banyan tree symbolize in the story?",
+          "options": {
+            "A": "Weakness",
+            "B": "Community and life",
+            "C": "Loneliness",
+            "D": "Danger"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "What kind of creatures live in and around the banyan tree?",
+          "options": {
+            "A": "Only birds",
+            "B": "Various animals and insects",
+            "C": "Only humans",
+            "D": "None"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do the roots of the banyan tree signify?",
+          "options": {
+            "A": "Strength",
+            "B": "Desperation",
+            "C": "Weakness",
+            "D": "Betrayal"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What lesson can we learn from the banyan tree?",
+          "options": {
+            "A": "Independence",
+            "B": "Community and support",
+            "C": "Competition",
+            "D": "Isolation"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+}

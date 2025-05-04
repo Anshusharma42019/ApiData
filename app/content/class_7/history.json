@@ -1,0 +1,594 @@
+{
+  "class": 7,
+  "subject": "History",
+  "channel": "Examrace (Dr. Manishika Jain) YouTube Playlist",
+  "total_chapters": 30,
+  "total_videos": 30,
+  "chapters":[
+    {
+      "chapter_no": 1,
+      "subject_part": "History",
+      "chapter_name": "Tracing Changes through a Thousand Year",
+      "video_url": "https://www.youtube.com/watch?v=VFOF1wlf0bU&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=11",
+      "questions": [
+        {
+          "question": "What is meant by 'history'?",
+          "options": {
+            "A": "Study of ancient artifacts",
+            "B": "Story of the past",
+            "C": "Fictional narratives",
+            "D": "Future predictions"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why is it important to study history?",
+          "options": {
+            "A": "To learn about the past",
+            "B": "To invent new technologies",
+            "C": "To live in isolation",
+            "D": "To forget traditions"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do historians primarily focus on?",
+          "options": {
+            "A": "Literature",
+            "B": "Scientific discoveries",
+            "C": "Social events and changes",
+            "D": "Natural landscapes"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which source is commonly used by historians?",
+          "options": {
+            "A": "Textbooks only",
+            "B": "Old manuscripts and artifacts",
+            "C": "Fictional stories",
+            "D": "Modern novels"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does 'chronology' refer to?",
+          "options": {
+            "A": "Study of historical events",
+            "B": "Arranging events in order of time",
+            "C": "Research in archaeology",
+            "D": "Mapping out countries"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "subject_part": "History",
+      "chapter_name": "New Kings and Kingdoms",
+      "video_url": "https://www.youtube.com/watch?v=45rJIG-KTHY&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=12",
+      "questions": [
+        {
+          "question": "What defined a king's status in ancient times?",
+          "options": {
+            "A": "Wealth and power",
+            "B": "Intelligence",
+            "C": "Arts and crafts",
+            "D": "Friendship"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a 'janapada'?",
+          "options": {
+            "A": "A large kingdom",
+            "B": "A tribe or clan",
+            "C": "An administrative region",
+            "D": "A religious group"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who were the 'rajas'?",
+          "options": {
+            "A": "Merchants",
+            "B": "Kings",
+            "C": "Laborers",
+            "D": "Scholars"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a characteristic of feudalism?",
+          "options": {
+            "A": "Centralized power",
+            "B": "Decentralized authority",
+            "C": "Equality among classes",
+            "D": "Advanced technology"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What contributed to the rise of kingdoms in ancient India?",
+          "options": {
+            "A": "Military conquest and trade",
+            "B": "Isolationism",
+            "C": "Decline in agriculture",
+            "D": "Shortage of resources"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "subject_part": "History",
+      "chapter_name": "The Delhi Sultans",
+      "video_url": "https://www.youtube.com/watch?v=nmgDUjoB_y0&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=13",
+      "questions": [
+        {
+          "question": "What was the significance of Delhi during the Sultanate period?",
+          "options": {
+            "A": "Cultural hub",
+            "B": "Political center",
+            "C": "Religious site",
+            "D": "Trading post"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who founded the Slave Dynasty?",
+          "options": {
+            "A": "Iltutmish",
+            "B": "Qutb-ud-din Aibak",
+            "C": "Ala-ud-din Khilji",
+            "D": "Balban"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which architectural feature is associated with the Sultans of Delhi?",
+          "options": {
+            "A": "Pyramids",
+            "B": "Havelis",
+            "C": "Mosques",
+            "D": "Cathedrals"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was the main religion during the Sultanate period?",
+          "options": {
+            "A": "Hinduism",
+            "B": "Christianity",
+            "C": "Islam",
+            "D": "Buddhism"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How did the Sultans maintain control over their territories?",
+          "options": {
+            "A": "Military strength",
+            "B": "Negotiation",
+            "C": "Isolationism",
+            "D": "Weak governance"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "subject_part": "History",
+      "chapter_name": "The Mughal Empire",
+      "video_url": "https://www.youtube.com/watch?v=7fr7k7H0rqA&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=14",
+      "questions": [
+        {
+          "question": "Who was the founder of the Mughal Empire?",
+          "options": {
+            "A": "Akbar",
+            "B": "Babur",
+            "C": "Shah Jahan",
+            "D": "Aurangzeb"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the significance of the Red Fort?",
+          "options": {
+            "A": "Religious site",
+            "B": "Royal residence",
+            "C": "Market place",
+            "D": "Training ground"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was Mughal architecture known for?",
+          "options": {
+            "A": "Simplicity",
+            "B": "Opulence and intricacy",
+            "C": "Minimalism",
+            "D": "Modernity"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which Mughal ruler is known for his policy of religious tolerance?",
+          "options": {
+            "A": "Babur",
+            "B": "Ala-ud-din Khilji",
+            "C": "Akbar",
+            "D": "Shah Jahan"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was one major consequence of the Mughal Empire's expansion?",
+          "options": {
+            "A": "Cultural exchange",
+            "B": "Isolation from other regions",
+            "C": "Decline in trade",
+            "D": "Decrease in agricultural production"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "subject_part": "History",
+      "chapter_name": "Rulers and Buildings",
+      "video_url": "https://www.youtube.com/watch?v=8exeIGt2c2k&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=15",
+      "questions": [
+        {
+          "question": "What was the purpose of building forts?",
+          "options": {
+            "A": "For recreation",
+            "B": "As military defenses",
+            "C": "As palaces",
+            "D": "As marketplaces"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which city is famous for its historical forts?",
+          "options": {
+            "A": "Delhi",
+            "B": "Jaipur",
+            "C": "Mumbai",
+            "D": "Chennai"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What characteristic features did Mughal architecture have?",
+          "options": {
+            "A": "Clay structures",
+            "B": "Intricate designs and gardens",
+            "C": "Simple designs",
+            "D": "Metallic structures"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which ruler built the Taj Mahal?",
+          "options": {
+            "A": "Aurangzeb",
+            "B": "Shah Jahan",
+            "C": "Akbar",
+            "D": "Babur"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Why were temples constructed?",
+          "options": {
+            "A": "For educational purposes",
+            "B": "To honor deities",
+            "C": "As marketplaces",
+            "D": "For residential purposes"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "subject_part": "History",
+      "chapter_name": "Towns, Traders and Craftspersons",
+      "video_url": "https://www.youtube.com/watch?v=3oXgDSk2J40&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=16",
+      "questions": [
+        {
+          "question": "What role did towns play in trade?",
+          "options": {
+            "A": "They were isolated",
+            "B": "Centers of commerce",
+            "C": "Rural areas were more important",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What types of goods were commonly traded in towns?",
+          "options": {
+            "A": "Only agricultural products",
+            "B": "Crafts and textiles",
+            "C": "Minerals only",
+            "D": "Exclusive tourism"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who were the most important members of the trades?",
+          "options": {
+            "A": "Farmers",
+            "B": "Craftspersons and merchants",
+            "C": "Lawyers",
+            "D": "Politicians"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did towns develop?",
+          "options": {
+            "A": "Through technological advancements",
+            "B": "By reducing trade",
+            "C": "By isolating from each other",
+            "D": "By increasing agriculture"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What was the significance of marketplaces?",
+          "options": {
+            "A": "Social interaction",
+            "B": "Economic exchange",
+            "C": "Cultural activities",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "subject_part": "History",
+      "chapter_name": "Tribes, Nomads and Settled Communities",
+      "video_url": "https://www.youtube.com/watch?v=RdDi1ivSfZU&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=17",
+      "questions": [
+        {
+          "question": "What characterizes nomadic lifestyle?",
+          "options": {
+            "A": "Permanent residence",
+            "B": "Moving to find resources",
+            "C": "Settled agriculture",
+            "D": "Industrial work"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a settled community?",
+          "options": {
+            "A": "A group that migrates constantly",
+            "B": "A group that lives permanently in one place",
+            "C": "A hunting tribe",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a characteristic of tribal society?",
+          "options": {
+            "A": "Urban living",
+            "B": "Strong kinship ties",
+            "C": "Technological dependence",
+            "D": "Commercial agriculture"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do nomadic communities primarily rely on?",
+          "options": {
+            "A": "Permanent water sources",
+            "B": "Seasonal migration",
+            "C": "Technological gadgets",
+            "D": "Mass production"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How do settled communities sustain themselves?",
+          "options": {
+            "A": "By trading livestock",
+            "B": "By practicing agriculture",
+            "C": "By hunting only",
+            "D": "By fishing only"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "subject_part": "History",
+      "chapter_name": "Devotional Path to the Divine",
+      "video_url": "https://www.youtube.com/watch?v=ubBOwof7vYI&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=18",
+      "questions": [
+        {
+          "question": "What is Bhakti movement?",
+          "options": {
+            "A": "A political movement",
+            "B": "A spiritual movement",
+            "C": "A scientific discovery",
+            "D": "A cultural transformation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who were the key figures in the Bhakti movement?",
+          "options": {
+            "A": "Kings",
+            "B": "Poets and saints",
+            "C": "Rulers",
+            "D": "Merchants"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was a primary focus of the Bhakti movement?",
+          "options": {
+            "A": "Material wealth",
+            "B": "Devotion to God",
+            "C": "Political power",
+            "D": "Artistic expression"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is not a characteristic of the Bhakti movement?",
+          "options": {
+            "A": "Rejection of rituals",
+            "B": "Emphasis on personal devotion",
+            "C": "Intolerance towards other faiths",
+            "D": "Social equality"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What impact did the Bhakti movement have on society?",
+          "options": {
+            "A": "Increased division",
+            "B": "Promoted social reform",
+            "C": "Discouraged new ideas",
+            "D": "Maintained status quo"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "subject_part": "History",
+      "chapter_name": "The Making of Regional Cultures",
+      "video_url": "https://www.youtube.com/watch?v=-HEl1HnH1Yg&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=19",
+      "questions": [
+        {
+          "question": "What signifies the development of regional cultures?",
+          "options": {
+            "A": "Isolation from others",
+            "B": "Blending of local practices and traditions",
+            "C": "Uniformity in all cultures",
+            "D": "Political influences only"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which factors contribute to regional culture?",
+          "options": {
+            "A": "Language and customs",
+            "B": "Geographic features only",
+            "C": "Political policies",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "How does trade influence regional cultures?",
+          "options": {
+            "A": "It restricts interactions",
+            "B": "It promotes cultural exchanges",
+            "C": "It isolates communities",
+            "D": "It has no impact"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the significance of festivals in regional cultures?",
+          "options": {
+            "A": "To strengthen community bonds",
+            "B": "To promote individualism",
+            "C": "To discourage social participation",
+            "D": "To maintain status quo"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is an example of regional art?",
+          "options": {
+            "A": "Modern sculpture",
+            "B": "Folk traditions",
+            "C": "Industrial design",
+            "D": "Commercial media"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "subject_part": "History",
+      "chapter_name": "18th Century Political Formations",
+      "video_url": "https://www.youtube.com/watch?v=QfsZJAPbMZ8&list=PLW9kB_HKs3_NXJROOGGOqEAZfsyrJ7_gp&index=20",
+      "questions": [
+        {
+          "question": "What characterized the 18th-century political landscape?",
+          "options": {
+            "A": "Stability and peace",
+            "B": "Fragmentation and regional powers",
+            "C": "Centralized authority",
+            "D": "Uniform governance"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following was a major empire during the 18th century?",
+          "options": {
+            "A": "Mughal Empire",
+            "B": "Ottoman Empire",
+            "C": "Russian Empire",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What was a significant change in governance during the 18th century?",
+          "options": {
+            "A": "Increased trade",
+            "B": "Emergence of new regional powers",
+            "C": "Decline of agriculture",
+            "D": "Reduction in wars"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did colonialism affect regional powers?",
+          "options": {
+            "A": "By strengthening them",
+            "B": "By weakening or controlling them",
+            "C": "By encouraging independence",
+            "D": "By fostering cooperation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was a common outcome of the political changes in the 18th century?",
+          "options": {
+            "A": "Increased stability",
+            "B": "Social unrest",
+            "C": "Economic prosperity",
+            "D": "Cultural uniformity"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+
+  ]
+    
+    
+    
+  
+}

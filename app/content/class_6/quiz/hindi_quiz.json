@@ -1,7 +1,7 @@
 {
     "class": 6,
     "subject": "हिंदी",
-    "source": "CBSE/NCERT पाठ्यक्रम",
+    "channel": "CBSE/NCERT पाठ्यक्रम",
     "total_chapters": 18,
     "chapters": [
       {
@@ -51,7 +51,7 @@
           {
             "question": "इस कविता में कितनी पंक्तियाँ हैं?",
             "options": {
-              "A": "4",
+              "A": "D",
               "B": "5",
               "C": "6",
               "D": "7"

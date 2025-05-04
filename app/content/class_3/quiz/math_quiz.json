@@ -1,10 +1,10 @@
 {
-    "class": "3",
+    "class": "C",
     "subject": "Mathematics",
     "chapters": [
       {
         "chapter_no": 1,
-        "chapter": "What's in a Name?",
+        "chapter_no": "What's in a Name?",
         "questions": [
           {
             "question": "What is the value of a number when it is expressed in expanded form?",
@@ -35,7 +35,7 @@
       },
       {
         "chapter_no": 2,
-        "chapter": "Toy Joy",
+        "chapter_no": "Toy Joy",
         "questions": [
           {
             "question": "Which of these is the smallest number?",
@@ -66,7 +66,7 @@
       },
       {
         "chapter_no": 3,
-        "chapter": "Double Century",
+        "chapter_no": "Double Century",
         "questions": [
           {
             "question": "What is the sum of 200 and 100?",
@@ -97,7 +97,7 @@
       },
       {
         "chapter_no": 4,
-        "chapter": "Vacation with My Nani Ma",
+        "chapter_no": "Vacation with My Nani Ma",
         "questions": [
           {
             "question": "How many days are there in a week?",
@@ -128,7 +128,7 @@
       },
       {
         "chapter_no": 5,
-        "chapter": "Fun with Shape",
+        "chapter_no": "Fun with Shape",
         "questions": [
           {
             "question": "Which of these shapes has 4 equal sides?",
@@ -159,7 +159,7 @@
       },
       {
         "chapter_no": 6,
-        "chapter": "House of Hundreds",
+        "chapter_no": "House of Hundreds",
         "questions": [
           {
             "question": "What is the value of the digit 6 in 678?",
@@ -190,7 +190,7 @@
       },
       {
         "chapter_no": 7,
-        "chapter": "Raksha Bandhan",
+        "chapter_no": "Raksha Bandhan",
         "questions": [
           {
             "question": "What is the length of a ribbon if it is cut into 4 equal parts, each 5 cm long?",
@@ -221,7 +221,7 @@
       },
       {
         "chapter_no": 8,
-        "chapter": "Fair Share",
+        "chapter_no": "Fair Share",
         "questions": [
           {
             "question": "If you divide 12 apples equally among 4 people, how many apples will each person get?",
@@ -252,7 +252,7 @@
       },
       {
         "chapter_no": 9,
-        "chapter": "House of Hundreds-II",
+        "chapter_no": "House of Hundreds-II",
         "questions": [
           {
             "question": "What is the place value of 7 in 738?",
@@ -283,7 +283,7 @@
       },
       {
         "chapter_no": 10,
-        "chapter": "Fun at Class Party",
+        "chapter_no": "Fun at Class Party",
         "questions": [
           {
             "question": "How many people attended the class party if there are 5 tables with 6 students each?",
@@ -314,7 +314,7 @@
       },
       {
         "chapter_no": 11,
-        "chapter": "Filling and Lifting",
+        "chapter_no": "Filling and Lifting",
         "questions": [
           {
             "question": "How many liters are in 1 kiloliter?",
@@ -345,7 +345,7 @@
       },
       {
         "chapter_no": 12,
-        "chapter": "Give and Take",
+        "chapter_no": "Give and Take",
         "questions": [
           {
             "question": "If you have 200 rupees and spend 150 rupees, how much is left?",
@@ -376,7 +376,7 @@
       },
       {
         "chapter_no": 13,
-        "chapter": "Time Goes On",
+        "chapter_no": "Time Goes On",
         "questions": [
           {
             "question": "What time is 2 hours after 7:00 AM?",
@@ -407,7 +407,7 @@
       },
       {
         "chapter_no": 14,
-        "chapter": "The Surajkund Fair",
+        "chapter_no": "The Surajkund Fair",
         "questions": [
           {
             "question": "What is the total number of stalls at the Surajkund Fair if there are 25 rows and 12 stalls in each row?",

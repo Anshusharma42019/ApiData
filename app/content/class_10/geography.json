@@ -1,0 +1,407 @@
+{
+    "class": 10,
+    "subject": "Geography",
+    "channel": "CBSE Guidence",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "chapter_name": "Resources and Development",
+            "video_url": "https://www.youtube.com/watch?v=G0FR_6orghY&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=6",
+            "questions": [
+              {
+                "question": "What is the primary focus of resource development?",
+                "options": {
+                  "A": "Abundance of resources",
+                  "B": "Sustainable management",
+                  "C": "Resource depletion",
+                  "D": "Economic expansion"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which type of resources is renewable?",
+                "options": {
+                  "A": "Fossil fuels",
+                  "B": "Minerals",
+                  "C": "Solar energy",
+                  "D": "Metals"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is considered a non-renewable resource?",
+                "options": {
+                  "A": "Forests",
+                  "B": "Fish",
+                  "C": "Oils",
+                  "D": "Water"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How does development impact natural resources?",
+                "options": {
+                  "A": "Conserves them",
+                  "B": "Increases sustainability",
+                  "C": "Leads to depletion",
+                  "D": "Enhances biodiversity"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is the key to sustainable development?",
+                "options": {
+                  "A": "Unrestricted growth",
+                  "B": "Conservation and responsible usage",
+                  "C": "Maximizing consumption",
+                  "D": "Ignoring environmental concerns"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Forest and Wildlife Resources",
+            "video_url": "https://www.youtube.com/watch?v=2kyv4EzFa28&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=7",
+            "questions": [
+              {
+                "question": "What factor is essential for forest growth?",
+                "options": {
+                  "A": "Overgrazing",
+                  "B": "Deforestation",
+                  "C": "Climate",
+                  "D": "Urbanization"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which of the following is a major cause of wildlife depletion?",
+                "options": {
+                  "A": "Conservation efforts",
+                  "B": "Habitat destruction",
+                  "C": "Protected areas",
+                  "D": "Sustainable forestry"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How do forests contribute to the economy?",
+                "options": {
+                  "A": "By reducing biodiversity",
+                  "B": "By providing timber and non-timber products",
+                  "C": "By limiting agricultural expansion",
+                  "D": "By preventing industrial growth"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What conservation method is vital for forests?",
+                "options": {
+                  "A": "Deforestation",
+                  "B": "Afforestation",
+                  "C": "Urban development",
+                  "D": "Overexploitation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What role do wildlife sanctuaries play?",
+                "options": {
+                  "A": "Promote hunting",
+                  "B": "Protect endangered species",
+                  "C": "Encourage logging",
+                  "D": "Increase land use for agriculture"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Water Resources",
+            "video_url": "https://www.youtube.com/watch?v=GN_WHvVw6nE&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=8",
+            "questions": [
+              {
+                "question": "What is the main source of freshwater?",
+                "options": {
+                  "A": "Lakes",
+                  "B": "Rivers",
+                  "C": "Groundwater",
+                  "D": "Desalinated water"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What factor greatly influences the distribution of water resources?",
+                "options": {
+                  "A": "Population density",
+                  "B": "Agricultural practices",
+                  "C": "Climate and geography",
+                  "D": "Urbanization"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which process is essential for water conservation?",
+                "options": {
+                  "A": "Desalination",
+                  "B": "Rainwater harvesting",
+                  "C": "Over-extraction",
+                  "D": "Industrial waste dumping"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a significant threat to water resources?",
+                "options": {
+                  "A": "Sustainable farming",
+                  "B": "Pollution",
+                  "C": "Conservation practices",
+                  "D": "Natural filtration"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which country is known for successful water management?",
+                "options": {
+                  "A": "India",
+                  "B": "Australia",
+                  "C": "Japan",
+                  "D": "China"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Agriculture",
+            "video_url": "https://www.youtube.com/watch?v=tB67lgIMJ9Q&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=10",
+            "questions": [
+              {
+                "question": "Which factor is critical for agricultural productivity?",
+                "options": {
+                  "A": "Soil fertility",
+                  "B": "Urbanization",
+                  "C": "Population growth",
+                  "D": "Industrialization"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What type of agriculture is practiced in areas with high population density?",
+                "options": {
+                  "A": "Subsistence farming",
+                  "B": "Commercial agriculture",
+                  "C": "Organic farming",
+                  "D": "Shifting cultivation"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which crop is considered a cash crop in many countries?",
+                "options": {
+                  "A": "Rice",
+                  "B": "Wheat",
+                  "C": "Cotton",
+                  "D": "Barley"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a primary environmental concern associated with agriculture?",
+                "options": {
+                  "A": "Soil depletion",
+                  "B": "Increased biodiversity",
+                  "C": "Natural habitat preservation",
+                  "D": "Water conservation"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which method is essential for sustainable agricultural practices?",
+                "options": {
+                  "A": "Monoculture",
+                  "B": "Crop rotation",
+                  "C": "Chemical fertilization",
+                  "D": "Deforestation"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Minerals and Energy Resources",
+            "video_url": "https://www.youtube.com/watch?v=dddXwLMa0v4&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=11",
+            "questions": [
+              {
+                "question": "What are the two main categories of minerals?",
+                "options": {
+                  "A": "Metallic and non-metallic",
+                  "B": "Renewable and non-renewable",
+                  "C": "Organic and inorganic",
+                  "D": "Fossil and synthetic"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is a significant source of energy in developing countries?",
+                "options": {
+                  "A": "Nuclear energy",
+                  "B": "Coal",
+                  "C": "Natural gas",
+                  "D": "Wind energy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is one main concern regarding mineral extraction?",
+                "options": {
+                  "A": "Economic growth",
+                  "B": "Environmental degradation",
+                  "C": "Resource sustainability",
+                  "D": "Job creation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which mineral is crucial for electronic devices?",
+                "options": {
+                  "A": "Iron",
+                  "B": "Copper",
+                  "C": "Gold",
+                  "D": "Silicon"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What is a key benefit of using renewable energy sources?",
+                "options": {
+                  "A": "Limited availability",
+                  "B": "Lower environmental impact",
+                  "C": "High costs",
+                  "D": "Resource depletion"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 6,
+            "chapter_name": "Manufacturing Industries",
+            "video_url": "https://www.youtube.com/watch?v=NZLvpTqglek&list=PLv2hpilqtBVnKta5CnBXOwPCPfRRtOhXI&index=12",
+            "questions": [
+              {
+                "question": "What are the two main types of manufacturing industries?",
+                "options": {
+                  "A": "Heavy and light",
+                  "B": "Primary and secondary",
+                  "C": "Traditional and modern",
+                  "D": "Automated and manual"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which sector is the backbone of the manufacturing industry?",
+                "options": {
+                  "A": "Agriculture",
+                  "B": "Mining",
+                  "C": "Textiles",
+                  "D": "Information Technology"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a significant environmental issue caused by manufacturing?",
+                "options": {
+                  "A": "Sustainable practices",
+                  "B": "Waste and pollution",
+                  "C": "Job creation",
+                  "D": "Resource conservation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How does manufacturing contribute to economic development?",
+                "options": {
+                  "A": "Promotes agricultural dependence",
+                  "B": "Leads to increased imports",
+                  "C": "Enhances the standard of living",
+                  "D": "Limits job opportunities"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which of the following factors significantly influences the location of manufacturing industries?",
+                "options": {
+                  "A": "Transportation and accessibility",
+                  "B": "Proximity to agriculture",
+                  "C": "Cultural factors",
+                  "D": "Consumer preferences"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          },
+          {
+            "chapter_no": 7,
+            "chapter_name": "Lifelines of National Economy",
+            "video_url": "https://www.youtube.com/watch?v=QWQUKfMIJP8",
+            "questions": [
+              {
+                "question": "What is the primary mode of transportation in developed countries?",
+                "options": {
+                  "A": "Railway",
+                  "B": "Air travel",
+                  "C": "Road transport",
+                  "D": "Shipping"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which factor is essential for economic development?",
+                "options": {
+                  "A": "Transportation infrastructure",
+                  "B": "Cultural diversity",
+                  "C": "Tourism",
+                  "D": "Urbanization"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What are the two primary components of the national economy?",
+                "options": {
+                  "A": "Agriculture & Industry",
+                  "B": "Culture & Heritage",
+                  "C": "Retail & Wholesale",
+                  "D": "Transport & Storage"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which of the following is a lifeline of the economy?",
+                "options": {
+                  "A": "Tourism",
+                  "B": "Agriculture",
+                  "C": "Telecommunications",
+                  "D": "Entertainment"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What does the term 'national economy' refer to?",
+                "options": {
+                  "A": "Gross domestic product",
+                  "B": "Collective efforts of individuals and industries",
+                  "C": "International trade comparisons",
+                  "D": "Government financial policies"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          }
+    ]
+    
+}

@@ -5,640 +5,651 @@
     "channel": "NCERT Wallah",
     "videos": [
       {
-        "title": "SOLUTIONS in 1 Shot: All Concepts & PYQs Covered",
+        "chapter_no":1,
+        "chapter_name": "SOLUTIONS in 1 Shot: All Concepts & PYQs Covered",
         "duration": "6:16:47",
-        "url": "https://www.youtube.com/watch?v=RO8Hp6NFU0k",
+        "video_url": "https://www.youtube.com/watch?v=RO8Hp6NFU0k",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the molality of a solution containing 2 moles of solute in 0.5 kg of solvent?",
             "options": {
-              "1": "4 m",
-              "2": "2 m",
-              "3": "1 m",
-              "4": "3 m"
+              "A": "4 m",
+              "B": "2 m",
+              "C": "1 m",
+              "D": "3 m"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following properties is a colligative property?",
             "options": {
-              "1": "Vapor pressure lowering",
-              "2": "Boiling point elevation",
-              "3": "Freezing point depression",
-              "4": "All of the above"
+              "A": "Vapor pressure lowering",
+              "B": "Boiling point elevation",
+              "C": "Freezing point depression",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What method can be used to determine the molecular weight of a non-volatile solute?",
             "options": {
-              "1": "Freezing point depression",
-              "2": "Boiling point elevation",
-              "3": "Osmotic pressure",
-              "4": "All of the above"
+              "A": "Freezing point depression",
+              "B": "Boiling point elevation",
+              "C": "Osmotic pressure",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "If 1 mole of an ideal solute is dissolved in 1 kg of water, what is the expected freezing point depression?",
             "options": {
-              "1": "-1.86 °C",
-              "2": "0 °C",
-              "3": "1.86 °C",
-              "4": "-3.72 °C"
+              "A": "-1.86 °C",
+              "B": "0 °C",
+              "C": "1.86 °C",
+              "D": "-3.72 °C"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the primary factor affecting the solubility of gases in liquids?",
             "options": {
-              "1": "Temperature",
-              "2": "Pressure",
-              "3": "Nature of the solvent",
-              "4": "Stirring speed"
+              "A": "Temperature",
+              "B": "Pressure",
+              "C": "Nature of the solvent",
+              "D": "Stirring speed"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "title": "ELECTROCHEMISTRY in 1 Shot: All Concepts & PYQs Covered",
+        "chapter_no":2,
+        "chapter_name": "ELECTROCHEMISTRY in 1 Shot: All Concepts & PYQs Covered",
         "duration": "6:30:34",
-        "url": "https://www.youtube.com/watch?v=DkjSh0-mF2w",
+        "video_url": "https://www.youtube.com/watch?v=DkjSh0-mF2w",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What does the Nernst equation relate?",
             "options": {
-              "1": "Concentration and temperature",
-              "2": "Cell potential to concentration",
-              "3": "Current and voltage",
-              "4": "None of the above"
+              "A": "Concentration and temperature",
+              "B": "Cell potential to concentration",
+              "C": "Current and voltage",
+              "D": "None of the above"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "In a galvanic cell, which electrode is positive?",
             "options": {
-              "1": "Anode",
-              "2": "Cathode",
-              "3": "Both are positive",
-              "4": "Neither is positive"
+              "A": "Anode",
+              "B": "Cathode",
+              "C": "Both are positive",
+              "D": "Neither is positive"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following metals is not a strong oxidizing agent?",
             "options": {
-              "1": "Fluorine",
-              "2": "Potassium",
-              "3": "Chlorine",
-              "4": "Oxygen"
+              "A": "Fluorine",
+              "B": "Potassium",
+              "C": "Chlorine",
+              "D": "Oxygen"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the standard electrode potential of a half-cell reaction dependent on?",
             "options": {
-              "1": "Temperature",
-              "2": "Concentration",
-              "3": "Pressure",
-              "4": "All of the above"
+              "A": "Temperature",
+              "B": "Concentration",
+              "C": "Pressure",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the role of a salt bridge in an electrochemical cell?",
             "options": {
-              "1": "To prevent the mixing of solutions",
-              "2": "To maintain electrical neutrality",
-              "3": "To connect the cell to a voltmeter",
-              "4": "To act as an insulator"
+              "A": "To prevent the mixing of solutions",
+              "B": "To maintain electrical neutrality",
+              "C": "To connect the cell to a voltmeter",
+              "D": "To act as an insulator"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "title": "CHEMICAL KINETICS in 1 Shot: All Concepts & PYQs Covered",
+        "chapter_no":3,
+        "chapter_name": "CHEMICAL KINETICS in 1 Shot: All Concepts & PYQs Covered",
         "duration": "5:46:54",
-        "url": "https://www.youtube.com/watch?v=bx62YG22xC0",
+        "video_url": "https://www.youtube.com/watch?v=bx62YG22xC0",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the rate law expression for a second order reaction?",
             "options": {
-              "1": "Rate = k[A]",
-              "2": "Rate = k[A]²",
-              "3": "Rate = k[A][B]",
-              "4": "Rate = k[A]²[B]"
+              "A": "Rate = k[A]",
+              "B": "Rate = k[A]²",
+              "C": "Rate = k[A][B]",
+              "D": "Rate = k[A]²[B]"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What effect does increasing temperature have on the rate of a chemical reaction?",
             "options": {
-              "1": "Decreases the rate",
-              "2": "Increases the rate",
-              "3": "Has no effect",
-              "4": "Depends on reactants"
+              "A": "Decreases the rate",
+              "B": "Increases the rate",
+              "C": "Has no effect",
+              "D": "Depends on reactants"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the activation energy of a reaction?",
             "options": {
-              "1": "Energy needed to start a reaction",
-              "2": "Energy released in the reaction",
-              "3": "Energy needed to break bonds",
-              "4": "Energy required to generate products"
+              "A": "Energy needed to start a reaction",
+              "B": "Energy released in the reaction",
+              "C": "Energy needed to break bonds",
+              "D": "Energy required to generate products"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the term for the difference in energy between reactants and the activated complex?",
             "options": {
-              "1": "Enthalpy",
-              "2": "Gibbs energy",
-              "3": "Activation energy",
-              "4": "Free energy"
+              "A": "Enthalpy",
+              "B": "Gibbs energy",
+              "C": "Activation energy",
+              "D": "Free energy"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What does a catalyst do to the activation energy of a reaction?",
             "options": {
-              "1": "Increases it",
-              "2": "Decreases it",
-              "3": "Has no effect",
-              "4": "Makes it constant"
+              "A": "Increases it",
+              "B": "Decreases it",
+              "C": "Has no effect",
+              "D": "Makes it constant"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "title": "D And F BLOCK ELEMENTS in 1 Shot: All Concepts & PYQs Covered",
+        "chapter_no":4,
+        "chapter_name": "D And F BLOCK ELEMENTS in 1 Shot: All Concepts & PYQs Covered",
         "duration": "9:43:35",
-        "url": "https://www.youtube.com/watch?v=ZQ2BVqfoXMo",
+        "video_url": "https://www.youtube.com/watch?v=ZQ2BVqfoXMo",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What distinguishes transition metals from other metals?",
             "options": {
-              "1": "Presence of d-electrons",
-              "2": "High reactivity",
-              "3": "Lower melting points",
-              "4": "None of the above"
+              "A": "Presence of d-electrons",
+              "B": "High reactivity",
+              "C": "Lower melting points",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following ions has a characteristic color in solution?",
             "options": {
-              "1": "Na+",
-              "2": "Fe3+",
-              "3": "Mg2+",
-              "4": "Ca2+"
+              "A": "Na+",
+              "B": "Fe3+",
+              "C": "Mg2+",
+              "D": "Ca2+"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the general oxidation state of transition metals?",
             "options": {
-              "1": "0",
-              "2": "+1",
-              "3": "+2",
-              "4": "Variable"
+              "A": "0",
+              "B": "+1",
+              "C": "+2",
+              "D": "Variable"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Which element is commonly used as a catalyst in industrial processes?",
             "options": {
-              "1": "Gold",
-              "2": "Platinum",
-              "3": "Iron",
-              "4": "Sodium"
+              "A": "Gold",
+              "B": "Platinum",
+              "C": "Iron",
+              "D": "Sodium"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the electron configuration for a d-block element?",
             "options": {
-              "1": "s²d⁴",
-              "2": "s²d⁵",
-              "3": "s²d¹⁰",
-              "4": "s²d⁴p¹"
+              "A": "s²d⁴",
+              "B": "s²d⁵",
+              "C": "s²d¹⁰",
+              "D": "s²d⁴p¹"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "title": "COORDINATION COMPOUNDS in 1 Shot: All Concept & PYQs Covered",
+        "chapter_no":5,
+        "chapter_name": "COORDINATION COMPOUNDS in 1 Shot: All Concept & PYQs Covered",
         "duration": "10:43:55",
-        "url": "https://www.youtube.com/watch?v=rndrCkiJ6wM",
+        "video_url": "https://www.youtube.com/watch?v=rndrCkiJ6wM",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is a coordination compound?",
             "options": {
-              "1": "A compound with a central atom bonded to ligands",
-              "2": "Ionic compounds only",
-              "3": "Metal oxides",
-              "4": "Organic compounds"
+              "A": "A compound with a central atom bonded to ligands",
+              "B": "Ionic compounds only",
+              "C": "Metal oxides",
+              "D": "Organic compounds"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a bidentate ligand?",
             "options": {
-              "1": "NH3",
-              "2": "EDTA",
-              "3": "Cl-",
-              "4": "H2O"
+              "A": "NH3",
+              "B": "EDTA",
+              "C": "Cl-",
+              "D": "H2O"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the coordination number in a complex?",
             "options": {
-              "1": "Number of ligands attached to the central atom",
-              "2": "Number of electrons",
-              "3": "Total charge of the complex",
-              "4": "None of the above"
+              "A": "Number of ligands attached to the central atom",
+              "B": "Number of electrons",
+              "C": "Total charge of the complex",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What defines the geometry of a coordination compound?",
             "options": {
-              "1": "Ligand type and metal",
-              "2": "Solvent used",
-              "3": "Temperature",
-              "4": "Pressure"
+              "A": "Ligand type and metal",
+              "B": "Solvent used",
+              "C": "Temperature",
+              "D": "Pressure"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following ions commonly forms colored complexes?",
             "options": {
-              "1": "Na+",
-              "2": "Cu2+",
-              "3": "Ca2+",
-              "4": "Mg2+"
+              "A": "Na+",
+              "B": "Cu2+",
+              "C": "Ca2+",
+              "D": "Mg2+"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "title": "HALOALKANES AND HALOARENES in 1 Shot: All Concept & PYQs Covered",
+        "chapter_no":6,
+        "chapter_name": "HALOALKANES AND HALOARENES in 1 Shot: All Concept & PYQs Covered",
         "duration": "6:40:33",
-        "url": "https://www.youtube.com/watch?v=pJXqS_Bq20w",
+        "video_url": "https://www.youtube.com/watch?v=pJXqS_Bq20w",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What type of reaction do haloalkanes primarily undergo?",
             "options": {
-              "1": "Substitution reactions",
-              "2": "Elimination reactions",
-              "3": "Addition reactions",
-              "4": "Redox reactions"
+              "A": "Substitution reactions",
+              "B": "Elimination reactions",
+              "C": "Addition reactions",
+              "D": "Redox reactions"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which haloalkane is known for its medicinal use as an anesthetic?",
             "options": {
-              "1": "Chloroform",
-              "2": "Bromoethane",
-              "3": "Iodomethane",
-              "4": "Fluoroacetone"
+              "A": "Chloroform",
+              "B": "Bromoethane",
+              "C": "Iodomethane",
+              "D": "Fluoroacetone"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the primary cause of the reactivity of haloalkanes?",
             "options": {
-              "1": "C-X bond polarization",
-              "2": "Presence of double bonds",
-              "3": "Stability of the compound",
-              "4": "Solubility"
+              "A": "C-X bond polarization",
+              "B": "Presence of double bonds",
+              "C": "Stability of the compound",
+              "D": "Solubility"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What type of isomerism is observed in haloalkanes?",
             "options": {
-              "1": "Structural isomerism",
-              "2": "Geometric isomerism",
-              "3": "Optical isomerism",
-              "4": "All of the above"
+              "A": "Structural isomerism",
+              "B": "Geometric isomerism",
+              "C": "Optical isomerism",
+              "D": "All of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following compounds is a haloarene?",
             "options": {
-              "1": "Bromobenzene",
-              "2": "Chloroethane",
-              "3": "Fluoromethane",
-              "4": "Iodobutane"
+              "A": "Bromobenzene",
+              "B": "Chloroethane",
+              "C": "Fluoromethane",
+              "D": "Iodobutane"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "title": "ALCOHOLS, PHENOLS AND ETHERS in 1 Shot: All Concept & PYQs Covered",
+        "chapter_no":7,
+        "chapter_name": "ALCOHOLS, PHENOLS AND ETHERS in 1 Shot: All Concept & PYQs Covered",
         "duration": "7:03:20",
-        "url": "https://www.youtube.com/watch?v=yvA9uLI2UEQ",
+        "video_url": "https://www.youtube.com/watch?v=yvA9uLI2UEQ",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the functional group of alcohols?",
             "options": {
-              "1": "-OH",
-              "2": "-NH2",
-              "3": "-COOH",
-              "4": "-CHO"
+              "A": "-OH",
+              "B": "-NH2",
+              "C": "-COOH",
+              "D": "-CHO"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which type of alcohol is most likely to undergo oxidation?",
             "options": {
-              "1": "Tertiary alcohols",
-              "2": "Primary alcohols",
-              "3": "Secondary alcohols",
-              "4": "None of the above"
+              "A": "Tertiary alcohols",
+              "B": "Primary alcohols",
+              "C": "Secondary alcohols",
+              "D": "None of the above"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Ethers are characterized by which functional group?",
             "options": {
-              "1": "-O-",
-              "2": "-OH",
-              "3": "-NH-",
-              "4": "-CO-"
+              "A": "-O-",
+              "B": "-OH",
+              "C": "-NH-",
+              "D": "-CO-"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Phenol can be best described as a compound containing which functional group?",
             "options": {
-              "1": "Alcohol",
-              "2": "Aromatic",
-              "3": "Both alcohol and aromatic",
-              "4": "None of the above"
+              "A": "Alcohol",
+              "B": "Aromatic",
+              "C": "Both alcohol and aromatic",
+              "D": "None of the above"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What type of reaction is the formation of ethers from alcohols?",
             "options": {
-              "1": "Dehydration",
-              "2": "Hydrolysis",
-              "3": "Saponification",
-              "4": "Oxidation"
+              "A": "Dehydration",
+              "B": "Hydrolysis",
+              "C": "Saponification",
+              "D": "Oxidation"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "title": "ALDEHYDES, KETONES AND CARBOXYLIC ACIDS in 1 Shot: All Concept & PYQs",
+        "chapter_no":8,
+        "chapter_name": "ALDEHYDES, KETONES AND CARBOXYLIC ACIDS in 1 Shot: All Concept & PYQs",
         "duration": "8:52:08",
-        "url": "https://www.youtube.com/watch?v=wVxFVQ7aAE8",
+        "video_url": "https://www.youtube.com/watch?v=wVxFVQ7aAE8",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "Which functional group is present in aldehydes?",
             "options": {
-              "1": "-CHO",
-              "2": "-COOH",
-              "3": "-C=O",
-              "4": "-OH"
+              "A": "-CHO",
+              "B": "-COOH",
+              "C": "-C=O",
+              "D": "-OH"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the general reaction type for aldehydes?",
             "options": {
-              "1": "Oxidation to carboxylic acids",
-              "2": "Reduction to alcohols",
-              "3": "Condensation",
-              "4": "Elimination"
+              "A": "Oxidation to carboxylic acids",
+              "B": "Reduction to alcohols",
+              "C": "Condensation",
+              "D": "Elimination"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Ketones can be formed by which process?",
             "options": {
-              "1": "Oxidation of alcohols",
-              "2": "Reduction of carboxylic acids",
-              "3": "Hydrolysis of esters",
-              "4": "None of the above"
+              "A": "Oxidation of alcohols",
+              "B": "Reduction of carboxylic acids",
+              "C": "Hydrolysis of esters",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which carboxylic acid has the highest boiling point?",
             "options": {
-              "1": "Methanoic acid",
-              "2": "Ethanoic acid",
-              "3": "Propanoic acid",
-              "4": "Butanoic acid"
+              "A": "Methanoic acid",
+              "B": "Ethanoic acid",
+              "C": "Propanoic acid",
+              "D": "Butanoic acid"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which process converts carboxylic acids into alcohols?",
             "options": {
-              "1": "Esterification",
-              "2": "Fermentation",
-              "3": "Reduction",
-              "4": "Hydrolysis"
+              "A": "Esterification",
+              "B": "Fermentation",
+              "C": "Reduction",
+              "D": "Hydrolysis"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "title": "AMINES in 1 Shot: All Theory & PYQs Covered",
+        "chapter_no":9,
+        "chapter_name": "AMINES in 1 Shot: All Theory & PYQs Covered",
         "duration": "4:08:13",
-        "url": "https://www.youtube.com/watch?v=dXW63qG4uEs",
+        "video_url": "https://www.youtube.com/watch?v=dXW63qG4uEs",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the general structure of amines?",
             "options": {
-              "1": "RNH2",
-              "2": "R2NH",
-              "3": "R3N",
-              "4": "All of the above"
+              "A": "RNH2",
+              "B": "R2NH",
+              "C": "R3N",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Amines can be classified as:",
             "options": {
-              "1": "Primary, Secondary, Tertiary",
-              "2": "Saturated and Unsaturated",
-              "3": "Aromatic and Aliphatic",
-              "4": "All of the above"
+              "A": "Primary, Secondary, Tertiary",
+              "B": "Saturated and Unsaturated",
+              "C": "Aromatic and Aliphatic",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is the main difference between amines and ammonia?",
             "options": {
-              "1": "Presence of one or more carbon atoms",
-              "2": "Structure",
-              "3": "Basicity",
-              "4": "Reactivity"
+              "A": "Presence of one or more carbon atoms",
+              "B": "Structure",
+              "C": "Basicity",
+              "D": "Reactivity"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which amine is the least basic?",
             "options": {
-              "1": "Tertiary amine",
-              "2": "Secondary amine",
-              "3": "Primary amine",
-              "4": "None of the above"
+              "A": "Tertiary amine",
+              "B": "Secondary amine",
+              "C": "Primary amine",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which reaction involves the formation of amines?",
             "options": {
-              "1": "Reduction of nitriles",
-              "2": "Hydrolysis of amides",
-              "3": "All of the above",
-              "4": "None of the above"
+              "A": "Reduction of nitriles",
+              "B": "Hydrolysis of amides",
+              "C": "All of the above",
+              "D": "None of the above"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
-        "title": "BIOMOLECULES in 1 Shot: All Concept & PYQs Covered",
+        "chapter_no":10,
+        "chapter_name": "BIOMOLECULES in 1 Shot: All Concept & PYQs Covered",
         "duration": "3:14:24",
-        "url": "https://www.youtube.com/watch?v=1OJ5E1Acx_I",
+        "video_url": "https://www.youtube.com/watch?v=1OJ5E1Acx_I",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What is the primary structure of proteins?",
             "options": {
-              "1": "Sequence of amino acids",
-              "2": "α-helix structure",
-              "3": "β-pleated sheet",
-              "4": "Tertiary structure"
+              "A": "Sequence of amino acids",
+              "B": "α-helix structure",
+              "C": "β-pleated sheet",
+              "D": "Tertiary structure"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which biomolecule serves as the primary energy source?",
             "options": {
-              "1": "Nucleic acids",
-              "2": "Proteins",
-              "3": "Carbohydrates",
-              "4": "Lipids"
+              "A": "Nucleic acids",
+              "B": "Proteins",
+              "C": "Carbohydrates",
+              "D": "Lipids"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What are nucleotides composed of?",
             "options": {
-              "1": "Sugar, phosphate, and nitrogenous base",
-              "2": "Amino acids",
-              "3": "Fatty acids",
-              "4": "Glycerol"
+              "A": "Sugar, phosphate, and nitrogenous base",
+              "B": "Amino acids",
+              "C": "Fatty acids",
+              "D": "Glycerol"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a monosaccharide?",
             "options": {
-              "1": "Glucose",
-              "2": "Sucrose",
-              "3": "Starch",
-              "4": "Cellulose"
+              "A": "Glucose",
+              "B": "Sucrose",
+              "C": "Starch",
+              "D": "Cellulose"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the role of enzymes in biochemical reactions?",
             "options": {
-              "1": "Speed up reactions",
-              "2": "Slow down reactions",
-              "3": "Change reaction products",
-              "4": "None of the above"
+              "A": "Speed up reactions",
+              "B": "Slow down reactions",
+              "C": "Change reaction products",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "title": "BIOMOLECULES - NCERT Solutions | Organic Chemistry Chapter 05",
+        "chapter_no":11,
+        "chapter_name": "BIOMOLECULES - NCERT Solutions | Organic Chemistry Chapter 05",
         "duration": "44:01",
-        "url": "https://www.youtube.com/watch?v=GZb1A-bAHP8",
+        "video_url": "https://www.youtube.com/watch?v=GZb1A-bAHP8",
         "channel": "NCERT Wallah",
         "questions": [
           {
             "question": "What type of biomolecule is glucose?",
             "options": {
-              "1": "Disaccharide",
-              "2": "Monosaccharide",
-              "3": "Polysaccharide",
-              "4": "Alcohol"
+              "A": "Disaccharide",
+              "B": "Monosaccharide",
+              "C": "Polysaccharide",
+              "D": "Alcohol"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the primary function of nucleic acids?",
             "options": {
-              "1": "Energy storage",
-              "2": "Genetic information",
-              "3": "Structural support",
-              "4": "Cell signaling"
+              "A": "Energy storage",
+              "B": "Genetic information",
+              "C": "Structural support",
+              "D": "Cell signaling"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a lipid?",
             "options": {
-              "1": "Triglycerides",
-              "2": "DNA",
-              "3": "Protein",
-              "4": "Glucose"
+              "A": "Triglycerides",
+              "B": "DNA",
+              "C": "Protein",
+              "D": "Glucose"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is the basic building block of proteins?",
             "options": {
-              "1": "Amino acids",
-              "2": "Fatty acids",
-              "3": "Nucleotides",
-              "4": "Monosaccharides"
+              "A": "Amino acids",
+              "B": "Fatty acids",
+              "C": "Nucleotides",
+              "D": "Monosaccharides"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What type of bond links amino acids in a protein?",
             "options": {
-              "1": "Ionic bond",
-              "2": "Covalent bond",
-              "3": "Hydrogen bond",
-              "4": "Disulfide bond"
+              "A": "Ionic bond",
+              "B": "Covalent bond",
+              "C": "Hydrogen bond",
+              "D": "Disulfide bond"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       }

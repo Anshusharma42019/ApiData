@@ -5,7 +5,7 @@
   "chapters": [
     {
       "chapter_no": 1,
-      "title": "What Is Long, What Is Round?",
+      "chapter_name": "What Is Long, What Is Round?",
       "questions": [
         {
           "question": "Which of these objects is round?",
@@ -61,7 +61,7 @@
     },
     {
       "chapter_no": 2,
-      "title": "Counting In Groups",
+      "chapter_name": "Counting In Groups",
       "questions": [
         {
           "question": "If 1 bunch has 10 bananas, how many bananas in 3 bunches?",
@@ -117,7 +117,7 @@
     },
     {
       "chapter_no": 3,
-      "title": "How Much Can You Carry?",
+      "chapter_name": "How Much Can You Carry?",
       "questions": [
         {
           "question": "Which is heavier?",
@@ -173,12 +173,12 @@
     },
     {
       "chapter_no": 4,
-      "title": "Counting In Tens",
+      "chapter_name": "Counting In Tens",
       "questions": [
         {
           "question": "How many tens make 50?",
           "options": {
-            "A": "2",
+            "A": "B",
             "B": "5",
             "C": "10",
             "D": "50"
@@ -229,7 +229,7 @@
     },
     {
       "chapter_no": 5,
-      "title": "Patterns",
+      "chapter_name": "Patterns",
       "questions": [
         {
           "question": "What comes next? 🔴, 🔵, 🔴, 🔵, ___",
@@ -285,7 +285,7 @@
     },
     {
       "chapter_no": 6,
-      "title": "Footprints",
+      "chapter_name": "Footprints",
       "questions": [
         {
           "question": "Footprints can tell us about:",
@@ -341,7 +341,7 @@
     },
     {
       "chapter_no": 7,
-      "title": "Jugs and Mugs",
+      "chapter_name": "Jugs and Mugs",
       "questions": [
         {
           "question": "Which holds more water?",
@@ -356,9 +356,9 @@
         {
           "question": "How many small cups (200ml) fill a 1 liter jug?",
           "options": {
-            "A": "2",
-            "B": "3",
-            "C": "4",
+            "A": "B",
+            "B": "C",
+            "C": "D",
             "D": "5"
           },
           "correct_answer": "D"
@@ -397,13 +397,13 @@
     },
     {
       "chapter_no": 8,
-      "title": "Tens and Ones",
+      "chapter_name": "Tens and Ones",
       "questions": [
         {
           "question": "How many tens in 47?",
           "options": {
-            "A": "2",
-            "B": "4",
+            "A": "B",
+            "B": "D",
             "C": "7",
             "D": "47"
           },
@@ -453,7 +453,7 @@
     },
     {
       "chapter_no": 9,
-      "title": "My Funday",
+      "chapter_name": "My Funday",
       "questions": [
         {
           "question": "How many days in a week?",
@@ -498,8 +498,8 @@
         {
           "question": "How many Sundays in one month?",
           "options": {
-            "A": "1",
-            "B": "4",
+            "A": "A",
+            "B": "D",
             "C": "7",
             "D": "12"
           },
@@ -509,7 +509,7 @@
     },
     {
       "chapter_no": 10,
-      "title": "Add Our Points",
+      "chapter_name": "Add Our Points",
       "questions": [
         {
           "question": "If Team A has 12 points and Team B has 15, who has more?",
@@ -534,7 +534,7 @@
         {
           "question": "If you have 5 marbles and get 4 more, how many total?",
           "options": {
-            "A": "1",
+            "A": "A",
             "B": "5",
             "C": "9",
             "D": "20"
@@ -565,7 +565,7 @@
     },
     {
       "chapter_no": 11,
-      "title": "Lines and Lines",
+      "chapter_name": "Lines and Lines",
       "questions": [
         {
           "question": "Which is a straight line?",
@@ -580,9 +580,9 @@
         {
           "question": "How many sides does a triangle have?",
           "options": {
-            "A": "2",
-            "B": "3",
-            "C": "4",
+            "A": "B",
+            "B": "C",
+            "C": "D",
             "D": "5"
           },
           "correct_answer": "B"
@@ -600,9 +600,9 @@
         {
           "question": "A rectangle has how many straight sides?",
           "options": {
-            "A": "2",
-            "B": "3",
-            "C": "4",
+            "A": "B",
+            "B": "C",
+            "C": "D",
             "D": "5"
           },
           "correct_answer": "C"
@@ -621,12 +621,12 @@
     },
     {
       "chapter_no": 12,
-      "title": "Give and Take",
+      "chapter_name": "Give and Take",
       "questions": [
         {
           "question": "If you have 10 candies and give 3 away, how many left?",
           "options": {
-            "A": "3",
+            "A": "C",
             "B": "7",
             "C": "10",
             "D": "13"
@@ -677,7 +677,7 @@
     },
     {
       "chapter_no": 13,
-      "title": "The Longest Step",
+      "chapter_name": "The Longest Step",
       "questions": [
         {
           "question": "Who can take the longest step?",
@@ -733,13 +733,13 @@
     },
     {
       "chapter_no": 14,
-      "title": "Birds Come, Birds Go",
+      "chapter_name": "Birds Come, Birds Go",
       "questions": [
         {
           "question": "If 5 birds are on a tree and 2 fly away, how many remain?",
           "options": {
-            "A": "2",
-            "B": "3",
+            "A": "B",
+            "B": "C",
             "C": "5",
             "D": "7"
           },
@@ -748,7 +748,7 @@
         {
           "question": "What is 10 - 4?",
           "options": {
-            "A": "4",
+            "A": "D",
             "B": "6",
             "C": "10",
             "D": "14"
@@ -758,7 +758,7 @@
         {
           "question": "If 3 birds come back, how many total now? (from Q1)",
           "options": {
-            "A": "3",
+            "A": "C",
             "B": "5",
             "C": "6",
             "D": "8"
@@ -789,13 +789,13 @@
     },
     {
       "chapter_no": 15,
-      "title": "How Many Ponytails?",
+      "chapter_name": "How Many Ponytails?",
       "questions": [
         {
           "question": "If 1 girl has 2 ponytails, how many ponytails for 3 girls?",
           "options": {
-            "A": "2",
-            "B": "3",
+            "A": "B",
+            "B": "C",
             "C": "5",
             "D": "6"
           },
@@ -804,8 +804,8 @@
         {
           "question": "What is 2 × 4?",
           "options": {
-            "A": "2",
-            "B": "4",
+            "A": "B",
+            "B": "D",
             "C": "6",
             "D": "8"
           },
@@ -814,8 +814,8 @@
         {
           "question": "If 5 ponytails need 10 ribbons, how many ribbons per ponytail?",
           "options": {
-            "A": "1",
-            "B": "2",
+            "A": "A",
+            "B": "B",
             "C": "5",
             "D": "10"
           },

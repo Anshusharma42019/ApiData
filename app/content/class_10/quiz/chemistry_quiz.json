@@ -3,282 +3,282 @@
     "subject": "Chemistry",
     "chapters": [
       {
-        "chapter_number": 1,
+        "chapter_no": 1,
         "chapter_name": "Chemical Reactions and Equations",
         "questions": [
           {
-            "quiz_question": "What is the law of conservation of mass?",
+            "question": "What is the law of conservation of mass?",
             "options": {
-              "1": "Mass can be created",
-              "2": "Mass can be destroyed",
-              "3": "Mass is constant in a chemical reaction",
-              "4": "Mass is always increasing"
+              "A": "Mass can be created",
+              "B": "Mass can be destroyed",
+              "C": "Mass is constant in a chemical reaction",
+              "D": "Mass is always increasing"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is a type of chemical reaction?",
+            "question": "Which of the following is a type of chemical reaction?",
             "options": {
-              "1": "Synthesis",
-              "2": "Decomposition",
-              "3": "Single displacement",
-              "4": "All of the above"
+              "A": "Synthesis",
+              "B": "Decomposition",
+              "C": "Single displacement",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "In a balanced chemical equation, the number of atoms of each element is:",
+            "question": "In a balanced chemical equation, the number of atoms of each element is:",
             "options": {
-              "1": "Increased",
-              "2": "Decreased",
-              "3": "Equal on both sides",
-              "4": "Irrelevant"
+              "A": "Increased",
+              "B": "Decreased",
+              "C": "Equal on both sides",
+              "D": "Irrelevant"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is formed during a neutralization reaction?",
+            "question": "What is formed during a neutralization reaction?",
             "options": {
-              "1": "Salt and water",
-              "2": "Acid and base",
-              "3": "Gas and solid",
-              "4": "None of the above"
+              "A": "Salt and water",
+              "B": "Acid and base",
+              "C": "Gas and solid",
+              "D": "None of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What type of reaction is represented by the equation: A + B → AB?",
+            "question": "What type of reaction is represented by the equation: A + B → AB?",
             "options": {
-              "1": "Decomposition",
-              "2": "Synthesis",
-              "3": "Single displacement",
-              "4": "Double displacement"
+              "A": "Decomposition",
+              "B": "Synthesis",
+              "C": "Single displacement",
+              "D": "Double displacement"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 2,
+        "chapter_no": 2,
         "chapter_name": "Acids, Bases and Salts",
         "questions": [
           {
-            "quiz_question": "What is the pH range of acidic solutions?",
+            "question": "What is the pH range of acidic solutions?",
             "options": {
-              "1": "0 to 7",
-              "2": "7 to 14",
-              "3": "Equals 7",
-              "4": "None of the above"
+              "A": "0 to 7",
+              "B": "7 to 14",
+              "C": "Equals 7",
+              "D": "None of the above"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is considered a strong acid?",
+            "question": "Which of the following is considered a strong acid?",
             "options": {
-              "1": "Acetic acid",
-              "2": "Citric acid",
-              "3": "Hydrochloric acid",
-              "4": "Boric acid"
+              "A": "Acetic acid",
+              "B": "Citric acid",
+              "C": "Hydrochloric acid",
+              "D": "Boric acid"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is produced when an acid reacts with a metal?",
+            "question": "What is produced when an acid reacts with a metal?",
             "options": {
-              "1": "Salt",
-              "2": "Hydrogen gas",
-              "3": "Water",
-              "4": "Carbon dioxide"
+              "A": "Salt",
+              "B": "Hydrogen gas",
+              "C": "Water",
+              "D": "Carbon dioxide"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the chemical formula for common salt?",
+            "question": "What is the chemical formula for common salt?",
             "options": {
-              "1": "NaCl",
-              "2": "KCl",
-              "3": "CaCl2",
-              "4": "MgCl2"
+              "A": "NaCl",
+              "B": "KCl",
+              "C": "CaCl2",
+              "D": "MgCl2"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which indicator is used to test for acids?",
+            "question": "Which indicator is used to test for acids?",
             "options": {
-              "1": "Litmus",
-              "2": "Bromothymol blue",
-              "3": "Phenolphthalein",
-              "4": "Universal indicator"
+              "A": "Litmus",
+              "B": "Bromothymol blue",
+              "C": "Phenolphthalein",
+              "D": "Universal indicator"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "chapter_number": 3,
+        "chapter_no": 3,
         "chapter_name": "Metals and Non-Metals",
         "questions": [
           {
-            "quiz_question": "What property distinguishes metals from non-metals?",
+            "question": "What property distinguishes metals from non-metals?",
             "options": {
-              "1": "Brittleness",
-              "2": "Conductivity",
-              "3": "Luster",
-              "4": "All of the above"
+              "A": "Brittleness",
+              "B": "Conductivity",
+              "C": "Luster",
+              "D": "All of the above"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following metals does not react with water?",
+            "question": "Which of the following metals does not react with water?",
             "options": {
-              "1": "Sodium",
-              "2": "Potassium",
-              "3": "Gold",
-              "4": "Calcium"
+              "A": "Sodium",
+              "B": "Potassium",
+              "C": "Gold",
+              "D": "Calcium"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the term for the process of extracting metals from their ores?",
+            "question": "What is the term for the process of extracting metals from their ores?",
             "options": {
-              "1": "Refining",
-              "2": "Smelting",
-              "3": "Electrolysis",
-              "4": "Alloying"
+              "A": "Refining",
+              "B": "Smelting",
+              "C": "Electrolysis",
+              "D": "Alloying"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which non-metal is essential for respiration in living organisms?",
+            "question": "Which non-metal is essential for respiration in living organisms?",
             "options": {
-              "1": "Hydrogen",
-              "2": "Oxygen",
-              "3": "Nitrogen",
-              "4": "Carbon"
+              "A": "Hydrogen",
+              "B": "Oxygen",
+              "C": "Nitrogen",
+              "D": "Carbon"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the most abundant metal in the Earth's crust?",
+            "question": "What is the most abundant metal in the Earth's crust?",
             "options": {
-              "1": "Iron",
-              "2": "Aluminum",
-              "3": "Copper",
-              "4": "Zinc"
+              "A": "Iron",
+              "B": "Aluminum",
+              "C": "Copper",
+              "D": "Zinc"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 4,
+        "chapter_no": 4,
         "chapter_name": "Carbon and Its Compounds",
         "questions": [
           {
-            "quiz_question": "Which of the following is a common property of carbon compounds?",
+            "question": "Which of the following is a common property of carbon compounds?",
             "options": {
-              "1": "They have high melting points",
-              "2": "They are mostly ionic",
-              "3": "They form covalent bonds",
-              "4": "They are mostly gases"
+              "A": "They have high melting points",
+              "B": "They are mostly ionic",
+              "C": "They form covalent bonds",
+              "D": "They are mostly gases"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What type of bond is formed between two carbon atoms?",
+            "question": "What type of bond is formed between two carbon atoms?",
             "options": {
-              "1": "Ionic bond",
-              "2": "Covalent bond",
-              "3": "Metallic bond",
-              "4": "Hydrogen bond"
+              "A": "Ionic bond",
+              "B": "Covalent bond",
+              "C": "Metallic bond",
+              "D": "Hydrogen bond"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the general formula for alkanes?",
+            "question": "What is the general formula for alkanes?",
             "options": {
-              "1": "C_nH_(2n+2)",
-              "2": "C_nH_(2n)",
-              "3": "C_nH_(2n-2)",
-              "4": "C_nH_n"
+              "A": "C_nH_(2n+2)",
+              "B": "C_nH_(2n)",
+              "C": "C_nH_(2n-2)",
+              "D": "C_nH_n"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is an unsaturated hydrocarbon?",
+            "question": "Which of the following is an unsaturated hydrocarbon?",
             "options": {
-              "1": "C2H6",
-              "2": "C3H8",
-              "3": "C2H4",
-              "4": "C4H10"
+              "A": "C2H6",
+              "B": "C3H8",
+              "C": "C2H4",
+              "D": "C4H10"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which carbon compound is known as the 'king of chemicals'?",
+            "question": "Which carbon compound is known as the 'king of chemicals'?",
             "options": {
-              "1": "Sodium chloride",
-              "2": "Sulfuric acid",
-              "3": "Acetic acid",
-              "4": "Chloroform"
+              "A": "Sodium chloride",
+              "B": "Sulfuric acid",
+              "C": "Acetic acid",
+              "D": "Chloroform"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 5,
+        "chapter_no": 5,
         "chapter_name": "Periodic Classification of Elements",
         "questions": [
           {
-            "quiz_question": "Who is known as the father of the periodic table?",
+            "question": "Who is known as the father of the periodic table?",
             "options": {
-              "1": "Dmitri Mendeleev",
-              "2": "John Dalton",
-              "3": "Albert Einstein",
-              "4": "Niels Bohr"
+              "A": "Dmitri Mendeleev",
+              "B": "John Dalton",
+              "C": "Albert Einstein",
+              "D": "Niels Bohr"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the basis of the modern periodic table?",
+            "question": "What is the basis of the modern periodic table?",
             "options": {
-              "1": "Atomic mass",
-              "2": "Atomic number",
-              "3": "Chemical properties",
-              "4": "Mass number"
+              "A": "Atomic mass",
+              "B": "Atomic number",
+              "C": "Chemical properties",
+              "D": "Mass number"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which group of elements is known as noble gases?",
+            "question": "Which group of elements is known as noble gases?",
             "options": {
-              "1": "Group 1",
-              "2": "Group 2",
-              "3": "Group 17",
-              "4": "Group 18"
+              "A": "Group 1",
+              "B": "Group 2",
+              "C": "Group 17",
+              "D": "Group 18"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is the common characteristic of elements in the same group?",
+            "question": "What is the common characteristic of elements in the same group?",
             "options": {
-              "1": "Similar physical properties",
-              "2": "Similar chemical properties",
-              "3": "Same number of valence electrons",
-              "4": "All of the above"
+              "A": "Similar physical properties",
+              "B": "Similar chemical properties",
+              "C": "Same number of valence electrons",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "Which of the following is a metal?",
+            "question": "Which of the following is a metal?",
             "options": {
-              "1": "Neon",
-              "2": "Chlorine",
-              "3": "Calcium",
-              "4": "Bromine"
+              "A": "Neon",
+              "B": "Chlorine",
+              "C": "Calcium",
+              "D": "Bromine"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       }

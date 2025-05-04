@@ -1,0 +1,181 @@
+{
+    "class": "9",
+    "subject": "Economics",
+    "channel": "CBSE Guidence",
+    "chapters":[
+        {
+            "chapter_no": 1,
+            "chapter_name": "The Story of Village Palampur",
+            "video_url": "https://www.youtube.com/watch?v=DIuqnCuMD-s&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=10",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What primarily characterizes the village of Palampur?",
+                "options": {
+                  "A": "Industrialization",
+                  "B": "Agricultural practices",
+                  "C": "Urban development",
+                  "D": "Mining activities"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What are the main crops grown in Palampur?",
+                "options": {
+                  "A": "Rice and wheat",
+                  "B": "Cotton and coffee",
+                  "C": "Sugarcane and tea",
+                  "D": "Millets and pulses"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What type of farming is predominant in Palampur?",
+                "options": {
+                  "A": "Commercial agriculture",
+                  "B": "Subsistence farming",
+                  "C": "Intensive farming",
+                  "D": "Organic farming"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common method of irrigation in Palampur?",
+                "options": {
+                  "A": "Drip irrigation",
+                  "B": "Canal irrigation",
+                  "C": "Rainfed",
+                  "D": "Flood irrigation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How does the village economy function?",
+                "options": {
+                  "A": "Only through agriculture",
+                  "B": "Based on trade and services",
+                  "C": "Through primary and secondary sectors",
+                  "D": "Only reliant on local industries"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "People as Resource",
+            "video_url": "https://www.youtube.com/watch?v=jnozNiSQ3TQ&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=11",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What does the term 'human resource' refer to?",
+                "options": {
+                  "A": "Natural resources",
+                  "B": "Labor force",
+                  "C": "Capital",
+                  "D": "Natural gifts"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How can education enhance human resources?",
+                "options": {
+                  "A": "By reducing employment",
+                  "B": "By improving skills and productivity",
+                  "C": "By distributing wealth",
+                  "D": "By increasing population"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the main aim of workforce development?",
+                "options": {
+                  "A": "To create unemployment",
+                  "B": "To advance skills",
+                  "C": "To limit education",
+                  "D": "To promote hierarchy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the role of women in the economy?",
+                "options": {
+                  "A": "Limited contribution",
+                  "B": "Equal role",
+                  "C": "Lower wages",
+                  "D": "Priority in labor force"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does demographic dividend refer to?",
+                "options": {
+                  "A": "Population decline",
+                  "B": "Youth population dynamic",
+                  "C": "High unemployment",
+                  "D": "Older workforce"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Poverty as a Challenge",
+            "video_url": "https://www.youtube.com/watch?v=tW6Mv-EKdOo&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=12",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is a significant measure of poverty?",
+                "options": {
+                  "A": "Income level",
+                  "B": "Education level",
+                  "C": "Employment status",
+                  "D": "Wealth distribution"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which type of poverty refers to severe deprivation of basic human needs?",
+                "options": {
+                  "A": "Relative poverty",
+                  "B": "Absolute poverty",
+                  "C": "Chronic poverty",
+                  "D": "Seasonal poverty"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the main effect of poverty on education?",
+                "options": {
+                  "A": "Improves education quality",
+                  "B": "Reduces access to schooling",
+                  "C": "Promotes literacy",
+                  "D": "Guarantees equal opportunities"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which group is most vulnerable to poverty?",
+                "options": {
+                  "A": "Urban dwellers",
+                  "B": "The elderly",
+                  "C": "Children",
+                  "D": "Skilled workers"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common solution to reduce poverty?",
+                "options": {
+                  "A": "Lack of education",
+                  "B": "Job creation",
+                  "C": "Tax increases",
+                  "D": "Population control"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          }
+    ]
+}

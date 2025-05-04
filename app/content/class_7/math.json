@@ -1,134 +1,862 @@
 {
-    "class": "Class 7",
-    "subject": "Mathematics",
-    "book": "NCERT",
-    "video_explanations": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Integers",
-        "video_duration": "4:45:31",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://youtu.be/61tKuZINf_A?si=dhGiffnhhg1ZAxi2"
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Fraction and Decimals",
-        "video_parts": [
-          {
-            "part": 1,
-            "video_duration": "1:56:53",
-            "video_url": "https://www.youtube.com/watch?v=zwq5L1E--nM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=2"
+  "class": "Class 7",
+  "subject": "Mathematics",
+  "book": "NCERT",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Integers",
+      "video_duration": "4:45:31",
+      "channel": "Magnet Brains",
+      "video_url": "https://youtu.be/61tKuZINf_A?si=dhGiffnhhg1ZAxi2",
+      "questions": [
+        {
+          "question": "What is the result of adding -7 and 3?",
+          "options": {
+            "A": "-4",
+            "B": "10",
+            "C": "D",
+            "D": "-10"
           },
-          {
-            "part": 2,
-            "video_duration": "3:59:21",
-            "video_url": "https://www.youtube.com/watch?v=B5oPeb6neSs&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=3"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you get when you subtract -4 from -7?",
+          "options": {
+            "A": "C",
+            "B": "0",
+            "C": "11",
+            "D": "-3"
           },
-          {
-            "part": 3,
-            "video_duration": "5:54:55",
-            "video_url": "https://www.youtube.com/watch?v=g1tBYT7XEwk&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=4"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Data Handling",
-        "video_parts": [
-          {
-            "part": 1,
-            "video_duration": "2:23:50",
-            "video_url": "https://www.youtube.com/watch?v=cvaNThiFx_c&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=5"
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which of the following is the largest integer?",
+          "options": {
+            "A": "-5",
+            "B": "0",
+            "C": "3",
+            "D": "-1"
           },
-          {
-            "part": 2,
-            "video_duration": "3:16:40",
-            "video_url": "https://www.youtube.com/watch?v=d6U3LVN5pFE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=6"
+          "correct_answer": "C"
+        },
+        {
+          "question": "If a = -5 and b = -3, what is the value of a × b?",
+          "options": {
+            "A": "15",
+            "B": "8",
+            "C": "-8",
+            "D": "-15"
           },
-          {
-            "part": 3,
-            "video_duration": "5:39:48",
-            "video_url": "https://www.youtube.com/watch?v=qfT8qQ5g9IM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=7"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Simple Equations",
-        "video_duration": "3:20:54",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=NwbKmhEE1WA&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=9"
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Lines and Angles",
-        "video_duration": "2:13:00",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=pNYUzZRJJgU&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=12"
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "The Triangle and Its Properties",
-        "video_duration": "3:30:48",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=OmIEGpNQSU0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=14"
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "Algebraic Expressions",
-        "video_duration": "1:28:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=x_97EHtNYqM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=16"
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "Congruence of Triangles",
-        "video_duration": "1:25:49",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=jjhsQY2Fe3s&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=17"
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "Comparing Quantities",
-        "video_duration": "3:53:31",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=rgyTMZL6ii0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=19"
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "Practical Geometry",
-        "video_duration": "2:51:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=th_rb0vwy7Q&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=21"
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "Perimeter and Area",
-        "video_duration": "4:31:05",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=9k4GVfziqk8&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=22"
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "Algebraic Expressions",
-        "video_duration": "3:12:22",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=0HR6jaJfKqg&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=23"
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "Exponents and Powers",
-        "video_duration": "2:49:35",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=KH436yfdPcY&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=24"
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "Visualising Solid Shapes",
-        "video_duration": "1:53:45",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=510LMwfuWtE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=25"
-      }
-    ]
-  }
-  
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a = -1 and b = 7, what is the result of a + b?",
+          "options": {
+            "A": "6",
+            "B": "0",
+            "C": "-8",
+            "D": "8"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Fraction and Decimals",
+      "video_parts": [
+        {
+          "part": 1,
+          "video_duration": "1:56:53",
+          "video_url": "https://www.youtube.com/watch?v=zwq5L1E--nM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=2"
+        },
+        {
+          "part": 2,
+          "video_duration": "3:59:21",
+          "video_url": "https://www.youtube.com/watch?v=B5oPeb6neSs&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=3"
+        },
+        {
+          "part": 3,
+          "video_duration": "5:54:55",
+          "video_url": "https://www.youtube.com/watch?v=g1tBYT7XEwk&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=4"
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the sum of 3/4 and 1/2?",
+          "options": {
+            "A": "5/4",
+            "B": "7/4",
+            "C": "1/4",
+            "D": "3/8"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the product of 0.75 and 0.25?",
+          "options": {
+            "A": "0.1875",
+            "B": "1.00",
+            "C": "0.10",
+            "D": "0.50"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 1/4 of 2/3?",
+          "options": {
+            "A": "1/6",
+            "B": "1/12",
+            "C": "1/3",
+            "D": "1/4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is 6.3 + 4.88?",
+          "options": {
+            "A": "11.18",
+            "B": "10.18",
+            "C": "11.08",
+            "D": "10.08"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the value of 1.5 * 2.0?",
+          "options": {
+            "A": "3.0",
+            "B": "4.0",
+            "C": "2.0",
+            "D": "6.0"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Data Handling",
+      "video_parts": [
+        {
+          "part": 1,
+          "video_duration": "2:23:50",
+          "video_url": "https://www.youtube.com/watch?v=cvaNThiFx_c&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=5"
+        },
+        {
+          "part": 2,
+          "video_duration": "3:16:40",
+          "video_url": "https://www.youtube.com/watch?v=d6U3LVN5pFE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=6"
+        },
+        {
+          "part": 3,
+          "video_duration": "5:39:48",
+          "video_url": "https://www.youtube.com/watch?v=qfT8qQ5g9IM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=7"
+        }
+      ],
+      "questions": [
+        {
+          "question": "If the data set is {2, 3, 3, 5, 7}, what is the mean?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "3.5",
+            "D": "3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the term for the difference between the maximum and minimum value?",
+          "options": {
+            "A": "Average",
+            "B": "Mean",
+            "C": "Range",
+            "D": "Mode"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is NOT a method of data collection?",
+          "options": {
+            "A": "Survey",
+            "B": "Interview",
+            "C": "How",
+            "D": "Questionnaire"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If the average marks of 5 students in a class is 80, what is their total score?",
+          "options": {
+            "A": "400",
+            "B": "450",
+            "C": "300",
+            "D": "350"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does the mode represent?",
+          "options": {
+            "A": "The value that occurs most frequently",
+            "B": "The value that occurs least frequently",
+            "C": "Total value",
+            "D": "Average value"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Simple Equations",
+      "video_duration": "3:20:54",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=NwbKmhEE1WA&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=9",
+      "questions": [
+        {
+          "question": "What is the value of x in the equation 2x + 4 = 12?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "10",
+            "D": "8"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If 5x + 3 = 23, what is the value of x?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "8",
+            "D": "10"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the solution to the equation 3(x - 1) = 6?",
+          "options": {
+            "A": "5",
+            "B": "3",
+            "C": "6",
+            "D": "2"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the value of y in the equation 2(3y + 4) = 28?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If x/5 - 2 = 3, what is the value of x?",
+          "options": {
+            "A": "25",
+            "B": "20",
+            "C": "15",
+            "D": "10"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Lines and Angles",
+      "video_duration": "2:13:00",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=pNYUzZRJJgU&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=12",
+      "questions": [
+        {
+          "question": "If two lines intersect, what is the sum of the angles formed on one side?",
+          "options": {
+            "A": "90 degrees",
+            "B": "180 degrees",
+            "C": "360 degrees",
+            "D": "270 degrees"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the relationship between corresponding angles when two parallel lines are cut by a transversal?",
+          "options": {
+            "A": "They are equal.",
+            "B": "They are supplementary.",
+            "C": "They are complementary.",
+            "D": "They are not related."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of angle is formed by two rays that point in opposite directions?",
+          "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Straight",
+            "D": "Reflex"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If angle A is 45 degrees, what is the measure of its complement?",
+          "options": {
+            "A": "45 degrees",
+            "B": "90 degrees",
+            "C": "135 degrees",
+            "D": "55 degrees"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you call angles that add up to 180 degrees?",
+          "options": {
+            "A": "Complementary angles",
+            "B": "Adjacent angles",
+            "C": "Supplementary angles",
+            "D": "Vertical angles"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "The Triangle and Its Properties",
+      "video_duration": "3:30:48",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=OmIEGpNQSU0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=14",
+      "questions": [
+        {
+          "question": "What is the sum of the angles in a triangle?",
+          "options": {
+            "A": "90 degrees",
+            "B": "180 degrees",
+            "C": "270 degrees",
+            "D": "360 degrees"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How many sides does a triangle have?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If one angle of a triangle is 90 degrees, what type of triangle is it?",
+          "options": {
+            "A": "Acute triangle",
+            "B": "Obtuse triangle",
+            "C": "Right triangle",
+            "D": "Equilateral triangle"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "In an equilateral triangle, what is the measure of each angle?",
+          "options": {
+            "A": "60 degrees",
+            "B": "45 degrees",
+            "C": "90 degrees",
+            "D": "120 degrees"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the term for a triangle with all sides of different lengths?",
+          "options": {
+            "A": "Isosceles",
+            "B": "Equilateral",
+            "C": "Scalene",
+            "D": "Right-angled"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Algebraic Expressions",
+      "video_duration": "1:28:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=x_97EHtNYqM&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=16",
+      "questions": [
+        {
+          "question": "What is the value of the expression 3x + 4 when x = 2?",
+          "options": {
+            "A": "10",
+            "B": "14",
+            "C": "8",
+            "D": "12"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a polynomial?",
+          "options": {
+            "A": "3x^2 + 2x + 1",
+            "B": "1/x",
+            "C": "√x",
+            "D": "2 + 3i"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the coefficient of x in the expression 5x^2 - 3x + 2?",
+          "options": {
+            "A": "-3",
+            "B": "5",
+            "C": "0",
+            "D": "2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If p = 3 and q = -1, what is the value of 2p - 3q?",
+          "options": {
+            "A": "9",
+            "B": "6",
+            "C": "12",
+            "D": "15"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What do you call the term that contains only numbers in an algebraic expression?",
+          "options": {
+            "A": "Coefficient",
+            "B": "Constant",
+            "C": "Variable",
+            "D": "Term"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Congruence of Triangles",
+      "video_duration": "1:25:49",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=jjhsQY2Fe3s&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=17",
+      "questions": [
+        {
+          "question": "Triangles are congruent if they have equal:",
+          "options": {
+            "A": "Angles",
+            "B": "Sides",
+            "C": "Both sides and angles",
+            "D": "Perimeters"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the criterion for the congruence of triangles?",
+          "options": {
+            "A": "ASA",
+            "B": "AAS",
+            "C": "SSS",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "If two angles and the included side of one triangle are equal to two angles and the included side of another triangle, what can be said about these triangles?",
+          "options": {
+            "A": "They are similar.",
+            "B": "They are congruent.",
+            "C": "They are different.",
+            "D": "No relation."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is NOT a type of congruence?",
+          "options": {
+            "A": "Side-Side-Side (SSS)",
+            "B": "Angle-Side-Angle (ASA)",
+            "C": "Angle-Angle-Angle (AAA)",
+            "D": "Side-Angle-Side (SAS)"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If two triangles are congruent, what can be said about their areas?",
+          "options": {
+            "A": "They are equal.",
+            "B": "They are different.",
+            "C": "One is larger.",
+            "D": "Cannot be determined."
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Comparing Quantities",
+      "video_duration": "3:53:31",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=rgyTMZL6ii0&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=19",
+      "questions": [
+        {
+          "question": "What is the percentage increase if the price of an item goes from $50 to $75?",
+          "options": {
+            "A": "50%",
+            "B": "33.33%",
+            "C": "25%",
+            "D": "20%"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If A's income is 25% more than B's income, what percentage of B's income is A's income?",
+          "options": {
+            "A": "125%",
+            "B": "75%",
+            "C": "50%",
+            "D": "100%"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If 30% of a number is 90, what is the number?",
+          "options": {
+            "A": "300",
+            "B": "250",
+            "C": "150",
+            "D": "100"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the ratio of 25 to 100?",
+          "options": {
+            "A": "1:4",
+            "B": "1:5",
+            "C": "1:3",
+            "D": "1:2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a person earns $800 a month and spends $500, what is the savings percentage?",
+          "options": {
+            "A": "37.5%",
+            "B": "62.5%",
+            "C": "50%",
+            "D": "25%"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Practical Geometry",
+      "video_duration": "2:51:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=th_rb0vwy7Q&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=21",
+      "questions": [
+        {
+          "question": "What instrument is used to draw an arc?",
+          "options": {
+            "A": "Ruler",
+            "B": "Compass",
+            "C": "Protractor",
+            "D": "Set square"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do you call a polygon with five sides?",
+          "options": {
+            "A": "Quadrilateral",
+            "B": "Pentagon",
+            "C": "Hexagon",
+            "D": "Triangle"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "In a right-angled triangle, what is the relationship between the sides called?",
+          "options": {
+            "A": "Pythagorean theorem",
+            "B": "Congruence",
+            "C": "Similarity",
+            "D": "Ratio"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the area of a rectangle with length 8 cm and width 3 cm?",
+          "options": {
+            "A": "24 cm²",
+            "B": "30 cm²",
+            "C": "20 cm²",
+            "D": "28 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following shapes can be constructed using a straight edge and compass?",
+          "options": {
+            "A": "Triangle",
+            "B": "Circle",
+            "C": "Square",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Perimeter and Area",
+      "video_duration": "4:31:05",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=9k4GVfziqk8&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=22",
+      "questions": [
+        {
+          "question": "What is the perimeter of a square with a side length of 5 cm?",
+          "options": {
+            "A": "20 cm",
+            "B": "25 cm",
+            "C": "15 cm",
+            "D": "10 cm"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the area of a rectangle with length 10 cm and width 4 cm?",
+          "options": {
+            "A": "40 cm²",
+            "B": "44 cm²",
+            "C": "50 cm²",
+            "D": "45 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If the radius of a circle is 7 cm, what is its circumference (use π = 22/7)?",
+          "options": {
+            "A": "44 cm",
+            "B": "22 cm",
+            "C": "14 cm",
+            "D": "28 cm"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the area of a triangle with base 10 cm and height 5 cm?",
+          "options": {
+            "A": "25 cm²",
+            "B": "30 cm²",
+            "C": "20 cm²",
+            "D": "50 cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a rectangle has a perimeter of 30 cm and length 10 cm, what is its width?",
+          "options": {
+            "A": "5 cm",
+            "B": "10 cm",
+            "C": "7.5 cm",
+            "D": "12 cm"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Algebraic Expressions",
+      "video_duration": "3:12:22",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=0HR6jaJfKqg&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=23",
+      "questions": [
+        {
+          "question": "What is the value of the expression 4y - 3 when y = 5?",
+          "options": {
+            "A": "17",
+            "B": "18",
+            "C": "20",
+            "D": "22"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a term in the expression 6x^2 + 5xy - 7?",
+          "options": {
+            "A": "6x^2",
+            "B": "5xy",
+            "C": "-7",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the coefficient of x in the expression 3x + 4y?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "7",
+            "D": "No coefficient"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a = 2 and b = 3, what is the value of the expression a^2 + b^2?",
+          "options": {
+            "A": "13",
+            "B": "11",
+            "C": "9",
+            "D": "7"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of expression is 5x^2 - 3x + 4?",
+          "options": {
+            "A": "Linear",
+            "B": "Quadratic",
+            "C": "Polynomial",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Exponents and Powers",
+      "video_duration": "2:49:35",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=KH436yfdPcY&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=24",
+      "questions": [
+        {
+          "question": "What is the value of 2^3?",
+          "options": {
+            "A": "8",
+            "B": "6",
+            "C": "9",
+            "D": "4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What does 3^0 equal to?",
+          "options": {
+            "A": "1",
+            "B": "0",
+            "C": "3",
+            "D": "3^3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "If a = 4 and b = 3, what is a^b?",
+          "options": {
+            "A": "64",
+            "B": "12",
+            "C": "7",
+            "D": "43"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the value of (2^3) × (2^4)?",
+          "options": {
+            "A": "2^7",
+            "B": "2^6",
+            "C": "2^5",
+            "D": "2^8"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is an example of an exponent?",
+          "options": {
+            "A": "3^2",
+            "B": "2 + 2",
+            "C": "5",
+            "D": "x + y"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Visualising Solid Shapes",
+      "video_duration": "1:53:45",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=510LMwfuWtE&list=PLVLoWQFkZbhUNQ4C7RbBPCcKNWAvhhhcr&index=25",
+      "questions": [
+        {
+          "question": "What is the shape of a cube?",
+          "options": {
+            "A": "Six equal square faces",
+            "B": "Eight faces",
+            "C": "Twelve edges",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "How many vertices does a cylinder have?",
+          "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the net of a cube composed of?",
+          "options": {
+            "A": "6 squares",
+            "B": "6 circles",
+            "C": "6 triangles",
+            "D": "4 squares"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What shape is the base of a cone?",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Rectangle"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a three-dimensional shape?",
+          "options": {
+            "A": "Circle",
+            "B": "Square",
+            "C": "Cube",
+            "D": "Triangle"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    }
+  ]
+}

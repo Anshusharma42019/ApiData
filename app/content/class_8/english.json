@@ -1,70 +1,629 @@
 {
-    "class": 8,
-    "subject": "English",
-    "channel name": "Magnet Brains",
-    "source": "NCERT",
-    "book": "It So Happened",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "title": "How the Camel Got His Hump",
-        "video_title": "How the Camel Got His Hump - Full Chapter Explanation Solution | Class 8 English Ch1| It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=6hNYVvlURak"
-      },
-      {
-        "chapter_number": 2,
-        "title": "Children at Work",
-        "video_title": "Children at Work - Full Chapter Explanation & NCERT Solution | Class 8 English Ch 2 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=1jxBg1NmlJo"
-      },
-      {
-        "chapter_number": 3,
-        "title": "The Selfish Giant",
-        "video_title": "The Selfish Giant - Full Chapter Explanation & NCERT Solution | Class 8 English Ch 3 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=zNTB1PTXx2c"
-      },
-      {
-        "chapter_number": 4,
-        "title": "The Treasure Within",
-        "video_title": "The Treasure Within - Full Chapter Explanation & Solutions | Class 8 English Ch 4 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=tcGRijj4vi8"
-      },
-      {
-        "chapter_number": 5,
-        "title": "Princess September",
-        "video_title": "Princess September - Full Chapter Explanation & Solutions | Class 8 English Ch 5 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=8CeMT2FJo9o"
-      },
-      {
-        "chapter_number": 6,
-        "title": "The Fight",
-        "video_title": "The fight - Full Chapter Explanation & NCERT Solutions | Class 8 English Ch 6 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=wRnYNkDE8rw"
-      },
-      {
-        "chapter_number": 7,
-        "title": "The Open Window",
-        "video_title": "The Open Window - Full Chapter Explanation & NCERT Solutions| Class 8 English Ch 7 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=EiCxCDmmXpQ"
-      },
-      {
-        "chapter_number": 8,
-        "title": "Jalebis",
-        "video_title": "Jalebis - Full Chapter Explanation & NCERT Solutions| Class 8 English Ch 8 | It So Happened",
-        "video_url": "https://www.youtube.com/watch?v=W-b0VNgDvaE"
-      },
-      {
-        "chapter_number": 9,
-        "title": "The Comet - I & II",
-        "video_title": "The Comet (I & II) - Full Chapter Explanation & NCERT Solutions | Class 8 English Chapter 9 & 10",
-        "video_url": "https://www.youtube.com/watch?v=oqGQGiIelBM"
-      },
-      {
-        "chapter_number": 10,
-        "title": "Ancient Education System of India",
-        "video_title": "Ancient Education System of India - Full Chapter Explanation | Class 8 English Chapter 11",
-        "video_url": "https://www.youtube.com/watch?v=faexYdiTB2k"
-      }
-    ]
-  }
-  
+  "class": 8,
+  "subject": "English",
+  "channel name": "Magnet Brains",
+  "channel": "NCERT",
+  "book": "It So Happened",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "How the Camel Got His Hump",
+      "video_url": "https://www.youtube.com/watch?v=i4sFttvkr1U&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=1",
+      "questions": [
+        {
+          "question": "What did the Camel refuse to do at the beginning of the story?",
+          "options": {
+            "A": "Work",
+            "B": "Talk",
+            "C": "Eat",
+            "D": "Travel"
+          },
+          "correct_answer": "A",
+          "difficulty": 11
+        },
+        {
+          "question": "How did the Camel's behavior affect the other animals?",
+          "options": {
+            "A": "They liked him more.",
+            "B": "They became annoyed.",
+            "C": "They began to ignore him.",
+            "D": "They started to help him."
+          },
+          "correct_answer": "B",
+          "difficulty": 12
+        },
+        {
+          "question": "What magical event led to the Camel gaining its hump?",
+          "options": {
+            "A": "A curse",
+            "B": "A blessing",
+            "C": "A prank",
+            "D": "A magical spell"
+          },
+          "correct_answer": "D",
+          "difficulty": 13
+        },
+        {
+          "question": "What lesson can be inferred about laziness from the story?",
+          "options": {
+            "A": "It's acceptable to be lazy.",
+            "B": "Laziness has consequences.",
+            "C": "Being lazy is rewarded.",
+            "D": "All animals should rest."
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What is the central theme of 'How the Camel Got His Hump'?",
+          "options": {
+            "A": "Friendship",
+            "B": "Responsibility",
+            "C": "Consequences of actions",
+            "D": "Adventure"
+          },
+          "correct_answer": "C",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Children at Work",
+      "video_url": "https://www.youtube.com/watch?v=X9yIq7VJZCI&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=2",
+      "questions": [
+        {
+          "question": "What is the primary focus of the chapter 'Children at Work'?",
+          "options": {
+            "A": "The joy of childhood",
+            "B": "The importance of education",
+            "C": "Child labor issues",
+            "D": "The role of play in learning"
+          },
+          "correct_answer": "C",
+          "difficulty": 11
+        },
+        {
+          "question": "Which characters represent the plight of child labor in the story?",
+          "options": {
+            "A": "Working children",
+            "B": "Shopkeepers",
+            "C": "Teachers",
+            "D": "Parents"
+          },
+          "correct_answer": "A",
+          "difficulty": 12
+        },
+        {
+          "question": "What hardships do the children face in the workplace?",
+          "options": {
+            "A": "Long hours and low pay",
+            "B": "Educational support",
+            "C": "Freedom to explore",
+            "D": "Networking opportunities"
+          },
+          "correct_answer": "A",
+          "difficulty": 13
+        },
+        {
+          "question": "How does the author portray the contrast between childhood and work?",
+          "options": {
+            "A": "Work enhances childhood.",
+            "B": "Childhood is more valuable than work.",
+            "C": "Work is necessary for all children.",
+            "D": "Childhood should be dedicated to work."
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What message does the chapter convey regarding children and education?",
+          "options": {
+            "A": "Education should come after work.",
+            "B": "Every child should have access to education.",
+            "C": "Work is essential for children to learn.",
+            "D": "Education is a privilege of the rich."
+          },
+          "correct_answer": "B",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "The Selfish Giant",
+      "video_url": "https://www.youtube.com/watch?v=Sp7_r8bO-xQ&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=3",
+      "questions": [
+        {
+          "question": "What initially made the Giant selfish?",
+          "options": {
+            "A": "His wealth",
+            "B": "His garden",
+            "C": "His loneliness",
+            "D": "His giant size"
+          },
+          "correct_answer": "B",
+          "difficulty": 11
+        },
+        {
+          "question": "What does the Giant do to prevent children from playing in his garden?",
+          "options": {
+            "A": "Builds a wall",
+            "B": "Curses them",
+            "C": "Scares them away",
+            "D": "Locks the gate"
+          },
+          "correct_answer": "A",
+          "difficulty": 12
+        },
+        {
+          "question": "How does the Giant's attitude change throughout the story?",
+          "options": {
+            "A": "He becomes more selfish.",
+            "B": "He learns to love and share.",
+            "C": "He becomes indifferent.",
+            "D": "He remains the same."
+          },
+          "correct_answer": "B",
+          "difficulty": 13
+        },
+        {
+          "question": "What eventually leads to the Giant's transformation?",
+          "options": {
+            "A": "A magical event",
+            "B": "The arrival of spring",
+            "C": "The children's happiness",
+            "D": "His realization of loneliness"
+          },
+          "correct_answer": "C",
+          "difficulty": 14
+        },
+        {
+          "question": "What moral lesson does 'The Selfish Giant' convey?",
+          "options": {
+            "A": "Selfishness leads to loneliness.",
+            "B": "Riches bring happiness.",
+            "C": "Gardens should be private.",
+            "D": "Size doesn't matter."
+          },
+          "correct_answer": "A",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "The Treasure Within",
+      "video_url": "https://www.youtube.com/watch?v=r9XlojcsfaA&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=4",
+      "questions": [
+        {
+          "question": "What does 'The Treasure Within' refer to in the chapter?",
+          "options": {
+            "A": "Material wealth",
+            "B": "Inner potential",
+            "C": "External recognition",
+            "D": "Lost possessions"
+          },
+          "correct_answer": "B",
+          "difficulty": 11
+        },
+        {
+          "question": "Which character symbolizes the idea of hidden talent?",
+          "options": {
+            "A": "Sophie",
+            "B": "The teacher",
+            "C": "The parents",
+            "D": "A stranger"
+          },
+          "correct_answer": "A",
+          "difficulty": 12
+        },
+        {
+          "question": "What role does perseverance play in the chapter?",
+          "options": {
+            "A": "It's unnecessary.",
+            "B": "It leads to failures.",
+            "C": "It is essential for achieving success.",
+            "D": "It is overrated."
+          },
+          "correct_answer": "C",
+          "difficulty": 13
+        },
+        {
+          "question": "How does the author portray education in the chapter?",
+          "options": {
+            "A": "As a rigid structure",
+            "B": "As a key to unlock potential",
+            "C": "As a vehicle for wealth",
+            "D": "As irrelevant"
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What is the overarching theme presented in 'The Treasure Within'?",
+          "options": {
+            "A": "Wealth is the key to happiness.",
+            "B": "Inner potential is more valuable than material things.",
+            "C": "Education is the only way to success.",
+            "D": "Everyone has an equal chance."
+          },
+          "correct_answer": "B",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Princess September",
+      "video_url": "https://www.youtube.com/watch?v=p7tQ5k3jjoU&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=5",
+      "questions": [
+        {
+          "question": "What issue does Princess September face?",
+          "options": {
+            "A": "Loneliness",
+            "B": "Rebellion",
+            "C": "Laziness",
+            "D": "Unkindness"
+          },
+          "correct_answer": "A",
+          "difficulty": 11
+        },
+        {
+          "question": "What lesson does the story convey about freedom?",
+          "options": {
+            "A": "Freedom comes with conditions.",
+            "B": "Freedom should lead to responsibility.",
+            "C": "Not everyone values freedom.",
+            "D": "Freedom is always beneficial."
+          },
+          "correct_answer": "B",
+          "difficulty": 12
+        },
+        {
+          "question": "How does the arrival of the singing bird impact Princess September?",
+          "options": {
+            "A": "Makes her sad.",
+            "B": "Brings her joy.",
+            "C": "Makes her independent.",
+            "D": "Creates chaos."
+          },
+          "correct_answer": "B",
+          "difficulty": 13
+        },
+        {
+          "question": "What does Princess September do to keep the bird with her?",
+          "options": {
+            "A": "Captures it",
+            "B": "Builds a cage",
+            "C": "Gives it freedom",
+            "D": "Gives it beautiful gifts"
+          },
+          "correct_answer": "D",
+          "difficulty": 14
+        },
+        {
+          "question": "What is the main theme reflected in Princess September's story?",
+          "options": {
+            "A": "Material possessions are all that matter.",
+            "B": "True happiness comes from within.",
+            "C": "We must control everything around us.",
+            "D": "Happiness is found in freedom."
+          },
+          "correct_answer": "D",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "The Fight",
+      "video_url": "https://www.youtube.com/watch?v=bYXPZmUB9n8&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=6",
+      "questions": [
+        {
+          "question": "What caused the conflict in 'The Fight'?",
+          "options": {
+            "A": "A misunderstanding",
+            "B": "A competition",
+            "C": "A friendship quarrel",
+            "D": "A family dispute"
+          },
+          "correct_answer": "A",
+          "difficulty": 11
+        },
+        {
+          "question": "How does the story resolve the conflict?",
+          "options": {
+            "A": "Through apology",
+            "B": "Through arguments",
+            "C": "Through a duel",
+            "D": "Through cooperation"
+          },
+          "correct_answer": "D",
+          "difficulty": 12
+        },
+        {
+          "question": "What is the significance of communication in resolving the conflict?",
+          "options": {
+            "A": "It's unnecessary.",
+            "B": "It's often overlooked.",
+            "C": "It's vital.",
+            "D": "It's beneficial but not needed."
+          },
+          "correct_answer": "C",
+          "difficulty": 13
+        },
+        {
+          "question": "Which character learns to overcome his temper?",
+          "options": {
+            "A": "The narrator",
+            "B": "The teacher",
+            "C": "The protagonists",
+            "D": "The parents"
+          },
+          "correct_answer": "C",
+          "difficulty": 14
+        },
+        {
+          "question": "What overall lesson can be learned from 'The Fight'?",
+          "options": {
+            "A": "Fighting is the best solution.",
+            "B": "Sharing and understanding are key to resolving disputes.",
+            "C": "Avoiding conflict is the best strategy.",
+            "D": "Strength is more important than wisdom."
+          },
+          "correct_answer": "B",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "The Open Window",
+      "video_url": "https://www.youtube.com/watch?v=8FegXR9cOJw&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=7",
+      "questions": [
+        {
+          "question": "What is the main plot twist in 'The Open Window'?",
+          "options": {
+            "A": "A marriage proposal",
+            "B": "A phantom visit",
+            "C": "A tragic accident",
+            "D": "A practical joke"
+          },
+          "correct_answer": "D",
+          "difficulty": 11
+        },
+        {
+          "question": "How does the story explore themes of deception?",
+          "options": {
+            "A": "By focusing on physical actions.",
+            "B": "Through characters’ interactions.",
+            "C": "By challenging reality.",
+            "D": "By presenting a moral dilemma."
+          },
+          "correct_answer": "C",
+          "difficulty": 12
+        },
+        {
+          "question": "Which character is primarily affected by the story's deception?",
+          "options": {
+            "A": "The narrator",
+            "B": "Vera",
+            "C": "Mr. Nuttel",
+            "D": "The family."
+          },
+          "correct_answer": "C",
+          "difficulty": 13
+        },
+        {
+          "question": "What feelings does Vera play on to create tension?",
+          "options": {
+            "A": "Excitement and joy",
+            "B": "Fear and uncertainty",
+            "C": "Anger and rage",
+            "D": "Love and affection"
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What does the open window symbolize in the story?",
+          "options": {
+            "A": "Freedom",
+            "B": "Openness to new ideas",
+            "C": "Disruption of normalcy",
+            "D": "Opportunity"
+          },
+          "correct_answer": "C",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Jalebis",
+      "video_url": "https://www.youtube.com/watch?v=J8xM39wqJHc&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=8",
+      "questions": [
+        {
+          "question": "What does the jalebi symbolize in the story?",
+          "options": {
+            "A": "Tradition and culture",
+            "B": "Childhood memories",
+            "C": "Financial stability",
+            "D": "Sadness"
+          },
+          "correct_answer": "B",
+          "difficulty": 11
+        },
+        {
+          "question": "How does the protagonist's experience with jalebis reflect broader themes?",
+          "options": {
+            "A": "Celebration of life's joys and simplicity",
+            "B": "The complexities of adulthood",
+            "C": "Loss of innocence",
+            "D": "Fear of judgement"
+          },
+          "correct_answer": "A",
+          "difficulty": 12
+        },
+        {
+          "question": "What does the protagonist ultimately learn about happiness?",
+          "options": {
+            "A": "Happiness is found in wealth.",
+            "B": "Happiness is fleeting.",
+            "C": "True happiness doesn’t come from material things.",
+            "D": "Joy is in experiences."
+          },
+          "correct_answer": "C",
+          "difficulty": 13
+        },
+        {
+          "question": "What role do family memories play in the story?",
+          "options": {
+            "A": "They contribute to regret.",
+            "B": "They evoke nostalgia and joy.",
+            "C": "They create barriers.",
+            "D": "They are unimportant."
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What lesson is conveyed through the protagonist’s journey with jalebis?",
+          "options": {
+            "A": "Food should be enjoyed.",
+            "B": "Childhood should be held onto.",
+            "C": "Nostalgia is harmful.",
+            "D": "Family is unimportant."
+          },
+          "correct_answer": "B",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "The Comet - I & II",
+      "video_url": "https://www.youtube.com/watch?v=EGo9oSyikDo&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=9",
+      "questions": [
+        {
+          "question": "What is the main theme of 'The Comet'?",
+          "options": {
+            "A": "Friendship",
+            "B": "Bravery and sacrifice",
+            "C": "Science and discovery",
+            "D": "Fear of the unknown"
+          },
+          "correct_answer": "D",
+          "difficulty": 11
+        },
+        {
+          "question": "What role does scientific inquiry play in the story?",
+          "options": {
+            "A": "It is discouraged.",
+            "B": "It leads to conflict.",
+            "C": "It is crucial for understanding events.",
+            "D": "It is ignored by the characters."
+          },
+          "correct_answer": "C",
+          "difficulty": 12
+        },
+        {
+          "question": "How do the characters react to the appearance of the comet?",
+          "options": {
+            "A": "With joy",
+            "B": "With excitement and fear",
+            "C": "With indifference",
+            "D": "With anger"
+          },
+          "correct_answer": "B",
+          "difficulty": 13
+        },
+        {
+          "question": "What overarching caution does 'The Comet' suggest?",
+          "options": {
+            "A": "Human beings need to be aware of their impact on nature.",
+            "B": "Technology should never be questioned.",
+            "C": "Science outweighs all emotions.",
+            "D": "Destruction is inevitable."
+          },
+          "correct_answer": "A",
+          "difficulty": 14
+        },
+        {
+          "question": "What ultimately becomes of the main characters?",
+          "options": {
+            "A": "They discover the truth.",
+            "B": "They are lost forever.",
+            "C": "They return safely.",
+            "D": "They are not relevant to the story."
+          },
+          "correct_answer": "C",
+          "difficulty": 15
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Ancient Education System of India",
+      "video_url": "https://www.youtube.com/watch?v=Zs_nJhfiFzk&list=PLVLoWQFkZbhVtRRbj04DpJWYnJJfyYept&index=10",
+      "questions": [
+        {
+          "question": "What primary aspect does the chapter explore?",
+          "options": {
+            "A": "Modern educational practices",
+            "B": "The importance of technology in education",
+            "C": "The ancient education system of India",
+            "D": "The role of teachers today"
+          },
+          "correct_answer": "C",
+          "difficulty": 11
+        },
+        {
+          "question": "What does the chapter highlight about the ancient education system?",
+          "options": {
+            "A": "It was rigid and unchangeable.",
+            "B": "It was based on oral traditions.",
+            "C": "It lacked depth and understanding.",
+            "D": "It was a free-for-all environment."
+          },
+          "correct_answer": "B",
+          "difficulty": 12
+        },
+        {
+          "question": "Which famous ancient university is mentioned in the chapter?",
+          "options": {
+            "A": "Nalanda",
+            "B": "Takshashila",
+            "C": "Harvard",
+            "D": "Oxford"
+          },
+          "correct_answer": "A",
+          "difficulty": 13
+        },
+        {
+          "question": "What societal values were emphasized in the ancient Indian education system?",
+          "options": {
+            "A": "Wealth and status",
+            "B": "Equality and respect",
+            "C": "Individual success",
+            "D": "Collective knowledge"
+          },
+          "correct_answer": "B",
+          "difficulty": 14
+        },
+        {
+          "question": "What lasting impact has the ancient education system had on India?",
+          "options": {
+            "A": "It is completely irrelevant today.",
+            "B": "It has shaped modern educational policies.",
+            "C": "It has been completely forgotten.",
+            "D": "It still faces strong opposition."
+          },
+          "correct_answer": "B",
+          "difficulty": 15
+        }
+      ]
+    }
+  ]
+}

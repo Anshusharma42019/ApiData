@@ -1,112 +1,995 @@
 {
-    "subject": "Hindi",
-    "class": "10",
-    "book": "Kshitij Part 2",
-    "board": "CBSE",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "title": "Surdas Ke Pad",
-        "duration": "41:06",
-        "url": "https://www.youtube.com/watch?v=3phQ-BsnMk4"
-      },
-      {
-        "chapter_no": 2,
-        "title": "Ram Lakshman Parshuram Samvad",
-        "duration": "54:15",
-        "url": "https://www.youtube.com/watch?v=R04Ph9LnQnU"
-      },
-      {
-        "chapter_no": 3,
-        "title": "Dev: Savaiya and Kavitt",
-        "duration": "29:44",
-        "url": "https://www.youtube.com/watch?v=09wNOK2znGM"
-      },
-      {
-        "chapter_no": 4,
-        "title": "Aatmkathya",
-        "duration": "23:02",
-        "url": "https://www.youtube.com/watch?v=R2b_cnmZ4_4"
-      },
-      {
-        "chapter_no": 5,
-        "title": "Utsah Aur At Nahi Rahi",
-        "duration": "19:06",
-        "url": "https://www.youtube.com/watch?v=VAkEyNDCC2c"
-      },
-      {
-        "chapter_no": 6,
-        "title": "Yah Danturit Muskan Aur Fasal",
-        "duration": "21:02",
-        "url": "https://www.youtube.com/watch?v=3qE_BjEjNfs"
-      },
-      {
-        "chapter_no": 7,
-        "title": "Chhaya Mat Chhuna",
-        "duration": "26:22",
-        "url": "https://www.youtube.com/watch?v=7NNG6fMTzEI"
-      },
-      {
-        "chapter_no": 8,
-        "title": "Kanyadaan",
-        "duration": "19:10",
-        "url": "https://www.youtube.com/watch?v=ByyEsO8SSZ0"
-      },
-      {
-        "chapter_no": 9,
-        "title": "Sangatkar",
-        "duration": "22:30",
-        "url": "https://www.youtube.com/watch?v=fHbhQRI-9M8"
-      },
-      {
-        "chapter_no": 10,
-        "title": "Netaji Ka Chashma",
-        "duration": "21:41",
-        "url": "https://www.youtube.com/watch?v=-PQchzrJm5A"
-      },
-      {
-        "chapter_no": 11,
-        "title": "Balgobin Bhagat",
-        "duration": "26:59",
-        "url": "https://www.youtube.com/watch?v=RrKrq6jX-XI"
-      },
-      {
-        "chapter_no": 12,
-        "title": "Lakhnavi Andaaz",
-        "duration": "16:07",
-        "url": "https://www.youtube.com/watch?v=nL3tvfGqQLI"
-      },
-      {
-        "chapter_no": 13,
-        "title": "Manviya Karuna Ki Divya Chamak",
-        "duration": "24:22",
-        "url": "https://www.youtube.com/watch?v=kLf3vBZADpA"
-      },
-      {
-        "chapter_no": 14,
-        "title": "Ek Kahani Yeh Bhi",
-        "duration": "19:34",
-        "url": "https://www.youtube.com/watch?v=dF9m_EU4uYQ"
-      },
-      {
-        "chapter_no": 15,
-        "title": "Stri Shiksha Ke Virodhi Kutarkon Ka Khandan",
-        "duration": "29:20",
-        "url": "https://www.youtube.com/watch?v=MiM45uWECnY"
-      },
-      {
-        "chapter_no": 16,
-        "title": "Naubat khane Me Ibadat",
-        "duration": "25:26",
-        "url": "https://www.youtube.com/watch?v=AGSt2sV8tf0"
-      },
-      {
-        "chapter_no": 17,
-        "title": "Sanskriti",
-        "duration": "24:20",
-        "url": "https://www.youtube.com/watch?v=sCEyxFqsZBA"
-      }
-    ]
-  }
-  
+  "subject": "Hindi",
+  "class": "10",
+  "book": "Kshitij Part 2",
+  "board": "CBSE",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Surdas Ke Pad",
+      "duration": "41:06",
+      "video_url": "https://www.youtube.com/watch?v=tDAiwZHBSTQ&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=1",
+      "questions": [
+        {
+          "question": "सूरदास के काव्य में मुख्य विषय क्या है?",
+          "options": {
+            "A": "भक्ति",
+            "B": "प्रकृति",
+            "C": "दर्शन",
+            "D": "राजनीति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "सूरदास किस युग के कवि माने जाते हैं?",
+          "options": {
+            "A": "भक्तिकाल",
+            "B": "काव्यकाल",
+            "C": "आधुनिक काल",
+            "D": "संस्कृत काल"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "सूरदास की कविता किसका संकेत करती है?",
+          "options": {
+            "A": "कृष्ण की लीलाएँ",
+            "B": "राम की कथा",
+            "C": "ससीय महाकवि",
+            "D": "राधा-कृष्ण के प्रेम"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "सूरदास का जन्मस्थान कहां माना जाता है?",
+          "options": {
+            "A": "काशी",
+            "B": "आगरा",
+            "C": "मथुरा",
+            "D": "जयपुर"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "सूरदास के पदों का मुख्य प्रमाण क्या है?",
+          "options": {
+            "A": "भगवद गीता",
+            "B": "वेद",
+            "C": "गीतावली",
+            "D": "रामायण"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Ram Lakshman Parshuram Samvad",
+      "duration": "54:15",
+      "video_url": "https://www.youtube.com/watch?v=27iv4oSV0Wg&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=2",
+      "questions": [
+        {
+          "question": "राम-लक्ष्मण के संवाद में मुख्य विषय क्या है?",
+          "options": {
+            "A": "युद्ध",
+            "B": "धर्म",
+            "C": "नैतिकता",
+            "D": "आध्यात्मिकता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "परशुराम का क्या मुख्य काम था?",
+          "options": {
+            "A": "संगीत",
+            "B": "युद्ध करना",
+            "C": "विज्ञान",
+            "D": "शिक्षा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "राम और लक्ष्मण का संबंध कैसा है?",
+          "options": {
+            "A": "मित्र",
+            "B": "भाई",
+            "C": "सखा",
+            "D": "गुरु-शिष्य"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस संवाद में किन दो विचारों की तुलना की गई है?",
+          "options": {
+            "A": "युद्ध और शांति",
+            "B": "धर्म और अधर्म",
+            "C": "सच्चाई और झूठ",
+            "D": "ज्ञान और अज्ञान"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस लेख का रचनाकार कौन है?",
+          "options": {
+            "A": "विजयदान देथा",
+            "B": "सूरजकांत त्रिपाठी 'निराला'",
+            "C": "रामधारी सिंह 'दिनकर'",
+            "D": "निराला"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Dev: Savaiya and Kavitt",
+      "duration": "29:44",
+      "video_url": "https://www.youtube.com/watch?v=GQNP3d2KArY&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=3",
+      "questions": [
+        {
+          "question": "कवित्त की विशेषता क्या होती है?",
+          "options": {
+            "A": "लघु रूप",
+            "B": "पूर्णांक",
+            "C": "राजसीता",
+            "D": "नैतिकता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "सवैया किस प्रकार का काव्य है?",
+          "options": {
+            "A": "गीत",
+            "B": "छंद",
+            "C": "कविता",
+            "D": "निबंध"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "देव की कविताएँ किस भाव को प्रकट करती हैं?",
+          "options": {
+            "A": "दुःख",
+            "B": "सुख",
+            "C": "प्रेम",
+            "D": "विरक्ति"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "सवैया का अर्थ क्या है?",
+          "options": {
+            "A": "विचार",
+            "B": "सुनीलपन",
+            "C": "स्वर",
+            "D": "भावना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कवित्त में कितने पद होते हैं?",
+          "options": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पांच"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Aatmkathya",
+      "duration": "23:02",
+      "video_url": "https://www.youtube.com/watch?v=EvyO_nB04tQ&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=4",
+      "questions": [
+        {
+          "question": "आत्मकथा किसकी जीवन कहानी होती है?",
+          "options": {
+            "A": "एक व्यक्ति की",
+            "B": "समाज की",
+            "C": "संस्कृति की",
+            "D": "राजनीती की"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "आत्मकथ्य का क्या महत्व है?",
+          "options": {
+            "A": "कविता में",
+            "B": "व्यक्तित्व में",
+            "C": "संवेदना में",
+            "D": "इतिहास में"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस लेखक को आत्मकथ्य लिखने के लिए प्रसिद्ध माना जाता है?",
+          "options": {
+            "A": "महादेवी वर्मा",
+            "B": "जवाहरलाल नेहरू",
+            "C": "गुलजार",
+            "D": "रवींद्रनाथ ठाकुर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "आत्मकथा को किस रूप में लिखा जाता है?",
+          "options": {
+            "A": "निबंध",
+            "B": "कविता",
+            "C": "कहानी",
+            "D": "लघुनिबंध"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "आत्मकथा में मुख्य रूप से क्या शामिल किया जाता है?",
+          "options": {
+            "A": "अनुभव",
+            "B": "परकथा",
+            "C": "समीक्षा",
+            "D": "विज्ञान"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Utsah Aur At Nahi Rahi",
+      "duration": "19:06",
+      "video_url": "https://www.youtube.com/watch?v=3muelsKohRA&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=5",
+      "questions": [
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "उत्साह",
+            "B": "निराशा",
+            "C": "उदासी",
+            "D": "खुशी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "नायिका के उत्साह की कोई विशेषता क्या है?",
+          "options": {
+            "A": "अवसाद",
+            "B": "आत्मविश्वास",
+            "C": "निराशा",
+            "D": "उदासी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में किसका उदाहरण दिया गया है?",
+          "options": {
+            "A": "खुशियों का",
+            "B": "निराशा का",
+            "C": "विपत्ति का",
+            "D": "सুখ का"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "उत्साह किस प्रकार का होता है?",
+          "options": {
+            "A": "सकारात्मक",
+            "B": "नकारात्मक",
+            "C": "संबंधित",
+            "D": "प्रकृति में"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में प्रमुख पात्र कौन हैं?",
+          "options": {
+            "A": "नायिका",
+            "B": "नायक",
+            "C": "गुरु",
+            "D": "शिक्षक"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Yah Danturit Muskan Aur Fasal",
+      "duration": "21:02",
+      "video_url": "https://www.youtube.com/watch?v=d1jMx7TCy5w&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=6",
+      "questions": [
+        {
+          "question": "इस पाठ का मुख्य भाव क्या है?",
+          "options": {
+            "A": "प्रकृति",
+            "B": "मानवता",
+            "C": "आत्मा",
+            "D": "प्रेम"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में किसकी कहानी है?",
+          "options": {
+            "A": "किसान",
+            "B": "व्यापारी",
+            "C": "शिक्षक",
+            "D": "पंछी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मुख्य पात्र की दृष्टि क्या है?",
+          "options": {
+            "A": "उदास",
+            "B": "सकारात्मक",
+            "C": "नकारात्मक",
+            "D": "उदासीन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में कौन सा उदाहरण दिया गया है?",
+          "options": {
+            "A": "खेतों का",
+            "B": "सफलता का",
+            "C": "आधुनिकता का",
+            "D": "धोखे का"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में कौन सा संदेश दिया गया है?",
+          "options": {
+            "A": "सकारात्मक सोच",
+            "B": "नकारात्मक सोच",
+            "C": "उदासी",
+            "D": "विपरीतता"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "Chhaya Mat Chhuna",
+      "duration": "26:22",
+      "video_url": "https://www.youtube.com/watch?v=8aJ__Aq-WL8&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=7",
+      "questions": [
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "छाया",
+            "B": "अहसास",
+            "C": "स्वप्न",
+            "D": "यथार्थ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "इस पाठ में किसका वर्णन किया गया है?",
+          "options": {
+            "A": "मृत्यु",
+            "B": "जीवन",
+            "C": "आत्मा",
+            "D": "विश्वास"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में मुख्य पात्र कौन है?",
+          "options": {
+            "A": "नायक",
+            "B": "नायिका",
+            "C": "मित्र",
+            "D": "माता-पिता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में काव्य रचना कौन सी है?",
+          "options": {
+            "A": "गीत",
+            "B": "निबंध",
+            "C": "कविता",
+            "D": "कहानी"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस पाठ का कर्ता कौन है?",
+          "options": {
+            "A": "नाकाम",
+            "B": "सफल",
+            "C": "कवि",
+            "D": "कथावाचक"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "Kanyadaan",
+      "duration": "19:10",
+      "video_url": "https://www.youtube.com/watch?v=g3gz1eCxFeQ&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=8",
+      "questions": [
+        {
+          "question": "कन्यादान का अभिप्राय क्या है?",
+          "options": {
+            "A": "कन्या का विवाह",
+            "B": "कन्या की शिक्षा",
+            "C": "कन्या का पालन",
+            "D": "कन्या का उत्सव"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कन्यादान परंपरा का मुख्य तात्पर्य क्या है?",
+          "options": {
+            "A": "पारिवारिक",
+            "B": "सामाजिक",
+            "C": "आर्थिक",
+            "D": "सांस्कृतिक"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में वर्णित कन्या का नाम क्या है?",
+          "options": {
+            "A": "सीता",
+            "B": "गिता",
+            "C": "फूल",
+            "D": "राधिका"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कन्यादान किसके द्वारा किया जाता है?",
+          "options": {
+            "A": "पिता",
+            "B": "भाई",
+            "C": "माता",
+            "D": "सहेली"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में विवाह किस प्रकार का है?",
+          "options": {
+            "A": "बड़ा",
+            "B": "सरल",
+            "C": "धूमधाम",
+            "D": "छोटा"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "Sangatkar",
+      "duration": "22:30",
+      "video_url": "https://www.youtube.com/watch?v=SlPX0RjMmUY&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=9",
+      "questions": [
+        {
+          "question": "संगतकार का अर्थ क्या है?",
+          "options": {
+            "A": "संगठित",
+            "B": "संबंधित",
+            "C": "संगीतकार",
+            "D": "संगत"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस पाठ में क्या दर्शाया गया है?",
+          "options": {
+            "A": "संगीत का महत्व",
+            "B": "कला का महत्व",
+            "C": "साहित्य का महत्व",
+            "D": "संस्कृति का महत्व"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किस लेखक ने इस विषय पर लिखा है?",
+          "options": {
+            "A": "महादेवी वर्मा",
+            "B": "सर्वपल्ली राधाकृष्णन",
+            "C": "जवाहरलाल नेहरू",
+            "D": "सत्यजीत रे"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में क्या संदेश दिया गया है?",
+          "options": {
+            "A": "संगीत की महत्ता",
+            "B": "साहित्य की महत्ता",
+            "C": "विज्ञान का महत्व",
+            "D": "राजनीतिक महत्व"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "संगीत की विशेषता क्या होती है?",
+          "options": {
+            "A": "सुर",
+            "B": "तार",
+            "C": "स्वर",
+            "D": "गति"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "Netaji Ka Chashma",
+      "duration": "21:41",
+      "video_url": "https://www.youtube.com/watch?v=VKHeYdpDOoY&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=10",
+      "questions": [
+        {
+          "question": "नेताजी का चश्मा किसका प्रतीक है?",
+          "options": {
+            "A": "ज्ञान",
+            "B": "संघर्ष",
+            "C": "सच्चाई",
+            "D": "सामाजिकता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "नेताजी का असली नाम क्या था?",
+          "options": {
+            "A": "सुभाष चंद्र बोस",
+            "B": "महात्मा गांधी",
+            "C": "डॉ. भीमराव अंबेडकर",
+            "D": "जवाहरलाल नेहरू"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "नेताजी की विचारधारा क्या थी?",
+          "options": {
+            "A": "महात्मा गांधी से भिन्न",
+            "B": "महात्मा गांधी के समान",
+            "C": "भिन्न नहीं",
+            "D": "बिल्कुल भिन्न"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "नेताजी का मुख्य उद्देश्य क्या था?",
+          "options": {
+            "A": "स्वतंत्रता",
+            "B": "शक्ति",
+            "C": "शांति",
+            "D": "ज्ञान"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "आज़ाद हिंद फौज की स्थापना कब हुई थी?",
+          "options": {
+            "A": "1942",
+            "B": "1943",
+            "C": "1945",
+            "D": "1946"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "Balgobin Bhagat",
+      "duration": "26:59",
+      "video_url": "https://www.youtube.com/watch?v=x_BAV7bA1TQ&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=11",
+      "questions": [
+        {
+          "question": "बल्गोबिन के बारे में क्या जानकारी दी जाती है?",
+          "options": {
+            "A": "भगवान के भक्त",
+            "B": "किसान",
+            "C": "विज्ञान शिक्षक",
+            "D": "कवि"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "धैर्य",
+            "B": "संदेश",
+            "C": "विज्ञान",
+            "D": "कला"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "बल्गोबिन की हार्दिक विशेषता क्या है?",
+          "options": {
+            "A": "भक्ति",
+            "B": "सत्य",
+            "C": "सकारात्मकता",
+            "D": "विज्ञान"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या बल्गोबिन ने किसी धर्म का अनुशरण किया?",
+          "options": {
+            "A": "हां",
+            "B": "नहीं",
+            "C": "सभी धर्म",
+            "D": "एक धर्म"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किस कवि ने बल्गोबिन की कहानी लिखी है?",
+          "options": {
+            "A": "सूरदास",
+            "B": "कबीर",
+            "C": "तुलसीदास",
+            "D": "संत रामानंद"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "Lakhnavi Andaaz",
+      "duration": "16:07",
+      "video_url": "https://www.youtube.com/watch?v=6gq2d1a9M9Y&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=12",
+      "questions": [
+        {
+          "question": "लखनवी अंदाज़ किस प्रकार का होता है?",
+          "options": {
+            "A": "खिलवत",
+            "B": "शायरी",
+            "C": "कविता",
+            "D": "गद्य"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस पाठ में किस शहर का वर्णन है?",
+          "options": {
+            "A": "दिल्ली",
+            "B": "लखनऊ",
+            "C": "कानपुर",
+            "D": "आगरा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "लखनवी अंदाज़ में कौन सा भाव अधिक होता है?",
+          "options": {
+            "A": "विरक्ति",
+            "B": "सुख",
+            "C": "दुःख",
+            "D": "प्रेम"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "लखनवी अंदाज़ में लिखी गई शायरी किसके लिए प्रसिद्ध है?",
+          "options": {
+            "A": "असद ज़ज्बात",
+            "B": "मीराज",
+            "C": "गुलजार",
+            "D": "इकबाल"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "लखनवी दर्शकों की विशेषता क्या है?",
+          "options": {
+            "A": "ठंडा बर्ताव",
+            "B": "गुस्सा",
+            "C": "फिराक",
+            "D": "विनम्रता"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "Manviya Karuna Ki Divya Chamak",
+      "duration": "24:22",
+      "video_url": "https://www.youtube.com/watch?v=zhyvLnBeQl0&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=13",
+      "questions": [
+        {
+          "question": "इस पाठ में मानवीय करुणा का क्या महत्व बताया गया है?",
+          "options": {
+            "A": "निदान",
+            "B": "प्रतिष्ठा",
+            "C": "संबंध",
+            "D": "समर्पण"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मानवीय करुणा का विकास कैसे किया जा सकता है?",
+          "options": {
+            "A": "शिक्षा के माध्यम से",
+            "B": "निष्क्रियता के माध्यम से",
+            "C": "प्रकृति के माध्यम से",
+            "D": "सामाजिकता के माध्यम से"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में किसका उदाहरण दिया गया है?",
+          "options": {
+            "A": "महान व्यक्तित्व",
+            "B": "आवश्यकता",
+            "C": "उदासीनता",
+            "D": "सहानुभूति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "मानवीय करुणा की जलती हुई ज्योति का क्या उद्देश्य है?",
+          "options": {
+            "A": "उद्वेलन",
+            "B": "अर्थव्यवस्था",
+            "C": "संवेदनशीलता",
+            "D": "आध्यात्मिकता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस पाठ में किस भाव का चित्रण किया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "उसी",
+            "C": "प्रेम",
+            "D": "जीवन"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "Ek Kahani Yeh Bhi",
+      "duration": "19:34",
+      "video_url": "https://www.youtube.com/watch?v=6O27fSmr-G8&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=14",
+      "questions": [
+        {
+          "question": "इस कहानी में किसका वर्णन किया गया है?",
+          "options": {
+            "A": "प्रेम",
+            "B": "ऐतिहासिक घटना",
+            "C": "सामाजिकता",
+            "D": "जीवन संघर्ष"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी में मुख्य पात्र कौन है?",
+          "options": {
+            "A": "किसान",
+            "B": "शिक्षक",
+            "C": "आवश्यकता",
+            "D": "छात्र"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "धैर्य",
+            "B": "सकारात्मकता",
+            "C": "संघर्ष",
+            "D": "भाग्य"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "इस कहानी में किसका उपयोग किया गया है?",
+          "options": {
+            "A": "ज्ञान",
+            "B": "विज्ञान",
+            "C": "बुद्धि",
+            "D": "आधुनिकता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी का अंत कैसा है?",
+          "options": {
+            "A": "सकारात्मक",
+            "B": "नकारात्मक",
+            "C": "अनिर्णायक",
+            "D": "दुःखद"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "Stri Shiksha Ke Virodhi Kutarkon Ka Khandan",
+      "duration": "29:20",
+      "video_url": "https://www.youtube.com/watch?v=xQqqeF-CHrQ&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=15",
+      "questions": [
+        {
+          "question": "इस पाठ का मुख्य विषय क्या है?",
+          "options": {
+            "A": "विद्यार्थी शिक्षा",
+            "B": "पारिवारिक जिम्मेदारियाँ",
+            "C": "स्त्री शिक्षा",
+            "D": "सामाजिक विकास"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "स्त्री शिक्षा के क्या लाभ होते हैं?",
+          "options": {
+            "A": "विकास",
+            "B": "निराशा",
+            "C": "संघर्ष",
+            "D": "समानता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "स्थिरता की बात किस प्रकार से की गई है?",
+          "options": {
+            "A": "मनोरंजन",
+            "B": "सामाजिक व्यवस्था",
+            "C": "सुधार",
+            "D": "अवशोषण"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस सामाजिक सोच की अवहेलना की गई है?",
+          "options": {
+            "A": "स्त्री शिक्षा",
+            "B": "पुरुष शिक्षा",
+            "C": "राजनीति",
+            "D": "संस्कार"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में किन समस्याओं का वर्णन किया गया है?",
+          "options": {
+            "A": "संवेदनशीलता",
+            "B": "स्वास्थ्य",
+            "C": "सामाजिक बाधाएँ",
+            "D": "आर्थिक कठिनाइयाँ"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "Naubat khane Me Ibadat",
+      "duration": "25:26",
+      "video_url": "https://www.youtube.com/watch?v=XqkOaEAod7M&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=16",
+      "questions": [
+        {
+          "question": "इस पाठ में क्या दर्शाया गया है?",
+          "options": {
+            "A": "धार्मिकता",
+            "B": "संस्कृती",
+            "C": "जातिवाद",
+            "D": "राजनीति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में किस प्रकार की इबादत की गई है?",
+          "options": {
+            "A": "सामूहिक",
+            "B": "व्यक्तिगत",
+            "C": "गुप्त",
+            "D": "सार्वजनिक"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इबादत के माध्यम से क्या प्राप्त करना है?",
+          "options": {
+            "A": "सकून",
+            "B": "धन",
+            "C": "ज्ञान",
+            "D": "राज्य"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस पाठ में मुख्य पात्र कौन हैं?",
+          "options": {
+            "A": "सूफी",
+            "B": "पंजाब",
+            "C": "उर्दू",
+            "D": "संस्कृति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इबादत का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "समर्पण",
+            "B": "निवेदन",
+            "C": "प्रतिबद्धता",
+            "D": "एकता"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "Sanskriti",
+      "duration": "24:20",
+      "video_url": "https://www.youtube.com/watch?v=8PJf2Oz5mM8&list=PLVLoWQFkZbhW4sWRUHXJPSM8Nv14aA-O_&index=17",
+      "questions": [
+        {
+          "question": "संस्कृति का अर्थ क्या है?",
+          "options": {
+            "A": "संस्करण",
+            "B": "सांस्कृतिक विरासत",
+            "C": "प्रावधिकता",
+            "D": "पारंपरिकता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "संस्कृति में किसका समावेश होता है?",
+          "options": {
+            "A": "धर्म",
+            "B": "वेशभूषा",
+            "C": "भाषा",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "संस्कृति का विकास कैसे होता है?",
+          "options": {
+            "A": "समाज द्वारा",
+            "B": "परिवार द्वारा",
+            "C": "स्वतंत्रता द्वारा",
+            "D": "शिक्षा द्वारा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किस संस्कृति के अंतर्गत यह पाठ लिखा गया है?",
+          "options": {
+            "A": "भारतीय",
+            "B": "पश्चिमी",
+            "C": "पूर्वी",
+            "D": "अफ्रीकी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "संस्कृति के गुण क्या हैं?",
+          "options": {
+            "A": "सकारात्मकता",
+            "B": "सहिष्णुता",
+            "C": "सहयोग",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    }
+  ]
+}

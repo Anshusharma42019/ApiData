@@ -2,282 +2,282 @@
     "subject": "Class 10 Physics",
     "chapters": [
       {
-        "chapter_number": 1,
+        "chapter_no": 1,
         "chapter_name": "Light Reflection & Refraction",
         "questions": [
           {
-            "quiz_question": "What is the law of reflection?",
+            "question": "What is the law of reflection?",
             "options": {
-              "1": "The angle of incidence equals the angle of reflection",
-              "2": "The angle of incidence equals 90 degrees",
-              "3": "The total angle of incidence and reflection equals 180 degrees",
-              "4": "Light travels in straight lines"
+              "A": "The angle of incidence equals the angle of reflection",
+              "B": "The angle of incidence equals 90 degrees",
+              "C": "The total angle of incidence and reflection equals 180 degrees",
+              "D": "Light travels in straight lines"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What type of lens is a concave lens?",
+            "question": "What type of lens is a concave lens?",
             "options": {
-              "1": "Converging lens",
-              "2": "Diverging lens",
-              "3": "Bifocal lens",
-              "4": "Plano-convex lens"
+              "A": "Converging lens",
+              "B": "Diverging lens",
+              "C": "Bifocal lens",
+              "D": "Plano-convex lens"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What happens to light when it passes from a denser medium to a rarer medium?",
+            "question": "What happens to light when it passes from a denser medium to a rarer medium?",
             "options": {
-              "1": "It bends towards the normal",
-              "2": "It bends away from the normal",
-              "3": "It travels straight",
-              "4": "It reflects off the surface"
+              "A": "It bends towards the normal",
+              "B": "It bends away from the normal",
+              "C": "It travels straight",
+              "D": "It reflects off the surface"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the focal length of a plane mirror?",
+            "question": "What is the focal length of a plane mirror?",
             "options": {
-              "1": "Zero",
-              "2": "Positive",
-              "3": "Negative",
-              "4": "Infinite"
+              "A": "Zero",
+              "B": "Positive",
+              "C": "Negative",
+              "D": "Infinite"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "Which phenomenon is responsible for the formation of a rainbow?",
+            "question": "Which phenomenon is responsible for the formation of a rainbow?",
             "options": {
-              "1": "Reflection",
-              "2": "Refraction",
-              "3": "Diffraction",
-              "4": "Dispersion"
+              "A": "Reflection",
+              "B": "Refraction",
+              "C": "Diffraction",
+              "D": "Dispersion"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
       {
-        "chapter_number": 2,
+        "chapter_no": 2,
         "chapter_name": "Human Eye and Colourful World",
         "questions": [
           {
-            "quiz_question": "What part of the eye is responsible for focusing light?",
+            "question": "What part of the eye is responsible for focusing light?",
             "options": {
-              "1": "Cornea",
-              "2": "Lens",
-              "3": "Pupil",
-              "4": "Retina"
+              "A": "Cornea",
+              "B": "Lens",
+              "C": "Pupil",
+              "D": "Retina"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the cause of colour blindness?",
+            "question": "What is the cause of colour blindness?",
             "options": {
-              "1": "Deficiency of rods",
-              "2": "Deficiency of cones",
-              "3": "Too much light",
-              "4": "Too little light"
+              "A": "Deficiency of rods",
+              "B": "Deficiency of cones",
+              "C": "Too much light",
+              "D": "Too little light"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the function of the iris in the eye?",
+            "question": "What is the function of the iris in the eye?",
             "options": {
-              "1": "Protects the eye",
-              "2": "Regulates the amount of light entering",
-              "3": "Focuses the light",
-              "4": "Transmits visual information"
+              "A": "Protects the eye",
+              "B": "Regulates the amount of light entering",
+              "C": "Focuses the light",
+              "D": "Transmits visual information"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which part of the eye contains photoreceptors?",
+            "question": "Which part of the eye contains photoreceptors?",
             "options": {
-              "1": "Cornea",
-              "2": "Lens",
-              "3": "Retina",
-              "4": "Iris"
+              "A": "Cornea",
+              "B": "Lens",
+              "C": "Retina",
+              "D": "Iris"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the near point of vision for a normal human eye?",
+            "question": "What is the near point of vision for a normal human eye?",
             "options": {
-              "1": "25 cm",
-              "2": "30 cm",
-              "3": "50 cm",
-              "4": "1 m"
+              "A": "25 cm",
+              "B": "30 cm",
+              "C": "50 cm",
+              "D": "1 m"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
       {
-        "chapter_number": 3,
+        "chapter_no": 3,
         "chapter_name": "Electricity",
         "questions": [
           {
-            "quiz_question": "What is the unit of electric current?",
+            "question": "What is the unit of electric current?",
             "options": {
-              "1": "Volt",
-              "2": "Ohm",
-              "3": "Ampere",
-              "4": "Watt"
+              "A": "Volt",
+              "B": "Ohm",
+              "C": "Ampere",
+              "D": "Watt"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the relationship between voltage, current, and resistance known as?",
+            "question": "What is the relationship between voltage, current, and resistance known as?",
             "options": {
-              "1": "Ohm's Law",
-              "2": "Kirchhoff's Law",
-              "3": "Faraday's Law",
-              "4": "Newton's Law"
+              "A": "Ohm's Law",
+              "B": "Kirchhoff's Law",
+              "C": "Faraday's Law",
+              "D": "Newton's Law"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the total resistance in a series circuit?",
+            "question": "What is the total resistance in a series circuit?",
             "options": {
-              "1": "Sum of individual resistances",
-              "2": "Product of individual resistances",
-              "3": "Average of individual resistances",
-              "4": "Reciprocal of the sum of reciprocals"
+              "A": "Sum of individual resistances",
+              "B": "Product of individual resistances",
+              "C": "Average of individual resistances",
+              "D": "Reciprocal of the sum of reciprocals"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "In a parallel circuit, if one branch is disconnected, the current will:",
+            "question": "In a parallel circuit, if one branch is disconnected, the current will:",
             "options": {
-              "1": "Stop",
-              "2": "Increase in other branches",
-              "3": "Decrease in other branches",
-              "4": "Remain the same"
+              "A": "Stop",
+              "B": "Increase in other branches",
+              "C": "Decrease in other branches",
+              "D": "Remain the same"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is a common purpose of a fuse in an electrical circuit?",
+            "question": "What is a common purpose of a fuse in an electrical circuit?",
             "options": {
-              "1": "Increase current",
-              "2": "Protect from overload",
-              "3": "Decrease voltage",
-              "4": "Stabilize current"
+              "A": "Increase current",
+              "B": "Protect from overload",
+              "C": "Decrease voltage",
+              "D": "Stabilize current"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 4,
+        "chapter_no": 4,
         "chapter_name": "Magnetic Effects of Electric Current",
         "questions": [
           {
-            "quiz_question": "What type of current produces a magnetic field?",
+            "question": "What type of current produces a magnetic field?",
             "options": {
-              "1": "Alternating current",
-              "2": "Direct current",
-              "3": "Both A and B",
-              "4": "None of the above"
+              "A": "Alternating current",
+              "B": "Direct current",
+              "C": "Both A and B",
+              "D": "None of the above"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which device is used to measure electric current?",
+            "question": "Which device is used to measure electric current?",
             "options": {
-              "1": "Ammeter",
-              "2": "Voltmeter",
-              "3": "Galvanometer",
-              "4": "Ohmmeter"
+              "A": "Ammeter",
+              "B": "Voltmeter",
+              "C": "Galvanometer",
+              "D": "Ohmmeter"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What phenomenon explains the deflection of a compass needle when near a current-carrying wire?",
+            "question": "What phenomenon explains the deflection of a compass needle when near a current-carrying wire?",
             "options": {
-              "1": "Electromagnetism",
-              "2": "Electrolysis",
-              "3": "Induction",
-              "4": "Reflection"
+              "A": "Electromagnetism",
+              "B": "Electrolysis",
+              "C": "Induction",
+              "D": "Reflection"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the direction of the magnetic field around a current-carrying conductor?",
+            "question": "What is the direction of the magnetic field around a current-carrying conductor?",
             "options": {
-              "1": "Clockwise",
-              "2": "Counterclockwise",
-              "3": "Dependent on the current's direction",
-              "4": "None of the above"
+              "A": "Clockwise",
+              "B": "Counterclockwise",
+              "C": "Dependent on the current's direction",
+              "D": "None of the above"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is an electromagnet?",
+            "question": "What is an electromagnet?",
             "options": {
-              "1": "A permanent magnet",
-              "2": "A magnet made by a current",
-              "3": "A natural magnet",
-              "4": "A temporary magnet"
+              "A": "A permanent magnet",
+              "B": "A magnet made by a current",
+              "C": "A natural magnet",
+              "D": "A temporary magnet"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
       {
-        "chapter_number": 5,
+        "chapter_no": 5,
         "chapter_name": "Sources of Energy",
         "questions": [
           {
-            "quiz_question": "Which of the following is a renewable source of energy?",
+            "question": "Which of the following is a renewable source of energy?",
             "options": {
-              "1": "Coal",
-              "2": "Natural gas",
-              "3": "Solar energy",
-              "4": "Nuclear energy"
+              "A": "Coal",
+              "B": "Natural gas",
+              "C": "Solar energy",
+              "D": "Nuclear energy"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the primary source of energy for the Earth?",
+            "question": "What is the primary source of energy for the Earth?",
             "options": {
-              "1": "The Moon",
-              "2": "The Sun",
-              "3": "The Wind",
-              "4": "Coal"
+              "A": "The Moon",
+              "B": "The Sun",
+              "C": "The Wind",
+              "D": "Coal"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is a disadvantage of using fossil fuels?",
+            "question": "What is a disadvantage of using fossil fuels?",
             "options": {
-              "1": "Abundant supply",
-              "2": "Renewable",
-              "3": "Pollution",
-              "4": "Cost-effective"
+              "A": "Abundant supply",
+              "B": "Renewable",
+              "C": "Pollution",
+              "D": "Cost-effective"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which energy source is derived from the heat of the Earth?",
+            "question": "Which energy source is derived from the heat of the Earth?",
             "options": {
-              "1": "Geothermal energy",
-              "2": "Hydropower",
-              "3": "Wind energy",
-              "4": "Solar energy"
+              "A": "Geothermal energy",
+              "B": "Hydropower",
+              "C": "Wind energy",
+              "D": "Solar energy"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the main advantage of using solar panels?",
+            "question": "What is the main advantage of using solar panels?",
             "options": {
-              "1": "Non-renewable",
-              "2": "Pollution-free",
-              "3": "High cost",
-              "4": "Limited availability"
+              "A": "Non-renewable",
+              "B": "Pollution-free",
+              "C": "High cost",
+              "D": "Limited availability"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       }

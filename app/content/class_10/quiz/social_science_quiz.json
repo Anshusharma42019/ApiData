@@ -2,286 +2,286 @@
     "History": [
       {
         "chapter_no": 1,
-        "title": "The Rise of Nationalism in Europe",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "The Rise of Nationalism in Europe",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What was a significant effect of the rise of nationalism in Europe?",
             "options": {
-              "1": "Fragmentation of empires",
-              "2": "Increased trade",
-              "3": "Cultural homogeneity",
-              "4": "Political stability"
+              "A": "Fragmentation of empires",
+              "B": "Increased trade",
+              "C": "Cultural homogeneity",
+              "D": "Political stability"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which event marked the beginning of the rise of nationalism in Europe?",
             "options": {
-              "1": "The French Revolution",
-              "2": "The Industrial Revolution",
-              "3": "World War I",
-              "4": "The Treaty of Versailles"
+              "A": "The French Revolution",
+              "B": "The Industrial Revolution",
+              "C": "World War I",
+              "D": "The Treaty of Versailles"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What role did the concept of nation-state play in European nationalism?",
             "options": {
-              "1": "Promoted religious tolerance",
-              "2": "Encouraged ethnic conflicts",
-              "3": "Strengthened feudal systems",
-              "4": "Reduced cultural identity"
+              "A": "Promoted religious tolerance",
+              "B": "Encouraged ethnic conflicts",
+              "C": "Strengthened feudal systems",
+              "D": "Reduced cultural identity"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Who was a key figure in the unification of Germany?",
             "options": {
-              "1": "Otto von Bismarck",
-              "2": "Kaiser Wilhelm",
-              "3": "Adolf Hitler",
-              "4": "Konrad Adenauer"
+              "A": "Otto von Bismarck",
+              "B": "Kaiser Wilhelm",
+              "C": "Adolf Hitler",
+              "D": "Konrad Adenauer"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following nations did NOT undergo a nationalist movement in Europe in the 19th century?",
             "options": {
-              "1": "Italy",
-              "2": "France",
-              "3": "Austria",
-              "4": "Spain"
+              "A": "Italy",
+              "B": "France",
+              "C": "Austria",
+              "D": "Spain"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "title": "Nationalism in India",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Nationalism in India",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What event ignited the Indian Nationalist Movement in 1857?",
             "options": {
-              "1": "Civil Disobedience Movement",
-              "2": "Sepoy Mutiny",
-              "3": "Dandi March",
-              "4": "Quit India Movement"
+              "A": "Civil Disobedience Movement",
+              "B": "Sepoy Mutiny",
+              "C": "Dandi March",
+              "D": "Quit India Movement"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which leader is known for the non-violent resistance against British rule?",
             "options": {
-              "1": "Jawaharlal Nehru",
-              "2": "Sardar Vallabhbhai Patel",
-              "3": "Mahatma Gandhi",
-              "4": "Subhas Chandra Bose"
+              "A": "Jawaharlal Nehru",
+              "B": "Sardar Vallabhbhai Patel",
+              "C": "Mahatma Gandhi",
+              "D": "Subhas Chandra Bose"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What was the main goal of the Indian National Congress when it was formed?",
             "options": {
-              "1": "Complete independence",
-              "2": "Self-governance",
-              "3": "Economic reforms",
-              "4": "Cultural revival"
+              "A": "Complete independence",
+              "B": "Self-governance",
+              "C": "Economic reforms",
+              "D": "Cultural revival"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which movement aimed at a complete boycott of British goods?",
             "options": {
-              "1": "Swadeshi Movement",
-              "2": "Non-Cooperation Movement",
-              "3": "Civil Disobedience Movement",
-              "4": "Salt March"
+              "A": "Swadeshi Movement",
+              "B": "Non-Cooperation Movement",
+              "C": "Civil Disobedience Movement",
+              "D": "Salt March"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following was a significant outcome of the partition of India?",
             "options": {
-              "1": "Strengthened communal harmony",
-              "2": "Increased economic cooperation",
-              "3": "Mass migrations and violence",
-              "4": "Formation of a united front against colonial powers"
+              "A": "Strengthened communal harmony",
+              "B": "Increased economic cooperation",
+              "C": "Mass migrations and violence",
+              "D": "Formation of a united front against colonial powers"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "title": "The Making of a Global World",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "The Making of a Global World",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What was a significant feature of globalization after World War II?",
             "options": {
-              "1": "Protectionism",
-              "2": "Expanded international trade",
-              "3": "Isolationism",
-              "4": "Decolonization"
+              "A": "Protectionism",
+              "B": "Expanded international trade",
+              "C": "Isolationism",
+              "D": "Decolonization"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following was a major factor in the spread of globalization?",
             "options": {
-              "1": "Advancements in technology",
-              "2": "Decrease in population",
-              "3": "Increased agricultural production",
-              "4": "Cultural stagnation"
+              "A": "Advancements in technology",
+              "B": "Decrease in population",
+              "C": "Increased agricultural production",
+              "D": "Cultural stagnation"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "How has globalization affected local economies?",
             "options": {
-              "1": "Eliminated local economies",
-              "2": "Strengthened local production",
-              "3": "Promoted local cultural practices",
-              "4": "Facilitated access to global markets"
+              "A": "Eliminated local economies",
+              "B": "Strengthened local production",
+              "C": "Promoted local cultural practices",
+              "D": "Facilitated access to global markets"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is one of the criticisms of globalization?",
             "options": {
-              "1": "Enhanced cooperation among nations",
-              "2": "Increased economic inequalities",
-              "3": "Promotion of cultural exchanges",
-              "4": "Reduction in migration"
+              "A": "Enhanced cooperation among nations",
+              "B": "Increased economic inequalities",
+              "C": "Promotion of cultural exchanges",
+              "D": "Reduction in migration"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which organization was established to facilitate international trade?",
             "options": {
-              "1": "World Health Organization",
-              "2": "World Trade Organization",
-              "3": "International Monetary Fund",
-              "4": "United Nations"
+              "A": "World Health Organization",
+              "B": "World Trade Organization",
+              "C": "International Monetary Fund",
+              "D": "United Nations"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "title": "The Age of Industrialisation",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "The Age of Industrialisation",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What was the primary catalyst for the Industrial Revolution?",
             "options": {
-              "1": "Agricultural advancements",
-              "2": "Technology and inventions",
-              "3": "Colonialism",
-              "4": "Labor movements"
+              "A": "Agricultural advancements",
+              "B": "Technology and inventions",
+              "C": "Colonialism",
+              "D": "Labor movements"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which industry was the first to undergo industrialization?",
             "options": {
-              "1": "Agriculture",
-              "2": "Textiles",
-              "3": "Mining",
-              "4": "Transportation"
+              "A": "Agriculture",
+              "B": "Textiles",
+              "C": "Mining",
+              "D": "Transportation"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following cities became a significant center of industrial activity?",
             "options": {
-              "1": "London",
-              "2": "Paris",
-              "3": "Birmingham",
-              "4": "Berlin"
+              "A": "London",
+              "B": "Paris",
+              "C": "Birmingham",
+              "D": "Berlin"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What was a social consequence of industrialization?",
             "options": {
-              "1": "Urbanization",
-              "2": "Depopulation of cities",
-              "3": "Strengthening of feudal systems",
-              "4": "Increase in rural communities"
+              "A": "Urbanization",
+              "B": "Depopulation of cities",
+              "C": "Strengthening of feudal systems",
+              "D": "Increase in rural communities"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What role did labor unions play during industrialization?",
             "options": {
-              "1": "Promoted strict labor laws",
-              "2": "Advocated for workers' rights",
-              "3": "Hindered economic growth",
-              "4": "Discouraged strikes"
+              "A": "Promoted strict labor laws",
+              "B": "Advocated for workers' rights",
+              "C": "Hindered economic growth",
+              "D": "Discouraged strikes"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "title": "Print Culture and the Modern World",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Print Culture and the Modern World",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "How did print culture influence society?",
             "options": {
-              "1": "Decreased literacy rates",
-              "2": "Spread of ideas and knowledge",
-              "3": "Promoted rigid social hierarchies",
-              "4": "Limited communication"
+              "A": "Decreased literacy rates",
+              "B": "Spread of ideas and knowledge",
+              "C": "Promoted rigid social hierarchies",
+              "D": "Limited communication"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What role did newspapers play in the modern world?",
             "options": {
-              "1": "Discouraged public discourse",
-              "2": "Promoted awareness and reform",
-              "3": "Reduced cultural exchange",
-              "4": "Impeded journalism"
+              "A": "Discouraged public discourse",
+              "B": "Promoted awareness and reform",
+              "C": "Reduced cultural exchange",
+              "D": "Impeded journalism"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which invention significantly boosted print culture?",
             "options": {
-              "1": "The typewriter",
-              "2": "The printing press",
-              "3": "The telegraph",
-              "4": "The radio"
+              "A": "The typewriter",
+              "B": "The printing press",
+              "C": "The telegraph",
+              "D": "The radio"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What was a consequence of the spread of print culture?",
             "options": {
-              "1": "Increased censorship",
-              "2": "Rise of nationalism",
-              "3": "Fall of empires",
-              "4": "Stagnation of creativity"
+              "A": "Increased censorship",
+              "B": "Rise of nationalism",
+              "C": "Fall of empires",
+              "D": "Stagnation of creativity"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "How did print culture affect education?",
             "options": {
-              "1": "Made education exclusive",
-              "2": "Expanded access to materials",
-              "3": "Limited educational growth",
-              "4": "Discouraged independent thinking"
+              "A": "Made education exclusive",
+              "B": "Expanded access to materials",
+              "C": "Limited educational growth",
+              "D": "Discouraged independent thinking"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       }
@@ -289,400 +289,400 @@
     "Geography": [
       {
         "chapter_no": 1,
-        "title": "Resources and Development",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Resources and Development",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the primary focus of resource development?",
             "options": {
-              "1": "Abundance of resources",
-              "2": "Sustainable management",
-              "3": "Resource depletion",
-              "4": "Economic expansion"
+              "A": "Abundance of resources",
+              "B": "Sustainable management",
+              "C": "Resource depletion",
+              "D": "Economic expansion"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which type of resources is renewable?",
             "options": {
-              "1": "Fossil fuels",
-              "2": "Minerals",
-              "3": "Solar energy",
-              "4": "Metals"
+              "A": "Fossil fuels",
+              "B": "Minerals",
+              "C": "Solar energy",
+              "D": "Metals"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is considered a non-renewable resource?",
             "options": {
-              "1": "Forests",
-              "2": "Fish",
-              "3": "Oils",
-              "4": "Water"
+              "A": "Forests",
+              "B": "Fish",
+              "C": "Oils",
+              "D": "Water"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "How does development impact natural resources?",
             "options": {
-              "1": "Conserves them",
-              "2": "Increases sustainability",
-              "3": "Leads to depletion",
-              "4": "Enhances biodiversity"
+              "A": "Conserves them",
+              "B": "Increases sustainability",
+              "C": "Leads to depletion",
+              "D": "Enhances biodiversity"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is the key to sustainable development?",
             "options": {
-              "1": "Unrestricted growth",
-              "2": "Conservation and responsible usage",
-              "3": "Maximizing consumption",
-              "4": "Ignoring environmental concerns"
+              "A": "Unrestricted growth",
+              "B": "Conservation and responsible usage",
+              "C": "Maximizing consumption",
+              "D": "Ignoring environmental concerns"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "title": "Forest and Wildlife Resources",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Forest and Wildlife Resources",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What factor is essential for forest growth?",
             "options": {
-              "1": "Overgrazing",
-              "2": "Deforestation",
-              "3": "Climate",
-              "4": "Urbanization"
+              "A": "Overgrazing",
+              "B": "Deforestation",
+              "C": "Climate",
+              "D": "Urbanization"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which of the following is a major cause of wildlife depletion?",
             "options": {
-              "1": "Conservation efforts",
-              "2": "Habitat destruction",
-              "3": "Protected areas",
-              "4": "Sustainable forestry"
+              "A": "Conservation efforts",
+              "B": "Habitat destruction",
+              "C": "Protected areas",
+              "D": "Sustainable forestry"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "How do forests contribute to the economy?",
             "options": {
-              "1": "By reducing biodiversity",
-              "2": "By providing timber and non-timber products",
-              "3": "By limiting agricultural expansion",
-              "4": "By preventing industrial growth"
+              "A": "By reducing biodiversity",
+              "B": "By providing timber and non-timber products",
+              "C": "By limiting agricultural expansion",
+              "D": "By preventing industrial growth"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What conservation method is vital for forests?",
             "options": {
-              "1": "Deforestation",
-              "2": "Afforestation",
-              "3": "Urban development",
-              "4": "Overexploitation"
+              "A": "Deforestation",
+              "B": "Afforestation",
+              "C": "Urban development",
+              "D": "Overexploitation"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What role do wildlife sanctuaries play?",
             "options": {
-              "1": "Promote hunting",
-              "2": "Protect endangered species",
-              "3": "Encourage logging",
-              "4": "Increase land use for agriculture"
+              "A": "Promote hunting",
+              "B": "Protect endangered species",
+              "C": "Encourage logging",
+              "D": "Increase land use for agriculture"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "title": "Water Resources",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Water Resources",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the main source of freshwater?",
             "options": {
-              "1": "Lakes",
-              "2": "Rivers",
-              "3": "Groundwater",
-              "4": "Desalinated water"
+              "A": "Lakes",
+              "B": "Rivers",
+              "C": "Groundwater",
+              "D": "Desalinated water"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What factor greatly influences the distribution of water resources?",
             "options": {
-              "1": "Population density",
-              "2": "Agricultural practices",
-              "3": "Climate and geography",
-              "4": "Urbanization"
+              "A": "Population density",
+              "B": "Agricultural practices",
+              "C": "Climate and geography",
+              "D": "Urbanization"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which process is essential for water conservation?",
             "options": {
-              "1": "Desalination",
-              "2": "Rainwater harvesting",
-              "3": "Over-extraction",
-              "4": "Industrial waste dumping"
+              "A": "Desalination",
+              "B": "Rainwater harvesting",
+              "C": "Over-extraction",
+              "D": "Industrial waste dumping"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a significant threat to water resources?",
             "options": {
-              "1": "Sustainable farming",
-              "2": "Pollution",
-              "3": "Conservation practices",
-              "4": "Natural filtration"
+              "A": "Sustainable farming",
+              "B": "Pollution",
+              "C": "Conservation practices",
+              "D": "Natural filtration"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which country is known for successful water management?",
             "options": {
-              "1": "India",
-              "2": "Australia",
-              "3": "Japan",
-              "4": "China"
+              "A": "India",
+              "B": "Australia",
+              "C": "Japan",
+              "D": "China"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "title": "Agriculture",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Agriculture",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "Which factor is critical for agricultural productivity?",
             "options": {
-              "1": "Soil fertility",
-              "2": "Urbanization",
-              "3": "Population growth",
-              "4": "Industrialization"
+              "A": "Soil fertility",
+              "B": "Urbanization",
+              "C": "Population growth",
+              "D": "Industrialization"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What type of agriculture is practiced in areas with high population density?",
             "options": {
-              "1": "Subsistence farming",
-              "2": "Commercial agriculture",
-              "3": "Organic farming",
-              "4": "Shifting cultivation"
+              "A": "Subsistence farming",
+              "B": "Commercial agriculture",
+              "C": "Organic farming",
+              "D": "Shifting cultivation"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which crop is considered a cash crop in many countries?",
             "options": {
-              "1": "Rice",
-              "2": "Wheat",
-              "3": "Cotton",
-              "4": "Barley"
+              "A": "Rice",
+              "B": "Wheat",
+              "C": "Cotton",
+              "D": "Barley"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a primary environmental concern associated with agriculture?",
             "options": {
-              "1": "Soil depletion",
-              "2": "Increased biodiversity",
-              "3": "Natural habitat preservation",
-              "4": "Water conservation"
+              "A": "Soil depletion",
+              "B": "Increased biodiversity",
+              "C": "Natural habitat preservation",
+              "D": "Water conservation"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which method is essential for sustainable agricultural practices?",
             "options": {
-              "1": "Monoculture",
-              "2": "Crop rotation",
-              "3": "Chemical fertilization",
-              "4": "Deforestation"
+              "A": "Monoculture",
+              "B": "Crop rotation",
+              "C": "Chemical fertilization",
+              "D": "Deforestation"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "title": "Minerals and Energy Resources",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Minerals and Energy Resources",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What are the two main categories of minerals?",
             "options": {
-              "1": "Metallic and non-metallic",
-              "2": "Renewable and non-renewable",
-              "3": "Organic and inorganic",
-              "4": "Fossil and synthetic"
+              "A": "Metallic and non-metallic",
+              "B": "Renewable and non-renewable",
+              "C": "Organic and inorganic",
+              "D": "Fossil and synthetic"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is a significant source of energy in developing countries?",
             "options": {
-              "1": "Nuclear energy",
-              "2": "Coal",
-              "3": "Natural gas",
-              "4": "Wind energy"
+              "A": "Nuclear energy",
+              "B": "Coal",
+              "C": "Natural gas",
+              "D": "Wind energy"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is one main concern regarding mineral extraction?",
             "options": {
-              "1": "Economic growth",
-              "2": "Environmental degradation",
-              "3": "Resource sustainability",
-              "4": "Job creation"
+              "A": "Economic growth",
+              "B": "Environmental degradation",
+              "C": "Resource sustainability",
+              "D": "Job creation"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which mineral is crucial for electronic devices?",
             "options": {
-              "1": "Iron",
-              "2": "Copper",
-              "3": "Gold",
-              "4": "Silicon"
+              "A": "Iron",
+              "B": "Copper",
+              "C": "Gold",
+              "D": "Silicon"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is a key benefit of using renewable energy sources?",
             "options": {
-              "1": "Limited availability",
-              "2": "Lower environmental impact",
-              "3": "High costs",
-              "4": "Resource depletion"
+              "A": "Limited availability",
+              "B": "Lower environmental impact",
+              "C": "High costs",
+              "D": "Resource depletion"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 6,
-        "title": "Manufacturing Industries",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Manufacturing Industries",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What are the two main types of manufacturing industries?",
             "options": {
-              "1": "Heavy and light",
-              "2": "Primary and secondary",
-              "3": "Traditional and modern",
-              "4": "Automated and manual"
+              "A": "Heavy and light",
+              "B": "Primary and secondary",
+              "C": "Traditional and modern",
+              "D": "Automated and manual"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which sector is the backbone of the manufacturing industry?",
             "options": {
-              "1": "Agriculture",
-              "2": "Mining",
-              "3": "Textiles",
-              "4": "Information Technology"
+              "A": "Agriculture",
+              "B": "Mining",
+              "C": "Textiles",
+              "D": "Information Technology"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a significant environmental issue caused by manufacturing?",
             "options": {
-              "1": "Sustainable practices",
-              "2": "Waste and pollution",
-              "3": "Job creation",
-              "4": "Resource conservation"
+              "A": "Sustainable practices",
+              "B": "Waste and pollution",
+              "C": "Job creation",
+              "D": "Resource conservation"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "How does manufacturing contribute to economic development?",
             "options": {
-              "1": "Promotes agricultural dependence",
-              "2": "Leads to increased imports",
-              "3": "Enhances the standard of living",
-              "4": "Limits job opportunities"
+              "A": "Promotes agricultural dependence",
+              "B": "Leads to increased imports",
+              "C": "Enhances the standard of living",
+              "D": "Limits job opportunities"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which of the following factors significantly influences the location of manufacturing industries?",
             "options": {
-              "1": "Transportation and accessibility",
-              "2": "Proximity to agriculture",
-              "3": "Cultural factors",
-              "4": "Consumer preferences"
+              "A": "Transportation and accessibility",
+              "B": "Proximity to agriculture",
+              "C": "Cultural factors",
+              "D": "Consumer preferences"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 7,
-        "title": "Lifelines of National Economy",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Lifelines of National Economy",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the primary mode of transportation in developed countries?",
             "options": {
-              "1": "Railway",
-              "2": "Air travel",
-              "3": "Road transport",
-              "4": "Shipping"
+              "A": "Railway",
+              "B": "Air travel",
+              "C": "Road transport",
+              "D": "Shipping"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which factor is essential for economic development?",
             "options": {
-              "1": "Transportation infrastructure",
-              "2": "Cultural diversity",
-              "3": "Tourism",
-              "4": "Urbanization"
+              "A": "Transportation infrastructure",
+              "B": "Cultural diversity",
+              "C": "Tourism",
+              "D": "Urbanization"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What are the two primary components of the national economy?",
             "options": {
-              "1": "Agriculture & Industry",
-              "2": "Culture & Heritage",
-              "3": "Retail & Wholesale",
-              "4": "Transport & Storage"
+              "A": "Agriculture & Industry",
+              "B": "Culture & Heritage",
+              "C": "Retail & Wholesale",
+              "D": "Transport & Storage"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is a lifeline of the economy?",
             "options": {
-              "1": "Tourism",
-              "2": "Agriculture",
-              "3": "Telecommunications",
-              "4": "Entertainment"
+              "A": "Tourism",
+              "B": "Agriculture",
+              "C": "Telecommunications",
+              "D": "Entertainment"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What does the term 'national economy' refer to?",
             "options": {
-              "1": "Gross domestic product",
-              "2": "Collective efforts of individuals and industries",
-              "3": "International trade comparisons",
-              "4": "Government financial policies"
+              "A": "Gross domestic product",
+              "B": "Collective efforts of individuals and industries",
+              "C": "International trade comparisons",
+              "D": "Government financial policies"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       }
@@ -690,457 +690,457 @@
     "Political Science": [
       {
         "chapter_no": 1,
-        "title": "Power Sharing",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Power Sharing",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the main aim of power sharing?",
             "options": {
-              "1": "Concentration of power",
-              "2": "Stability and peace",
-              "3": "Increase in conflict",
-              "4": "Economic growth"
+              "A": "Concentration of power",
+              "B": "Stability and peace",
+              "C": "Increase in conflict",
+              "D": "Economic growth"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a key principle of power sharing?",
             "options": {
-              "1": "Centralization",
-              "2": "Decentralization",
-              "3": "Hegemony",
-              "4": "Isolationism"
+              "A": "Centralization",
+              "B": "Decentralization",
+              "C": "Hegemony",
+              "D": "Isolationism"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What type of power sharing exists in a federal system?",
             "options": {
-              "1": "Vertical and horizontal sharing",
-              "2": "Centralization",
-              "3": "Concentration",
-              "4": "Unitary"
+              "A": "Vertical and horizontal sharing",
+              "B": "Centralization",
+              "C": "Concentration",
+              "D": "Unitary"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "How does power sharing contribute to democracy?",
             "options": {
-              "1": "By excluding minority voices",
-              "2": "By increasing political participation",
-              "3": "By diminishing accountability",
-              "4": "By focusing on majority rule"
+              "A": "By excluding minority voices",
+              "B": "By increasing political participation",
+              "C": "By diminishing accountability",
+              "D": "By focusing on majority rule"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is an example of power sharing in practice?",
             "options": {
-              "1": "Absolute monarchy",
-              "2": "Coalition governments",
-              "3": "Authoritarian regimes",
-              "4": "Single-party systems"
+              "A": "Absolute monarchy",
+              "B": "Coalition governments",
+              "C": "Authoritarian regimes",
+              "D": "Single-party systems"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "title": "Federalism",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Federalism",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the defining characteristic of federalism?",
             "options": {
-              "1": "Centralized governance",
-              "2": "Division of powers",
-              "3": "Unitary system",
-              "4": "Authoritarian rule"
+              "A": "Centralized governance",
+              "B": "Division of powers",
+              "C": "Unitary system",
+              "D": "Authoritarian rule"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which country is known for having a federal system?",
             "options": {
-              "1": "India",
-              "2": "United Kingdom",
-              "3": "France",
-              "4": "China"
+              "A": "India",
+              "B": "United Kingdom",
+              "C": "France",
+              "D": "China"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "How does federalism accommodate diversity?",
             "options": {
-              "1": "By promoting uniformity",
-              "2": "By decentralizing power",
-              "3": "By restricting regional autonomy",
-              "4": "By concentrating decision-making"
+              "A": "By promoting uniformity",
+              "B": "By decentralizing power",
+              "C": "By restricting regional autonomy",
+              "D": "By concentrating decision-making"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What issue can arise from federalism?",
             "options": {
-              "1": "Conflict between state and central powers",
-              "2": "Increased cooperation",
-              "3": "Enhanced local governance",
-              "4": "Unity among diversity"
+              "A": "Conflict between state and central powers",
+              "B": "Increased cooperation",
+              "C": "Enhanced local governance",
+              "D": "Unity among diversity"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is an essential feature of federalism?",
             "options": {
-              "1": "Single legislature",
-              "2": "Bicameral legislature",
-              "3": "Multiple levels of government",
-              "4": "Centralized decision-making"
+              "A": "Single legislature",
+              "B": "Bicameral legislature",
+              "C": "Multiple levels of government",
+              "D": "Centralized decision-making"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "title": "Democracy and Diversity",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Democracy and Diversity",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is a key challenge to democracy?",
             "options": {
-              "1": "Informed voting",
-              "2": "Diversity in representation",
-              "3": "Economic inequality",
-              "4": "Civic engagement"
+              "A": "Informed voting",
+              "B": "Diversity in representation",
+              "C": "Economic inequality",
+              "D": "Civic engagement"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "How can diversity strengthen democracy?",
             "options": {
-              "1": "By creating divisions",
-              "2": "By promoting dialogue and understanding",
-              "3": "By increasing polarization",
-              "4": "By limiting participation"
+              "A": "By creating divisions",
+              "B": "By promoting dialogue and understanding",
+              "C": "By increasing polarization",
+              "D": "By limiting participation"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is an example of democratic governance?",
             "options": {
-              "1": "Dictatorship",
-              "2": "Theocracy",
-              "3": "Representative democracy",
-              "4": "Monarchy"
+              "A": "Dictatorship",
+              "B": "Theocracy",
+              "C": "Representative democracy",
+              "D": "Monarchy"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What role does civic education play in democracy?",
             "options": {
-              "1": "Creates ignorance",
-              "2": "Promotes apathy",
-              "3": "Empowers citizens",
-              "4": "Reduces engagement"
+              "A": "Creates ignorance",
+              "B": "Promotes apathy",
+              "C": "Empowers citizens",
+              "D": "Reduces engagement"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a consequence of under-representation in democracy?",
             "options": {
-              "1": "Increased legitimacy",
-              "2": "Social unrest",
-              "3": "Political stability",
-              "4": "Economic growth"
+              "A": "Increased legitimacy",
+              "B": "Social unrest",
+              "C": "Political stability",
+              "D": "Economic growth"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "title": "Gender, Religion and Caste",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Gender, Religion and Caste",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "How do social identities affect political participation?",
             "options": {
-              "1": "They have no effect",
-              "2": "They can create barriers",
-              "3": "They ensure equality",
-              "4": "They unify all groups"
+              "A": "They have no effect",
+              "B": "They can create barriers",
+              "C": "They ensure equality",
+              "D": "They unify all groups"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is an example of social inequality?",
             "options": {
-              "1": "Access to education",
-              "2": "Equal representation",
-              "3": "Freedom of speech",
-              "4": "Voting rights for all"
+              "A": "Access to education",
+              "B": "Equal representation",
+              "C": "Freedom of speech",
+              "D": "Voting rights for all"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which movement has fought against caste discrimination?",
             "options": {
-              "1": "Civil rights movement",
-              "2": "Feminist movement",
-              "3": "Dalit movement",
-              "4": "Environmental movement"
+              "A": "Civil rights movement",
+              "B": "Feminist movement",
+              "C": "Dalit movement",
+              "D": "Environmental movement"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "How does gender inequality manifest in politics?",
             "options": {
-              "1": "Equal representation",
-              "2": "Gender quotas",
-              "3": "Under-representation of women",
-              "4": "Promoting female leadership"
+              "A": "Equal representation",
+              "B": "Gender quotas",
+              "C": "Under-representation of women",
+              "D": "Promoting female leadership"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a significant impact of religious diversity on politics?",
             "options": {
-              "1": "Enhanced conflict",
-              "2": "Greater unity",
-              "3": "Improved communication",
-              "4": "Political apathy"
+              "A": "Enhanced conflict",
+              "B": "Greater unity",
+              "C": "Improved communication",
+              "D": "Political apathy"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "title": "Popular Struggles and Movements",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Popular Struggles and Movements",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "Which struggle emphasized the importance of civil rights?",
             "options": {
-              "1": "Labor movements",
-              "2": "Consumer movements",
-              "3": "Environmental movements",
-              "4": "Civil rights movements"
+              "A": "Labor movements",
+              "B": "Consumer movements",
+              "C": "Environmental movements",
+              "D": "Civil rights movements"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What role do social movements play in democracy?",
             "options": {
-              "1": "Suppress dissent",
-              "2": "Encourage participation",
-              "3": "Limit freedoms",
-              "4": "Promote authoritarian rule"
+              "A": "Suppress dissent",
+              "B": "Encourage participation",
+              "C": "Limit freedoms",
+              "D": "Promote authoritarian rule"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a factor that leads to popular movements?",
             "options": {
-              "1": "Economic stability",
-              "2": "Political oppression",
-              "3": "Social harmony",
-              "4": "Cultural unity"
+              "A": "Economic stability",
+              "B": "Political oppression",
+              "C": "Social harmony",
+              "D": "Cultural unity"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a common outcome of successful social movements?",
             "options": {
-              "1": "Loss of rights",
-              "2": "Policy changes",
-              "3": "Increased repression",
-              "4": "Social apathy"
+              "A": "Loss of rights",
+              "B": "Policy changes",
+              "C": "Increased repression",
+              "D": "Social apathy"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is essential for the success of any movement?",
             "options": {
-              "1": "Public support",
-              "2": "Violence",
-              "3": "Isolation",
-              "4": "Lack of leadership"
+              "A": "Public support",
+              "B": "Violence",
+              "C": "Isolation",
+              "D": "Lack of leadership"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 6,
-        "title": "Political Parties",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Political Parties",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the primary function of political parties?",
             "options": {
-              "1": "Provide public services",
-              "2": "Facilitate political advocacy",
-              "3": "Educate voters on issues",
-              "4": "Organize elections"
+              "A": "Provide public services",
+              "B": "Facilitate political advocacy",
+              "C": "Educate voters on issues",
+              "D": "Organize elections"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which political party is known for its support of labor rights?",
             "options": {
-              "1": "Conservative Party",
-              "2": "Libertarian Party",
-              "3": "Socialist Party",
-              "4": "Republican Party"
+              "A": "Conservative Party",
+              "B": "Libertarian Party",
+              "C": "Socialist Party",
+              "D": "Republican Party"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What effect do political parties have on democracy?",
             "options": {
-              "1": "Limit political competition",
-              "2": "Increase civic engagement",
-              "3": "Stifle dissent",
-              "4": "Impose authoritarian rule"
+              "A": "Limit political competition",
+              "B": "Increase civic engagement",
+              "C": "Stifle dissent",
+              "D": "Impose authoritarian rule"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "How do political parties influence public policy?",
             "options": {
-              "1": "Through grassroots efforts",
-              "2": "By informing voters",
-              "3": "By restricting information",
-              "4": "Through lobbying and campaigns"
+              "A": "Through grassroots efforts",
+              "B": "By informing voters",
+              "C": "By restricting information",
+              "D": "Through lobbying and campaigns"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "Which of the following is a characteristic of a well-functioning political party?",
             "options": {
-              "1": "Lack of transparency",
-              "2": "Strong leadership and accountability",
-              "3": "Limited participation",
-              "4": "Suppression of minority viewpoints"
+              "A": "Lack of transparency",
+              "B": "Strong leadership and accountability",
+              "C": "Limited participation",
+              "D": "Suppression of minority viewpoints"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 7,
-        "title": "Outcomes of Democracy",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Outcomes of Democracy",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is a primary outcome of democracy?",
             "options": {
-              "1": "Increased political instability",
-              "2": "Enhanced individual freedoms",
-              "3": "Suppression of rights",
-              "4": "Lack of accountability"
+              "A": "Increased political instability",
+              "B": "Enhanced individual freedoms",
+              "C": "Suppression of rights",
+              "D": "Lack of accountability"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "How does democracy impact economic development?",
             "options": {
-              "1": "Limits economic growth",
-              "2": "Encourages innovation and competition",
-              "3": "Creates barriers to trade",
-              "4": "Identifies individuals only"
+              "A": "Limits economic growth",
+              "B": "Encourages innovation and competition",
+              "C": "Creates barriers to trade",
+              "D": "Identifies individuals only"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following is a challenge faced by democratic societies?",
             "options": {
-              "1": "Equitable representation",
-              "2": "Promotion of human rights",
-              "3": "Political apathy",
-              "4": "Freedom of the press"
+              "A": "Equitable representation",
+              "B": "Promotion of human rights",
+              "C": "Political apathy",
+              "D": "Freedom of the press"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What role do elections play in democracy?",
             "options": {
-              "1": "Minimize public opinion",
-              "2": "Limit citizen participation",
-              "3": "Ensure accountability",
-              "4": "Promote autocratic governance"
+              "A": "Minimize public opinion",
+              "B": "Limit citizen participation",
+              "C": "Ensure accountability",
+              "D": "Promote autocratic governance"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is an essential aspect of democracy?",
             "options": {
-              "1": "Civic engagement",
-              "2": "Centralized power",
-              "3": "Limited freedoms",
-              "4": "Suppression of diversity"
+              "A": "Civic engagement",
+              "B": "Centralized power",
+              "C": "Limited freedoms",
+              "D": "Suppression of diversity"
             },
-            "answer": 1
+            "correct_answer": "A"
           }
         ]
       },
       {
         "chapter_no": 8,
-        "title": "Challenges to Democracy",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Challenges to Democracy",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is a common challenge to democracies worldwide?",
             "options": {
-              "1": "Increased voter participation",
-              "2": "Corruption",
-              "3": "Enhanced legislation",
-              "4": "Political stability"
+              "A": "Increased voter participation",
+              "B": "Corruption",
+              "C": "Enhanced legislation",
+              "D": "Political stability"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which factor can negatively influence democratic processes?",
             "options": {
-              "1": "Strong civil society",
-              "2": "Free media",
-              "3": "Polarization",
-              "4": "Human rights protection"
+              "A": "Strong civil society",
+              "B": "Free media",
+              "C": "Polarization",
+              "D": "Human rights protection"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "How does socioeconomic inequality affect democracy?",
             "options": {
-              "1": "Increases participation",
-              "2": "Creates a sense of empowerment",
-              "3": "Undermines voter influence",
-              "4": "Promotes equality"
+              "A": "Increases participation",
+              "B": "Creates a sense of empowerment",
+              "C": "Undermines voter influence",
+              "D": "Promotes equality"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What is a significant threat to democracy?",
             "options": {
-              "1": "Judicial independence",
-              "2": "Populism",
-              "3": "Citizen engagement",
-              "4": "Political accountability"
+              "A": "Judicial independence",
+              "B": "Populism",
+              "C": "Citizen engagement",
+              "D": "Political accountability"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What role does education play in strengthening democracy?",
             "options": {
-              "1": "Creates apathy",
-              "2": "Encourages critical thinking",
-              "3": "Promotes ignorance",
-              "4": "Limits civic engagement"
+              "A": "Creates apathy",
+              "B": "Encourages critical thinking",
+              "C": "Promotes ignorance",
+              "D": "Limits civic engagement"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       }
@@ -1148,286 +1148,286 @@
     "Economics": [
       {
         "chapter_no": 1,
-        "title": "Development",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Development",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is development primarily concerned with?",
             "options": {
-              "1": "Economic growth",
-              "2": "Social well-being",
-              "3": "Material wealth",
-              "4": "Environmental stability"
+              "A": "Economic growth",
+              "B": "Social well-being",
+              "C": "Material wealth",
+              "D": "Environmental stability"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which measure is commonly used to assess development?",
             "options": {
-              "1": "Gross Domestic Product",
-              "2": "Life expectancy",
-              "3": "Literacy rates",
-              "4": "Infant mortality rate"
+              "A": "Gross Domestic Product",
+              "B": "Life expectancy",
+              "C": "Literacy rates",
+              "D": "Infant mortality rate"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a major challenge to development?",
             "options": {
-              "1": "Access to education",
-              "2": "Income inequality",
-              "3": "Unemployment",
-              "4": "Rural-urban migration"
+              "A": "Access to education",
+              "B": "Income inequality",
+              "C": "Unemployment",
+              "D": "Rural-urban migration"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following sources of information is vital for planning development?",
             "options": {
-              "1": "Social media",
-              "2": "Public opinion",
-              "3": "Statistical data",
-              "4": "Political affiliations"
+              "A": "Social media",
+              "B": "Public opinion",
+              "C": "Statistical data",
+              "D": "Political affiliations"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What aspect of development focuses on individual capabilities?",
             "options": {
-              "1": "Income levels",
-              "2": "Human development",
-              "3": "Technological progress",
-              "4": "Industrial growth"
+              "A": "Income levels",
+              "B": "Human development",
+              "C": "Technological progress",
+              "D": "Industrial growth"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 2,
-        "title": "Sectors of the Indian Economy",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Sectors of the Indian Economy",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What are the three main sectors of the economy?",
             "options": {
-              "1": "Primary, secondary, tertiary",
-              "2": "Agricultural, industrial, commercial",
-              "3": "Private, public, cooperative",
-              "4": "Urban, rural, suburban"
+              "A": "Primary, secondary, tertiary",
+              "B": "Agricultural, industrial, commercial",
+              "C": "Private, public, cooperative",
+              "D": "Urban, rural, suburban"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which sector is primarily focused on agriculture?",
             "options": {
-              "1": "Primary",
-              "2": "Secondary",
-              "3": "Tertiary",
-              "4": "Quaternary"
+              "A": "Primary",
+              "B": "Secondary",
+              "C": "Tertiary",
+              "D": "Quaternary"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which sector includes manufacturing?",
             "options": {
-              "1": "Primary",
-              "2": "Secondary",
-              "3": "Tertiary",
-              "4": "Quaternary"
+              "A": "Primary",
+              "B": "Secondary",
+              "C": "Tertiary",
+              "D": "Quaternary"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What characterizes the tertiary sector?",
             "options": {
-              "1": "Production of goods",
-              "2": "Providing services",
-              "3": "Mining activities",
-              "4": "Agricultural practices"
+              "A": "Production of goods",
+              "B": "Providing services",
+              "C": "Mining activities",
+              "D": "Agricultural practices"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a challenge faced by the agricultural sector?",
             "options": {
-              "1": "Technological advancement",
-              "2": "Urbanization",
-              "3": "Climate change",
-              "4": "Food security"
+              "A": "Technological advancement",
+              "B": "Urbanization",
+              "C": "Climate change",
+              "D": "Food security"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 3,
-        "title": "Money and Credit",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Money and Credit",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the primary function of money?",
             "options": {
-              "1": "Medium of exchange",
-              "2": "Store of value",
-              "3": "Unit of account",
-              "4": "All of the above"
+              "A": "Medium of exchange",
+              "B": "Store of value",
+              "C": "Unit of account",
+              "D": "All of the above"
             },
-            "answer": 4
+            "correct_answer": "D"
           },
           {
             "question": "What is credit primarily used for?",
             "options": {
-              "1": "Saving money",
-              "2": "Borrowing money",
-              "3": "Investing only",
-              "4": "Decreasing spending"
+              "A": "Saving money",
+              "B": "Borrowing money",
+              "C": "Investing only",
+              "D": "Decreasing spending"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which institution plays a key role in monetary policy?",
             "options": {
-              "1": "Public sector banks",
-              "2": "Reserve Bank",
-              "3": "Credit unions",
-              "4": "Non-banking financial companies"
+              "A": "Public sector banks",
+              "B": "Reserve Bank",
+              "C": "Credit unions",
+              "D": "Non-banking financial companies"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a common form of credit?",
             "options": {
-              "1": "Stocks",
-              "2": "Loans",
-              "3": "Bonds",
-              "4": "Equities"
+              "A": "Stocks",
+              "B": "Loans",
+              "C": "Bonds",
+              "D": "Equities"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is the primary risk associated with credit?",
             "options": {
-              "1": "Liquidity",
-              "2": "Inflation",
-              "3": "Default",
-              "4": "Interest rate fluctuation"
+              "A": "Liquidity",
+              "B": "Inflation",
+              "C": "Default",
+              "D": "Interest rate fluctuation"
             },
-            "answer": 3
+            "correct_answer": "C"
           }
         ]
       },
       {
         "chapter_no": 4,
-        "title": "Globalisation and the Indian Economy",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Globalisation and the Indian Economy",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What major change did globalization bring to the Indian economy?",
             "options": {
-              "1": "Reduced foreign investment",
-              "2": "Increased employment",
-              "3": "Expansion of the services sector",
-              "4": "Decrease in technology transfer"
+              "A": "Reduced foreign investment",
+              "B": "Increased employment",
+              "C": "Expansion of the services sector",
+              "D": "Decrease in technology transfer"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "Which sector has seen the most growth due to globalization?",
             "options": {
-              "1": "Agriculture",
-              "2": "Manufacturing",
-              "3": "Information technology",
-              "4": "Mining"
+              "A": "Agriculture",
+              "B": "Manufacturing",
+              "C": "Information technology",
+              "D": "Mining"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What impact has globalization had on local industries?",
             "options": {
-              "1": "Increased protection",
-              "2": "Enhanced competition",
-              "3": "Decreased exports",
-              "4": "Growth of monopolies"
+              "A": "Increased protection",
+              "B": "Enhanced competition",
+              "C": "Decreased exports",
+              "D": "Growth of monopolies"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "What is a major criticism of globalization?",
             "options": {
-              "1": "Economic integration",
-              "2": "Inequality in wealth distribution",
-              "3": "Access to international markets",
-              "4": "Tech advancements"
+              "A": "Economic integration",
+              "B": "Inequality in wealth distribution",
+              "C": "Access to international markets",
+              "D": "Tech advancements"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which of the following organizations promotes globalization?",
             "options": {
-              "1": "OPEC",
-              "2": "WTO",
-              "3": "UNESCO",
-              "4": "IMF"
+              "A": "OPEC",
+              "B": "WTO",
+              "C": "UNESCO",
+              "D": "IMF"
             },
-            "answer": 2
+            "correct_answer": "B"
           }
         ]
       },
       {
         "chapter_no": 5,
-        "title": "Consumer Rights",
-        "url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
+        "chapter_name": "Consumer Rights",
+        "video_url": "https://www.youtube.com/watch?v=3PnWHA-i4EY",
         "questions": [
           {
             "question": "What is the primary objective of consumer rights?",
             "options": {
-              "1": "Consumer empowerment",
-              "2": "Government regulation",
-              "3": "Profit maximization",
-              "4": "Market monopolization"
+              "A": "Consumer empowerment",
+              "B": "Government regulation",
+              "C": "Profit maximization",
+              "D": "Market monopolization"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "Which of the following is NOT a consumer right?",
             "options": {
-              "1": "Right to safety",
-              "2": "Right to information",
-              "3": "Right to ignore",
-              "4": "Right to choice"
+              "A": "Right to safety",
+              "B": "Right to information",
+              "C": "Right to ignore",
+              "D": "Right to choice"
             },
-            "answer": 3
+            "correct_answer": "C"
           },
           {
             "question": "What does the right to redress entail?",
             "options": {
-              "1": "Compensation for faulty goods",
-              "2": "Access to marketing materials",
-              "3": "Right to receive advertisements",
-              "4": "None of the above"
+              "A": "Compensation for faulty goods",
+              "B": "Access to marketing materials",
+              "C": "Right to receive advertisements",
+              "D": "None of the above"
             },
-            "answer": 1
+            "correct_answer": "A"
           },
           {
             "question": "What is an important aspect of consumer advocacy?",
             "options": {
-              "1": "Promoting false advertising",
-              "2": "Advocating for fair practices",
-              "3": "Supporting monopoly businesses",
-              "4": "Creating confusion among consumers"
+              "A": "Promoting false advertising",
+              "B": "Advocating for fair practices",
+              "C": "Supporting monopoly businesses",
+              "D": "Creating confusion among consumers"
             },
-            "answer": 2
+            "correct_answer": "B"
           },
           {
             "question": "Which organization protects consumer rights in India?",
             "options": {
-              "1": "CACP",
-              "2": "WTO",
-              "3": "CERC",
-              "4": "Consumer Court"
+              "A": "CACP",
+              "B": "WTO",
+              "C": "CERC",
+              "D": "Consumer Court"
             },
-            "answer": 4
+            "correct_answer": "D"
           }
         ]
       }

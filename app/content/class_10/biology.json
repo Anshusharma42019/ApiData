@@ -1,45 +1,355 @@
-[
+{
+  "class": 10,
+  "subject": "Class 10 Biology",
+  "channel": "Grade booster",
+  "chapters": [
     {
-      "chapter": 1,
-      "title": "Life Processes",
+      "chapter_no": 1,
+      "chapter_name": "Life Processes",
       "video_title": "Life processes Full chapter | class 10 Animated video | 10th BIOLOGY | ncert #science | Chapter 7",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=7Z7uFQ7uFQY"
+      "video_url": "https://www.youtube.com/watch?v=e0KhpV6V9YY&list=PLjygeTp52f7qjpFauVPUt70Vf1xtVMIaI&index=1",
+      "questions": [
+        {
+          "question": "What are the basic life processes necessary for survival?",
+          "options": {
+            "A": "Nutrition, respiration, transportation, excretion",
+            "B": "Growth, reproduction, regeneration, movement",
+            "C": "Respiration, reproduction, adaptation, defense",
+            "D": "Communication, locomotion, respiration, digestion"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What process in plants converts sunlight into chemical energy?",
+          "options": {
+            "A": "Cellular respiration",
+            "B": "Photosynthesis",
+            "C": "Transpiration",
+            "D": "Fermentation"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which organelle is responsible for respiration in cells?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Chloroplast",
+            "C": "Mitochondria",
+            "D": "Ribosome"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the primary waste product of cellular respiration?",
+          "options": {
+            "A": "Oxygen",
+            "B": "Carbon dioxide",
+            "C": "Water",
+            "D": "Glucose"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the role of the stomata in plants?",
+          "options": {
+            "A": "Water absorption",
+            "B": "Gas exchange",
+            "C": "Nutrient uptake",
+            "D": "Photosynthesis"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": 2,
-      "title": "Control and Coordination",
+      "chapter_no": 2,
+      "chapter_name": "Control and Coordination",
       "video_title": "#controlandcoordination full chapter | cbse Class 10th Biology | NCERT class 10 science chapter 7",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=8A8uFQ8uFQY"
+      "video_url": "https://www.youtube.com/watch?v=vaHr0tVHdIk&list=PLjygeTp52f7qjpFauVPUt70Vf1xtVMIaI&index=6",
+      "questions": [
+        {
+          "question": "What system is responsible for control and coordination in the body?",
+          "options": {
+            "A": "Digestive system",
+            "B": "Nervous system",
+            "C": "Circulatory system",
+            "D": "Reproductive system"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What are neurons?",
+          "options": {
+            "A": "Cells responsible for gas exchange",
+            "B": "Cells that detect stimuli",
+            "C": "Cells that process nutrients",
+            "D": "Cells that transmit signals"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating balance and coordination?",
+          "options": {
+            "A": "Cerebrum",
+            "B": "Cerebellum",
+            "C": "Medulla oblongata",
+            "D": "Thalamus"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How do hormones influence body functions?",
+          "options": {
+            "A": "By providing energy",
+            "B": "Through neurotransmitters",
+            "C": "By acting as messengers",
+            "D": "By controlling muscle contraction"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the primary function of the endocrine system?",
+          "options": {
+            "A": "To transmit electrical impulses",
+            "B": "To produce hormones",
+            "C": "To circulate blood",
+            "D": "To filter waste"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": 3,
-      "title": "How Do Organisms Reproduce?",
+      "chapter_no": 3,
+      "chapter_name": "How Do Organisms Reproduce?",
       "video_title": "How Do Organisms Reproduce Complete Chapter🔥 in Animation |Class 10th Science CH-6| NCERT covered|",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=9B9uFQ9uFQY"
+      "video_url": "https://www.youtube.com/watch?v=ln-9_LLTg4Q&list=PLjygeTp52f7qjpFauVPUt70Vf1xtVMIaI&index=5",
+      "questions": [
+        {
+          "question": "What is the process of reproduction?",
+          "options": {
+            "A": "Production of energy",
+            "B": "Creation of new individuals",
+            "C": "Growth and development",
+            "D": "Breaking down nutrients"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which type of reproduction involves only one parent?",
+          "options": {
+            "A": "Sexual reproduction",
+            "B": "Asexual reproduction",
+            "C": "Cross reproduction",
+            "D": "Hybrid reproduction"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a key characteristic of sexual reproduction?",
+          "options": {
+            "A": "Involves one parent",
+            "B": "Results in genetically identical offspring",
+            "C": "Involves the fusion of gametes",
+            "D": "Fast and efficient process"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the role of gametes in reproduction?",
+          "options": {
+            "A": "Carry nutrients",
+            "B": "Transfer energy",
+            "C": "Fertilize eggs",
+            "D": "Produce hormones"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which method of reproduction is employed by yeast?",
+          "options": {
+            "A": "Budding",
+            "B": "Conjugation",
+            "C": "Fission",
+            "D": "Fragmentation"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter": 4,
-      "title": "Heredity and Evolution",
+      "chapter_no": 4,
+      "chapter_name": "Heredity and Evolution",
       "video_title": "CLASS 10 HEREDITY & EVOLUTION Full chapter explanation (Animation) | NCERT Class 10 Chapter 8",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=0C0uFQ0uFQY"
+      "video_url": "https://www.youtube.com/watch?v=KtsqinIx1ME&list=PLjygeTp52f7qjpFauVPUt70Vf1xtVMIaI&index=3",
+      "questions": [
+        {
+          "question": "What is heredity?",
+          "options": {
+            "A": "Study of evolution",
+            "B": "Transmission of traits from parents to offspring",
+            "C": "Change in species over time",
+            "D": "Variation among species"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who is known as the father of genetics?",
+          "options": {
+            "A": "Charles Darwin",
+            "B": "Gregor Mendel",
+            "C": "Louis Pasteur",
+            "D": "James Watson"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a homozygous genotype?",
+          "options": {
+            "A": "Aa",
+            "B": "AA",
+            "C": "Bb",
+            "D": "AB"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is natural selection?",
+          "options": {
+            "A": "Survival of the fittest",
+            "B": "Random mating",
+            "C": "Human-guided evolution",
+            "D": "Artificial selection"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What represents a recessive allele in genetics?",
+          "options": {
+            "A": "Capital letter",
+            "B": "Small letter",
+            "C": "Pair of letters",
+            "D": "Number"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": 5,
-      "title": "Our Environment",
+      "chapter_no": 5,
+      "chapter_name": "Our Environment",
       "video_title": "Our Environment in Full chapter (Animation) | CBSE Class 10 Biology ch13 | ecosystem | NCERT Science",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=1D1uFQ1uFQY"
+      "video_url": "https://www.youtube.com/watch?v=sbVFcjq0Q_Q&list=PLjygeTp52f7qjpFauVPUt70Vf1xtVMIaI&index=13",
+      "questions": [
+        {
+          "question": "Which of the following is a biotic component of an ecosystem?",
+          "options": {
+            "A": "Water",
+            "B": "Rocks",
+            "C": "Plants",
+            "D": "Soil"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is biodiversity?",
+          "options": {
+            "A": "Variety of living organisms",
+            "B": "Total number of species in one habitat",
+            "C": "Diversity of ecosystems",
+            "D": "All the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the primary source of energy for ecosystems?",
+          "options": {
+            "A": "Wind",
+            "B": "Water",
+            "C": "Solar energy",
+            "D": "Geothermal energy"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is an example of a decomposer?",
+          "options": {
+            "A": "Plant",
+            "B": "Fungi",
+            "C": "Consumers",
+            "D": "Producers"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the role of producers in an ecosystem?",
+          "options": {
+            "A": "Consume other organisms",
+            "B": "Perform photosynthesis",
+            "C": "Decompose dead matter",
+            "D": "Provide nutrients to soil"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter": 6,
-      "title": "Management of Natural Resources",
+      "chapter_no": 6,
+      "chapter_name": "Management of Natural Resources",
       "video_title": "Management of Natural Resources Full Chapter in Animation | Class 10 Science Chapter 16 | CBSE",
-      "channel": "Grade booster",
-      "url": "https://www.youtube.com/watch?v=2E2uFQ2uFQY"
+      "video_url": "https://www.youtube.com/watch?v=H383GtuDNxM",
+      "questions": [
+        {
+          "question": "What is sustainable development?",
+          "options": {
+            "A": "Using resources at a rate faster than they can be replenished",
+            "B": "Meeting the needs of the present without compromising future generations",
+            "C": "Exploiting natural resources",
+            "D": "Ignoring environmental concerns"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which resource is renewable?",
+          "options": {
+            "A": "Fossil fuels",
+            "B": "Minerals",
+            "C": "Solar energy",
+            "D": "Nuclear energy"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is conservation?",
+          "options": {
+            "A": "Using more resources",
+            "B": "Preventing loss of biodiversity",
+            "C": "Promoting pollution",
+            "D": "Overexploiting resources"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is an example of non-renewable resources?",
+          "options": {
+            "A": "Coal",
+            "B": "Wind energy",
+            "C": "Sunlight",
+            "D": "Water"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main purpose of recycling?",
+          "options": {
+            "A": "To create waste",
+            "B": "To conserve resources",
+            "C": "To increase pollution",
+            "D": "To accumulate waste"
+          },
+          "correct_answer": "B"
+        }
+      ]
     }
   ]
-  
+}

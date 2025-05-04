@@ -1,0 +1,349 @@
+{
+    "class": 8,
+    "subject": "Social Science",
+    "channel": "Physics Wallah",
+    "chapters":[
+        {
+          "chapter_no": 1,
+          "chapter_name": "Resources",
+          "video_url": "https://www.youtube.com/watch?v=6kqJeo7WhV0",
+          "questions": [
+            {
+              "question": "What are resources?",
+              "options": {
+              "A": "Man-made goods only",
+              "B": "Natural and human-made materials that fulfill needs",
+              "C": "Unusable materials",
+              "D": "Only financial assets"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What type of resources are considered renewable?",
+              "options": {
+              "A": "Minerals",
+              "B": "Coal",
+              "C": "Solar energy",
+              "D": "Fossil fuels"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Why is resource management important?",
+              "options": {
+              "A": "To deplete resources",
+              "B": "To ensure sustainable use for future generations",
+              "C": "To limit usage",
+              "D": "To create scarcity"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is one major consequence of overexploiting resources?",
+              "options": {
+              "A": "Sustainability of ecosystems",
+              "B": "Resource depletion",
+              "C": "Increased biodiversity",
+              "D": "Economic stability"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "How do human activities impact natural resources?",
+              "options": {
+              "A": "They have no effect.",
+              "B": "They can lead to their depletion and degradation.",
+              "C": "They always improve availability.",
+              "D": "They are only beneficial."
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 2,
+          "chapter_name": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+          "video_url": "https://www.youtube.com/watch?v=4IIlVpLQ-zc",
+          "questions": [
+            {
+              "question": "What is soil erosion?",
+              "options": {
+              "A": "Process of soil formation",
+              "B": "Washing away of soil by wind or water",
+              "C": "Buildup of soil nutrients",
+              "D": "Natural replenishment of soil"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Why is natural vegetation important?",
+              "options": {
+              "A": "Increased pollution",
+              "B": "Provides habitats and maintains ecosystems",
+              "C": "Only for tourism",
+              "D": "Promotes urban expansion"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is the primary factor that contributes to agricultural success?",
+              "options": {
+              "A": "Weather unpredictability",
+              "B": "Quality of soil",
+              "C": "Limited water access",
+              "D": "Urbanization"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What significance do wildlife resources hold?",
+              "options": {
+              "A": "They are irrelevant.",
+              "B": "They maintain ecological balance and contribute to biodiversity.",
+              "C": "They only benefit humans.",
+              "D": "They are solely for aesthetic purposes."
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is one of the primary causes of habitat destruction?",
+              "options": {
+              "A": "Conservation efforts",
+              "B": "Urban expansion and agriculture",
+              "C": "Sustainable development",
+              "D": "Community-led initiatives"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        },
+        {
+          "chapter_no": 3,
+          "chapter_name": "Minerals and Power Resources",
+          "video_url": "https://www.youtube.com/watch?v=1PT412oAPX4",
+          "questions": [
+            {
+              "question": "What are minerals?",
+              "options": {
+              "A": "Liquid resources",
+              "B": "Inorganic substances found in the earth",
+              "C": "Gaseous substances",
+              "D": "Only man-made materials"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is an example of a non-renewable resource?",
+              "options": {
+              "A": "Wind",
+              "B": "Solar energy",
+              "C": "Coal",
+              "D": "Water"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Which country is well-known for its extensive coal reserves?",
+              "options": {
+              "A": "India",
+              "B": "United States",
+              "C": "Australia",
+              "D": "China"
+              },
+              "correct_answer": "D"
+            },
+            {
+              "question": "What is the main use of minerals?",
+              "options": {
+              "A": "Fashion industry",
+              "B": "Food production",
+              "C": "Manufacturing and construction",
+              "D": "Entertainment"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "How is electricity generated using fossil fuels?",
+              "options": {
+              "A": "By burning them to produce steam",
+              "B": "Using solar panels",
+              "C": "From wind turbines",
+              "D": "Through hydroelectric plants"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 4,
+          "chapter_name": "Agriculture",
+          "video_url": "https://www.youtube.com/watch?v=f8pCwkRdk48",
+          "questions": [
+            {
+              "question": "What is agriculture?",
+              "options": {
+              "A": "Studying rocks",
+              "B": "The cultivation of crops and rearing of animals",
+              "C": "Only planting flowers",
+              "D": "Ignoring natural resources"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Which factor is essential for successful agriculture?",
+              "options": {
+              "A": "Poor soil quality",
+              "B": "Good irrigation",
+              "C": "Lack of technology",
+              "D": "Declining rural population"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What drives the shift from traditional to modern agriculture?",
+              "options": {
+              "A": "Increasing reliance on technology",
+              "B": "Decline in the agricultural workforce",
+              "C": "Rising prices of agrarian products",
+              "D": "Focus on traditional farming only"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What defines organic farming?",
+              "options": {
+              "A": "Utilizing synthetic pesticides",
+              "B": "Crop rotation and composting",
+              "C": "Relying solely on artificial fertilizers",
+              "D": "Mono-cropping"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What do monoculture and polyculture refer to?",
+              "options": {
+              "A": "Homogeneous farming vs diverse farming practices",
+              "B": "Labor methods",
+              "C": "Fertilization methods",
+              "D": "Types of livestock"
+              },
+              "correct_answer": "A"
+            }
+          ]
+        },
+        {
+          "chapter_no": 5,
+          "chapter_name": "Industries",
+          "video_url": "https://www.youtube.com/watch?v=7n0OtS_A1Xs",
+          "questions": [
+            {
+              "question": "What is the main goal of industries?",
+              "options": {
+              "A": "Cultivating crops",
+              "B": "Producing goods in large quantities",
+              "C": "Providing services",
+              "D": "Promoting tourism"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "Which industry significantly contributes to the Indian economy?",
+              "options": {
+              "A": "Textiles",
+              "B": "Agriculture",
+              "C": "Transport",
+              "D": "Tourism"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What category does automobile manufacturing fall under?",
+              "options": {
+              "A": "Heavy industry",
+              "B": "Light industry",
+              "C": "Small scale industry",
+              "D": "Service industry"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "What is one of the major challenges faced by industries?",
+              "options": {
+              "A": "Resource scarcity",
+              "B": "Increase in labor quality",
+              "C": "Lack of demand",
+              "D": "Protectionism"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "question": "Which aspect significantly influences industrial location?",
+              "options": {
+              "A": "Market proximity",
+              "B": "Raw material access",
+              "C": "Transport facilities",
+              "D": "All of the above"
+              },
+              "correct_answer": "D"
+            }
+          ]
+        },
+        {
+          "chapter_no": 6,
+          "chapter_name": "Human Resources",
+          "video_url": "https://www.youtube.com/watch?v=umM_s_BaI8U&list=PLcJiYBaxEj82kR1tejO-4CCQl_Rl5ECLt&index=17",
+          "questions": [
+            {
+              "question": "What are human resources?",
+              "options": {
+              "A": "Financial resources",
+              "B": "Natural resources",
+              "C": "People skills and labor",
+              "D": "Technological advancements"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "question": "Define population density.",
+              "options": {
+              "A": "Wealth distribution",
+              "B": "Number of people living in a unit area",
+              "C": "Migration trends",
+              "D": "Population growth rate"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What affects human resource development?",
+              "options": {
+              "A": "Government policies only",
+              "B": "Education and training",
+              "C": "Pollution levels",
+              "D": "Only urbanization"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "What is the importance of a skilled labor force?",
+              "options": {
+              "A": "Increases unemployment",
+              "B": "Enhances productivity",
+              "C": "Promotes inequality",
+              "D": "Creates low competition"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "question": "How does migration influence human resources?",
+              "options": {
+              "A": "Reduces opportunities only",
+              "B": "Affects labor availability and economic growth",
+              "C": "Has no impact",
+              "D": "Is only for education"
+              },
+              "correct_answer": "B"
+            }
+          ]
+        }
+      ]
+  }

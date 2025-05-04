@@ -1,134 +1,1160 @@
 {
-    "class": "Class 5",
-    "subject": "Hindi",
-    "book": "Rimjhim",
-    "video_explanations": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "राख की रस्सी",
-        "video_duration": "1:06:58",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=aRJwHNwUOOY"
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "फसलों का त्योहार",
-        "video_duration": "48:16",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=L5kxPoJQFw4&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=2"
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "खिलौनेवाला",
-        "video_duration": "1:13:51",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=-sZ6YOPsftA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=3"
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "नन्हा फनकार",
-        "video_duration": "52:38",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=ER1zaX9g91Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=4"
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "जहां चाह वहां राह",
-        "video_duration": "43:21",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=6mzTh2FCcI0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=5"
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "चिट्ठी का सफर",
-        "video_duration": "45:17",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=gM7F3W06eTU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=6"
-      },
-      {
-        "chapter_no": 7,
-        "chapter_name": "डाकिए की कहानी, कंवरसिंह की जुबानी",
-        "video_duration": "42:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=HdkFXPdTASM&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=7"
-      },
-      {
-        "chapter_no": 8,
-        "chapter_name": "वे दिन भी क्या दिन थे",
-        "video_duration": "43:13",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=estrrRZA8iU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=8"
-      },
-      {
-        "chapter_no": 9,
-        "chapter_name": "एक माँ की बेबसी",
-        "video_duration": "42:21",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=Hzl_Di4UuGs&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=9"
-      },
-      {
-        "chapter_no": 10,
-        "chapter_name": "एक दिन की बादशाहत",
-        "video_duration": "38:56",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=IKBoQMZHjdo&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=10"
-      },
-      {
-        "chapter_no": 11,
-        "chapter_name": "चावल की रोटियाँ",
-        "video_duration": "47:33",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=ELuoLkYKv1k&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=11"
-      },
-      {
-        "chapter_no": 12,
-        "chapter_name": "गुरु और चेला",
-        "video_duration": "57:19",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=VICDN2lRWN0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=12"
-      },
-      {
-        "chapter_no": 13,
-        "chapter_name": "स्वामी की दादी",
-        "video_duration": "46:27",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=UT98ISLrg5Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=13"
-      },
-      {
-        "chapter_no": 14,
-        "chapter_name": "बाघ आया उस रात",
-        "video_duration": "30:05",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=EMTCslP4cpA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=14"
-      },
-      {
-        "chapter_no": 15,
-        "chapter_name": "बिशन की दिलेरी",
-        "video_duration": "46:12",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=el5kvSSLvzY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=15"
-      },
-      {
-        "chapter_no": 16,
-        "chapter_name": "पानी रे पानी",
-        "video_duration": "43:47",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=AsgGky-unfg&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=16"
-      },
-      {
-        "chapter_no": 17,
-        "chapter_name": "छोटी-सी हमारी नदी",
-        "video_duration": "38:03",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=_PiQY3nzjdY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=17"
-      },
-      {
-        "chapter_no": 18,
-        "chapter_name": "चुनौतियाँ हिमालय की",
-        "video_duration": "42:49",
-        "channel_name": "Magnet Brains",
-        "video_url": "https://www.youtube.com/watch?v=FscGAvCsmoY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=18"
-      }
-    ]
-  }
-  
+  "class": "Class 5",
+  "subject": "Hindi",
+  "book": "Rimjhim",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "राख की रस्सी",
+      "video_duration": "1:06:58",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=aRJwHNwUOOY",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "क्या 'राख की रस्सी' कहानी का मुख्य विषय है?",
+          "options": {
+            "A": "प्रेम",
+            "B": "साहस",
+            "C": "धैर्य",
+            "D": "सपने"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 2,
+          "question": "कहानी में मुख्य पात्र कौन है?",
+          "options": {
+            "A": "चिड़िया",
+            "B": "बच्चा",
+            "C": "बूढ़ा आदमी",
+            "D": "गाय"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "कहानी में रक्षात्मक गुण कौन सा है?",
+          "options": {
+            "A": "धैर्य",
+            "B": "क्रोध",
+            "C": "चुटकुले",
+            "D": "रुचि"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "बच्चे ने राख की रस्सी से क्या सीखा?",
+          "options": {
+            "A": "काम करना",
+            "B": "क्षमा",
+            "C": "सत्य बोलना",
+            "D": "ताकत"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 5,
+          "question": "कहानी का अंत क्या है?",
+          "options": {
+            "A": "में खुशी",
+            "B": "अधिक क्रोध",
+            "C": "भविष्य की ओर आशा",
+            "D": "बचना"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "फसलों का त्योहार",
+      "video_duration": "48:16",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=L5kxPoJQFw4&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=2",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "फसलों का त्योहार किस बारे में है?",
+          "options": {
+            "A": "स्वास्थ्य",
+            "B": "कृषि",
+            "C": "शिक्षा",
+            "D": "खेल"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "समुदाय में त्योहार क्यों मनाया जाता है?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशी और एकता",
+            "C": "समस्या",
+            "D": "प्रेरणा"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "यह त्योहार किस मौसम में मनाया जाता है?",
+          "options": {
+            "A": "बारिश",
+            "B": "गर्मी",
+            "C": "सर्दी",
+            "D": "वसंत"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "इसका आयोजन किस के द्वारा किया जाता है?",
+          "options": {
+            "A": "सरकार",
+            "B": "किसान",
+            "C": "व्यापारी",
+            "D": "विद्यार्थी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "त्योहार पर किसका महत्व होता है?",
+          "options": {
+            "A": "खर्च",
+            "B": "साझा करना",
+            "C": "उदासी",
+            "D": "परवाह"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "खिलौनेवाला",
+      "video_duration": "1:13:51",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=-sZ6YOPsftA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=3",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी 'खिलौनेवाला' में कौन मुख्य पात्र है?",
+          "options": {
+            "A": "बच्चा",
+            "B": "खिलौनेवाला",
+            "C": "गाय",
+            "D": "पिता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "खिलौनेवाले का काम क्या है?",
+          "options": {
+            "A": "खिलौने बेचना",
+            "B": "खाना बनाना",
+            "C": "किसान होना",
+            "D": "रुपया कमाना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "कहानी में खिलौने का क्या महत्व है?",
+          "options": {
+            "A": "खुशी लाना",
+            "B": "दुख लाना",
+            "C": "विफलता",
+            "D": "सिर्फ व्यापार"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "खिलौनेवाला बच्चों को कैसे आनंदित करता है?",
+          "options": {
+            "A": "बातों से",
+            "B": "खिलौनों से",
+            "C": "कहानियों से",
+            "D": "संगीत से"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "कहानी का संदेश क्या है?",
+          "options": {
+            "A": "खिलौने सिर्फ वस्तुएं हैं",
+            "B": "खुश रहना आवश्यक है",
+            "C": "बच्चों को नहीं पढ़ाना चाहिए",
+            "D": "समाज की कोई चिंता नहीं"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "नन्हा फनकार",
+      "video_duration": "52:38",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=ER1zaX9g91Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=4",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "नन्हा फनकार किस तरह का है?",
+          "options": {
+            "A": "कला में माहिर",
+            "B": "खेल में माहिर",
+            "C": "अविकसित",
+            "D": "बच्चा"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 2,
+          "question": "फनकार किस चीज़ का प्रदर्शन करता है?",
+          "options": {
+            "A": "हास्य",
+            "B": "कला",
+            "C": "खेल",
+            "D": "ज्ञान"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "नन्हा फंकार किसकी तारीफ करता है?",
+          "options": {
+            "A": "पिता",
+            "B": "माता",
+            "C": "सभी",
+            "D": "खुद"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "फनकार का योगदान किससे होता है?",
+          "options": {
+            "A": "धन से",
+            "B": "सपनों से",
+            "C": "प्रतिभा से",
+            "D": "अज्ञानता से"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 5,
+          "question": "इसकी कहानी क्या सिखाती है?",
+          "options": {
+            "A": "काम से कोई लाभ नहीं",
+            "B": "खुद को साबित करना चाहिए",
+            "C": "धन ही सब कुछ है",
+            "D": "खुद पर विश्वास नहीं करना चाहिए"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "जहां चाह वहां राह",
+      "video_duration": "43:21",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=6mzTh2FCcI0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=5",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "काम से कोई सफलता नहीं",
+            "B": "कोशिश करने से सब कुछ संभव है",
+            "C": "समय बर्बाद करना अच्छा है",
+            "D": "रोकने से ही सब कुछ खत्म हो जाता है"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "कहानी में कहां का उल्लेख है?",
+          "options": {
+            "A": "दूर देशों का",
+            "B": "गांव का",
+            "C": "बच्चों का",
+            "D": "स्कूल का"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "किसने कहानियों को आगे बढ़ाया?",
+          "options": {
+            "A": "बच्चें",
+            "B": "बूढ़े लोग",
+            "C": "युवक",
+            "D": "महिलाएं"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "कहानी का क्या मतलब है?",
+          "options": {
+            "A": "सपने देखो",
+            "B": "जीवन में कुछ नहीं करना है",
+            "C": "लोग बुरे हैं",
+            "D": "कड़ी मेहनत करनी चाहिए"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 5,
+          "question": "समस्याओं का सामना कैसे करना चाहिए?",
+          "options": {
+            "A": "भेजकर",
+            "B": "छोड़कर",
+            "C": "महसूस कर",
+            "D": "भाषण देकर"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "चिट्ठी का सफर",
+      "video_duration": "45:17",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=gM7F3W06eTU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=6",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "इस कहानी में पत्र का क्या महत्व है?",
+          "options": {
+            "A": "सूचना प्रसारित करना",
+            "B": "खुश होना",
+            "C": "भूलना",
+            "D": "ध्यान नहीं देना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "कहानी का मुख्य पात्र कौन है?",
+          "options": {
+            "A": "पिता",
+            "B": "माता",
+            "C": "बच्चा",
+            "D": "दादा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 3,
+          "question": "किसी चिट्ठी में क्या लिखा होता है?",
+          "options": {
+            "A": "दिनांक और समय",
+            "B": "संदेश",
+            "C": "आशाएँ",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "कहानी की भावनाएं क्या हैं?",
+          "options": {
+            "A": "विरक्ति और चिंता",
+            "B": "खुशियाँ",
+            "C": "अकेलापन",
+            "D": "सुख और आनंद"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 5,
+          "question": "किससे पत्र भेजा जाता है?",
+          "options": {
+            "A": "फ्रेंड",
+            "B": "शिक्षक",
+            "C": "संबंधी",
+            "D": "सभी"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "chapter_name": "डाकिए की कहानी, कंवरसिंह की जुबानी",
+      "video_duration": "42:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=HdkFXPdTASM&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=7",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य पात्र कौन है?",
+          "options": {
+            "A": "डाकिया",
+            "B": "बच्चा",
+            "C": "माता",
+            "D": "पिता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "डाकिया की भूमिका क्या होती है?",
+          "options": {
+            "A": "हर संदेश दिया जाता है",
+            "B": "संदेश सौंपा जाता है",
+            "C": "संदेश सम्भाल कर रखना",
+            "D": "संदेश मिलाना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "कहानी में क्या दिखाया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "सदाबहार",
+            "C": "स्वर्णिम दिन",
+            "D": "उदासी"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "डाकिये का उद्देश्य क्या है?",
+          "options": {
+            "A": "रूपये कमाना",
+            "B": "संदेश देना",
+            "C": "छोटे गाँव को छोड़ना",
+            "D": "काम करने से मना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "नीतियों का महत्व क्या होता है?",
+          "options": {
+            "A": "उलझाना",
+            "B": "साझा करना",
+            "C": "छोड़ देना",
+            "D": "कम करना"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "chapter_name": "वे दिन भी क्या दिन थे",
+      "video_duration": "43:13",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=estrrRZA8iU&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=8",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का विषय क्या है?",
+          "options": {
+            "A": "बीते हुए दिन",
+            "B": "एक संघर्ष",
+            "C": "सपने",
+            "D": "इच्छाएँ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "किसका उल्लेख कहानी में है?",
+          "options": {
+            "A": "एक दर्द",
+            "B": "सुख",
+            "C": "एक खुशी",
+            "D": "एक टगड़ी"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "कहानी की भूमिका किसके द्वारा निभाई गया?",
+          "options": {
+            "A": "रागिनियों",
+            "B": "साँस्कृतिक",
+            "C": "सस्कृति",
+            "D": "सीखना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 4,
+          "question": "नपुंसकता का क्या मतलब होता है?",
+          "options": {
+            "A": "आत्मा",
+            "B": "कठोरता",
+            "C": "सूचनाएं",
+            "D": "संकट"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 5,
+          "question": "कहाँ पर घटना होती है?",
+          "options": {
+            "A": "बगीचे",
+            "B": "गाँव",
+            "C": "महल",
+            "D": "बाजार"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "chapter_name": "एक माँ की बेबसी",
+      "video_duration": "42:21",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=Hzl_Di4UuGs&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=9",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य पात्र कौन है?",
+          "options": {
+            "A": "माता",
+            "B": "पिता",
+            "C": "बच्चा",
+            "D": "बूढ़ा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "क्या होना चाहिए, माता की बेबसी में?",
+          "options": {
+            "A": "स्वास्थ्य",
+            "B": "शांति",
+            "C": "रक्षा",
+            "D": "गर्व"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 3,
+          "question": "माता का क्या उद्देश्य होता है?",
+          "options": {
+            "A": "काम करना",
+            "B": "देखा करना",
+            "C": "सपना देखना",
+            "D": "प्यार देना"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "क्या खुशियां होती है माता के लिए?",
+          "options": {
+            "A": "खुशियाँ",
+            "B": "संघर्ष",
+            "C": "रक्षा करना",
+            "D": "उदासी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 5,
+          "question": "क्या परिवार का महत्व होता है?",
+          "options": {
+            "A": "संपत्ति",
+            "B": "धन",
+            "C": "प्यार",
+            "D": "पहचान"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "chapter_name": "एक दिन की बादशाहत",
+      "video_duration": "38:56",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=IKBoQMZHjdo&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=10",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी में राजा का नाम क्या है?",
+          "options": {
+            "A": "अकबर",
+            "B": "शेरशाह",
+            "C": "बिरबल",
+            "D": "हुमायूँ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "किस बात पर राजा ने निर्णय लिया?",
+          "options": {
+            "A": "कमरे में",
+            "B": "सभा में",
+            "C": "राक्षसी",
+            "D": "विभाजित"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "किसका अधिकार होता है राजा को?",
+          "options": {
+            "A": "न्याय",
+            "B": "ध्यान",
+            "C": "संभलना",
+            "D": "शासन"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "राजा ने अपने प्रजा को क्या सिखाया?",
+          "options": {
+            "A": "अपने लिए जीना",
+            "B": "दूसरों की मदद करना",
+            "C": "तरस खाना",
+            "D": "धन बचाना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "राजा का मुख्य लक्ष्य क्या होता है?",
+          "options": {
+            "A": "धन कमाना",
+            "B": "सेवा करना",
+            "C": "नींद लेना",
+            "D": "गौरव पाना"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "chapter_name": "चावल की रोटियाँ",
+      "video_duration": "47:33",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=ELuoLkYKv1k&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=11",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी के मुख्य पात्र कौन हैं?",
+          "options": {
+            "A": "छोटे बच्चे",
+            "B": "किसान",
+            "C": "महिलाएं",
+            "D": "बूढ़े लोग"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 2,
+          "question": "कहानी में चावल किसके लिए बनाए जाते हैं?",
+          "options": {
+            "A": "अभिनेता",
+            "B": "दलित",
+            "C": "गृहस्थ",
+            "D": "फल वाली"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 3,
+          "question": "किसी कार्य में क्या महत्वपूर्ण होता है?",
+          "options": {
+            "A": "केवल लक्ष्य",
+            "B": "सभी कार्य",
+            "C": "सभी सुविधाएँ",
+            "D": "कोई नहीं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 4,
+          "question": "चावल किस रूप में पकाया जाता है?",
+          "options": {
+            "A": "गर्म",
+            "B": "ठंडी",
+            "C": "मध्यम",
+            "D": "कुरकुरी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 5,
+          "question": "क्या यह स्थिति हमेशा आती है?",
+          "options": {
+            "A": "काम हो रहा है",
+            "B": "समय लगता है",
+            "C": "लोग ऐसे ही अजमा लेते हैं",
+            "D": "चलाते हैं बस"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "chapter_name": "गुरु और चेला",
+      "video_duration": "57:19",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=VICDN2lRWN0&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=12",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी में गुरु का नाम क्या है?",
+          "options": {
+            "A": "राम",
+            "B": "मोहन",
+            "C": "शंकर",
+            "D": "राजा"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 2,
+          "question": "गुरु का क्या कार्य होता है?",
+          "options": {
+            "A": "सिखाना",
+            "B": "सपने देखना",
+            "C": "सिर्फ खाना",
+            "D": "नृत्य करना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "शिष्य का क्या महत्व होता है?",
+          "options": {
+            "A": "सिद्धि",
+            "B": "संगीत",
+            "C": "गौरव",
+            "D": "संघर्ष"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "गुरु के साथ शिष्य का क्या संबंध होता है?",
+          "options": {
+            "A": "बुरा",
+            "B": "कमज़ोर",
+            "C": "गहरा",
+            "D": "सिर्फ ज्ञान"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 5,
+          "question": "किसके माध्यम से गुरु की शिक्षा प्रभावी होती है?",
+          "options": {
+            "A": "वाणी",
+            "B": "धैर्य",
+            "C": "संबंध",
+            "D": "कोई भी नहीं"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "chapter_name": "स्वामी की दादी",
+      "video_duration": "46:27",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=UT98ISLrg5Y&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=13",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य पात्र कौन है?",
+          "options": {
+            "A": "स्वामी",
+            "B": "दादी",
+            "C": "पिता",
+            "D": "शिक्षक"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "स्वामी की दादी का क्या महत्व है?",
+          "options": {
+            "A": "खुशियाँ",
+            "B": "प्यार",
+            "C": "ध्यान",
+            "D": "संग्रह"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "क्या दादी की भूमिका होती है?",
+          "options": {
+            "A": "कमज़ोरता",
+            "B": "संबंध",
+            "C": "शांति",
+            "D": "सुख-दुख"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "स्वामी का भावनात्मक रूप क्या होता है?",
+          "options": {
+            "A": "सुख",
+            "B": "दुख",
+            "C": "सोच",
+            "D": "सपने"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "किसका ध्यान रखना चाहिए?",
+          "options": {
+            "A": "मानवता",
+            "B": "प्यार",
+            "C": "दर्द",
+            "D": "ध्यान"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "chapter_name": "बाघ आया उस रात",
+      "video_duration": "30:05",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=EMTCslP4cpA&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=14",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी में किस जानवर का उल्लेख है?",
+          "options": {
+            "A": "गाय",
+            "B": "बाघ",
+            "C": "बिल्ली",
+            "D": "कुत्ता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "कहानी का मुख्य घटना क्या है?",
+          "options": {
+            "A": "स्त्री की यात्रा",
+            "B": "बाघ का आगमन",
+            "C": "प्यारा सा बच्चे",
+            "D": "चिड़िया का गीत"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 3,
+          "question": "बाघ किसकी पहचान करता है?",
+          "options": {
+            "A": "उसकी भूख",
+            "B": "आधार",
+            "C": "सामाजिक पहचान",
+            "D": "खुशियाँ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "क्या बाघ का जगाना उचित था?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "शायद",
+            "D": "कभी नहीं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 5,
+          "question": "बाघ की कहानी क्या सिखाती है?",
+          "options": {
+            "A": "खतरनाक स्थिति",
+            "B": "सजग",
+            "C": "धैर्य",
+            "D": "संसार"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "chapter_name": "बिशन की दिलेरी",
+      "video_duration": "46:12",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=el5kvSSLvzY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=15",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी 'बिशन की दिमागी' में कौन मुख्य पात्र है?",
+          "options": {
+            "A": "बिशन",
+            "B": "गाय",
+            "C": "दादी",
+            "D": "पिता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 2,
+          "question": "बिशन की विशेषता क्या है?",
+          "options": {
+            "A": "चतुराई",
+            "B": "सादगी",
+            "C": "धैर्य",
+            "D": "स्वार्थ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 3,
+          "question": "बिशन के चरित्र में क्या दिखाई देता है?",
+          "options": {
+            "A": "लालच",
+            "B": "धैर्य",
+            "C": "विज्ञान",
+            "D": "सादगी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "किसके माध्यम से बिशन की विशेषता सिखाई गई है?",
+          "options": {
+            "A": "राजा",
+            "B": "प्रधान",
+            "C": "व्यापारी",
+            "D": "गुरु"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 5,
+          "question": "क्या बिशन की दिला का उपयोग किया गया?",
+          "options": {
+            "A": "प्यार",
+            "B": "धैर्य",
+            "C": "सत्यता",
+            "D": "शांति"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "chapter_name": "पानी रे पानी",
+      "video_duration": "43:47",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=AsgGky-unfg&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=16",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य विषय कौन सा है?",
+          "options": {
+            "A": "पानी",
+            "B": "जीवन",
+            "C": "त्यौहार",
+            "D": "सुख"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question_no": 2,
+          "question": "पानी जीवन के लिए क्यों आवश्यक है?",
+          "options": {
+            "A": "खानपान",
+            "B": "शिक्षा",
+            "C": "स्वास्थ्य",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 3,
+          "question": "कहानी में पानी की महत्ता क्या है?",
+          "options": {
+            "A": "खुशियाँ देना",
+            "B": "सुख",
+            "C": "जीवन देना",
+            "D": "शांति"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 4,
+          "question": "पानी का अभाव क्या दर्शाता है?",
+          "options": {
+            "A": "दुख",
+            "B": "खुशियाँ",
+            "C": "विफलता",
+            "D": "कठोरता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 5,
+          "question": "किसने पानी का उपयोग किया?",
+          "options": {
+            "A": "लोग",
+            "B": "जानवर",
+            "C": "बाजार",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "chapter_name": "छोटी-सी हमारी नदी",
+      "video_duration": "38:03",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=_PiQY3nzjdY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=17",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी में नदियों का क्या महत्व है?",
+          "options": {
+            "A": "खुशियाँ देना",
+            "B": "आजीविका",
+            "C": "जीवन",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 2,
+          "question": "नदियों की विशेषता क्या होती है?",
+          "options": {
+            "A": "स्थिरता",
+            "B": "धारणशीलता",
+            "C": "गति",
+            "D": "स्थिति"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question_no": 3,
+          "question": "किस खुशी से लोग नदियों का स्वागत करते हैं?",
+          "options": {
+            "A": "सूरज",
+            "B": "धन",
+            "C": "दौड़",
+            "D": "फसलों का"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 4,
+          "question": "नदियों की रक्षा क्यों करनी चाहिए?",
+          "options": {
+            "A": "पारिस्थितिकी",
+            "B": "धन",
+            "C": "शांति",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 5,
+          "question": "क्या नदियाँ जीवन देती हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कभी-कभी",
+            "D": "सिर्फ जब बर्फ पिघलता है"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "chapter_name": "चुनौतियाँ हिमालय की",
+      "video_duration": "42:49",
+      "channel": "Magnet Brains",
+      "video_url": "https://www.youtube.com/watch?v=FscGAvCsmoY&list=PLVLoWQFkZbhXum5pD97IJOVSSFzNRLPax&index=18",
+      "questions": [
+        {
+          "question_no": 1,
+          "question": "कहानी का मुख्य विषय क्या है?",
+          "options": {
+            "A": "हिमालय",
+            "B": "संघर्ष",
+            "C": "प्रेरणा",
+            "D": "चुनोतियाँ"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 2,
+          "question": "हिमालय का क्या महत्व है?",
+          "options": {
+            "A": "संसाधन",
+            "B": "संपत्ति",
+            "C": "शांति",
+            "D": "जीवन"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 3,
+          "question": "क्या हिमालय बदलता है?",
+          "options": {
+            "A": "हर वक़्त",
+            "B": "कभी नहीं",
+            "C": "केवल जब बर्फ पिघलता है",
+            "D": "कुछ भी नहीं"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question_no": 4,
+          "question": "किसके कारण चुनौतियाँ आ सकती हैं?",
+          "options": {
+            "A": "जलवायु परिवर्तन",
+            "B": "मानव गतिविधियाँ",
+            "C": "सिर्जनात्मकता",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question_no": 5,
+          "question": "हिमालय की रक्षा क्यों करनी चाहिए?",
+          "options": {
+            "A": "धैर्य",
+            "B": "पर्यावरण",
+            "C": "जीवन",
+            "D": "इन सभी का"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    }
+  ]
+}

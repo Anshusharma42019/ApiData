@@ -1,88 +1,975 @@
-[
+{
+  "class": "9",
+  "subject": "हिन्दी",
+  "channel": "Magnet Brains",
+  "chapters": [
     {
-      "chapter_number": 1,
-      "chapter_name_hindi": "दो बैलों की कथा",
-      "video_url": "https://www.youtube.com/watch?v=aNmbnTYGzIE"
+      "chapter_no": 1,
+      "chapter_name": "दो बैलों की कथा",
+      "video_url": "https://www.youtube.com/watch?v=sVMpSbrn3VM&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=1",
+      "questions": [
+        {
+          "question": "दो बैलों की कथा में कौन मुख्य पात्र हैं?",
+          "options": {
+            "A": "किसान",
+            "B": "दो बैल",
+            "C": "गांववाले",
+            "D": "गुरु"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस्सा किस प्रकार की शिक्षा देता है?",
+          "options": {
+            "A": "श्रम का महत्व",
+            "B": "धोखा देना",
+            "C": "धन का महत्व",
+            "D": "स्नेह का महत्व"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कथा में बैलों की स्थिति क्या थी?",
+          "options": {
+            "A": "खुश",
+            "B": "दुखी",
+            "C": "बीमार",
+            "D": "बीमार और दुखी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "किस चीज ने बैलों को बंधक बना लिया?",
+          "options": {
+            "A": "आवाज",
+            "B": "धन",
+            "C": "दौड़",
+            "D": "जाल"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "किसानो का क्या संदेश है?",
+          "options": {
+            "A": "श्रम ही सफलता है",
+            "B": "धोखा देने में ही सावधानी रखो",
+            "C": "किसाना मत करो",
+            "D": "धन से सभी समस्याएं हल होती है"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 2,
-      "chapter_name_hindi": "ल्हासा की ओर",
-      "video_url": "https://www.youtube.com/watch?v=4gJcDP1tksM"
+      "chapter_no": 2,
+      "chapter_name": "ल्हासा की ओर",
+      "video_url": "https://www.youtube.com/watch?v=9EwpNsAINeU&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=2",
+      "questions": [
+        {
+          "question": "ल्हासा की ओर किस प्रकार का वर्णन है?",
+          "options": {
+            "A": "संसद का",
+            "B": "यात्रा का",
+            "C": "पेड़-पौधों का",
+            "D": "संगीत का"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "लेखक ने ल्हासा की यात्रा में क्या पाया?",
+          "options": {
+            "A": "शांति",
+            "B": "शहर की हलचल",
+            "C": "सुरक्षित स्थान",
+            "D": "बदला हुआ जीवन"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "किससे लेखक ने प्रेरणा ली?",
+          "options": {
+            "A": "अपने शिक्षकों से",
+            "B": "आपसी मित्रों से",
+            "C": "प्रकृति से",
+            "D": "अपने बुजुर्गों से"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "ल्हासा की यात्रा का मूल लक्ष्य क्या था?",
+          "options": {
+            "A": "ज्ञान प्राप्त करना",
+            "B": "शांति का अनुभव करना",
+            "C": "धन कमाना",
+            "D": "नई जगह देखना"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या लेखक ने यात्रा बहुत अच्छी बताई?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "स्पष्ट नहीं",
+            "D": "आंशिक रूप से"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 3,
-      "chapter_name_hindi": "उपभोक्तावाद की संस्कृति",
-      "video_url": "https://www.youtube.com/watch?v=thgwg9ThZRU"
+      "chapter_no": 3,
+      "chapter_name": "उपभोक्तावाद की संस्कृति",
+      "video_url": "https://www.youtube.com/watch?v=yQo8fwcuyu0&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=3",
+      "questions": [
+        {
+          "question": "उपभोक्तावाद किससे संबंधित है?",
+          "options": {
+            "A": "धन",
+            "B": "साधनों का प्रयोग",
+            "C": "मूल्यांकन",
+            "D": "व्यथा"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "उपभोक्तावाद की समस्या क्या है?",
+          "options": {
+            "A": "महंगाई",
+            "B": "संतोष की कमी",
+            "C": "संसाधनों की बर्बादी",
+            "D": "उपरोक्त सभी"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "किस गुण का अभाव उपभोक्तावाद में पाया जाता है?",
+          "options": {
+            "A": "परिष्कार",
+            "B": "संतोष",
+            "C": "काम",
+            "D": "ज्ञान"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस लेख में उपभोक्तावाद किस परिस्थिति में बताया गया है?",
+          "options": {
+            "A": "सकारात्मक",
+            "B": "नकारात्मक",
+            "C": "न्यूट्रल",
+            "D": "सुखद"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "उपभोक्तावाद का समाधान क्या होना चाहिए?",
+          "options": {
+            "A": "ज्ञान प्राप्त करना",
+            "B": "विरासत को समझना",
+            "C": "संतोष प्राप्त करना",
+            "D": "सभी के लिए समानता"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-      "chapter_number": 4,
-      "chapter_name_hindi": "सावले सपनों की याद",
-      "video_url": "https://www.youtube.com/watch?v=i0NhKHZV0vI"
+      "chapter_no": 4,
+      "chapter_name": "सावले सपनों की याद",
+      "video_url": "https://www.youtube.com/watch?v=BEqDL9eprGE&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=4",
+      "questions": [
+        {
+          "question": "इस अध्याय का मुख्य विषय क्या है?",
+          "options": {
+            "A": "सपने",
+            "B": "यादें",
+            "C": "प्यार",
+            "D": "अनुभव"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "यहां कौन मुख्य पात्र है?",
+          "options": {
+            "A": "लेखक",
+            "B": "एक प्रेमिका",
+            "C": "बच्चा",
+            "D": "दोस्त"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या यह कहानी सुखद अंत के साथ समाप्त होती है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "अविकसित",
+            "D": "स्पष्ट नहीं"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कौन-सी भावना को इस अध्याय में व्यक्त किया गया है?",
+          "options": {
+            "A": "दुख",
+            "B": "सुख",
+            "C": "आकर्षण",
+            "D": "विरक्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या यहाँ जीवन से मिलने वाली समस्याओं का जिक्र किया गया है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "संक्षेप में",
+            "D": "अर्धविकसित"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 5,
-      "chapter_name_hindi": "नाना साहब की पुत्री देवी मैना को भस्म कर दिया गया",
-      "video_url": "https://www.youtube.com/watch?v=r18nsnbIGxA"
+      "chapter_no": 5,
+      "chapter_name": "नाना साहब की पुत्री देवी मैना को भस्म कर दिया गया",
+      "video_url": "https://www.youtube.com/watch?v=7VPG_KpsZPk&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=5",
+      "questions": [
+        {
+          "question": "इस कहानी की मुख्य विषय वस्तु क्या है?",
+          "options": {
+            "A": "कारण",
+            "B": "काल्पनिक",
+            "C": "त्रासदी",
+            "D": "न्याय"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "देवी मैना की स्थिति क्या थी?",
+          "options": {
+            "A": "खुश",
+            "B": "दुखी",
+            "C": "संतुष्ट",
+            "D": "अज्ञात"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "नाना साहब ने क्या किया?",
+          "options": {
+            "A": "अपना प्रतिशोध लिया",
+            "B": "सांस्कृतिक उत्थान किया",
+            "C": "सत्य का पालन किया",
+            "D": "सभी का आदर किया"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस घटना का प्रेरणादायक संदेश क्या है?",
+          "options": {
+            "A": "धन का महत्व",
+            "B": "संघर्ष का महत्व",
+            "C": "अपमान का मामला",
+            "D": "ईमानदारी का आदर"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या कहानी में संघर्ष का वर्णन किया गया है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "किसी रंग में",
+            "D": "अस्तित्व में"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 6,
-      "chapter_name_hindi": "प्रेमचंद के फटे जूते",
-      "video_url": "https://www.youtube.com/watch?v=Q1qqvq0EloI"
+      "chapter_no": 6,
+      "chapter_name": "प्रेमचंद के फटे जूते",
+      "video_url": "https://www.youtube.com/watch?v=Kod80kXzsp8&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=6",
+      "questions": [
+        {
+          "question": "कहानी में मुख्य पात्र कौन है?",
+          "options": {
+            "A": "प्रेमचंद",
+            "B": "किसान",
+            "C": "एक बच्चा",
+            "D": "गुरुजी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "फटे जूते का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "सर्मान",
+            "B": "पैसे की ताकत",
+            "C": "धैर्य",
+            "D": "भ्रष्टाचार"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "प्रेमचंद का किस तत्व पर जोर था?",
+          "options": {
+            "A": "सच्चाई",
+            "B": "धोखा",
+            "C": "धन",
+            "D": "ज्ञान"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी में किस प्रकार की कठिनाई का वर्णन किया गया है?",
+          "options": {
+            "A": "आर्थिक",
+            "B": "भावनात्मक",
+            "C": "सामाजिक",
+            "D": "सांस्कृतिक"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कथा से पाठक को क्या सीख मिलती है?",
+          "options": {
+            "A": "धन से खुश नहीं होता",
+            "B": "सच्चाई सबसे महत्वपूर्ण है",
+            "C": "धोखा स्वीकार्य है",
+            "D": "क्षमा हमेशा जरूरी है"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter_number": 7,
-      "chapter_name_hindi": "मेरे बचपन के दिन",
-      "video_url": "https://www.youtube.com/watch?v=t8EWGub-dHM"
+      "chapter_no": 7,
+      "chapter_name": "मेरे बचपन के दिन",
+      "video_url": "https://www.youtube.com/watch?v=9kmmsxHnLek&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=7",
+      "questions": [
+        {
+          "question": "इस अध्याय में बचपन का क्या चित्रण किया गया है?",
+          "options": {
+            "A": "संवेदनात्मक",
+            "B": "ऐतिहासिक",
+            "C": "सुखद",
+            "D": "सभी"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कौन सा समय लेखक के लिए सबसे महत्वपूर्ण था?",
+          "options": {
+            "A": "बचपन",
+            "B": "किशोरावस्था",
+            "C": "युवावस्था",
+            "D": "वृद्धावस्था"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "लेखक ने किस प्रकार के खेलों का उल्लेख किया है?",
+          "options": {
+            "A": "दौड़",
+            "B": "गेंदबाजी",
+            "C": "गेंद",
+            "D": "छोटी गोलियाँ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "लेखक ने बचपन के दिनों की सुखद यादों का क्या महत्व बताया है?",
+          "options": {
+            "A": "क्या होता है",
+            "B": "महानता",
+            "C": "सादगी",
+            "D": "सुखद"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "बचपन में आनंद की सबसे वास्तविक अभिव्यक्ति क्या है?",
+          "options": {
+            "A": "आदर्श",
+            "B": "यादें",
+            "C": "खुशियों",
+            "D": "निर्मलता"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-      "chapter_number": 8,
-      "chapter_name_hindi": "एक कुत्ता और एक मैना",
-      "video_url": "https://www.youtube.com/watch?v=ZGo_gh2Xg58"
+      "chapter_no": 8,
+      "chapter_name": "एक कुत्ता और एक मैना",
+      "video_url": "https://www.youtube.com/watch?v=BMSVY7lQ4_k&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=8",
+      "questions": [
+        {
+          "question": "कहानी में कुत्ते का नाम क्या है?",
+          "options": {
+            "A": "बोल्या",
+            "B": "टोनी",
+            "C": "चिटू",
+            "D": "जिप्सी"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्यों कुत्ता और मैना दोस्त बनते हैं?",
+          "options": {
+            "A": "साथ में खेलना",
+            "B": "साथ में खाना",
+            "C": "साथ में सोना",
+            "D": "साथ काम करना"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का मुख्य संदेश क्या है?",
+          "options": {
+            "A": "मित्रता",
+            "B": "धोखा",
+            "C": "भ्रष्टाचार",
+            "D": "निर्लज्जता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी में कुत्ते और मैना के रिश्ते को किस प्रकार दर्शाया गया है?",
+          "options": {
+            "A": "सच्चा",
+            "B": "श्रेष्ठ",
+            "C": "खराब",
+            "D": "ज्ञात"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी की समाप्ति कैसे होती है?",
+          "options": {
+            "A": "दोस्ती",
+            "B": "मोहब्बत",
+            "C": "प्यार",
+            "D": "दुख"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 9,
-      "chapter_name_hindi": "कबीर की साखियाँ और सबद",
-      "video_url": "https://www.youtube.com/watch?v=ZKbKwiSYri0"
+      "chapter_no": 9,
+      "chapter_name": "कबीर की साखियाँ और सबद",
+      "video_url": "https://www.youtube.com/watch?v=i8p_EOzlVB4&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=9",
+      "questions": [
+        {
+          "question": "कबीर की साखियाँ का मुख्य विचार क्या है?",
+          "options": {
+            "A": "धर्म",
+            "B": "सत्य",
+            "C": "अन्याय",
+            "D": "अज्ञानता"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कबीर की साखियाँ के विषय क्या होते हैं?",
+          "options": {
+            "A": "सोच",
+            "B": "ध्यान",
+            "C": "ज्ञान",
+            "D": "पवित्रता"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कबीर की साखियों में कौन-सी शिक्षा दी जाती है?",
+          "options": {
+            "A": "मानवता",
+            "B": "धन का महत्व",
+            "C": "सच्चा मनुष्य बनना",
+            "D": "विरासत"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कबीर की साखियाँ किस प्रकार की हैं?",
+          "options": {
+            "A": "भक्ति",
+            "B": "सामाजिक",
+            "C": "सामाजिक और भक्ति",
+            "D": "गंभीर"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "क्या कबीर ने दूसरों को सत्य की तरफ प्रेरित किया?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "संकीर्ण",
+            "D": "दुश्मन"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 10,
-      "chapter_name_hindi": "ललद के वाक्य",
-      "video_url": "https://www.youtube.com/watch?v=gLnQETGq6Tc"
+      "chapter_no": 10,
+      "chapter_name": "ललद के वाक्य",
+      "video_url": "https://www.youtube.com/watch?v=5lU5rsMNduk&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=10",
+      "questions": [
+        {
+          "question": "ललद के वाक्य किसके बारे में हैं?",
+          "options": {
+            "A": "भक्ति",
+            "B": "सामाजिक मुद्दे",
+            "C": "अन्याय",
+            "D": "सच्चाई"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "ललद के वाक्य में कौन सा भाव प्रकट होता है?",
+          "options": {
+            "A": "सुख",
+            "B": "दुख",
+            "C": "आशा",
+            "D": "विरक्ति"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या ललद के वाक्य में उद्धरणों का उपयोग किया गया है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कम ही",
+            "D": "हर जगह"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "ललद के वाक्य मुख्यतः किसके लिए प्रासंगिक हैं?",
+          "options": {
+            "A": "संवेदनशीलता",
+            "B": "समाज सुधार",
+            "C": "स्वास्थ्य",
+            "D": "धन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या ललद के वाक्य जीवन के अनुभवों का प्रतिबिंब हैं?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "थोड़ा",
+            "D": "अविकसित"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 11,
-      "chapter_name_hindi": "रसखान के सवैये",
-      "video_url": "https://www.youtube.com/watch?v=doQ6kMRm_Ng"
+      "chapter_no": 11,
+      "chapter_name": "रसखान के सवैये",
+      "video_url": "https://www.youtube.com/watch?v=GhPItFdVGSw&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=11",
+      "questions": [
+        {
+          "question": "रसखान किसके लिए प्रसिद्ध हैं?",
+          "options": {
+            "A": "कवि",
+            "B": "विज्ञानी",
+            "C": "गांधी",
+            "D": "राजनीतिज्ञ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "रसखान के सवैये किस विषय पर हैं?",
+          "options": {
+            "A": "धन",
+            "B": "प्रेम",
+            "C": "शांति",
+            "D": "युद्ध"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "रसखान की कविताओं की विशेषता क्या है?",
+          "options": {
+            "A": "भावना",
+            "B": "सटीकता",
+            "C": "ध्यान",
+            "D": "खुशहालता"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "रसखान के रचनाओं का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "धन संचय",
+            "B": "ज्ञान फैलाना",
+            "C": "प्रेम का प्रचार",
+            "D": "शक्ति प्राप्त करना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "रसखान की कविताओं में कौन सी विशेषता नहीं होती?",
+          "options": {
+            "A": "सत्य",
+            "B": "पावर",
+            "C": "भक्ति",
+            "D": "प्रेम"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter_number": 12,
-      "chapter_name_hindi": "कैदी और कोकिला",
-      "video_url": "https://www.youtube.com/watch?v=gWIhRDje8GM"
+      "chapter_no": 12,
+      "chapter_name": "कैदी और कोकिला",
+      "video_url": "https://www.youtube.com/watch?v=Zj7IzPuFrcE&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=12",
+      "questions": [
+        {
+          "question": "कैदी और कोकिला कहानी का मुख्य विषय क्या है?",
+          "options": {
+            "A": "कष्ट",
+            "B": "आज़ादी",
+            "C": "शांति",
+            "D": "सहानुभूति"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी में कैदी का नाम क्या है?",
+          "options": {
+            "A": "रामू",
+            "B": "श्याम",
+            "C": "मोहन",
+            "D": "सतीश"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कोकिला का कौन सा गुण कहानी में महत्वपूर्ण है?",
+          "options": {
+            "A": "गायकी",
+            "B": "सौंदर्य",
+            "C": "साहस",
+            "D": "सचाई"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्या कहानी में हमें कैदी की दुर्दशा का वर्णन मिलता है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "आंशिक",
+            "D": "इतनी अधिक"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कैदी को कोकिला की आवाज़ किस तरह प्रभावित करती है?",
+          "options": {
+            "A": "उदास",
+            "B": "उत्साहित",
+            "C": "प्रेरित",
+            "D": "बेजान"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-      "chapter_number": 13,
-      "chapter_name_hindi": "ग्राम श्री",
-      "video_url": "https://www.youtube.com/watch?v=4o78UX9WciY"
+      "chapter_no": 13,
+      "chapter_name": "ग्राम श्री",
+      "video_url": "https://www.youtube.com/watch?v=b-Smyj9ND0I&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=13",
+      "questions": [
+        {
+          "question": "ग्राम श्री किसके लिए प्रसिद्ध है?",
+          "options": {
+            "A": "संस्कृति",
+            "B": "धर्म",
+            "C": "प्रकृति",
+            "D": "विधि"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "ग्राम श्री की खासियत क्या है?",
+          "options": {
+            "A": "सद्भाव",
+            "B": "संगठन",
+            "C": "सज्जिता",
+            "D": "सत्य"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "ग्राम श्री में कौन सी समस्या का जिक्र किया गया है?",
+          "options": {
+            "A": "धन",
+            "B": "शिक्षा",
+            "C": "भ्रष्टाचार",
+            "D": "सामाजिक"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "ग्राम श्री का परिवेश कैसा है?",
+          "options": {
+            "A": "अशांत",
+            "B": "सुखद",
+            "C": "विराम",
+            "D": "सूख"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "ग्राम श्री का संदेश क्या है?",
+          "options": {
+            "A": "सत्य का प्रचार",
+            "B": "समानता",
+            "C": "धन का महत्व",
+            "D": "संस्कृति का उत्थान"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 14,
-      "chapter_name_hindi": "चंद्र गहना से लौटती बेर",
-      "video_url": "https://www.youtube.com/watch?v=HdBRqf6vZV4"
+      "chapter_no": 14,
+      "chapter_name": "चंद्र गहना से लौटती बेर",
+      "video_url": "https://www.youtube.com/watch?v=Ql5K158OUNI&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=14",
+      "questions": [
+        {
+          "question": "कहानी का मुख्य पात्र कौन है?",
+          "options": {
+            "A": "बेर",
+            "B": "गहना",
+            "C": "चाँद",
+            "D": "कुमुद"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "कहानी में क्या किया हुआ है?",
+          "options": {
+            "A": "सपना",
+            "B": "यादें",
+            "C": "प्यार",
+            "D": "यात्रा"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "मुस्कान",
+            "B": "सुख",
+            "C": "शांति",
+            "D": "सपनों का पीछा"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "कहानी में कौन सा तत्व विशेष है?",
+          "options": {
+            "A": "रंग",
+            "B": "स्वर",
+            "C": "नृत्य",
+            "D": "भावना"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी का अंत कैसा है?",
+          "options": {
+            "A": "दुखद",
+            "B": "सुखद",
+            "C": "अज्ञात",
+            "D": "विराम"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
-      "chapter_number": 15,
-      "chapter_name_hindi": "मेघ आए",
-      "video_url": "https://www.youtube.com/watch?v=boLczCEq6vw"
+      "chapter_no": 15,
+      "chapter_name": "मेघ आए",
+      "video_url": "https://www.youtube.com/watch?v=1QMWNoFa1D4&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=15",
+      "questions": [
+        {
+          "question": "कहानी का मुख्यम् विषय जलवायु है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "आंशिक",
+            "D": "स्पष्ट नहीं"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी में कौन-सी मौसम की परिकल्पना है?",
+          "options": {
+            "A": "गर्मी",
+            "B": "बारिश",
+            "C": "सर्दी",
+            "D": "बर्फ"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी में मानवता की क्या छवि प्रस्तुत की गई है?",
+          "options": {
+            "A": "आत्मीयता",
+            "B": "दुःख",
+            "C": "अवसाद",
+            "D": "भ्रम"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का संदेश क्या है?",
+          "options": {
+            "A": "जीवन का हार्दिकता",
+            "B": "पारिवारिक संबंध",
+            "C": "संजीवनी",
+            "D": "पर्यावरण"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "कहानी का नाम क्या बताता है?",
+          "options": {
+            "A": "रूप",
+            "B": "संगीत",
+            "C": "सूखी",
+            "D": "दुःख"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
-      "chapter_number": 16,
-      "chapter_name_hindi": "यमराज की दिशा",
-      "video_url": "https://www.youtube.com/watch?v=By_b9DL7Z9Y"
+      "chapter_no": 16,
+      "chapter_name": "यमराज की दिशा",
+      "video_url": "https://www.youtube.com/watch?v=MniU59k5p_w&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=16",
+      "questions": [
+        {
+          "question": "किस चीज़ पर कहानी केंद्रित है?",
+          "options": {
+            "A": "धर्म",
+            "B": "अधीनता",
+            "C": "यमराज",
+            "D": "सांस्कृतिक"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "यमराज किसका प्रतिनिधित्व करते हैं?",
+          "options": {
+            "A": "जीवन",
+            "B": "मृत्यु",
+            "C": "माया",
+            "D": "धन"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "क्या कहानी में यमराज के संदेश का जिक्र है?",
+          "options": {
+            "A": "हाँ",
+            "B": "नहीं",
+            "C": "कम"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी का मुख्य उद्देश्य क्या है?",
+          "options": {
+            "A": "मृत्यु की भया",
+            "B": "जीवन का मोल",
+            "C": "धन",
+            "D": "ज्ञान"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "इस कहानी में क्या संदेश दिया गया है?",
+          "options": {
+            "A": "जीवन की सराहना करना",
+            "B": "धन का सम्मान करना",
+            "C": "ज्ञान का उपार्जन करना",
+            "D": "एकार्थता"
+          },
+          "correct_answer": "A"
+        }
+      ]
     },
     {
-      "chapter_number": 17,
-      "chapter_name_hindi": "बच्चे काम पर जा रहे हैं",
-      "video_url": "https://www.youtube.com/watch?v=w4ZxHg8rf6s"
+      "chapter_no": 17,
+      "chapter_name": "बच्चे काम पर जा रहे हैं",
+      "video_url": "https://www.youtube.com/watch?v=JCWJ98fxJ-Y&list=PLVLoWQFkZbhWn9FpDXBA9Z8rl9KFkanBm&index=17",
+      "questions": [
+        {
+          "question": "इस कहानी में बच्चों की स्थिति पर क्या दर्शाया गया है?",
+          "options": {
+            "A": "खुश",
+            "B": "निराश",
+            "C": "पिछड़े",
+            "D": "अकुशल"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "किस बच्चे की कहानी मुख्य है?",
+          "options": {
+            "A": "मोहन",
+            "B": "राजू",
+            "C": "श्याम",
+            "D": "सुमित"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "इस कहानी में क्या संदेश दिया गया है?",
+          "options": {
+            "A": "शिक्षा का महत्व",
+            "B": "धन का महत्व",
+            "C": "धैर्य का महत्व",
+            "D": "दोस्ती का"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "क्यों बच्चे काम पर जा रहे हैं?",
+          "options": {
+            "A": "धन कमा रहे हैं",
+            "B": "स्कूल जा रहे हैं",
+            "C": "किसान बनने के लिए",
+            "D": "पढ़ाई करने के लिए"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "कहानी का रोचक तत्व क्या है?",
+          "options": {
+            "A": "मजदूरी",
+            "B": "रुपये",
+            "C": "बचपन",
+            "D": "शोक"
+          },
+          "correct_answer": "C"
+        }
+      ]
     }
   ]
-  
+}

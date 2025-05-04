@@ -1,0 +1,241 @@
+{
+  "class": 10,
+  "channel": "CBSE Guidence",
+  "subject": "History",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "The French Revolution",
+      "video_url": "https://www.youtube.com/watch?v=rHqfMzZc8vU&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=13",
+      "channel": "Social School by Unacademy",
+      "questions": [
+        {
+          "question": "What was the main cause of the French Revolution?",
+          "options": {
+            "A": "Economic inequality",
+            "B": "Political stability",
+            "C": "Cultural unity",
+            "D": "Colonial expansion"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which event is commonly seen as the start of the French Revolution?",
+          "options": {
+            "A": "Storming of the Bastille",
+            "B": "Signing of the Declaration of Rights",
+            "C": "Execution of King Louis XVI",
+            "D": "Reign of Terror"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Who were the main factions during the French Revolution?",
+          "options": {
+            "A": "Royalists and Republicans",
+            "B": "Bourgeoisie and Nobles",
+            "C": "Liberal and Conservative",
+            "D": "Clerical and Secular"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was the outcome of the Reign of Terror?",
+          "options": {
+            "A": "Establishment of a monarchy",
+            "B": "Rise of Napoleon Bonaparte",
+            "C": "End of economic strife",
+            "D": "Restoration of noble privileges"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which document proclaimed the rights of man and citizen?",
+          "options": {
+            "A": "Constitution of 1791",
+            "B": "Declaration of the Rights of Man",
+            "C": "Civil Constitution of the Clergy",
+            "D": "Treaty of Paris"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Socialism in Europe and the Russian Revolution",
+      "video_url": "https://www.youtube.com/watch?v=AcZW8kKZDGM",
+      "channel": "Social School by Unacademy",
+      "questions": [
+        {
+          "question": "What was a primary objective of socialism?",
+          "options": {
+            "A": "Personal wealth acquisition",
+            "B": "Collective ownership",
+            "C": "Colonial expansion",
+            "D": "Political dictatorship"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which event marked the beginning of the Russian Revolution?",
+          "options": {
+            "A": "October Revolution",
+            "B": "February Revolution",
+            "C": "Fall of the Tsar",
+            "D": "Formation of USSR"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Who was the leader of the Bolsheviks?",
+          "options": {
+            "A": "Trotsky",
+            "B": "Stalin",
+            "C": "Lenin",
+            "D": "Kerensky"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was the main economic change after the Russian Revolution?",
+          "options": {
+            "A": "Return to capitalism",
+            "B": "Implementation of the New Economic Policy",
+            "C": "Land reforms favoring landowners",
+            "D": "Repression of peasant uprisings"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which ideology sought to establish a classless society?",
+          "options": {
+            "A": "Liberalism",
+            "B": "Socialism",
+            "C": "Fascism",
+            "D": "Monarchism"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Nazism and the Rise of Hitler",
+      "video_url": "https://www.youtube.com/watch?v=Wvu7q266Fns&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=14",
+      "channel": "Social School by Unacademy",
+      "questions": [
+        {
+          "question": "What was a key tenet of Nazism?",
+          "options": {
+            "A": "Anti-semantic policies",
+            "B": "Labor rights",
+            "C": "Universal suffrage",
+            "D": "Free education"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What economic situation contributed to Hitler's rise?",
+          "options": {
+            "A": "Economic prosperity",
+            "B": "Hyperinflation",
+            "C": "Social welfare",
+            "D": "High employment"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which party did Hitler lead?",
+          "options": {
+            "A": "Communist Party",
+            "B": "Social Democratic Party",
+            "C": "Nazi Party",
+            "D": "Liberal Party"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What was the Night of the Long Knives?",
+          "options": {
+            "A": "Attack on Jewish businesses",
+            "B": "Purge of SA leaders",
+            "C": "Assassination of political opponents",
+            "D": "Takeover of German government"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "How did Hitler consolidate power?",
+          "options": {
+            "A": "Through elections",
+            "B": "Use of military force",
+            "C": "Constitutional amendments",
+            "D": "Political dialogue"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Forest Society and Colonialism",
+      "video_url": "https://www.youtube.com/watch?v=fua0AGRybg8&list=PL5Z7ZVj5DNVcF_W-CcWUJmLoXjuShWkc4&index=19",
+      "channel": "Social School by Unacademy",
+      "questions": [
+        {
+          "question": "What motivated colonial expansion into forested areas?",
+          "options": {
+            "A": "Preservation of nature",
+            "B": "Economic gain",
+            "C": "Cultural exchange",
+            "D": "Scientific research"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which group suffered due to colonial policies in forests?",
+          "options": {
+            "A": "Landowners",
+            "B": "Farmers",
+            "C": "Tribal communities",
+            "D": "Urban merchants"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "How did colonial governments manage forest resources?",
+          "options": {
+            "A": "Free access for all",
+            "B": "State control",
+            "C": "Privatization",
+            "D": "Community management"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What was a common result of forest colonization?",
+          "options": {
+            "A": "Biodiversity loss",
+            "B": "Increased forest area",
+            "C": "Cultural enrichment",
+            "D": "Economic stability"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which concept best describes the colonial view on forests?",
+          "options": {
+            "A": "Sustainable development",
+            "B": "Resource exploitation",
+            "C": "Conservation",
+            "D": "Local empowerment"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+    
+  ]
+}
+  

@@ -5,15 +5,15 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "The Fish Tale",
+        "chapter_name": "The Fish Tale",
         "questions": [
           {
             "question": "How many fish are needed to make a school of 10 if 2 fish are swimming together?",
             "options": {
-              "A": "2",
+              "A": "B",
               "B": "10",
               "C": "5",
-              "D": "4"
+              "D": "D"
             },
             "correct_answer": "B"
           },
@@ -50,8 +50,8 @@
           {
             "question": "How many fins does a typical fish have?",
             "options": {
-              "A": "2",
-              "B": "4",
+              "A": "B",
+              "B": "D",
               "C": "6",
               "D": "10"
             },
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Shapes and Angles",
+        "chapter_name": "Shapes and Angles",
         "questions": [
           {
             "question": "What is the total number of degrees in a triangle?",
@@ -76,7 +76,7 @@
           {
             "question": "How many sides does a pentagon have?",
             "options": {
-              "A": "4",
+              "A": "D",
               "B": "5",
               "C": "6",
               "D": "7"
@@ -117,14 +117,14 @@
       },
       {
         "chapter_no": 3,
-        "title": "How Many Squares",
+        "chapter_name": "How Many Squares",
         "questions": [
           {
             "question": "How many squares are there in a 3 x 3 grid?",
             "options": {
               "A": "9",
               "B": "8",
-              "C": "4",
+              "C": "D",
               "D": "6"
             },
             "correct_answer": "A"
@@ -142,8 +142,8 @@
           {
             "question": "How many smaller squares can fit in a larger square of area 100 cm² if each smaller square has an area of 25 cm²?",
             "options": {
-              "A": "2",
-              "B": "4",
+              "A": "B",
+              "B": "D",
               "C": "5",
               "D": "6"
             },
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Parts and Wholes",
+        "chapter_name": "Parts and Wholes",
         "questions": [
           {
             "question": "What fraction of a whole is 1 out of 4 parts?",
@@ -208,10 +208,10 @@
           {
             "question": "If you divide a chocolate bar into 8 equal parts and eat 5, how many parts do you have left?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
-              "D": "1"
+              "A": "B",
+              "B": "C",
+              "C": "D",
+              "D": "A"
             },
             "correct_answer": "B"
           },
@@ -220,8 +220,8 @@
             "options": {
               "A": "1/2",
               "B": "3/4",
-              "C": "1",
-              "D": "2"
+              "C": "A",
+              "D": "B"
             },
             "correct_answer": "B"
           }
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "Does It Look the Same?",
+        "chapter_name": "Does It Look the Same?",
         "questions": [
           {
             "question": "What is it called when two shapes are identical in size and shape?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "Be My Multiple, I’ll Be Your Factor",
+        "chapter_name": "Be My Multiple, I’ll Be Your Factor",
         "questions": [
           {
             "question": "What is the first multiple of 7?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "Can You See the Pattern?",
+        "chapter_name": "Can You See the Pattern?",
         "questions": [
           {
             "question": "If the pattern is 2, 4, 6, 8, what is the next number?",
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "Mapping Your Way",
+        "chapter_name": "Mapping Your Way",
         "questions": [
           {
             "question": "What is the purpose of a map?",
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "Boxes and Sketches",
+        "chapter_name": "Boxes and Sketches",
         "questions": [
           {
             "question": "What is a box diagram used for?",
@@ -509,7 +509,7 @@
       },
       {
         "chapter_no": 10,
-        "title": "Tenths and Hundredths",
+        "chapter_name": "Tenths and Hundredths",
         "questions": [
           {
             "question": "What is 1/10 as a decimal?",
@@ -565,7 +565,7 @@
       },
       {
         "chapter_no": 11,
-        "title": "Area and its Boundary",
+        "chapter_name": "Area and its Boundary",
         "questions": [
           {
             "question": "What is the formula for the area of a rectangle?",
@@ -621,7 +621,7 @@
       },
       {
         "chapter_no": 12,
-        "title": "Smart Charts",
+        "chapter_name": "Smart Charts",
         "questions": [
           {
             "question": "What do charts help us do?",
@@ -666,9 +666,9 @@
           {
             "question": "How many segments does a pie chart typically have if there are 4 categories?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "C"
@@ -677,7 +677,7 @@
       },
       {
         "chapter_no": 13,
-        "title": "Ways to Multiply and Divide",
+        "chapter_name": "Ways to Multiply and Divide",
         "questions": [
           {
             "question": "What is 6 x 7?",
@@ -733,7 +733,7 @@
       },
       {
         "chapter_no": 14,
-        "title": "How Big? How Heavy?",
+        "chapter_name": "How Big? How Heavy?",
         "questions": [
           {
             "question": "What unit do we use to measure weight?",
@@ -768,9 +768,9 @@
           {
             "question": "If a fruit weighs 250 g, how many fruits will weigh 1 kg?",
             "options": {
-              "A": "2",
-              "B": "3",
-              "C": "4",
+              "A": "B",
+              "B": "C",
+              "C": "D",
               "D": "5"
             },
             "correct_answer": "D"

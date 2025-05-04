@@ -5,7 +5,7 @@
     "chapters": [
       {
         "chapter_no": 1,
-        "title": "Rakh Ki Rassi",
+        "chapter_name": "Rakh Ki Rassi",
         "questions": [
           {
             "question": "क्या 'राख की रस्सी' कहानी का मुख्य विषय है?",
@@ -61,7 +61,7 @@
       },
       {
         "chapter_no": 2,
-        "title": "Faslon Ka Tyohar",
+        "chapter_name": "Faslon Ka Tyohar",
         "questions": [
           {
             "question": "फसलों का त्योहार किस बारे में है?",
@@ -117,7 +117,7 @@
       },
       {
         "chapter_no": 3,
-        "title": "Khilaunewala",
+        "chapter_name": "Khilaunewala",
         "questions": [
           {
             "question": "कहानी 'खिलौनेवाला' में कौन मुख्य पात्र है?",
@@ -173,7 +173,7 @@
       },
       {
         "chapter_no": 4,
-        "title": "Nanha Fankar",
+        "chapter_name": "Nanha Fankar",
         "questions": [
           {
             "question": "नन्हा फनकार किस तरह का है?",
@@ -229,7 +229,7 @@
       },
       {
         "chapter_no": 5,
-        "title": "Jahaan Chaah Wahaan Raah",
+        "chapter_name": "Jahaan Chaah Wahaan Raah",
         "questions": [
           {
             "question": "कहानी का मुख्य संदेश क्या है?",
@@ -285,7 +285,7 @@
       },
       {
         "chapter_no": 6,
-        "title": "Chitthi Ka Safar",
+        "chapter_name": "Chitthi Ka Safar",
         "questions": [
           {
             "question": "इस कहानी में पत्र का क्या महत्व है?",
@@ -341,7 +341,7 @@
       },
       {
         "chapter_no": 7,
-        "title": "Dakiye Ki Kahani, Kanwar Singh Ki Jubani",
+        "chapter_name": "Dakiye Ki Kahani, Kanwar Singh Ki Jubani",
         "questions": [
           {
             "question": "कहानी का मुख्य पात्र कौन है?",
@@ -397,7 +397,7 @@
       },
       {
         "chapter_no": 8,
-        "title": "Ve Din Bhi Kya Din They",
+        "chapter_name": "Ve Din Bhi Kya Din They",
         "questions": [
           {
             "question": "कहानी का विषय क्या है?",
@@ -453,7 +453,7 @@
       },
       {
         "chapter_no": 9,
-        "title": "Ek Maa Ki Bebasi",
+        "chapter_name": "Ek Maa Ki Bebasi",
         "questions": [
           {
             "question": "कहानी का मुख्य पात्र कौन है?",
@@ -509,7 +509,7 @@
       },
       {
         "chapter_no": 10,
-        "title": "Ek Din Ki Badshahat",
+        "chapter_name": "Ek Din Ki Badshahat",
         "questions": [
           {
             "question": "कहानी में राजा का नाम क्या है?",
@@ -565,7 +565,7 @@
       },
       {
         "chapter_no": 11,
-        "title": "Chawal Ki Rotiyan",
+        "chapter_name": "Chawal Ki Rotiyan",
         "questions": [
           {
             "question": "कहानी के मुख्य पात्र कौन हैं?",
@@ -621,7 +621,7 @@
       },
       {
         "chapter_no": 12,
-        "title": "Guru Or Chela",
+        "chapter_name": "Guru Or Chela",
         "questions": [
           {
             "question": "कहानी में गुरु का नाम क्या है?",
@@ -677,7 +677,7 @@
       },
       {
         "chapter_no": 13,
-        "title": "Swami Ki Dadi",
+        "chapter_name": "Swami Ki Dadi",
         "questions": [
           {
             "question": "कहानी का मुख्य पात्र कौन है?",
@@ -733,7 +733,7 @@
       },
       {
         "chapter_no": 14,
-        "title": "Baagh Aaya Us Raat",
+        "chapter_name": "Baagh Aaya Us Raat",
         "questions": [
           {
             "question": "कहानी में किस जानवर का उल्लेख है?",
@@ -789,7 +789,7 @@
       },
       {
         "chapter_no": 15,
-        "title": "Bishan Ki Dileri",
+        "chapter_name": "Bishan Ki Dileri",
         "questions": [
           {
             "question": "कहानी 'बिशन की दिमागी' में कौन मुख्य पात्र है?",
@@ -845,7 +845,7 @@
       },
       {
         "chapter_no": 16,
-        "title": "Pani re pani",
+        "chapter_name": "Pani re pani",
         "questions": [
           {
             "question": "कहानी का मुख्य विषय कौन सा है?",
@@ -901,7 +901,7 @@
       },
       {
         "chapter_no": 17,
-        "title": "Choti Si Humari Nadi",
+        "chapter_name": "Choti Si Humari Nadi",
         "questions": [
           {
             "question": "कहानी में नदियों का क्या महत्व है?",
@@ -957,7 +957,7 @@
       },
       {
         "chapter_no": 18,
-        "title": "Chunotiya Himalaya Ki",
+        "chapter_name": "Chunotiya Himalaya Ki",
         "questions": [
           {
             "question": "कहानी का मुख्य विषय क्या है?",

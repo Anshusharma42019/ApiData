@@ -1,37 +1,297 @@
 {
-    "channel": "CBSE Guidance",
-    "subject": "Class 10 Physics",
-    "videos": [
-      { 
-        "chapter_number": 1, 
-        "title": "Light Reflection & Refraction Class 10: MASTER This Chapter in One Shot! (CBSE)",
-        "duration": "2:52:51",
-        "url": "https://www.youtube.com/watch?v=DhYVDRaqbH4"
-      },
-      {
-        "chapter_number": 2, 
-        "title": "Master Human Eye and Colourful World Class 10 | One Shot NCERT + Numericals",
-        "duration": "1:21:35",
-        "url": "https://www.youtube.com/watch?v=2vLkP8iW9z8"
-      },
-      {
-        "chapter_number": 3, 
-        "title": "Electricity Class 10 Made Easy! NCERT Explanation + Solved Numericals (CBSE One Shot!)",
-        "duration": "3:26:49",
-        "url": "https://www.youtube.com/watch?v=3qZ1u4v0QWk"
-      },
-      {
-        "chapter_number": 4, 
-        "title": "Magnetic Effects of Electric Current Class 10 One Shot | Complete NCERT Chapter",
-        "duration": "1:29:18",
-        "url": "https://www.youtube.com/watch?v=4fYQ5G6V1xU"
-      },
-      {
-        "chapter_number":5,
-        "title": "Sources of Energy in 30 Minutes | Science Chapter 14 | Class 10th CBSE",
-        "duration": "30:00",
-        "url": "https://www.youtube.com/watch?v=WuerM0oWIqk"
+  "subject": "Class 10 Physics",
+  "class": "10",
+  "channel": "CBSE Guidence",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Light Reflection & Refraction",
+      "duration": "2:52:51",
+      "video_url": "https://www.youtube.com/watch?v=VMwFLH7znbg&list=PLv2hpilqtBVkRxWmT1QfAJQIvTrloqE0p&index=9",
+      "questions": [
+        {
+          "question": "What is the law of reflection?",
+          "options": {
+            "A": "The angle of incidence equals the angle of reflection",
+            "B": "The angle of incidence equals 90 degrees",
+            "C": "The total angle of incidence and reflection equals 180 degrees",
+            "D": "Light travels in straight lines"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of lens is a concave lens?",
+          "options": {
+            "A": "Converging lens",
+            "B": "Diverging lens",
+            "C": "Bifocal lens",
+            "D": "Plano-convex lens"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens to light when it passes from a denser medium to a rarer medium?",
+          "options": {
+            "A": "It bends towards the normal",
+            "B": "It bends away from the normal",
+            "C": "It travels straight",
+            "D": "It reflects off the surface"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the focal length of a plane mirror?",
+          "options": {
+            "A": "Zero",
+            "B": "Positive",
+            "C": "Negative",
+            "D": "Infinite"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which phenomenon is responsible for the formation of a rainbow?",
+          "options": {
+            "A": "Reflection",
+            "B": "Refraction",
+            "C": "Diffraction",
+            "D": "Dispersion"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Human Eye and Colourful World",
+      "duration": "1:21:35",
+      "video_url": "https://www.youtube.com/watch?v=5eCeBTJ__3A&list=PLv2hpilqtBVkRxWmT1QfAJQIvTrloqE0p&index=10",
+      "questions": [
+        {
+          "question": "What part of the eye is responsible for focusing light?",
+          "options": {
+            "A": "Cornea",
+            "B": "Lens",
+            "C": "Pupil",
+            "D": "Retina"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the cause of colour blindness?",
+          "options": {
+            "A": "Deficiency of rods",
+            "B": "Deficiency of cones",
+            "C": "Too much light",
+            "D": "Too little light"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the function of the iris in the eye?",
+          "options": {
+            "A": "Protects the eye",
+            "B": "Regulates the amount of light entering",
+            "C": "Focuses the light",
+            "D": "Transmits visual information"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the eye contains photoreceptors?",
+          "options": {
+            "A": "Cornea",
+            "B": "Lens",
+            "C": "Retina",
+            "D": "Iris"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the near point of vision for a normal human eye?",
+          "options": {
+            "A": "25 cm",
+            "B": "30 cm",
+            "C": "50 cm",
+            "D": "1 m"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Electricity",
+      "duration": "3:26:49",
+      "video_url": "https://www.youtube.com/watch?v=dGDtu1cete8&list=PLv2hpilqtBVkRxWmT1QfAJQIvTrloqE0p&index=11",
+      "questions": [
+        {
+          "question": "What is the unit of electric current?",
+          "options": {
+            "A": "Volt",
+            "B": "Ohm",
+            "C": "Ampere",
+            "D": "Watt"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the relationship between voltage, current, and resistance known as?",
+          "options": {
+            "A": "Ohm's Law",
+            "B": "Kirchhoff's Law",
+            "C": "Faraday's Law",
+            "D": "Newton's Law"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the total resistance in a series circuit?",
+          "options": {
+            "A": "Sum of individual resistances",
+            "B": "Product of individual resistances",
+            "C": "Average of individual resistances",
+            "D": "Reciprocal of the sum of reciprocals"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "In a parallel circuit, if one branch is disconnected, the current will:",
+          "options": {
+            "A": "Stop",
+            "B": "Increase in other branches",
+            "C": "Decrease in other branches",
+            "D": "Remain the same"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a common purpose of a fuse in an electrical circuit?",
+          "options": {
+            "A": "Increase current",
+            "B": "Protect from overload",
+            "C": "Decrease voltage",
+            "D": "Stabilize current"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "duration": "1:29:18",
+      "video_url": "https://www.youtube.com/watch?v=uuHKwoPQE0g&list=PLv2hpilqtBVkRxWmT1QfAJQIvTrloqE0p&index=12",
+      "questions": [
+        {
+          "question": "What type of current produces a magnetic field?",
+          "options": {
+            "A": "Alternating current",
+            "B": "Direct current",
+            "C": "Both A and B",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which device is used to measure electric current?",
+          "options": {
+            "A": "Ammeter",
+            "B": "Voltmeter",
+            "C": "Galvanometer",
+            "D": "Ohmmeter"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What phenomenon explains the deflection of a compass needle when near a current-carrying wire?",
+          "options": {
+            "A": "Electromagnetism",
+            "B": "Electrolysis",
+            "C": "Induction",
+            "D": "Reflection"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the direction of the magnetic field around a current-carrying conductor?",
+          "options": {
+            "A": "Clockwise",
+            "B": "Counterclockwise",
+            "C": "Dependent on the current's direction",
+            "D": "None of the above"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is an electromagnet?",
+          "options": {
+            "A": "A permanent magnet",
+            "B": "A magnet made by a current",
+            "C": "A natural magnet",
+            "D": "A temporary magnet"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Sources of Energy",
+      "duration": "30:00",
+      "video_url": "https://www.youtube.com/watch?v=qxeLv49wvmU",
+      "questions": [
+        {
+          "question": "Which of the following is a renewable source of energy?",
+          "options": {
+            "A": "Coal",
+            "B": "Natural gas",
+            "C": "Solar energy",
+            "D": "Nuclear energy"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the primary source of energy for the Earth?",
+          "options": {
+            "A": "The Moon",
+            "B": "The Sun",
+            "C": "The Wind",
+            "D": "Coal"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is a disadvantage of using fossil fuels?",
+          "options": {
+            "A": "Abundant supply",
+            "B": "Renewable",
+            "C": "Pollution",
+            "D": "Cost-effective"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which energy source is derived from the heat of the Earth?",
+          "options": {
+            "A": "Geothermal energy",
+            "B": "Hydropower",
+            "C": "Wind energy",
+            "D": "Solar energy"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main advantage of using solar panels?",
+          "options": {
+            "A": "Non-renewable",
+            "B": "Pollution-free",
+            "C": "High cost",
+            "D": "Limited availability"
+          },
+          "correct_answer": "B"
+        }
+      ]
     }
-    ]
-  }
-  
+  ]
+}

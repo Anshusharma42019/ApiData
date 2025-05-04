@@ -2,60 +2,60 @@
     "class": "Class 7",
     "subject": "Mathematics",
     "book": "NCERT",
-    "video_explanations": [
+    "chapters": [
       {
         "chapter_no": 1,
         "chapter_name": "Integers",
         "questions": [
           {
-            "quiz_question": "What is the result of adding -7 and 3?",
+            "question": "What is the result of adding -7 and 3?",
             "options": {
-              "1": "-4",
-              "2": "10",
-              "3": "4",
-              "4": "-10"
+              "A": "-4",
+              "B": "10",
+              "C": "D",
+              "D": "-10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What do you get when you subtract -4 from -7?",
+            "question": "What do you get when you subtract -4 from -7?",
             "options": {
-              "1": "3",
-              "2": "0",
-              "3": "11",
-              "4": "-3"
+              "A": "C",
+              "B": "0",
+              "C": "11",
+              "D": "-3"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is the largest integer?",
+            "question": "Which of the following is the largest integer?",
             "options": {
-              "1": "-5",
-              "2": "0",
-              "3": "3",
-              "4": "-1"
+              "A": "-5",
+              "B": "0",
+              "C": "C",
+              "D": "-1"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If a = -5 and b = -3, what is the value of a × b?",
+            "question": "If a = -5 and b = -3, what is the value of a × b?",
             "options": {
-              "1": "15",
-              "2": "8",
-              "3": "-8",
-              "4": "-15"
+              "A": "15",
+              "B": "8",
+              "C": "-8",
+              "D": "-15"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a = -1 and b = 7, what is the result of a + b?",
+            "question": "If a = -1 and b = 7, what is the result of a + b?",
             "options": {
-              "1": "6",
-              "2": "0",
-              "3": "-8",
-              "4": "8"
+              "A": "6",
+              "B": "0",
+              "C": "-8",
+              "D": "8"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -64,54 +64,54 @@
         "chapter_name": "Fraction and Decimals",
         "questions": [
           {
-            "quiz_question": "What is the sum of 3/4 and 1/2?",
+            "question": "What is the sum of 3/4 and 1/2?",
             "options": {
-              "1": "5/4",
-              "2": "7/4",
-              "3": "1/4",
-              "4": "3/8"
+              "A": "5/4",
+              "B": "7/4",
+              "C": "1/4",
+              "D": "3/8"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the product of 0.75 and 0.25?",
+            "question": "What is the product of 0.75 and 0.25?",
             "options": {
-              "1": "1.00",
-              "2": "0.10",
-              "3": "0.25",
-              "4": "0.50"
+              "A": "1.00",
+              "B": "0.10",
+              "C": "0.25",
+              "D": "0.50"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is 1/4 of 2/3?",
+            "question": "What is 1/4 of 2/3?",
             "options": {
-              "1": "1/6",
-              "2": "1/12",
-              "3": "1/3",
-              "4": "1/4"
+              "A": "1/6",
+              "B": "1/12",
+              "C": "1/3",
+              "D": "1/4"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is 6.3 + 4.88?",
+            "question": "What is 6.3 + 4.88?",
             "options": {
-              "1": "10.18",
-              "2": "11.18",
-              "3": "11.08",
-              "4": "10.08"
+              "A": "10.18",
+              "B": "11.18",
+              "C": "11.08",
+              "D": "10.08"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the value of 1.5 * 2.0?",
+            "question": "What is the value of 1.5 * 2.0?",
             "options": {
-              "1": "3",
-              "2": "3.0",
-              "3": "4.0",
-              "4": "2.0"
+              "A": "C",
+              "B": "3.0",
+              "C": "4.0",
+              "D": "2.0"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -120,54 +120,54 @@
         "chapter_name": "Data Handling",
         "questions": [
           {
-            "quiz_question": "If the data set is {2, 3, 3, 5, 7}, what is the mean?",
+            "question": "If the data set is {2, 3, 3, 5, 7}, what is the mean?",
             "options": {
-              "1": "4",
-              "2": "3",
-              "3": "5",
-              "4": "3.5"
+              "A": "D",
+              "B": "C",
+              "C": "5",
+              "D": "3.5"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the term for the difference between the maximum and minimum value?",
+            "question": "What is the term for the difference between the maximum and minimum value?",
             "options": {
-              "1": "Average",
-              "2": "Mean",
-              "3": "Range",
-              "4": "Mode"
+              "A": "Average",
+              "B": "Mean",
+              "C": "Range",
+              "D": "Mode"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "Which of the following is NOT a method of data collection?",
+            "question": "Which of the following is NOT a method of data collection?",
             "options": {
-              "1": "Survey",
-              "2": "Interview",
-              "3": "How",
-              "4": "Questionnaire"
+              "A": "Survey",
+              "B": "Interview",
+              "C": "How",
+              "D": "Questionnaire"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If the average marks of 5 students in a class is 80, what is their total score?",
+            "question": "If the average marks of 5 students in a class is 80, what is their total score?",
             "options": {
-              "1": "400",
-              "2": "450",
-              "3": "300",
-              "4": "350"
+              "A": "400",
+              "B": "450",
+              "C": "300",
+              "D": "350"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What does the mode represent?",
+            "question": "What does the mode represent?",
             "options": {
-              "1": "The value that occurs most frequently",
-              "2": "The value that occurs least frequently",
-              "3": "Total value",
-              "4": "Average value"
+              "A": "The value that occurs most frequently",
+              "B": "The value that occurs least frequently",
+              "C": "Total value",
+              "D": "Average value"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -176,54 +176,54 @@
         "chapter_name": "Simple Equations",
         "questions": [
           {
-            "quiz_question": "What is the value of x in the equation 2x + 4 = 12?",
+            "question": "What is the value of x in the equation 2x + 4 = 12?",
             "options": {
-              "1": "3",
-              "2": "4",
-              "3": "5",
-              "4": "10"
+              "A": "C",
+              "B": "D",
+              "C": "5",
+              "D": "10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 5x + 3 = 23, what is the value of x?",
+            "question": "If 5x + 3 = 23, what is the value of x?",
             "options": {
-              "1": "4",
-              "2": "5",
-              "3": "8",
-              "4": "10"
+              "A": "D",
+              "B": "5",
+              "C": "8",
+              "D": "10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the solution to the equation 3(x - 1) = 6?",
+            "question": "What is the solution to the equation 3(x - 1) = 6?",
             "options": {
-              "1": "5",
-              "2": "3",
-              "3": "6",
-              "4": "2"
+              "A": "5",
+              "B": "C",
+              "C": "6",
+              "D": "B"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the value of y in the equation 2(3y + 4) = 28?",
+            "question": "What is the value of y in the equation 2(3y + 4) = 28?",
             "options": {
-              "1": "2",
-              "2": "3",
-              "3": "4",
-              "4": "1"
+              "A": "B",
+              "B": "C",
+              "C": "D",
+              "D": "A"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If x/5 - 2 = 3, what is the value of x?",
+            "question": "If x/5 - 2 = 3, what is the value of x?",
             "options": {
-              "1": "25",
-              "2": "20",
-              "3": "15",
-              "4": "10"
+              "A": "25",
+              "B": "20",
+              "C": "15",
+              "D": "10"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -232,54 +232,54 @@
         "chapter_name": "Lines and Angles",
         "questions": [
           {
-            "quiz_question": "If two lines intersect, what is the sum of the angles formed on one side?",
+            "question": "If two lines intersect, what is the sum of the angles formed on one side?",
             "options": {
-              "1": "90 degrees",
-              "2": "180 degrees",
-              "3": "360 degrees",
-              "4": "270 degrees"
+              "A": "90 degrees",
+              "B": "180 degrees",
+              "C": "360 degrees",
+              "D": "270 degrees"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What is the relationship between corresponding angles when two parallel lines are cut by a transversal?",
+            "question": "What is the relationship between corresponding angles when two parallel lines are cut by a transversal?",
             "options": {
-              "1": "They are equal.",
-              "2": "They are supplementary.",
-              "3": "They are complementary.",
-              "4": "They are not related."
+              "A": "They are equal.",
+              "B": "They are supplementary.",
+              "C": "They are complementary.",
+              "D": "They are not related."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What type of angle is formed by two rays that point in opposite directions?",
+            "question": "What type of angle is formed by two rays that point in opposite directions?",
             "options": {
-              "1": "Acute",
-              "2": "Obtuse",
-              "3": "Straight",
-              "4": "Reflex"
+              "A": "Acute",
+              "B": "Obtuse",
+              "C": "Straight",
+              "D": "Reflex"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If angle A is 45 degrees, what is the measure of its complement?",
+            "question": "If angle A is 45 degrees, what is the measure of its complement?",
             "options": {
-              "1": "45 degrees",
-              "2": "90 degrees",
-              "3": "135 degrees",
-              "4": "55 degrees"
+              "A": "45 degrees",
+              "B": "90 degrees",
+              "C": "135 degrees",
+              "D": "55 degrees"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What do you call angles that add up to 180 degrees?",
+            "question": "What do you call angles that add up to 180 degrees?",
             "options": {
-              "1": "Complementary angles",
-              "2": "Adjacent angles",
-              "3": "Supplementary angles",
-              "4": "Vertical angles"
+              "A": "Complementary angles",
+              "B": "Adjacent angles",
+              "C": "Supplementary angles",
+              "D": "Vertical angles"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -288,54 +288,54 @@
         "chapter_name": "The Triangle and Its Properties",
         "questions": [
           {
-            "quiz_question": "What is the sum of the angles in a triangle?",
+            "question": "What is the sum of the angles in a triangle?",
             "options": {
-              "1": "90 degrees",
-              "2": "180 degrees",
-              "3": "270 degrees",
-              "4": "360 degrees"
+              "A": "90 degrees",
+              "B": "180 degrees",
+              "C": "270 degrees",
+              "D": "360 degrees"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "How many sides does a triangle have?",
+            "question": "How many sides does a triangle have?",
             "options": {
-              "1": "3",
-              "2": "4",
-              "3": "2",
-              "4": "5"
+              "A": "C",
+              "B": "D",
+              "C": "B",
+              "D": "5"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If one angle of a triangle is 90 degrees, what type of triangle is it?",
+            "question": "If one angle of a triangle is 90 degrees, what type of triangle is it?",
             "options": {
-              "1": "Acute triangle",
-              "2": "Obtuse triangle",
-              "3": "Right triangle",
-              "4": "Equilateral triangle"
+              "A": "Acute triangle",
+              "B": "Obtuse triangle",
+              "C": "Right triangle",
+              "D": "Equilateral triangle"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "In an equilateral triangle, what is the measure of each angle?",
+            "question": "In an equilateral triangle, what is the measure of each angle?",
             "options": {
-              "1": "60 degrees",
-              "2": "45 degrees",
-              "3": "90 degrees",
-              "4": "120 degrees"
+              "A": "60 degrees",
+              "B": "45 degrees",
+              "C": "90 degrees",
+              "D": "120 degrees"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the term for a triangle with all sides of different lengths?",
+            "question": "What is the term for a triangle with all sides of different lengths?",
             "options": {
-              "1": "Isosceles",
-              "2": "Equilateral",
-              "3": "Scalene",
-              "4": "Right-angled"
+              "A": "Isosceles",
+              "B": "Equilateral",
+              "C": "Scalene",
+              "D": "Right-angled"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       },
@@ -344,54 +344,54 @@
         "chapter_name": "Algebraic Expressions",
         "questions": [
           {
-            "quiz_question": "What is the value of the expression 3x + 4 when x = 2?",
+            "question": "What is the value of the expression 3x + 4 when x = 2?",
             "options": {
-              "1": "10",
-              "2": "14",
-              "3": "8",
-              "4": "12"
+              "A": "10",
+              "B": "14",
+              "C": "8",
+              "D": "12"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a polynomial?",
+            "question": "Which of the following is a polynomial?",
             "options": {
-              "1": "3x^2 + 2x + 1",
-              "2": "1/x",
-              "3": "√x",
-              "4": "2 + 3i"
+              "A": "3x^2 + 2x + 1",
+              "B": "1/x",
+              "C": "√x",
+              "D": "2 + 3i"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the coefficient of x in the expression 5x^2 - 3x + 2?",
+            "question": "What is the coefficient of x in the expression 5x^2 - 3x + 2?",
             "options": {
-              "1": "-3",
-              "2": "5",
-              "3": "0",
-              "4": "2"
+              "A": "-3",
+              "B": "5",
+              "C": "0",
+              "D": "B"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If p = 3 and q = -1, what is the value of 2p - 3q?",
+            "question": "If p = 3 and q = -1, what is the value of 2p - 3q?",
             "options": {
-              "1": "9",
-              "2": "6",
-              "3": "12",
-              "4": "15"
+              "A": "9",
+              "B": "6",
+              "C": "12",
+              "D": "15"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What do you call the term that contains only numbers in an algebraic expression?",
+            "question": "What do you call the term that contains only numbers in an algebraic expression?",
             "options": {
-              "1": "Coefficient",
-              "2": "Constant",
-              "3": "Variable",
-              "4": "Term"
+              "A": "Coefficient",
+              "B": "Constant",
+              "C": "Variable",
+              "D": "Term"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           }
         ]
       },
@@ -400,54 +400,54 @@
         "chapter_name": "Congruence of Triangles",
         "questions": [
           {
-            "quiz_question": "Triangles are congruent if they have equal:",
+            "question": "Triangles are congruent if they have equal:",
             "options": {
-              "1": "Angles",
-              "2": "Sides",
-              "3": "Both sides and angles",
-              "4": "Perimeters"
+              "A": "Angles",
+              "B": "Sides",
+              "C": "Both sides and angles",
+              "D": "Perimeters"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "What is the criterion for the congruence of triangles?",
+            "question": "What is the criterion for the congruence of triangles?",
             "options": {
-              "1": "ASA",
-              "2": "AAS",
-              "3": "SSS",
-              "4": "All of the above"
+              "A": "ASA",
+              "B": "AAS",
+              "C": "SSS",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "If two angles and the included side of one triangle are equal to two angles and the included side of another triangle, what can be said about these triangles?",
+            "question": "If two angles and the included side of one triangle are equal to two angles and the included side of another triangle, what can be said about these triangles?",
             "options": {
-              "1": "They are similar.",
-              "2": "They are congruent.",
-              "3": "They are different.",
-              "4": "No relation."
+              "A": "They are similar.",
+              "B": "They are congruent.",
+              "C": "They are different.",
+              "D": "No relation."
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "Which of the following is NOT a type of congruence?",
+            "question": "Which of the following is NOT a type of congruence?",
             "options": {
-              "1": "Side-Side-Side (SSS)",
-              "2": "Angle-Side-Angle (ASA)",
-              "3": "Angle-Angle-Angle (AAA)",
-              "4": "Side-Angle-Side (SAS)"
+              "A": "Side-Side-Side (SSS)",
+              "B": "Angle-Side-Angle (ASA)",
+              "C": "Angle-Angle-Angle (AAA)",
+              "D": "Side-Angle-Side (SAS)"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           },
           {
-            "quiz_question": "If two triangles are congruent, what can be said about their areas?",
+            "question": "If two triangles are congruent, what can be said about their areas?",
             "options": {
-              "1": "They are equal.",
-              "2": "They are different.",
-              "3": "One is larger.",
-              "4": "Cannot be determined."
+              "A": "They are equal.",
+              "B": "They are different.",
+              "C": "One is larger.",
+              "D": "Cannot be determined."
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -456,54 +456,54 @@
         "chapter_name": "Comparing Quantities",
         "questions": [
           {
-            "quiz_question": "What is the percentage increase if the price of an item goes from $50 to $75?",
+            "question": "What is the percentage increase if the price of an item goes from $50 to $75?",
             "options": {
-              "1": "50%",
-              "2": "33.33%",
-              "3": "25%",
-              "4": "20%"
+              "A": "50%",
+              "B": "33.33%",
+              "C": "25%",
+              "D": "20%"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If A's income is 25% more than B's income, what percentage of B's income is A's income?",
+            "question": "If A's income is 25% more than B's income, what percentage of B's income is A's income?",
             "options": {
-              "1": "125%",
-              "2": "75%",
-              "3": "50%",
-              "4": "100%"
+              "A": "125%",
+              "B": "75%",
+              "C": "50%",
+              "D": "100%"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If 30% of a number is 90, what is the number?",
+            "question": "If 30% of a number is 90, what is the number?",
             "options": {
-              "1": "300",
-              "2": "250",
-              "3": "150",
-              "4": "100"
+              "A": "300",
+              "B": "250",
+              "C": "150",
+              "D": "100"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the ratio of 25 to 100?",
+            "question": "What is the ratio of 25 to 100?",
             "options": {
-              "1": "1:4",
-              "2": "1:5",
-              "3": "1:3",
-              "4": "1:2"
+              "A": "1:4",
+              "B": "1:5",
+              "C": "1:3",
+              "D": "1:2"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "If a person earns $800 a month and spends $500, what is the savings percentage?",
+            "question": "If a person earns $800 a month and spends $500, what is the savings percentage?",
             "options": {
-              "1": "62.5%",
-              "2": "50%",
-              "3": "37.5%",
-              "4": "25%"
+              "A": "62.5%",
+              "B": "50%",
+              "C": "37.5%",
+              "D": "25%"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -512,54 +512,54 @@
         "chapter_name": "Practical Geometry",
         "questions": [
           {
-            "quiz_question": "What instrument is used to draw an arc?",
+            "question": "What instrument is used to draw an arc?",
             "options": {
-              "1": "Ruler",
-              "2": "Compass",
-              "3": "Protractor",
-              "4": "Set square"
+              "A": "Ruler",
+              "B": "Compass",
+              "C": "Protractor",
+              "D": "Set square"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "What do you call a polygon with five sides?",
+            "question": "What do you call a polygon with five sides?",
             "options": {
-              "1": "Quadrilateral",
-              "2": "Pentagon",
-              "3": "Hexagon",
-              "4": "Triangle"
+              "A": "Quadrilateral",
+              "B": "Pentagon",
+              "C": "Hexagon",
+              "D": "Triangle"
             },
-            "correct_answer": "2"
+            "correct_answer": "B"
           },
           {
-            "quiz_question": "In a right-angled triangle, what is the relationship between the sides called?",
+            "question": "In a right-angled triangle, what is the relationship between the sides called?",
             "options": {
-              "1": "Pythagorean theorem",
-              "2": "Congruence",
-              "3": "Similarity",
-              "4": "Ratio"
+              "A": "Pythagorean theorem",
+              "B": "Congruence",
+              "C": "Similarity",
+              "D": "Ratio"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the area of a rectangle with length 8 cm and width 3 cm?",
+            "question": "What is the area of a rectangle with length 8 cm and width 3 cm?",
             "options": {
-              "1": "24 cm²",
-              "2": "30 cm²",
-              "3": "20 cm²",
-              "4": "28 cm²"
+              "A": "24 cm²",
+              "B": "30 cm²",
+              "C": "20 cm²",
+              "D": "28 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following shapes can be constructed using a straight edge and compass?",
+            "question": "Which of the following shapes can be constructed using a straight edge and compass?",
             "options": {
-              "1": "Triangle",
-              "2": "Circle",
-              "3": "Square",
-              "4": "All of the above"
+              "A": "Triangle",
+              "B": "Circle",
+              "C": "Square",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
@@ -568,54 +568,54 @@
         "chapter_name": "Perimeter and Area",
         "questions": [
           {
-            "quiz_question": "What is the perimeter of a square with a side length of 5 cm?",
+            "question": "What is the perimeter of a square with a side length of 5 cm?",
             "options": {
-              "1": "20 cm",
-              "2": "25 cm",
-              "3": "15 cm",
-              "4": "10 cm"
+              "A": "20 cm",
+              "B": "25 cm",
+              "C": "15 cm",
+              "D": "10 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the area of a rectangle with length 10 cm and width 4 cm?",
+            "question": "What is the area of a rectangle with length 10 cm and width 4 cm?",
             "options": {
-              "1": "40 cm²",
-              "2": "44 cm²",
-              "3": "50 cm²",
-              "4": "45 cm²"
+              "A": "40 cm²",
+              "B": "44 cm²",
+              "C": "50 cm²",
+              "D": "45 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If the radius of a circle is 7 cm, what is its circumference (use π = 22/7)?",
+            "question": "If the radius of a circle is 7 cm, what is its circumference (use π = 22/7)?",
             "options": {
-              "1": "44 cm",
-              "2": "22 cm",
-              "3": "14 cm",
-              "4": "28 cm"
+              "A": "44 cm",
+              "B": "22 cm",
+              "C": "14 cm",
+              "D": "28 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the area of a triangle with base 10 cm and height 5 cm?",
+            "question": "What is the area of a triangle with base 10 cm and height 5 cm?",
             "options": {
-              "1": "25 cm²",
-              "2": "30 cm²",
-              "3": "20 cm²",
-              "4": "50 cm²"
+              "A": "25 cm²",
+              "B": "30 cm²",
+              "C": "20 cm²",
+              "D": "50 cm²"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a rectangle has a perimeter of 30 cm and length 10 cm, what is its width?",
+            "question": "If a rectangle has a perimeter of 30 cm and length 10 cm, what is its width?",
             "options": {
-              "1": "5 cm",
-              "2": "10 cm",
-              "3": "7.5 cm",
-              "4": "12 cm"
+              "A": "5 cm",
+              "B": "10 cm",
+              "C": "7.5 cm",
+              "D": "12 cm"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -624,54 +624,54 @@
         "chapter_name": "Algebraic Expressions",
         "questions": [
           {
-            "quiz_question": "What is the value of the expression 4y - 3 when y = 5?",
+            "question": "What is the value of the expression 4y - 3 when y = 5?",
             "options": {
-              "1": "17",
-              "2": "18",
-              "3": "20",
-              "4": "22"
+              "A": "17",
+              "B": "18",
+              "C": "20",
+              "D": "22"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a term in the expression 6x^2 + 5xy - 7?",
+            "question": "Which of the following is a term in the expression 6x^2 + 5xy - 7?",
             "options": {
-              "1": "6x^2",
-              "2": "5xy",
-              "3": "-7",
-              "4": "All of the above"
+              "A": "6x^2",
+              "B": "5xy",
+              "C": "-7",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "What is the coefficient of x in the expression 3x + 4y?",
+            "question": "What is the coefficient of x in the expression 3x + 4y?",
             "options": {
-              "1": "3",
-              "2": "4",
-              "3": "7",
-              "4": "No coefficient"
+              "A": "C",
+              "B": "D",
+              "C": "7",
+              "D": "No coefficient"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a = 2 and b = 3, what is the value of the expression a^2 + b^2?",
+            "question": "If a = 2 and b = 3, what is the value of the expression a^2 + b^2?",
             "options": {
-              "1": "13",
-              "2": "11",
-              "3": "9",
-              "4": "7"
+              "A": "13",
+              "B": "11",
+              "C": "9",
+              "D": "7"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What type of expression is 5x^2 - 3x + 4?",
+            "question": "What type of expression is 5x^2 - 3x + 4?",
             "options": {
-              "1": "Linear",
-              "2": "Quadratic",
-              "3": "Polynomial",
-              "4": "All of the above"
+              "A": "Linear",
+              "B": "Quadratic",
+              "C": "Polynomial",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           }
         ]
       },
@@ -680,54 +680,54 @@
         "chapter_name": "Exponents and Powers",
         "questions": [
           {
-            "quiz_question": "What is the value of 2^3?",
+            "question": "What is the value of 2^3?",
             "options": {
-              "1": "8",
-              "2": "6",
-              "3": "4",
-              "4": "2"
+              "A": "8",
+              "B": "6",
+              "C": "D",
+              "D": "B"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What does 3^0 equal to?",
+            "question": "What does 3^0 equal to?",
             "options": {
-              "1": "1",
-              "2": "0",
-              "3": "3",
-              "4": "3^3"
+              "A": "A",
+              "B": "0",
+              "C": "C",
+              "D": "3^3"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "If a = 4 and b = 3, what is a^b?",
+            "question": "If a = 4 and b = 3, what is a^b?",
             "options": {
-              "1": "64",
-              "2": "12",
-              "3": "7",
-              "4": "43"
+              "A": "64",
+              "B": "12",
+              "C": "7",
+              "D": "43"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the value of (2^3) × (2^4)?",
+            "question": "What is the value of (2^3) × (2^4)?",
             "options": {
-              "1": "2^7",
-              "2": "2^6",
-              "3": "2^5",
-              "4": "2^8"
+              "A": "2^7",
+              "B": "2^6",
+              "C": "2^5",
+              "D": "2^8"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is an example of an exponent?",
+            "question": "Which of the following is an example of an exponent?",
             "options": {
-              "1": "3^2",
-              "2": "2 + 2",
-              "3": "5",
-              "4": "x + y"
+              "A": "3^2",
+              "B": "2 + 2",
+              "C": "5",
+              "D": "x + y"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           }
         ]
       },
@@ -736,54 +736,54 @@
         "chapter_name": "Visualizing Solid Shapes",
         "questions": [
           {
-            "quiz_question": "What is the shape of a cube?",
+            "question": "What is the shape of a cube?",
             "options": {
-              "1": "Six equal square faces",
-              "2": "Eight faces",
-              "3": "Twelve edges",
-              "4": "All of the above"
+              "A": "Six equal square faces",
+              "B": "Eight faces",
+              "C": "Twelve edges",
+              "D": "All of the above"
             },
-            "correct_answer": "4"
+            "correct_answer": "D"
           },
           {
-            "quiz_question": "How many vertices does a cylinder have?",
+            "question": "How many vertices does a cylinder have?",
             "options": {
-              "1": "0",
-              "2": "2",
-              "3": "4",
-              "4": "6"
+              "A": "0",
+              "B": "B",
+              "C": "D",
+              "D": "6"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What is the net of a cube composed of?",
+            "question": "What is the net of a cube composed of?",
             "options": {
-              "1": "6 squares",
-              "2": "6 circles",
-              "3": "6 triangles",
-              "4": "4 squares"
+              "A": "6 squares",
+              "B": "6 circles",
+              "C": "6 triangles",
+              "D": "4 squares"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "What shape is the base of a cone?",
+            "question": "What shape is the base of a cone?",
             "options": {
-              "1": "Circle",
-              "2": "Square",
-              "3": "Triangle",
-              "4": "Rectangle"
+              "A": "Circle",
+              "B": "Square",
+              "C": "Triangle",
+              "D": "Rectangle"
             },
-            "correct_answer": "1"
+            "correct_answer": "A"
           },
           {
-            "quiz_question": "Which of the following is a three-dimensional shape?",
+            "question": "Which of the following is a three-dimensional shape?",
             "options": {
-              "1": "Circle",
-              "2": "Square",
-              "3": "Cube",
-              "4": "Triangle"
+              "A": "Circle",
+              "B": "Square",
+              "C": "Cube",
+              "D": "Triangle"
             },
-            "correct_answer": "3"
+            "correct_answer": "C"
           }
         ]
       }

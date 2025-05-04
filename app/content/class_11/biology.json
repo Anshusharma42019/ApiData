@@ -1,123 +1,1168 @@
-[
+{
+  "class": "11",
+  "subject": "Biology",
+  "channel": "Uday-Class 11",
+  "chapters": [
     {
       "chapter_no": 1,
-      "title": "The Living World | Full Chapter in ONE SHOT | Chapter 1 | Class 11 Biology",
+      "chapter_name": "The Living World | Full Chapter in ONE SHOT | Chapter 1 | Class 11 Biology",
       "duration": "2:28:34",
-      "url": "https://www.youtube.com/watch?v=AAih1XvW33g"
+      "video_url": "https://www.youtube.com/watch?v=AAih1XvW33g&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=19",
+      "questions": [
+        {
+          "question": "What is the fundamental unit of life?",
+          "options": {
+            "A": "Tissue",
+            "B": "Organ",
+            "C": "Cell",
+            "D": "Organism"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is not a characteristic of living organisms?",
+          "options": {
+            "A": "Metabolism",
+            "B": "Reproduction",
+            "C": "Growth",
+            "D": "Immutability"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the study of living organisms called?",
+          "options": {
+            "A": "Anthropology",
+            "B": "Ecology",
+            "C": "Biology",
+            "D": "Zoology"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following classifications includes the largest group?",
+          "options": {
+            "A": "Family",
+            "B": "Order",
+            "C": "Phylum",
+            "D": "class"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Who is known as the father of taxonomy?",
+          "options": {
+            "A": "Charles Darwin",
+            "B": "Carl Linnaeus",
+            "C": "Gregor Mendel",
+            "D": "Louis Pasteur"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 2,
-      "title": "Biological Classification | Full Chapter in ONE SHOT | Chapter 2 | Class 11 Biology",
+      "chapter_name": "Biological Classification | Full Chapter in ONE SHOT | Chapter 2 | Class 11 Biology",
       "duration": "3:49:56",
-      "url": "https://www.youtube.com/watch?v=YTyCsiaveZU"
+      "video_url": "https://www.youtube.com/watch?v=soS6dnpNSIg&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=18",
+      "questions": [
+        {
+          "question": "What are the primary kingdoms in the five-kingdom classification system?",
+          "options": {
+            "A": "Animalia, Plantae, Fungi, Protista, Monera",
+            "B": "Animalia, Plantae, Bacteria, Protista, Mycota",
+            "C": "Eukaryota, Prokaryota, Fungi, Viruses",
+            "D": "Bacteria, Archaea, Eukaryota"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which characteristic is used to differentiate between the kingdoms?",
+          "options": {
+            "A": "Mode of nutrition",
+            "B": "Habitat",
+            "C": "Size",
+            "D": "Color"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the primary basis for the classification of organisms?",
+          "options": {
+            "A": "Morphological",
+            "B": "Genetic",
+            "C": "Behavioral",
+            "D": "Ecological"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which group of organisms is characterized by the absence of a true nucleus?",
+          "options": {
+            "A": "Eukaryotes",
+            "B": "Archaea",
+            "C": "Prokaryotes",
+            "D": "Fungi"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is true about viruses?",
+          "options": {
+            "A": "They can reproduce independently.",
+            "B": "They have a cellular structure.",
+            "C": "They can infect all types of organisms.",
+            "D": "They are classified as prokaryotes."
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 3,
-      "title": "Plant Kingdom | Full Chapter in ONE SHOT | Chapter 3 | Class 11 Biology",
+      "chapter_name": "Plant Kingdom | Full Chapter in ONE SHOT | Chapter 3 | Class 11 Biology",
       "duration": "3:09:29",
-      "url": "https://www.youtube.com/watch?v=38t4sSVaRjI"
+      "video_url": "https://www.youtube.com/watch?v=38t4sSVaRjI&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=17",
+      "questions": [
+        {
+          "question": "What process do plants use to convert solar energy into chemical energy?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Respiration",
+            "C": "Transpiration",
+            "D": "Glycolysis"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is not a feature of angiosperms?",
+          "options": {
+            "A": "Seeds enclosed within a fruit",
+            "B": "Presence of flowers",
+            "C": "Vascular tissues",
+            "D": "Spores for reproduction"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which plant group lacks true roots, stems, and leaves?",
+          "options": {
+            "A": "Bryophytes",
+            "B": "Angiosperms",
+            "C": "Gymnosperms",
+            "D": "Pteridophytes"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main function of xylem in vascular plants?",
+          "options": {
+            "A": "Transport of food",
+            "B": "Support of plant structure",
+            "C": "Transport of water and minerals",
+            "D": "Storage of nutrients"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which plant hormone is involved in the regulation of growth and development?",
+          "options": {
+            "A": "Auxins",
+            "B": "Gibberellins",
+            "C": "Cytokinins",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
       "chapter_no": 4,
-      "title": "Animal Kingdom | Full Chapter in ONE SHOT | Chapter 4 | Class 11 Biology",
+      "chapter_name": "Animal Kingdom | Full Chapter in ONE SHOT | Chapter 4 | Class 11 Biology",
       "duration": "3:09:34",
-      "url": "https://www.youtube.com/watch?v=gJVD_kj4rq8"
+      "video_url": "https://www.youtube.com/watch?v=gJVD_kj4rq8&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=16",
+      "questions": [
+        {
+          "question": "What is the primary characteristic that distinguishes members of the animal kingdom?",
+          "options": {
+            "A": "Cellular organization",
+            "B": "Heterotrophic nutrition",
+            "C": "Multicellularity",
+            "D": "Reproduction"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which class of animals is characterized by the presence of mammary glands?",
+          "options": {
+            "A": "Amphibians",
+            "B": "Reptiles",
+            "C": "Mammals",
+            "D": "Birds"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What type of symmetry do most animals exhibit?",
+          "options": {
+            "A": "Asymmetry",
+            "B": "Radial symmetry",
+            "C": "Bilateral symmetry",
+            "D": "Spherical symmetry"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which group of animals possesses a notochord at some stage of their development?",
+          "options": {
+            "A": "Invertebrates",
+            "B": "Chordates",
+            "C": "Echinoderms",
+            "D": "Arthropods"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is not a feature of mammals?",
+          "options": {
+            "A": "Hair or fur",
+            "B": "Laying eggs",
+            "C": "Warm-blooded",
+            "D": "Live birth"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 5,
-      "title": "Morphology Of Flowering Plants | Full Chapter in ONE SHOT | Chapter 5 | Class 11 Biology",
+      "chapter_name": "Morphology Of Flowering Plants | Full Chapter in ONE SHOT | Chapter 5 | Class 11 Biology",
       "duration": "4:41:19",
-      "url": "https://www.youtube.com/watch?v=lfbG0NUiHLs"
+      "video_url": "https://www.youtube.com/watch?v=lfbG0NUiHLs&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=10",
+      "questions": [
+        {
+          "question": "What is the primary function of roots in plants?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Anchorage and absorption",
+            "C": "Storage of nutrients",
+            "D": "Transport of food"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the flower is responsible for reproduction?",
+          "options": {
+            "A": "Sepals",
+            "B": "Petals",
+            "C": "Stamens",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of leaf arrangement is characterized by leaves growing directly opposite each other?",
+          "options": {
+            "A": "Alternate",
+            "B": "Whorled",
+            "C": "Opposite",
+            "D": "Spiral"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which type of inflorescence has a main axis that continues to grow while flowers develop on lateral branches?",
+          "options": {
+            "A": "Raceme",
+            "B": "Corymb",
+            "C": "Spike",
+            "D": "Umbel"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the main photosynthetic organ of the plant?",
+          "options": {
+            "A": "Root",
+            "B": "Stem",
+            "C": "Leaf",
+            "D": "Flower"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 6,
-      "title": "Anatomy Of Flowering Plants | Full Chapter in ONE SHOT | Chapter 6 | Class 11 Biology",
+      "chapter_name": "Anatomy Of Flowering Plants | Full Chapter in ONE SHOT | Chapter 6 | Class 11 Biology",
       "duration": "3:57:48",
-      "url": "https://www.youtube.com/watch?v=CtZ4FG6AAQ4"
+      "video_url": "https://www.youtube.com/watch?v=CtZ4FG6AAQ4&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=9",
+      "questions": [
+        {
+          "question": "What is the main tissue responsible for the transport of nutrients in flowering plants?",
+          "options": {
+            "A": "Phloem",
+            "B": "Xylem",
+            "C": "Parenchyma",
+            "D": "Collenchyma"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What part of the plant contains meristematic tissues?",
+          "options": {
+            "A": "Leaves",
+            "B": "Roots",
+            "C": "Stems",
+            "D": "Apices"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the function of sclerenchyma tissues?",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Support and stiffness",
+            "C": "Storage",
+            "D": "Transport"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the plant is primarily responsible for secondary growth?",
+          "options": {
+            "A": "Apical meristem",
+            "B": "Vascular cambium",
+            "C": "Cortex",
+            "D": "Pith"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of cell is primarily responsible for forming the protective outer layer of the plant?",
+          "options": {
+            "A": "Parenchyma",
+            "B": "Collenchyma",
+            "C": "Sclerenchyma",
+            "D": "Epidermal cells"
+          },
+          "correct_answer": "D"
+        }
+      ]
     },
     {
       "chapter_no": 7,
-      "title": "Structural Organisation in Animals | Full Chapter in ONE SHOT | Chapter 7 | Class 11 Biology",
+      "chapter_name": "Structural Organisation in Animals | Full Chapter in ONE SHOT | Chapter 7 | Class 11 Biology",
       "duration": "2:58:28",
-      "url": "https://www.youtube.com/watch?v=0qtXzH_I1aA"
+      "video_url": "https://www.youtube.com/watch?v=0qtXzH_I1aA&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=15",
+      "questions": [
+        {
+          "question": "What type of tissue connects different parts of the body?",
+          "options": {
+            "A": "Epithelial tissue",
+            "B": "Nervous tissue",
+            "C": "Muscle tissue",
+            "D": "Connective tissue"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which type of muscle tissue is involuntary and not striated?",
+          "options": {
+            "A": "Cardiac muscle",
+            "B": "Smooth muscle",
+            "C": "Skeletal muscle",
+            "D": "All of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the basic unit of the nervous system?",
+          "options": {
+            "A": "Neuron",
+            "B": "Glia",
+            "C": "Axon",
+            "D": "Dendrite"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of cell forms the outer layer of the skin?",
+          "options": {
+            "A": "Epithelial cells",
+            "B": "Connective cells",
+            "C": "Muscle cells",
+            "D": "Nerve cells"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which organ system is responsible for producing movement in the body?",
+          "options": {
+            "A": "Nervous system",
+            "B": "Muscular system",
+            "C": "Respiratory system",
+            "D": "Circulatory system"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 8,
-      "title": "Cell: The Unit of Life | Full Chapter in ONE SHOT | Chapter 8 | Class 11 Biology",
+      "chapter_name": "Cell: The Unit of Life | Full Chapter in ONE SHOT | Chapter 8 | Class 11 Biology",
       "duration": "5:21:03",
-      "url": "https://www.youtube.com/watch?v=6rpCt0IKMzo"
+      "video_url": "https://www.youtube.com/watch?v=6rpCt0IKMzo&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=20",
+      "questions": [
+        {
+          "question": "Which organelle is known as the powerhouse of the cell?",
+          "options": {
+            "A": "Ribosome",
+            "B": "Mitochondria",
+            "C": "Endoplasmic reticulum",
+            "D": "Golgi apparatus"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the primary function of the Golgi apparatus?",
+          "options": {
+            "A": "Energy production",
+            "B": "Protein synthesis",
+            "C": "Modification and packaging of proteins",
+            "D": "Cell division"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which organelle is responsible for photosynthesis?",
+          "options": {
+            "A": "Chloroplast",
+            "B": "Ribosome",
+            "C": "Nucleus",
+            "D": "Mitochondria"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the semi-permeable membrane surrounding the cell called?",
+          "options": {
+            "A": "Cell wall",
+            "B": "Plasma membrane",
+            "C": "Nuclear membrane",
+            "D": "Cytoplasm"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the cell contains the genetic material?",
+          "options": {
+            "A": "Cytoplasm",
+            "B": "Nucleus",
+            "C": "Endoplasmic reticulum",
+            "D": "Ribosome"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 9,
-      "title": "Biomolecules | Full Chapter in ONE SHOT | Chapter 9 | Class 11 Biology",
+      "chapter_name": "Biomolecules | Full Chapter in ONE SHOT | Chapter 9 | Class 11 Biology",
       "duration": "2:42:48",
-      "url": "https://www.youtube.com/watch?v=kmggUcIFm30"
+      "video_url": "https://www.youtube.com/watch?v=kmggUcIFm30&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=13",
+      "questions": [
+        {
+          "question": "What are the building blocks of proteins?",
+          "options": {
+            "A": "Nucleotides",
+            "B": "Monosaccharides",
+            "C": "Amino acids",
+            "D": "Fatty acids"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which type of bond forms between amino acids in proteins?",
+          "options": {
+            "A": "Ionic bond",
+            "B": "Peptide bond",
+            "C": "Hydrogen bond",
+            "D": "Disulfide bond"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the primary source of energy for living organisms?",
+          "options": {
+            "A": "Proteins",
+            "B": "Carbohydrates",
+            "C": "Lipids",
+            "D": "Nucleic acids"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a polysaccharide?",
+          "options": {
+            "A": "Glucose",
+            "B": "Sucrose",
+            "C": "Cellulose",
+            "D": "Fructose"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which biomolecule is responsible for genetic information?",
+          "options": {
+            "A": "Proteins",
+            "B": "Carbohydrates",
+            "C": "DNA/RNA",
+            "D": "Lipids"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 10,
-      "title": "Cell Cycle And Cell Division | Full Chapter in ONE SHOT | Chapter 10 | Class 11 Biology",
+      "chapter_name": "Cell Cycle And Cell Division | Full Chapter in ONE SHOT | Chapter 10 | Class 11 Biology",
       "duration": "4:47:44",
-      "url": "https://www.youtube.com/watch?v=4bTa-o535Jw"
+      "video_url": "https://www.youtube.com/watch?v=4bTa-o535Jw&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=8",
+      "questions": [
+        {
+          "question": "What phase of the cell cycle is characterized by cell growth?",
+          "options": {
+            "A": "G1 phase",
+            "B": "S phase",
+            "C": "G2 phase",
+            "D": "M phase"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "During which phase does DNA replication occur?",
+          "options": {
+            "A": "G1 phase",
+            "B": "S phase",
+            "C": "G2 phase",
+            "D": "Prophase"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the end product of mitosis?",
+          "options": {
+            "A": "Two identical daughter cells",
+            "B": "Four genetically different cells",
+            "C": "One cell with double the DNA",
+            "D": "Two genetically different cells"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which checkpoint in the cell cycle is responsible for DNA damage control?",
+          "options": {
+            "A": "G1 checkpoint",
+            "B": "S checkpoint",
+            "C": "G2 checkpoint",
+            "D": "M checkpoint"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the main event of cytokinesis?",
+          "options": {
+            "A": "Chromosome separation",
+            "B": "Cell division",
+            "C": "Nucleus formation",
+            "D": "DNA replication"
+          },
+          "correct_answer": "B"
+        }
+      ]
     },
     {
       "chapter_no": 11,
-      "title": "Photosynthesis in Higher Plants | Full Chapter in ONE SHOT | Chapter 11 | Class 11 Biology",
+      "chapter_name": "Photosynthesis in Higher Plants | Full Chapter in ONE SHOT | Chapter 11 | Class 11 Biology",
       "duration": "4:11:35",
-      "url": "https://www.youtube.com/watch?v=8pARJFHbL0o"
+      "video_url": "https://www.youtube.com/watch?v=8pARJFHbL0o&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=2",
+      "questions": [
+        {
+          "question": "Where in the plant does photosynthesis primarily take place?",
+          "options": {
+            "A": "Roots",
+            "B": "Leaves",
+            "C": "Stems",
+            "D": "Flowers"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the main pigment involved in photosynthesis?",
+          "options": {
+            "A": "Chlorophyll",
+            "B": "Carotenoids",
+            "C": "Anthocyanins",
+            "D": "Xanthophylls"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a product of photosynthesis?",
+          "options": {
+            "A": "Oxygen",
+            "B": "Carbon Dioxide",
+            "C": "Water",
+            "D": "Glucose"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What are the two main stages of photosynthesis called?",
+          "options": {
+            "A": "Light-dependent and light-independent reactions",
+            "B": "Calvin cycle and Krebs cycle",
+            "C": "Aerobic and anaerobic respiration",
+            "D": "Photosystem I and II"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which factor does not affect the rate of photosynthesis?",
+          "options": {
+            "A": "Light intensity",
+            "B": "Water availability",
+            "C": "Soil pH",
+            "D": "Carbon Dioxide concentration"
+          },
+          "correct_answer": "C"
+        }
+      ]
     },
     {
       "chapter_no": 12,
-      "title": "Respiration In Plants | Full Chapter in ONE SHOT | Chapter 12 | Class 11 Biology",
+      "chapter_name": "Respiration In Plants | Full Chapter in ONE SHOT | Chapter 12 | Class 11 Biology",
       "duration": "4:34:35",
-      "url": "https://www.youtube.com/watch?v=xiwwNqRg9t8"
-    },
-    {
-      "chapter_no": 13,
-      "title": "Plant Growth & Development | Full Chapter in ONE SHOT | Chapter 13 | Class 11 Biology",
-      "duration": "2:56:24",
-      "url": "https://www.youtube.com/watch?v=HndqlohQ6pw"
-    },
-    {
-      "chapter_no": 14,
-      "title": "Breathing & Exchange of Gases | Full Chapter in ONE SHOT | Chapter 14 | Class 11 Biology",
-      "duration": "1:51:54",
-      "url": "https://www.youtube.com/watch?v=u5wOicCsERg"
-    },
-    {
-      "chapter_no": 15,
-      "title": "Body Fluids And Circulation | Full Chapter in ONE SHOT | Chapter 15 | Class 11 Biology",
-      "duration": "2:18:23",
-      "url": "https://www.youtube.com/watch?v=wkwrG4yeA9E"
-    },
-    {
-      "chapter_no": 16,
-      "title": "Excretory Products And Their Elimination | Full Chapter in ONE SHOT | Chapter 16 | Class 11 Biology",
-      "duration": "2:12:08",
-      "url": "https://www.youtube.com/watch?v=1aK5x4g6h9g"
-    },
-    {
-      "chapter_no": 17,
-      "title": "Locomotion and Movement | Full Chapter in ONE SHOT | Chapter 17 | Class 11 Biology",
-      "duration": "3:01:42",
-      "url": "https://www.youtube.com/watch?v=2bJtFqZz2kM"
-    },
-    {
-      "chapter_no": 18,
-      "title": "Neural Control and Coordination | Full Chapter in ONE SHOT | Chapter 18 | Class 11 Biology",
-      "duration": "2:04:57",
-      "url": "https://www.youtube.com/watch?v=3cN0W5gG1Z0"
-    },
-    {
-      "chapter_no": 19,
-      "title": "Chemical Coordination And Integration | Full Chapter in ONE SHOT | Chapter 19 | Class 11 Biology",
-      "duration": "1:54:11",
-      "url": "https://www.youtube.com/watch?v=4dZ3Q5gH7X8"
-    },
-    {
-      "chapter_no": 20,
-      "title": "Cockroach | Full Chapter in ONE SHOT | Class 11 Biology",
-      "duration": "2:11:32",
-      "url": "https://www.youtube.com/watch?v=5eZ2Q6gH9Yc"
-    }
-  ]
-  
+      "video_url": "https://www.youtube.com/watch?v=xiwwNqRg9t8&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=3",
+      "questions": [
+        {
+          "question": "Which process do plants primarily use to release energy from glucose?",
+          "options": {
+            "A": "Fermentation",
+            "B": "Respiration",
+            "C": "Transpiration",
+            "D": "Photosynthesis"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "In which area of the cell does aerobic respiration occur?",
+          "options": {
+            "A": "Cytoplasm",
+            "B": "Ribosomes",
+            "C": "Mitochondria",
+            "D": "Chloroplasts"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the end product of anaerobic respiration in plants?",
+          "options": {
+            "A": "Lactic acid",
+            "B": "Alcohol",
+            "C": "Carbon dioxide",
+            "D": "Oxygen"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which stage of respiration generates the most ATP?",
+          "options": {
+            "A": "Glycolysis",
+            "B": "Krebs cycle",
+            "C": "Electron transport chain",
+            "D": "Fermentation"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What role does oxygen play in cellular respiration?",
+          "options": {
+            "A": "It is a byproduct.",
+            "B": "It is a reactant.",
+            "C": "It does not participate.",
+            "D": "It enhances glycolysis."
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 13,
+        "chapter_name": "Plant Growth & Development | Full Chapter in ONE SHOT | Chapter 13 | Class 11 Biology",
+        "duration": "2:56:24",
+        "video_url": "https://www.youtube.com/watch?v=HndqlohQ6pw&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=1",
+        "questions": [
+          {
+            "question": "Which hormone promotes the elongation of plant cells?",
+            "options": {
+              "A": "Auxin",
+              "B": "Cytokinins",
+              "C": "Gibberellins",
+              "D": "Ethylene"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What is the main growth region in plants called?",
+            "options": {
+              "A": "Apical meristem",
+              "B": "Lateral meristem",
+              "C": "Root cap",
+              "D": "Nodal region"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which phase of growth is characterized by active cell division?",
+            "options": {
+              "A": "Maturation",
+              "B": "Lag phase",
+              "C": "Log phase",
+              "D": "Stationary phase"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the impact of Gibberellins on fruit development?",
+            "options": {
+              "A": "Increases fruit size",
+              "B": "Decreases fruit size",
+              "C": "No effect",
+              "D": "Promotes fruit ripening"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which factor does not influence plant growth?",
+            "options": {
+              "A": "Temperature",
+              "B": "Light",
+              "C": "Soil Fertility",
+              "D": "Plant color"
+            },
+            "correct_answer": "D"
+          }
+        ]
+      },
+      {
+        "chapter_no": 14,
+        "chapter_name": "Breathing & Exchange of Gases | Full Chapter in ONE SHOT | Chapter 14 | Class 11 Biology",
+        "duration": "1:51:54",
+        "video_url": "https://www.youtube.com/watch?v=u5wOicCsERg&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=12",
+        "questions": [
+          {
+            "question": "What is the primary gas exchanged during breathing?",
+            "options": {
+              "A": "Nitrogen",
+              "B": "Oxygen",
+              "C": "Carbon Dioxide",
+              "D": "Hydrogen"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which part of the respiratory system is responsible for gas exchange?",
+            "options": {
+              "A": "Trachea",
+              "B": "Bronchi",
+              "C": "Alveoli",
+              "D": "Bronchioles"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the function of hemoglobin in red blood cells?",
+            "options": {
+              "A": "Transports carbon dioxide",
+              "B": "Transports oxygen",
+              "C": "Regulates pH",
+              "D": "Produces energy"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which of the following structures is not a part of the conducting zone of the respiratory system?",
+            "options": {
+              "A": "Trachea",
+              "B": "Alveoli",
+              "C": "Bronchi",
+              "D": "Nasal cavity"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What condition is characterized by an abnormal increase in the number of red blood cells?",
+            "options": {
+              "A": "Anemia",
+              "B": "Polycythemia",
+              "C": "Leukemia",
+              "D": "Thrombocytopenia"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 15,
+        "chapter_name": "Body Fluids And Circulation | Full Chapter in ONE SHOT | Chapter 15 | Class 11 Biology",
+        "duration": "2:18:23",
+        "video_url": "https://www.youtube.com/watch?v=Y6BuLZ5-FDs&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=11",
+        "questions": [
+          {
+            "question": "What is the main component of blood responsible for transport?",
+            "options": {
+              "A": "Platelets",
+              "B": "Plasma",
+              "C": "Red blood cells",
+              "D": "White blood cells"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What type of blood vessel carries blood away from the heart?",
+            "options": {
+              "A": "Veins",
+              "B": "Arteries",
+              "C": "Capillaries",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which blood component is involved in clotting?",
+            "options": {
+              "A": "Erythrocytes",
+              "B": "Leukocytes",
+              "C": "Platelets",
+              "D": "Plasma proteins"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "Which organ is primarily responsible for filtering blood?",
+            "options": {
+              "A": "Lungs",
+              "B": "Liver",
+              "C": "Kidneys",
+              "D": "Heart"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What is the average pH of human blood?",
+            "options": {
+              "A": "6.8",
+              "B": "7.4",
+              "C": "7.0",
+              "D": "7.8"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 16,
+        "chapter_name": "Excretory Products And Their Elimination | Full Chapter in ONE SHOT | Chapter 16 | Class 11 Biology",
+        "duration": "2:12:08",
+        "video_url": "https://www.youtube.com/watch?v=FfJiaMXlRmE&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=7",
+        "questions": [
+          {
+            "question": "What is the primary waste product excreted by humans?",
+            "options": {
+              "A": "Urea",
+              "B": "Creatinine",
+              "C": "Ammonia",
+              "D": "Uric acid"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which organ is primarily responsible for urine formation?",
+            "options": {
+              "A": "Kidneys",
+              "B": "Liver",
+              "C": "Bladder",
+              "D": "Lungs"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What process do kidneys use to filter blood?",
+            "options": {
+              "A": "Reabsorption",
+              "B": "Filtration",
+              "C": "Secretion",
+              "D": "Excretion"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Where does filtration occur in the nephron?",
+            "options": {
+              "A": "Collecting duct",
+              "B": "Glomerulus",
+              "C": "Loop of Henle",
+              "D": "Proximal convoluted tubule"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which condition results from insufficient insulin production?",
+            "options": {
+              "A": "Diabetes Insipidus",
+              "B": "Diabetes Mellitus",
+              "C": "Kidney stones",
+              "D": "Hypertension"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 17,
+        "chapter_name": "Locomotion and Movement | Full Chapter in ONE SHOT | Chapter 17 | Class 11 Biology",
+        "duration": "3:01:42",
+        "video_url": "https://www.youtube.com/watch?v=5ta7XI7gSXk&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=6",
+        "questions": [
+          {
+            "question": "What type of joint allows for circular movements?",
+            "options": {
+              "A": "Hinge joint",
+              "B": "Ball and socket joint",
+              "C": "Pivot joint",
+              "D": "Saddle joint"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which part of the skeletal system protects vital organs?",
+            "options": {
+              "A": "Long bones",
+              "B": "Flat bones",
+              "C": "Irregular bones",
+              "D": "Short bones"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the functional unit of muscle tissue?",
+            "options": {
+              "A": "Myofibril",
+              "B": "Sarcomere",
+              "C": "Myocyte",
+              "D": "Muscle fiber"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which muscle type is under voluntary control?",
+            "options": {
+              "A": "Cardiac muscle",
+              "B": "Smooth muscle",
+              "C": "Skeletal muscle",
+              "D": "All of the above"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What role do tendons play in the skeletal system?",
+            "options": {
+              "A": "Connect muscle to bone",
+              "B": "Connect bone to bone",
+              "C": "Support joint movement",
+              "D": "Protect muscles"
+            },
+            "correct_answer": "A"
+          }
+        ]
+      },
+      {
+        "chapter_no": 18,
+        "chapter_name": "Neural Control and Coordination | Full Chapter in ONE SHOT | Chapter 18 | Class 11 Biology",
+        "duration": "2:04:57",
+        "video_url": "https://www.youtube.com/watch?v=odaz7IVZV8c&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=5",
+        "questions": [
+          {
+            "question": "Which part of the neuron receives signals?",
+            "options": {
+              "A": "Axon",
+              "B": "Dendrite",
+              "C": "Cell body",
+              "D": "Synapse"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the main function of the central nervous system?",
+            "options": {
+              "A": "Control reflexes",
+              "B": "Coordination and integration of activities",
+              "C": "Transmission of signals",
+              "D": "Support in moment"
+
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What chemical is released at the synapse to transmit signals?",
+            "options": {
+              "A": "Neurotransmitter",
+              "B": "Hormone",
+              "C": "Enzyme",
+              "D": "Protein"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "What type of neuron carries signals away from the central nervous system?",
+            "options": {
+              "A": "Sensory neuron",
+              "B": "Motor neuron",
+              "C": "Interneuron",
+              "D": "None of the above"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which part of the brain is responsible for coordination and balance?",
+            "options": {
+              "A": "Cerebrum",
+              "B": "Cerebellum",
+              "C": "Brainstem",
+              "D": "Thalamus"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 19,
+        "chapter_name": "Chemical Coordination And Integration | Full Chapter in ONE SHOT | Chapter 19 | Class 11 Biology",
+        "duration": "1:54:11",
+        "video_url": "https://www.youtube.com/watch?v=Thrj60T2uxo&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=4",
+        "questions": [
+          {
+            "question": "Which gland is known as the 'master gland'?",
+            "options": {
+              "A": "Thyroid gland",
+              "B": "Pituitary gland",
+              "C": "Adrenal gland",
+              "D": "Pancreas"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the primary function of insulin?",
+            "options": {
+              "A": "Regulate metabolism",
+              "B": "Control blood sugar levels",
+              "C": "Stimulate growth",
+              "D": "Increase blood pressure"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which hormone regulates sodium reabsorption in the kidneys?",
+            "options": {
+              "A": "Adrenaline",
+              "B": "Aldosterone",
+              "C": "Cortisol",
+              "D": "Insulin"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the function of thyroxine?",
+            "options": {
+              "A": "Regulates metabolism",
+              "B": "Stimulates digestion",
+              "C": "Increases heart rate",
+              "D": "Promotes menstrual cycle"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Where are steroid hormones synthesized?",
+            "options": {
+              "A": "Pituitary gland",
+              "B": "Adrenal cortex",
+              "C": "Thyroid gland",
+              "D": "Pancreas"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "chapter_no": 20,
+        "chapter_name": "Cockroach | Full Chapter in ONE SHOT | Class 11 Biology",
+        "duration": "2:11:32",
+        "video_url": "https://www.youtube.com/watch?v=whmpVoSgTkI&list=PLev-MfB_WiOPELdVMm_wX6oxCXD25huTM&index=14",
+        "questions": [
+          {
+            "question": "What is the primary function of the cockroach's exoskeleton?",
+            "options": {
+              "A": "Transport respiration",
+              "B": "Protection and support",
+              "C": "Nutrient storage",
+              "D": "Locomotion"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "Which system controls the cockroach's body temperature?",
+            "options": {
+              "A": "Circulatory system",
+              "B": "Respiratory system",
+              "C": "Nervous system",
+              "D": "Endocrine system"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "question": "What type of reproduction do cockroaches primarily undergo?",
+            "options": {
+              "A": "Asexual",
+              "B": "Sexual",
+              "C": "Budding",
+              "D": "Fragmentation"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "question": "What is the main respiratory structure in cockroaches?",
+            "options": {
+              "A": "Tracheae",
+              "B": "Gills",
+              "C": "Lungs",
+              "D": "Skin"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "question": "Which organ is responsible for digestion in cockroaches?",
+            "options": {
+              "A": "Stomach",
+              "B": "Intestines",
+              "C": "Gastric ceca",
+              "D": "Salivary glands"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      }
+    ]
+  }

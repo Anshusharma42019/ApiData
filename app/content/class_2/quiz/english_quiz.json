@@ -4,372 +4,612 @@
   "book": "Marigold",
   "chapters": [
     {
-      "unit": 1,
-      "title": "First Day At School / Haldi’s Adventure",
-      
-      "quizzes": [
+      "chapter_no": 1,
+      "chapter_name": "First Day At School / Haldi’s Adventure",
+      "questions": [
         {
           "question_no": 1,
           "question": "What is the name of the main character in 'First Day at School'?",
-          "options": ["Haldi", "Neha", "Ravi", "Ananya"],
-          "correct_answer": "Haldi"
+          "options": {
+            "A": "Haldi",
+            "B": "Neha",
+            "C": "Ravi",
+            "D": "Ananya"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 2,
           "question": "What was Haldi excited about on her first day at school?",
-          "options": ["Meeting her friends", "Going to the playground", "Getting ready for school", "Having lunch"],
-          "correct_answer": "Getting ready for school"
+          "options": {
+            "A": "Meeting her friends",
+            "B": "Going to the playground",
+            "C": "Getting ready for school",
+            "D": "Having lunch"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 3,
           "question": "In 'Haldi’s Adventure', what did Haldi find on her way to school?",
-          "options": ["A rabbit", "A basket", "A big rock", "A lost kitten"],
-          "correct_answer": "A lost kitten"
+          "options": {
+            "A": "A rabbit",
+            "B": "A basket",
+            "C": "A big rock",
+            "D": "A lost kitten"
+          },
+          "correct_answer": "D"
         },
         {
           "question_no": 4,
           "question": "What did Haldi decide to do with the kitten?",
-          "options": ["Take it home", "Leave it on the road", "Ask the teacher", "Ignore it"],
-          "correct_answer": "Take it home"
+          "options": {
+            "A": "Take it home",
+            "B": "Leave it on the road",
+            "C": "Ask the teacher",
+            "D": "Ignore it"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 5,
           "question": "How did Haldi feel when she reached school?",
-          "options": ["Happy", "Sad", "Angry", "Excited"],
-          "correct_answer": "Happy"
+          "options": {
+            "A": "Happy",
+            "B": "Sad",
+            "C": "Angry",
+            "D": "Excited"
+          },
+          "correct_answer": "A"
         }
       ]
     },
     {
-      "unit": 2,
-      "title": "I Am Lucky Poem / I Want",
-      
-      "quizzes": [
+      "chapter_no": 2,
+      "chapter_name": "I Am Lucky Poem / I Want",
+      "questions": [
         {
           "question_no": 1,
           "question": "Who is the poet of the poem 'I Am Lucky'?",
-          "options": ["John Keats", "Walt Whitman", "Ruskin Bond", "Unknown"],
-          "correct_answer": "Unknown"
+          "options": {
+            "A": "John Keats",
+            "B": "Walt Whitman",
+            "C": "Ruskin Bond",
+            "D": "Unknown"
+          },
+          "correct_answer": "D"
         },
         {
           "question_no": 2,
           "question": "What does the poet express in 'I Am Lucky'?",
-          "options": ["Feeling of sadness", "Feeling of excitement", "Feeling of being lucky", "Feeling of anger"],
-          "correct_answer": "Feeling of being lucky"
+          "options": {
+            "A": "Feeling of sadness",
+            "B": "Feeling of excitement",
+            "C": "Feeling of being lucky",
+            "D": "Feeling of anger"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 3,
           "question": "In the poem 'I Want', what does the poet wish for?",
-          "options": ["A new bicycle", "A dog", "A peaceful world", "A colorful umbrella"],
-          "correct_answer": "A peaceful world"
+          "options": {
+            "A": "A new bicycle",
+            "B": "A dog",
+            "C": "A peaceful world",
+            "D": "A colorful umbrella"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 4,
           "question": "What is the main message of the poem 'I Want'?",
-          "options": ["To appreciate what we have", "To dream big", "To fight for our rights", "To care for the environment"],
-          "correct_answer": "To appreciate what we have"
+          "options": {
+            "A": "To appreciate what we have",
+            "B": "To dream big",
+            "C": "To fight for our rights",
+            "D": "To care for the environment"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 5,
           "question": "Which line from the poem 'I Am Lucky' expresses the poet’s feeling of gratitude?",
-          "options": ["I am lucky to be born", "I want to be free", "I like the wind and the trees", "I am lucky with the stars"],
-          "correct_answer": "I am lucky to be born"
+          "options": {
+            "A": "I am lucky to be born",
+            "B": "I want to be free",
+            "C": "I like the wind and the trees",
+            "D": "I am lucky with the stars"
+          },
+          "correct_answer": "A"
         }
       ]
     },
     {
-      "unit": 3,
-      "title": "A Smile Poem / The Wind and The Sun",
-      
-      "quizzes": [
+      "chapter_no": 3,
+      "chapter_name": "A Smile Poem / The Wind and The Sun",
+      "questions": [
         {
           "question_no": 1,
           "question": "What does a smile do according to the poem?",
-          "options": ["Makes people happy", "Makes people cry", "Makes people angry", "Makes people laugh"],
-          "correct_answer": "Makes people happy"
+          "options": {
+            "A": "Makes people happy",
+            "B": "Makes people cry",
+            "C": "Makes people angry",
+            "D": "Makes people laugh"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 2,
           "question": "In the story of 'The Wind and The Sun', who wins the challenge?",
-          "options": ["The Wind", "The Sun", "Neither", "Both"],
-          "correct_answer": "The Sun"
+          "options": {
+            "A": "The Wind",
+            "B": "The Sun",
+            "C": "Neither",
+            "D": "Both"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 3,
           "question": "What was the challenge in the story 'The Wind and The Sun'?",
-          "options": ["To make a man cry", "To take off a man’s clothes", "To make the man run", "To make the man smile"],
-          "correct_answer": "To take off a man’s clothes"
+          "options": {
+            "A": "To make a man cry",
+            "B": "To take off a man’s clothes",
+            "C": "To make the man run",
+            "D": "To make the man smile"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "How does the Sun make the man take off his clothes?",
-          "options": ["By shining softly", "By blowing hard", "By talking to him", "By playing music"],
-          "correct_answer": "By shining softly"
+          "options": {
+            "A": "By shining softly",
+            "B": "By blowing hard",
+            "C": "By talking to him",
+            "D": "By playing music"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 5,
           "question": "Which lesson does the poem 'A Smile' teach us?",
-          "options": ["A smile can change the world", "A smile can make you sad", "A smile is not important", "Smiling is a waste of time"],
-          "correct_answer": "A smile can change the world"
+          "options": {
+            "A": "A smile can change the world",
+            "B": "A smile can make you sad",
+            "C": "A smile is not important",
+            "D": "Smiling is a waste of time"
+          },
+          "correct_answer": "A"
         }
       ]
     },
     {
-      "unit": 4,
-      "title": "Rain Poem / Storm in the Garden",
-      
-      "quizzes": [
+      "chapter_no": 4,
+      "chapter_name": "Rain Poem / Storm in the Garden",
+      "questions": [
         {
           "question_no": 1,
           "question": "What happens in the poem 'Rain'?",
-          "options": ["The sky becomes clear", "It starts raining", "A rainbow appears", "The wind blows"],
-          "correct_answer": "It starts raining"
+          "options": {
+            "A": "The sky becomes clear",
+            "B": "It starts raining",
+            "C": "A rainbow appears",
+            "D": "The wind blows"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 2,
           "question": "What does the poet describe in 'Storm in the Garden'?",
-          "options": ["The beauty of flowers", "The sound of birds", "The destruction caused by a storm", "The morning dew"],
-          "correct_answer": "The destruction caused by a storm"
+          "options": {
+            "A": "The beauty of flowers",
+            "B": "The sound of birds",
+            "C": "The destruction caused by a storm",
+            "D": "The morning dew"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 3,
           "question": "How does the poet feel during the storm?",
-          "options": ["Happy", "Fearful", "Excited", "Sad"],
-          "correct_answer": "Fearful"
+          "options": {
+            "A": "Happy",
+            "B": "Fearful",
+            "C": "Excited",
+            "D": "Sad"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "In the poem 'Rain', what does the poet say the rain brings?",
-          "options": ["Happiness", "Destruction", "Growth", "Noise"],
-          "correct_answer": "Growth"
+          "options": {
+            "A": "Happiness",
+            "B": "Destruction",
+            "C": "Growth",
+            "D": "Noise"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 5,
           "question": "What does the storm do to the garden?",
-          "options": ["It makes it beautiful", "It destroys the plants", "It makes it grow", "It creates a rainbow"],
-          "correct_answer": "It destroys the plants"
+          "options": {
+            "A": "It makes it beautiful",
+            "B": "It destroys the plants",
+            "C": "It makes it grow",
+            "D": "It creates a rainbow"
+          },
+          "correct_answer": "B"
         }
       ]
     },
     {
-      "unit": 5,
-      "title": "Zoo Manners / Funny Bunny",
-      
-      "quizzes": [
+      "chapter_no": 5,
+      "chapter_name": "Zoo Manners / Funny Bunny",
+      "questions": [
         {
           "question_no": 1,
           "question": "What does the poem 'Zoo Manners' teach us?",
-          "options": ["To respect animals", "To ignore animals", "To play with animals", "To be kind to animals"],
-          "correct_answer": "To respect animals"
+          "options": {
+            "A": "To respect animals",
+            "B": "To ignore animals",
+            "C": "To play with animals",
+            "D": "To be kind to animals"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 2,
           "question": "What animal is described in 'Funny Bunny'?",
-          "options": ["A dog", "A rabbit", "A cat", "A bird"],
-          "correct_answer": "A rabbit"
+          "options": {
+            "A": "A dog",
+            "B": "A rabbit",
+            "C": "A cat",
+            "D": "A bird"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 3,
           "question": "How does the 'Funny Bunny' hop?",
-          "options": ["In a straight line", "In circles", "In a zigzag", "Up and down"],
-          "correct_answer": "In circles"
+          "options": {
+            "A": "In a straight line",
+            "B": "In circles",
+            "C": "In a zigzag",
+            "D": "Up and down"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "What is the main theme of the poem 'Zoo Manners'?",
-          "options": ["Animal safety", "Animal food", "Animal behavior", "Respecting animals"],
-          "correct_answer": "Respecting animals"
+          "options": {
+            "A": "Animal safety",
+            "B": "Animal food",
+            "C": "Animal behavior",
+            "D": "Respecting animals"
+          },
+          "correct_answer": "D"
         },
         {
           "question_no": 5,
           "question": "What is the 'Funny Bunny' doing in the poem?",
-          "options": ["Playing with friends", "Hopping around", "Eating food", "Sleeping"],
-          "correct_answer": "Hopping around"
+          "options": {
+            "A": "Playing with friends",
+            "B": "Hopping around",
+            "C": "Eating food",
+            "D": "Sleeping"
+          },
+          "correct_answer": "B"
         }
       ]
     },
-
     {
-      "unit": 6,
-      "title": "Mr. Nobody / Curlylocks and the Three Bears",
-      
-      "quizzes": [
+      "chapter_no": 6,
+      "chapter_name": "Mr. Nobody / Curlylocks and the Three Bears",
+      "questions": [
         {
           "question_no": 1,
           "question": "Who is Mr. Nobody?",
-          "options": ["A man who lives in the village", "A person who breaks things", "A person who does not exist", "A person who is always happy"],
-          "correct_answer": "A person who does not exist"
+          "options": {
+            "A": "A man who lives in the village",
+            "B": "A person who breaks things",
+            "C": "A person who does not exist",
+            "D": "A person who is always happy"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 2,
           "question": "What is Curlylocks' mistake in the story 'Curlylocks and the Three Bears'?",
-          "options": ["She ate the porridge", "She broke the chair", "She slept in their bed", "She did not say sorry"],
-          "correct_answer": "She ate the porridge"
+          "options": {
+            "A": "She ate the porridge",
+            "B": "She broke the chair",
+            "C": "She slept in their bed",
+            "D": "She did not say sorry"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 3,
           "question": "Who are the main characters in 'Curlylocks and the Three Bears'?",
-          "options": ["Curlylocks and the three mice", "Curlylocks and the three bears", "Curlylocks and the three friends", "Curlylocks and the fairies"],
-          "correct_answer": "Curlylocks and the three bears"
+          "options": {
+            "A": "Curlylocks and the three mice",
+            "B": "Curlylocks and the three bears",
+            "C": "Curlylocks and the three friends",
+            "D": "Curlylocks and the fairies"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "What did Curlylocks do after eating the porridge?",
-          "options": ["She ran away", "She went to sleep", "She made more porridge", "She apologized to the bears"],
-          "correct_answer": "She went to sleep"
+          "options": {
+            "A": "She ran away",
+            "B": "She went to sleep",
+            "C": "She made more porridge",
+            "D": "She apologized to the bears"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 5,
           "question": "What happened at the end of 'Curlylocks and the Three Bears'?",
-          "options": ["Curlylocks left the house", "The bears got angry", "Curlylocks and the bears became friends", "Curlylocks became a bear"],
-          "correct_answer": "Curlylocks and the bears became friends"
+          "options": {
+            "A": "Curlylocks left the house",
+            "B": "The bears got angry",
+            "C": "Curlylocks and the bears became friends",
+            "D": "Curlylocks became a bear"
+          },
+          "correct_answer": "C"
         }
       ]
     },
     {
-      "unit": 7,
-      
-      "quizzes": [
+      "chapter_no": 7,
+      "chapter_name": "On My Blackboard I Can Draw / Make It Shorter",
+      "questions": [
         {
           "question_no": 1,
           "question": "What can the poet draw on his blackboard?",
-          "options": ["Animals", "A bird", "Everything", "A tree"],
-          "correct_answer": "Everything"
+          "options": {
+            "A": "Animals",
+            "B": "A bird",
+            "C": "Everything",
+            "D": "A tree"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 2,
           "question": "What did the poet use to draw on the blackboard?",
-          "options": ["A pen", "A chalk", "A brush", "A marker"],
-          "correct_answer": "A chalk"
+          "options": {
+            "A": "A pen",
+            "B": "A chalk",
+            "C": "A brush",
+            "D": "A marker"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 3,
           "question": "What does the poet wish for in 'Make It Shorter'?",
-          "options": ["More time", "A better blackboard", "Shorter work", "A new chalk"],
-          "correct_answer": "Shorter work"
+          "options": {
+            "A": "More time",
+            "B": "A better blackboard",
+            "C": "Shorter work",
+            "D": "A new chalk"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 4,
           "question": "In the poem 'On My Blackboard I Can Draw', what does the poet enjoy doing?",
-          "options": ["Drawing", "Reading", "Playing", "Sleeping"],
-          "correct_answer": "Drawing"
+          "options": {
+            "A": "Drawing",
+            "B": "Reading",
+            "C": "Playing",
+            "D": "Sleeping"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 5,
           "question": "What is the main idea of the poem 'Make It Shorter'?",
-          "options": ["To make work easier", "To draw better", "To learn more", "To play all day"],
-          "correct_answer": "To make work easier"
+          "options": {
+            "A": "To make work easier",
+            "B": "To draw better",
+            "C": "To learn more",
+            "D": "To play all day"
+          },
+          "correct_answer": "A"
         }
       ]
     },
     {
-      "unit": 8,
-      "title": "I Am The Music Man / The Mumbai Musicians",
-      
-      "quizzes": [
+      "chapter_no": 8,
+      "chapter_name": "I Am The Music Man / The Mumbai Musicians",
+      "questions": [
         {
           "question_no": 1,
           "question": "What instrument does the Music Man play?",
-          "options": ["Guitar", "Piano", "Drums", "Many instruments"],
-          "correct_answer": "Many instruments"
+          "options": {
+            "A": "Guitar",
+            "B": "Piano",
+            "C": "Drums",
+            "D": "Many instruments"
+          },
+          "correct_answer": "D"
         },
         {
           "question_no": 2,
           "question": "In 'The Mumbai Musicians', who helps the musicians?",
-          "options": ["The children", "The animals", "The weather", "The people of Mumbai"],
-          "correct_answer": "The people of Mumbai"
+          "options": {
+            "A": "The children",
+            "B": "The animals",
+            "C": "The weather",
+            "D": "The people of Mumbai"
+          },
+          "correct_answer": "D"
         },
         {
           "question_no": 3,
           "question": "What is the main theme of the poem 'I Am The Music Man'?",
-          "options": ["Making music", "Being happy", "Playing with friends", "Helping others"],
-          "correct_answer": "Making music"
+          "options": {
+            "A": "Making music",
+            "B": "Being happy",
+            "C": "Playing with friends",
+            "D": "Helping others"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 4,
           "question": "Which city is mentioned in the story 'The Mumbai Musicians'?",
-          "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
-          "correct_answer": "Mumbai"
+          "options": {
+            "A": "Delhi",
+            "B": "Mumbai",
+            "C": "Kolkata",
+            "D": "Chennai"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 5,
           "question": "What do the musicians play in 'The Mumbai Musicians'?",
-          "options": ["Drums and guitars", "Many different instruments", "Flutes and violins", "Flutes and drums"],
-          "correct_answer": "Many different instruments"
+          "options": {
+            "A": "Drums and guitars",
+            "B": "Many different instruments",
+            "C": "Flutes and violins",
+            "D": "Flutes and drums"
+          },
+          "correct_answer": "B"
         }
       ]
     },
     {
-      "unit": 9,
-      "title": "Granny Granny Please Comb My Hair / The Magic Porridge Pot",
-      
-      "quizzes": [
+      "chapter_no": 9,
+      "chapter_name": "Granny Granny Please Comb My Hair / The Magic Porridge Pot",
+      "questions": [
         {
           "question_no": 1,
           "question": "What does the little girl want in 'Granny Granny Please Comb My Hair'?",
-          "options": ["A toy", "A book", "Her hair combed", "A new dress"],
-          "correct_answer": "Her hair combed"
+          "options": {
+            "A": "A toy",
+            "B": "A book",
+            "C": "Her hair combed",
+            "D": "A new dress"
+          },
+          "correct_answer": "C"
         },
         {
           "question_no": 2,
           "question": "What is special about the pot in 'The Magic Porridge Pot'?",
-          "options": ["It can make porridge", "It is magic", "It can make anything", "It can fly"],
-          "correct_answer": "It is magic"
+          "options": {
+            "A": "It can make porridge",
+            "B": "It is magic",
+            "C": "It can make anything",
+            "D": "It can fly"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 3,
           "question": "What happens when the porridge pot is not stopped?",
-          "options": ["It gets bigger", "It overflows with porridge", "It gets hot", "It breaks"],
-          "correct_answer": "It overflows with porridge"
+          "options": {
+            "A": "It gets bigger",
+            "B": "It overflows with porridge",
+            "C": "It gets hot",
+            "D": "It breaks"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "Who helps the girl in 'Granny Granny Please Comb My Hair'?",
-          "options": ["Her mother", "Her grandmother", "Her sister", "Her teacher"],
-          "correct_answer": "Her grandmother"
+          "options": {
+            "A": "Her mother",
+            "B": "Her grandmother",
+            "C": "Her sister",
+            "D": "Her teacher"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 5,
           "question": "What lesson does 'The Magic Porridge Pot' teach us?",
-          "options": ["To be careful with magic", "To enjoy porridge", "To share food", "To listen to elders"],
-          "correct_answer": "To be careful with magic"
+          "options": {
+            "A": "To be careful with magic",
+            "B": "To enjoy porridge",
+            "C": "To share food",
+            "D": "To listen to elders"
+          },
+          "correct_answer": "A"
         }
       ]
     },
     {
-      "unit": 10,
-      "title": "Strange Talk / The Grasshopper and the Ant",
-      
-      "quizzes": [
+      "chapter_no": 10,
+      "chapter_name": "Strange Talk / The Grasshopper and the Ant",
+      "questions": [
         {
           "question_no": 1,
           "question": "What is the message of 'Strange Talk'?",
-          "options": ["Talking to animals", "Understanding each other", "Learning new things", "Talking about nature"],
-          "correct_answer": "Understanding each other"
+          "options": {
+            "A": "Talking to animals",
+            "B": "Understanding each other",
+            "C": "Learning new things",
+            "D": "Talking about nature"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 2,
           "question": "What does the grasshopper do in 'The Grasshopper and the Ant'?",
-          "options": ["Works hard", "Sings and dances", "Builds a house", "Gathers food"],
-          "correct_answer": "Sings and dances"
+          "options": {
+            "A": "Works hard",
+            "B": "Sings and dances",
+            "C": "Builds a house",
+            "D": "Gathers food"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 3,
           "question": "What does the ant do in the story 'The Grasshopper and the Ant'?",
-          "options": ["Plays music", "Works hard", "Helps the grasshopper", "Shares food"],
-          "correct_answer": "Works hard"
+          "options": {
+            "A": "Plays music",
+            "B": "Works hard",
+            "C": "Helps the grasshopper",
+            "D": "Shares food"
+          },
+          "correct_answer": "B"
         },
         {
           "question_no": 4,
           "question": "What happens to the grasshopper at the end of the story?",
-          "options": ["Gets cold", "Loses his home", "Enjoys his song", "Learns to work"],
-          "correct_answer": "Gets cold"
+          "options": {
+            "A": "Gets cold",
+            "B": "Loses his home",
+            "C": "Enjoys his song",
+            "D": "Learns to work"
+          },
+          "correct_answer": "A"
         },
         {
           "question_no": 5,
           "question": "What lesson does 'The Grasshopper and the Ant' teach us?",
-          "options": ["To be kind", "To work hard and be prepared", "To play and have fun", "To help others"],
-          "correct_answer": "To work hard and be prepared"
+          "options": {
+            "A": "To be kind",
+            "B": "To work hard and be prepared",
+            "C": "To play and have fun",
+            "D": "To help others"
+          },
+          "correct_answer": "B"
         }
       ]
     }

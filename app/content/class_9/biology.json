@@ -1,93 +1,356 @@
 {
-    "subject": "Biology",
-    "class": "9",
-    "board": "CBSE",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "The Fundamental Unit of Life",
-        "videos": [
-          {
-            "title": "part 1",
-            "url": "https://www.youtube.com/watch?v=Gp5QX0RLOys"
+  "subject": "Biology",
+  "class": "9",
+  "board": "CBSE",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "The Fundamental Unit of Life",
+      "video_url": "https://www.youtube.com/watch?v=XVBPDwjxzoA&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=1",
+      "video_url_1": "https://www.youtube.com/watch?v=rBBzPLbGQ4o&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=2",
+      "video_url_2": "https://www.youtube.com/watch?v=EAhyCCLcHFQ&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=3",
+      "questions": [
+        {
+          "question": "What is considered the basic unit of life?",
+          "options": {
+            "A": "Organ",
+            "B": "Cell",
+            "C": "Tissue",
+            "D": "Organism"
           },
-          {
-            "title": "part 2",
-            "url": "https://www.youtube.com/watch?v=boW8Fz2MF2E"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which part of the cell controls its activities?",
+          "options": {
+            "A": "Cell wall",
+            "B": "Nucleus",
+            "C": "Cytoplasm",
+            "D": "Cell membrane"
           },
-          {
-            "title": "part 3",
-            "url": "https://www.youtube.com/watch?v=grxC8BzEFY8"
-          }
-        ]
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Tissues",
-        "videos": [
-          {
-            "title": "part 1",
-            "url": "https://www.youtube.com/watch?v=pkHlzq7hvMc"
+          "correct_answer": "B"
+        },
+        {
+          "question": "What do you call the jelly-like substance within the cell?",
+          "options": {
+            "A": "Protoplasm",
+            "B": "Chromatin",
+            "C": "Lysosome",
+            "D": "Chloroplast"
           },
-          {
-            "title": "part 2",
-            "url": "https://www.youtube.com/watch?v=8qFOMcnmWcA"
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which type of cell lacks a nucleus?",
+          "options": {
+            "A": "Eukaryotic",
+            "B": "Prokaryotic",
+            "C": "Plant",
+            "D": "Animal"
           },
-          {
-            "title": "part 3",
-            "url": "https://www.youtube.com/watch?v=s9LxauKDbfY"
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which organelle is known as the powerhouse of the cell?",
+          "options": {
+            "A": "Lysosome",
+            "B": "Mitochondria",
+            "C": "Ribosome",
+            "D": "Golgi apparatus"
           },
-          {
-            "title": "part 4",
-            "url": "https://www.youtube.com/watch?v=I24B1ZY_qV8"
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Tissues",
+      "video_url": "https://www.youtube.com/watch?v=f8gmJ4YPbZI&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=4",
+      "video_url_1": "https://www.youtube.com/watch?v=WXfpQ26Vap0&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=5",
+      "video_url_2": "https://www.youtube.com/watch?v=__WNo0LAYO4&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=6",
+      "video_url_3": "https://www.youtube.com/watch?v=NEY4CvVv2Xs&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=7",
+      "video_url_4": "https://www.youtube.com/watch?v=xgj1VLhXBT0&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=8",
+      "questions": [
+        {
+          "question": "What are the two main types of plant tissues?",
+          "options": {
+            "A": "Meristematic and Permanent",
+            "B": "Parenchyma and Collenchyma",
+            "C": "Xylem and Phloem",
+            "D": "Epidermis and Cortex"
           },
-          {
-            "title": "part 5",
-            "url": "https://www.youtube.com/watch?v=7qfYO6pEwok"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Diversity in Living Organisms",
-        "videos": [
-          {
-            "title": "Diversity in Living Organisms Full Chapter Class 9 Biology | CBSE Class 9 Biology",
-            "url": "https://www.youtube.com/watch?v=6sJg2w4joQI"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Why Do We Fall Ill",
-        "videos": [
-          {
-            "title": "Why Do We Fall ill Full Chapter Class 9 Biology | CBSE Class 9 Biology Chapter 13",
-            "url": "https://www.youtube.com/watch?v=9LYgFwslkhk"
-          }
-        ]
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Natural Resources",
-        "videos": [
-          {
-            "title": "Natural Resources Full Chapter Class 9 Biology | CBSE Class 9 Biology",
-            "url": "https://www.youtube.com/watch?v=TXP5PAow50s"
-          }
-        ]
-      },
-      {
-        "chapter_no": 6,
-        "chapter_name": "Improvement in Food Resources",
-        "videos": [
-          {
-            "title": "Improvement in Food Resources Full Chapter Class 9 Biology | CBSE Class 9 Biology",
-            "url": "https://www.youtube.com/watch?v=ANgVX7DeFnw"
-          }
-        ]
-      }
-    ]
-  }
-  
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which tissue is responsible for transport in plants?",
+          "options": {
+            "A": "Parenchyma",
+            "B": "Xylem",
+            "C": "Cortex",
+            "D": "Ground tissue"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What type of tissue connects muscles to bones?",
+          "options": {
+            "A": "Epithelial",
+            "B": "Nervous",
+            "C": "Connective",
+            "D": "Muscle"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which type of epithelial tissue is specialized for absorption?",
+          "options": {
+            "A": "Ciliated",
+            "B": "Squamous",
+            "C": "Columnar",
+            "D": "Cuboidal"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the main characteristic feature of cardiac muscle?",
+          "options": {
+            "A": "Voluntary control",
+            "B": "Involuntary control",
+            "C": "Multi-nucleated",
+            "D": "Lacks striation"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Diversity in Living Organisms",
+      "video_url": "https://www.youtube.com/watch?v=HHbFCy2lEVc&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=9",
+      "questions": [
+        {
+          "question": "What is the science of classifying organisms called?",
+          "options": {
+            "A": "Botany",
+            "B": "Ecology",
+            "C": "Taxonomy",
+            "D": "Genetics"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a characteristic of living organisms?",
+          "options": {
+            "A": "Ability to reproduce",
+            "B": "Ability to become fossilized",
+            "C": "Ability to be classified",
+            "D": "Ability to decay"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the largest group of living organisms?",
+          "options": {
+            "A": "Plants",
+            "B": "Animals",
+            "C": "Fungi",
+            "D": "Bacteria"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which kingdom do unicellular organisms belong to?",
+          "options": {
+            "A": "Animalia",
+            "B": "Plantae",
+            "C": "Monera",
+            "D": "Fungi"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the basic unit of classification?",
+          "options": {
+            "A": "Species",
+            "B": "Genus",
+            "C": "Family",
+            "D": "Order"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Why Do We Fall Ill",
+      "video_url": "https://www.youtube.com/watch?v=tgQYXJt9vNo&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=10",
+      "questions": [
+        {
+          "question": "What is the primary cause of diseases?",
+          "options": {
+            "A": "Genetic inheritance",
+            "B": "Microorganisms",
+            "C": "Environmental factors",
+            "D": "Dietary deficiencies"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which type of disease is caused by pathogens?",
+          "options": {
+            "A": "Genetic disorder",
+            "B": "Nutritional disorder",
+            "C": "Infectious disease",
+            "D": "Psychosomatic disorder"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What term is used for a disease that spreads easily from person to person?",
+          "options": {
+            "A": "Non-communicable",
+            "B": "Chronic",
+            "C": "Contagious",
+            "D": "Genetic"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a non-communicable disease?",
+          "options": {
+            "A": "Flu",
+            "B": "Cancer",
+            "C": "Tuberculosis",
+            "D": "Measles"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the role of vaccination?",
+          "options": {
+            "A": "Cure diseases",
+            "B": "Prevent diseases",
+            "C": "Diagnose diseases",
+            "D": "None of the above"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Natural Resources",
+      "video_url": "https://www.youtube.com/watch?v=rLKMERwFQz0&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=11",
+      "questions": [
+        {
+          "question": "What are natural resources?",
+          "options": {
+            "A": "Man-made resources",
+            "B": "Resources obtained from nature",
+            "C": "Resources that are processed",
+            "D": "Resources that are consumed"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is a renewable resource?",
+          "options": {
+            "A": "Coal",
+            "B": "Natural gas",
+            "C": "Solar energy",
+            "D": "Petroleum"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What percentage of the Earth's surface is covered by water?",
+          "options": {
+            "A": "50%",
+            "B": "70%",
+            "C": "90%",
+            "D": "30%"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which natural resource is essential for all life forms?",
+          "options": {
+            "A": "Soil",
+            "B": "Water",
+            "C": "Air",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What type of resource is wood?",
+          "options": {
+            "A": "Non-renewable",
+            "B": "Renewable",
+            "C": "Synthetic",
+            "D": "Inexhaustible"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "chapter_name": "Improvement in Food Resources",
+      "video_url": "https://www.youtube.com/watch?v=Na9yUG_VAKc&list=PLVLoWQFkZbhXITEmOWL1-JqTdK9tgiNW8&index=12",
+      "questions": [
+        {
+          "question": "What does high-yield variety (HYV) of seeds refer to?",
+          "options": {
+            "A": "Seeds that produce maximum output",
+            "B": "Seeds that need less water",
+            "C": "Seeds that require less care",
+            "D": "Seeds that are smaller in size"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is a primary goal of improving food resources?",
+          "options": {
+            "A": "Increased crop yield",
+            "B": "Reduced soil fertility",
+            "C": "Higher prices for farmers",
+            "D": "Greater consumption of pesticides"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is organic farming?",
+          "options": {
+            "A": "Farming without chemicals",
+            "B": "Farming with synthetic fertilizers",
+            "C": "Farming using GMOs",
+            "D": "Farming on a large scale"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is a significant challenge in improving food production?",
+          "options": {
+            "A": "Water scarcity",
+            "B": "Technological advancement",
+            "C": "Government policies",
+            "D": "Increasing labor force"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the role of fertilizers in food production?",
+          "options": {
+            "A": "Decrease yield",
+            "B": "Enhance soil nutrients",
+            "C": "Increase pests",
+            "D": "Reduce plant growth"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    }
+  ]
+}

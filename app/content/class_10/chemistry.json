@@ -1,98 +1,297 @@
 {
-    "class": "10",
-    "subject": "Chemistry",
-    "source": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "chapter_name": "Chemical Reactions and Equations",
-        "videos": [
-          {
-            "part": 1,
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=53MKKyspwdc",
-            "channel": "Magnet Brains"
+  "class": "10",
+  "subject": "Chemistry",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Chemical Reactions and Equations",
+      "video_url_1": "https://www.youtube.com/watch?v=53MKKyspwdc",
+      "video_url_2": "https://www.youtube.com/watch?v=v7oAc3bu1RI",
+      "questions": [
+        {
+          "question": "What is the law of conservation of mass?",
+          "options": {
+            "A": "Mass can be created",
+            "B": "Mass can be destroyed",
+            "C": "Mass is constant in a chemical reaction",
+            "D": "Mass is always increasing"
           },
-          {
-            "part": 2,
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=v7oAc3bu1RI",
-            "channel": "Magnet Brains"
-          }
-        ]
-      },
-      {
-        "chapter_number": 2,
-        "chapter_name": "Acids, Bases and Salts",
-        "videos": [
-          {
-            "part": 1,
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=Los_rGdjXeg",
-            "channel": "Magnet Brains"
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which of the following is a type of chemical reaction?",
+          "options": {
+            "A": "Synthesis",
+            "B": "Decomposition",
+            "C": "Single displacement",
+            "D": "All of the above"
           },
-          {
-            "part": 2,
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=wf7mbdIIMDQ",
-            "channel": "Magnet Brains"
-          }
-        ]
-      },
-      {
-        "chapter_number": 3,
-        "chapter_name": "Metals and Non-Metals",
-        "videos": [
-          {
-            "part": 1,
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=2q3sS2YjdNE",
-            "channel": "Magnet Brains"
+          "correct_answer": "D"
+        },
+        {
+          "question": "In a balanced chemical equation, the number of atoms of each element is:",
+          "options": {
+            "A": "Increased",
+            "B": "Decreased",
+            "C": "Equal on both sides",
+            "D": "Irrelevant"
           },
-          {
-            "part": 2,
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=ORp0W0_bZEw",
-            "channel": "Magnet Brains"
-          }
-        ]
-      },
-      {
-        "chapter_number": 4,
-        "chapter_name": "Carbon and Its Compounds",
-        "videos": [
-          {
-            "part": 1,
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=taOXW_MJ5MY",
-            "channel": "Magnet Brains"
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is formed during a neutralization reaction?",
+          "options": {
+            "A": "Salt and water",
+            "B": "Acid and base",
+            "C": "Gas and solid",
+            "D": "None of the above"
           },
-          {
-            "part": 2,
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=diROxxtMTr4",
-            "channel": "Magnet Brains"
-          }
-        ]
-      },
-      {
-        "chapter_number": 5,
-        "chapter_name": "Periodic Classification of Elements",
-        "videos": [
-          {
-            "part": 1,
-            "title": "Part 1",
-            "url": "https://www.youtube.com/watch?v=-HAGwKuZC34",
-            "channel": "Magnet Brains"
+          "correct_answer": "A"
+        },
+        {
+          "question": "What type of reaction is represented by the equation: A + B → AB?",
+          "options": {
+            "A": "Decomposition",
+            "B": "Synthesis",
+            "C": "Single displacement",
+            "D": "Double displacement"
           },
-          {
-            "part": 2,
-            "title": "Part 2",
-            "url": "https://www.youtube.com/watch?v=5WNt48fMYN4",
-            "channel": "Magnet Brains"
-          }
-        ]
-      }
-    ]
-  }
-  
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Acids, Bases and Salts",
+      "video_url_1": "https://www.youtube.com/watch?v=Los_rGdjXeg",
+      "video_url_2": "https://www.youtube.com/watch?v=wf7mbdIIMDQ",
+      "questions": [
+        {
+          "question": "What is the pH range of acidic solutions?",
+          "options": {
+            "A": "0 to 7",
+            "B": "7 to 14",
+            "C": "Equals 7",
+            "D": "None of the above"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is considered a strong acid?",
+          "options": {
+            "A": "Acetic acid",
+            "B": "Citric acid",
+            "C": "Hydrochloric acid",
+            "D": "Boric acid"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is produced when an acid reacts with a metal?",
+          "options": {
+            "A": "Salt",
+            "B": "Hydrogen gas",
+            "C": "Water",
+            "D": "Carbon dioxide"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the chemical formula for common salt?",
+          "options": {
+            "A": "NaCl",
+            "B": "KCl",
+            "C": "CaCl2",
+            "D": "MgCl2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which indicator is used to test for acids?",
+          "options": {
+            "A": "Litmus",
+            "B": "Bromothymol blue",
+            "C": "Phenolphthalein",
+            "D": "Universal indicator"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Metals and Non-Metals",
+      "video_url_1": "https://www.youtube.com/watch?v=2q3sS2YjdNE",
+      "video_url_2": "https://www.youtube.com/watch?v=ORp0W0_bZEw",
+      "questions": [
+        {
+          "question": "What property distinguishes metals from non-metals?",
+          "options": {
+            "A": "Brittleness",
+            "B": "Conductivity",
+            "C": "Luster",
+            "D": "All of the above"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following metals does not react with water?",
+          "options": {
+            "A": "Sodium",
+            "B": "Potassium",
+            "C": "Gold",
+            "D": "Calcium"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What is the term for the process of extracting metals from their ores?",
+          "options": {
+            "A": "Refining",
+            "B": "Smelting",
+            "C": "Electrolysis",
+            "D": "Alloying"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which non-metal is essential for respiration in living organisms?",
+          "options": {
+            "A": "Hydrogen",
+            "B": "Oxygen",
+            "C": "Nitrogen",
+            "D": "Carbon"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the most abundant metal in the Earth's crust?",
+          "options": {
+            "A": "Iron",
+            "B": "Aluminum",
+            "C": "Copper",
+            "D": "Zinc"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Carbon and Its Compounds",
+      "video_url_1": "https://www.youtube.com/watch?v=taOXW_MJ5MY",
+      "video_url_2": "https://www.youtube.com/watch?v=diROxxtMTr4",
+      "questions": [
+        {
+          "question": "Which of the following is a common property of carbon compounds?",
+          "options": {
+            "A": "They have high melting points",
+            "B": "They are mostly ionic",
+            "C": "They form covalent bonds",
+            "D": "They are mostly gases"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "What type of bond is formed between two carbon atoms?",
+          "options": {
+            "A": "Ionic bond",
+            "B": "Covalent bond",
+            "C": "Metallic bond",
+            "D": "Hydrogen bond"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the general formula for alkanes?",
+          "options": {
+            "A": "C_nH_(2n+2)",
+            "B": "C_nH_(2n)",
+            "C": "C_nH_(2n-2)",
+            "D": "C_nH_n"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following is an unsaturated hydrocarbon?",
+          "options": {
+            "A": "C2H6",
+            "B": "C3H8",
+            "C": "C2H4",
+            "D": "C4H10"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "Which carbon compound is known as the 'king of chemicals'?",
+          "options": {
+            "A": "Sodium chloride",
+            "B": "Sulfuric acid",
+            "C": "Acetic acid",
+            "D": "Chloroform"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Periodic Classification of Elements",
+      "video_url_1": "https://www.youtube.com/watch?v=-HAGwKuZC34",
+      "video_url_2": "https://www.youtube.com/watch?v=5WNt48fMYN4",
+      "questions": [
+        {
+          "question": "Who is known as the father of the periodic table?",
+          "options": {
+            "A": "Dmitri Mendeleev",
+            "B": "John Dalton",
+            "C": "Albert Einstein",
+            "D": "Niels Bohr"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the basis of the modern periodic table?",
+          "options": {
+            "A": "Atomic mass",
+            "B": "Atomic number",
+            "C": "Chemical properties",
+            "D": "Mass number"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which group of elements is known as noble gases?",
+          "options": {
+            "A": "Group 1",
+            "B": "Group 2",
+            "C": "Group 17",
+            "D": "Group 18"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "What is the common characteristic of elements in the same group?",
+          "options": {
+            "A": "Similar physical properties",
+            "B": "Similar chemical properties",
+            "C": "Same number of valence electrons",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "question": "Which of the following is a metal?",
+          "options": {
+            "A": "Neon",
+            "B": "Chlorine",
+            "C": "Calcium",
+            "D": "Bromine"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    }
+  ]
+}

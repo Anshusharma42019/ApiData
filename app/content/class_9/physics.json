@@ -1,63 +1,294 @@
 {
-    "subject": "Physics",
-    "class": "9",
-    "board": "CBSE",
-    "channel": "Magnet Brains",
-    "chapters": [
-      {
-        "chapter_no": 1,
-        "chapter_name": "Motion",
-        "videos": [
-          {
-            "title": "part 1",
-            "url": "https://www.youtube.com/watch?v=i5ZTwV-r-8o"
+  "subject": "Physics",
+  "class": "9",
+  "board": "CBSE",
+  "channel": "Magnet Brains",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "chapter_name": "Motion",
+      "video_url": "https://www.youtube.com/watch?v=i5ZTwV-r-8o",
+      "video_url_1": "https://www.youtube.com/watch?v=BSEcm9Ehmqo",
+      "questions": [
+        {
+          "question": "What is the SI unit of acceleration?",
+          "options": {
+            "A": "m/s",
+            "B": "m/s²",
+            "C": "km/h",
+            "D": "m²/s"
           },
-          {
-            "title": "part 2",
-            "url": "https://www.youtube.com/watch?v=BSEcm9Ehmqo"
-          }
-        ]
-      },
-      {
-        "chapter_no": 2,
-        "chapter_name": "Force and Laws of Motion",
-        "videos": [
-          {
-            "title": "Force and Laws of Motion Full Chapter Explanation Class 9 | Class 9 CBSE Physics",
-            "url": "https://www.youtube.com/watch?v=eeG9_f9ELBA"
-          }
-        ]
-      },
-      {
-        "chapter_no": 3,
-        "chapter_name": "Gravitation",
-        "videos": [
-          {
-            "title": "Gravitation Full Chapter Class 9 | Class 9 CBSE Physics | Score 95+",
-            "url": "https://www.youtube.com/watch?v=GwX_b9fjIbk"
-          }
-        ]
-      },
-      {
-        "chapter_no": 4,
-        "chapter_name": "Work and Energy",
-        "videos": [
-          {
-            "title": "Work, Energy, And Power Full Chapter Class 9 | Class 9 CBSE Physics | NCERT",
-            "url": "https://www.youtube.com/watch?v=38xLDSrMxeE"
-          }
-        ]
-      },
-      {
-        "chapter_no": 5,
-        "chapter_name": "Sound",
-        "videos": [
-          {
-            "title": "Sound Full Chapter Class 9 | Class 9 Physics CBSE NCERT",
-            "url": "https://www.youtube.com/watch?v=aynVhvlDYkk"
-          }
-        ]
-      }
-    ]
-  }
-  
+          "correct_answer": "B"
+        },
+        {
+          "question": "If a car accelerates from 20 m/s to 30 m/s in 5 seconds, what is its acceleration?",
+          "options": {
+            "A": "1 m/s²",
+            "B": "2 m/s²",
+            "C": "5 m/s²",
+            "D": "10 m/s²"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "An object moves with uniform velocity. What can be said about its acceleration?",
+          "options": {
+            "A": "It is constant.",
+            "B": "It is zero.",
+            "C": "It is increasing.",
+            "D": "It is changing direction."
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "A cyclist travels 100 m in 10 seconds and then returns to the starting point in another 10 seconds. What is the cyclist's average speed?",
+          "options": {
+            "A": "0 m/s",
+            "B": "5 m/s",
+            "C": "10 m/s",
+            "D": "15 m/s"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What does the slope of a distance-time graph represent?",
+          "options": {
+            "A": "Speed",
+            "B": "Velocity",
+            "C": "Acceleration",
+            "D": "Displacement"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "chapter_name": "Force and Laws of Motion",
+      "video_url": "https://www.youtube.com/watch?v=eeG9_f9ELBA",
+      "questions": [
+        {
+          "question": "According to Newton's second law, what is the relationship between force, mass, and acceleration?",
+          "options": {
+            "A": "F = ma",
+            "B": "F = m/a",
+            "C": "F = a/m",
+            "D": "F = m + a"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What is the net force acting on an object at rest?",
+          "options": {
+            "A": "Equal to its weight",
+            "B": "Always zero",
+            "C": "Equal to the applied force",
+            "D": "Always non-zero"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": {
+            "A": "First Law",
+            "B": "Second Law",
+            "C": "Third Law",
+            "D": "Conservation Law"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If an object is in equilibrium, what can you conclude about the forces acting on it?",
+          "options": {
+            "A": "Unbalanced",
+            "B": "Balanced",
+            "C": "Inertial",
+            "D": "Frictional"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a non-contact force?",
+          "options": {
+            "A": "Friction",
+            "B": "Gravity",
+            "C": "Normal force",
+            "D": "Tension"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "chapter_name": "Gravitation",
+      "video_url": "https://www.youtube.com/watch?v=GwX_b9fjIbk",
+      "questions": [
+        {
+          "question": "What is the value of the acceleration due to gravity on Earth?",
+          "options": {
+            "A": "9.8 m/s²",
+            "B": "10 m/s²",
+            "C": "8.8 m/s²",
+            "D": "12 m/s²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What shape does the Earth have?",
+          "options": {
+            "A": "Perfectly spherical",
+            "B": "Oblate spheroid",
+            "C": "Cylindrical",
+            "D": "Cubical"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which force keeps the planets in orbit around the sun?",
+          "options": {
+            "A": "Centrifugal force",
+            "B": "Gravitational force",
+            "C": "Electromagnetic force",
+            "D": "Frictional force"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "The weight of an object on another planet is determined by which of the following factors?",
+          "options": {
+            "A": "Mass of the object and distance from the planet's center",
+            "B": "Mass of the object and gravitational pull of the planet",
+            "C": "Distance of the object from the sun",
+            "D": "Temperature of the planet"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What happens to the gravitational force between two objects if the distance between them is doubled?",
+          "options": {
+            "A": "It doubles.",
+            "B": "It remains the same.",
+            "C": "It is halved.",
+            "D": "It is quartered."
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "chapter_name": "Work and Energy",
+      "video_url": "https://www.youtube.com/watch?v=38xLDSrMxeE",
+      "questions": [
+        {
+          "question": "What is the work done on an object when a force acts on it to move it a distance of 0 meters?",
+          "options": {
+            "A": "Positive work",
+            "B": "Negative work",
+            "C": "Zero work",
+            "D": "Infinite work"
+          },
+          "correct_answer": "C"
+        },
+        {
+          "question": "If an object is lifted to a height, what type of energy does it acquire?",
+          "options": {
+            "A": "Kinetic energy",
+            "B": "Potential energy",
+            "C": "Mechanical energy",
+            "D": "Thermal energy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "The SI unit of energy is the:",
+          "options": {
+            "A": "Newton",
+            "B": "Joule",
+            "C": "Watt",
+            "D": "Kilowatt"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Which of the following forms of energy is associated with motion?",
+          "options": {
+            "A": "Potential energy",
+            "B": "Kinetic energy",
+            "C": "Chemical energy",
+            "D": "Nuclear energy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the principle of conservation of energy?",
+          "options": {
+            "A": "Energy can be created.",
+            "B": "Energy can be destroyed.",
+            "C": "Energy can change forms but cannot be created or destroyed.",
+            "D": "Energy can be converted to matter."
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "chapter_name": "Sound",
+      "video_url": "https://www.youtube.com/watch?v=aynVhvlDYkk",
+      "questions": [
+        {
+          "question": "What is the frequency range of human hearing?",
+          "options": {
+            "A": "20 Hz to 20 kHz",
+            "B": "20 kHz to 20 MHz",
+            "C": "1 Hz to 100 Hz",
+            "D": "10 Hz to 10 kHz"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "Which of the following waves are sound waves?",
+          "options": {
+            "A": "Transverse waves",
+            "B": "Longitudinal waves",
+            "C": "Electromagnetic waves",
+            "D": "Surface waves"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "What is the phenomenon of change in frequency due to the relative motion of the source and the observer called?",
+          "options": {
+            "A": "Doppler effect",
+            "B": "Reflection",
+            "C": "Refraction",
+            "D": "Diffraction"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "question": "What determines the pitch of a sound?",
+          "options": {
+            "A": "Amplitude",
+            "B": "Frequency",
+            "C": "Speed",
+            "D": "Wavelength"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "question": "Sound travels fastest in which medium?",
+          "options": {
+            "A": "Air",
+            "B": "Water",
+            "C": "Steel",
+            "D": "Vacuum"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    }
+  ]
+}
