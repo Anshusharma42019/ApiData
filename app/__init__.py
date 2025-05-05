@@ -13,7 +13,7 @@ API_URL = os.getenv('API_URL')
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, origins=["http://localhost:5000"], supports_credentials=True)  # <-- Add this line
+    CORS(app, origins=["http://localhost:5173"], supports_credentials=True)  # <-- Add this line
 
     app.register_blueprint(content_bp)
 
