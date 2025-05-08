@@ -1,17 +1,16 @@
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, redirect
 import os
 import json
 
 content_bp = Blueprint('content_bp', __name__)
 
-
 # Base directory: backend/app
-# NEW — points directly to /backend/app
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
 @content_bp.route('/')
 def home():
     return jsonify({"message": "Welcome from Blueprint!"})
-
 
 
 # Helper function to get the content file
@@ -42,19 +41,19 @@ def get_content_file(class_number, subject, file_type):
 @content_bp.route('/api/class/<int:class_number>/<subject>/content', methods=['GET'])
 def get_content(class_number, subject):
     try:
-        data = get_content_file(class_number, subject, 'content')  # 'content' refers to the content file
+        data = get_content_file(class_number, subject, 'content')
         if not data:
             return jsonify({'error': f'{subject} content for Class {class_number} not found'}), 404
         return jsonify(data), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+
 @content_bp.route('/api/class/<int:class_number>/<subject>/quiz', methods=['GET'])
 def get_quiz(class_number, subject):
     try:
-        # Safely build file path
         file_path = os.path.join(BASE_DIR, f'content/class_{class_number}/quiz/{subject}_quiz.json')
-        print(f"Looking for file at: {file_path}")  # Debugging line
+        print(f"Looking for file at: {file_path}")
 
         if not os.path.isfile(file_path):
             print("Quiz file does not exist.")
@@ -67,12 +66,6 @@ def get_quiz(class_number, subject):
         print("Error in get_quiz:", e)
         return jsonify({'error': str(e)}), 500
 
-
-
-
-
-
-from flask import redirect
 
 @content_bp.route('/api/image/<class_name>/<subject>', methods=['GET'])
 def get_single_image(class_name, subject):
@@ -92,8 +85,31 @@ def get_single_image(class_name, subject):
         if not image_url:
             return jsonify({"error": f"Image not found for Class {class_key} and Subject {subject_key}"}), 404
 
-        # Redirect the browser to the actual image URL
         return redirect(image_url)
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+# 🚀 NEW: Get all subjects for a specified class
+@content_bp.route('/api/class/<int:class_number>/subjects', methods=['GET'])
+def get_subjects(class_number):
+    """
+    This route fetches all subjects available for the specified class by
+    scanning the folder structure inside 'content/class_<class_number>/'.
+    """
+    class_path = os.path.join(BASE_DIR, f'content/class_{class_number}')
+    
+    if not os.path.exists(class_path):
+        return jsonify({"error": f"Class {class_number} not found"}), 404
+    
+    subjects = []
+    
+    for file in os.listdir(class_path):
+        if file.endswith('.json') and not file.startswith('quiz'):
+            subjects.append(file.replace('.json', ''))
+    
+    if not subjects:
+        return jsonify({"error": f"No subjects found for Class {class_number}"}), 404
+    
+    return jsonify({"class": class_number, "subjects": subjects}), 200
