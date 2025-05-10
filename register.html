@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register User</title>
+</head>
+<body>
+    <h2>Register User</h2>
+    <form id="registerForm">
+        <label for="full_name">Full Name:</label><br>
+        <input type="text" id="full_name" name="full_name" required><br><br>
+
+        <label for="phone_number">Phone Number:</label><br>
+        <input type="text" id="phone_number" name="phone_number" required><br><br>
+
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age" required><br><br>
+
+        <label for="class">Class:</label><br>
+        <input type="text" id="class" name="class" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <p id="response"></p>
+
+    <script>
+        const form = document.getElementById('registerForm');
+        const responseElement = document.getElementById('response');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const formData = {
+                full_name: form.full_name.value,
+                phone_number: form.phone_number.value,
+                age: form.age.value,
+                class: form.class.value,
+                email: form.email.value,
+                password: form.password.value
+            };
+
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const result = await response.json();
+                responseElement.innerText = JSON.stringify(result, null, 2);
+            } catch (error) {
+                responseElement.innerText = `Error: ${error}`;
+            }
+        });
+    </script>
+</body>
+</html>
