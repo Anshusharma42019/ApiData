@@ -19,7 +19,7 @@ def create_app():
     CORS(app, origins=["http://localhost:5173"], supports_credentials=True)
 
     # 🔹 Configuring the app
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Aditya%408052@localhost/my_project_db'
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('Database_url')
 
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
