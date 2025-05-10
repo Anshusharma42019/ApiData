@@ -1,11 +1,13 @@
 from flask import Flask
-from content_api import content_bp # correct if content_api.py is in the same folder
+from content_api import content_bp
 
+from auth_api import auth_bp
 
 app = Flask(__name__)
 
 # Register the blueprint
 app.register_blueprint(content_bp)
+app.register_blueprint(auth_bp)
 
 
 # Define Home route

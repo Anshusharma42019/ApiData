@@ -1,24 +1,39 @@
-from flask import Flask, jsonify
-from .content_api import content_bp
-from flask_cors import CORS  # <-- import CORS
+# __init__.py
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
 from dotenv import load_dotenv
 import os
+import pymysql
 
-# Load environment variables
+pymysql.install_as_MySQLdb()
+
+# 🔹 Initialize the db
+db = SQLAlchemy()
+
+# 🔹 Load environment variables from .env
 load_dotenv()
-
-SECRET_KEY = os.getenv('SECRET_KEY')
-API_URL = os.getenv('API_URL')
-
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, origins=["http://localhost:5173"], supports_credentials=True)  # <-- Add this line
+    CORS(app, origins=["http://localhost:5173"], supports_credentials=True)
 
+    # 🔹 Configuring the app
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Aditya%408052@localhost/my_project_db'
+
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+    # 🔹 Initialize extensions
+    db.init_app(app)
+
+    # 🔹 Register blueprints *after* app and db are initialized
+    from .auth_api import auth_bp
+    from .content_api import content_bp
+    app.register_blueprint(auth_bp)
     app.register_blueprint(content_bp)
 
-    @app.route('/')
-    def home():
-        return jsonify({"message": "Welcome to the API Home!"})
+    # 🔹 Create tables if not exist
+    with app.app_context():
+        db.create_all() 
 
     return app
