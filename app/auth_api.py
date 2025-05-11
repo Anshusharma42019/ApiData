@@ -4,6 +4,8 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from . import db  # Import db from this module, which is initialized in __init__.py
 
 auth_bp = Blueprint('auth_bp', __name__)
+from flask_cors import CORS
+CORS(auth_bp)
 
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True, unique=True)
