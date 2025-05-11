@@ -1,5 +1,5 @@
 # app/main.py
-from flask import Flask, request, jasonify
+from flask import Flask, request, jsonify
 from app.content_api import content_bp
 from app.auth_api import auth_bp
 from app.admin_api import admin_bp
