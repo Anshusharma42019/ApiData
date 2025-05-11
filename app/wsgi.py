@@ -1,3 +1,5 @@
-from . import create_app
+# wsgi.py
+from app.main import app
 
-app = create_app()
+if __name__ == "__main__":
+    app.run(debug=True)

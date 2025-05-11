@@ -1,4 +1,4 @@
-# app/models.py
+# models.py
 from . import db
 from werkzeug.security import generate_password_hash, check_password_hash
 
@@ -15,6 +15,7 @@ class Quiz(db.Model):
     description = db.Column(db.Text)
     total_marks = db.Column(db.Integer, nullable=False)
     created_at = db.Column(db.TIMESTAMP, server_default=db.func.now())
+    questions = db.relationship('Question', backref='quiz', lazy=True)  # Relationship to Question model
 
 class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)

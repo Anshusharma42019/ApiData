@@ -1,3 +1,4 @@
+# content_api.py
 from flask import Blueprint, jsonify, redirect, request
 import os
 import json
@@ -8,10 +9,6 @@ content_bp = Blueprint('content_bp', __name__)
 # Base directory: backend/app
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-
-@content_bp.route('/')
-def home():
-    return jsonify({"message": "Welcome from Blueprint!"})
 
 
 # Helper function to get the content file
@@ -114,5 +111,3 @@ def get_subjects(class_number):
         return jsonify({"error": f"No subjects found for Class {class_number}"}), 404
     
     return jsonify({"class": class_number, "subjects": subjects}), 200
-
-
