@@ -5,6 +5,7 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 import os
 import pymysql
+from admin_api import admin_bp
 
 pymysql.install_as_MySQLdb()
 
@@ -31,6 +32,10 @@ def create_app():
     from .content_api import content_bp
     app.register_blueprint(auth_bp)
     app.register_blueprint(content_bp)
+    app.register_blueprint(admin_bp)
+    from .admin_auth import admin_auth_bp
+    app.register_blueprint(admin_auth_bp)
+
 
     # 🔹 Create tables if not exist
     with app.app_context():
