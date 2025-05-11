@@ -13,3 +13,4 @@ class Config:
 
     SQLALCHEMY_DATABASE_URI = f"mysql+pymysql://{MYSQL_USER}:{MYSQL_PASSWORD}@{MYSQL_HOST}:{MYSQL_PORT}/{MYSQL_DATABASE}"
     SQLALCHEMY_TRACK_MODIFICATIONS = False  # To disable Flask-SQLAlchemy modification tracking
+    SECRET_KEY = os.getenv('SECRET_KEY', '4d1af60b3132ae555ee9d78760d20251ed90ccbb6eba0474e124bf73e7c41196')
