@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+api.env
+
+# Migrations
+migrations/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Windows line endings
+*.sh text eol=lf
+*.py text eol=lf
