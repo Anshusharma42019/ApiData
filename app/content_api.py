@@ -1,15 +1,14 @@
-# content_api.py
 from flask import Blueprint, jsonify, redirect, request
 import os
 import json
-from flask import current_app as app
+import re
+from . import db  # Importing db for MySQL connection
+from .models import Video, Quiz, LMSContent  # Importing models for MySQL interaction
 
 content_bp = Blueprint('content_bp', __name__)
 
-# Base directory: backend/app
+# Base directory for JSON files
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-
 
 # Helper function to get the content file
 def get_content_file(class_number, subject, file_type):
@@ -19,34 +18,30 @@ def get_content_file(class_number, subject, file_type):
         else:
             file_path = os.path.join(BASE_DIR, f'content/class_{class_number}/{subject}.json')
 
-        print("Looking for file at:", file_path)
-
         if not os.path.isfile(file_path):
-            print("File does not exist.")
-            return None
+            raise FileNotFoundError(f"File for {subject} not found.")
 
         with open(file_path, 'r', encoding='utf-8') as file:
-            data = json.load(file)
+            return json.load(file)
 
-        return data
-
+    except FileNotFoundError as e:
+        print(f"Error: {str(e)}")
+        return None
     except Exception as e:
-        print("Error reading file:", e)
+        print(f"Error reading file: {str(e)}")
         return None
 
 
-# Dynamic route for fetching content for any class and subject
+# Dynamic route for fetching content for any class and subject from JSON files
 @content_bp.route('/api/class/<int:class_number>/<subject>/content', methods=['GET'])
 def get_content(class_number, subject):
-    try:
-        data = get_content_file(class_number, subject, 'content')
-        if not data:
-            return jsonify({'error': f'{subject} content for Class {class_number} not found'}), 404
-        return jsonify(data), 200
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+    data = get_content_file(class_number, subject, 'content')
+    if not data:
+        return jsonify({'error': f'{subject} content for Class {class_number} not found'}), 404
+    return jsonify(data), 200
 
 
+# Fetch Quiz data for a specific class and subject from JSON files
 @content_bp.route('/api/class/<int:class_number>/<subject>/quiz', methods=['GET'])
 def get_quiz(class_number, subject):
     try:
@@ -65,37 +60,147 @@ def get_quiz(class_number, subject):
         return jsonify({'error': str(e)}), 500
 
 
-@content_bp.route('/api/image/<class_name>/<subject>', methods=['GET'])
-def get_single_image(class_name, subject):
-    json_path = os.path.join(BASE_DIR, 'content/images/images.json')
+# 🚀 NEW: Add Video to MySQL
+@content_bp.route('/api/admin/add-video', methods=['POST'])
+def add_video():
+    data = request.json
+    if not data:
+        return jsonify({"error": "Invalid JSON format"}), 400
+
+    title = data.get('title')
+    description = data.get('description')
+    video_url = data.get('video_url')
+
+    # Validation
+    if not (title and description and video_url):
+        return jsonify({"error": "All fields are required"}), 400
 
     try:
-        with open(json_path, 'r') as f:
-            data = json.load(f)
-
-        class_key = class_name.capitalize().replace('class_', 'Class_')
-        subject_key = subject.capitalize()
-
-        class_subject_images = data.get("class_subject_images", {})
-        subject_images = class_subject_images.get(class_key, {})
-
-        image_url = subject_images.get(subject_key)
-        if not image_url:
-            return jsonify({"error": f"Image not found for Class {class_key} and Subject {subject_key}"}), 404
-
-        return redirect(image_url)
-
+        # Insert video into the MySQL database
+        video = Video(title=title, description=description, video_url=video_url)
+        db.session.add(video)
+        db.session.commit()
+        return jsonify({"message": "Video added successfully"}), 201
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        print(f"Add Video Error: {e}")
+        return jsonify({"error": "An error occurred while adding the video"}), 500
+
+
+# 🚀 NEW: Add Quiz to MySQL
+@content_bp.route('/api/admin/add-quiz', methods=['POST'])
+def add_quiz():
+    data = request.json
+    if not data:
+        return jsonify({"error": "Invalid JSON format"}), 400
+
+    title = data.get('title')
+    description = data.get('description')
+    total_marks = data.get('total_marks')
+
+    # Validation
+    if not (title and description and total_marks):
+        return jsonify({"error": "All fields are required"}), 400
+
+    try:
+        # Insert quiz into the MySQL database
+        quiz = Quiz(title=title, description=description, total_marks=total_marks)
+        db.session.add(quiz)
+        db.session.commit()
+        return jsonify({"message": "Quiz added successfully"}), 201
+    except Exception as e:
+        print(f"Add Quiz Error: {e}")
+        return jsonify({"error": "An error occurred while adding the quiz"}), 500
+
+
+# 🚀 NEW: Add LMS Content to MySQL
+@content_bp.route('/api/admin/add-lms-content', methods=['POST'])
+def add_lms_content():
+    data = request.json
+    if not data:
+        return jsonify({"error": "Invalid JSON format"}), 400
+
+    title = data.get('title')
+    content = data.get('content')
+    content_type = data.get('content_type')
+
+    # Validation
+    if not (title and content and content_type):
+        return jsonify({"error": "All fields are required"}), 400
+
+    try:
+        # Insert LMS content into the MySQL database
+        lms_content = LMSContent(title=title, content=content, content_type=content_type)
+        db.session.add(lms_content)
+        db.session.commit()
+        return jsonify({"message": "LMS Content added successfully"}), 201
+    except Exception as e:
+        print(f"Add LMS Content Error: {e}")
+        return jsonify({"error": "An error occurred while adding the LMS content"}), 500
+
+
+# 🚀 NEW: Get all Videos from MySQL
+@content_bp.route('/api/videos', methods=['GET'])
+def get_videos():
+    try:
+        videos = Video.query.all()
+        video_list = [
+            {
+                "id": video.id,
+                "title": video.title,
+                "description": video.description,
+                "video_url": video.video_url,
+                "uploaded_at": video.uploaded_at
+            } for video in videos
+        ]
+        return jsonify(video_list), 200
+    except Exception as e:
+        print(f"Fetch Videos Error: {e}")
+        return jsonify({"error": "An error occurred while fetching the videos"}), 500
+
+
+# 🚀 NEW: Get all Quizzes from MySQL
+@content_bp.route('/api/quizzes', methods=['GET'])
+def get_quizzes():
+    try:
+        quizzes = Quiz.query.all()
+        quiz_list = [
+            {
+                "id": quiz.id,
+                "title": quiz.title,
+                "description": quiz.description,
+                "total_marks": quiz.total_marks,
+                "created_at": quiz.created_at
+            } for quiz in quizzes
+        ]
+        return jsonify(quiz_list), 200
+    except Exception as e:
+        print(f"Fetch Quizzes Error: {e}")
+        return jsonify({"error": "An error occurred while fetching the quizzes"}), 500
+
+
+# 🚀 NEW: Get all LMS Content from MySQL
+@content_bp.route('/api/lms-content', methods=['GET'])
+def get_lms_content():
+    try:
+        lms_content_list = LMSContent.query.all()
+        lms_content = [
+            {
+                "id": content.id,
+                "title": content.title,
+                "content": content.content,
+                "content_type": content.content_type,
+                "created_at": content.created_at
+            } for content in lms_content_list
+        ]
+        return jsonify(lms_content), 200
+    except Exception as e:
+        print(f"Fetch LMS Content Error: {e}")
+        return jsonify({"error": "An error occurred while fetching the LMS content"}), 500
 
 
 # 🚀 NEW: Get all subjects for a specified class
 @content_bp.route('/api/class/<int:class_number>/subjects', methods=['GET'])
 def get_subjects(class_number):
-    """
-    This route fetches all subjects available for the specified class by
-    scanning the folder structure inside 'content/class_<class_number>/'.
-    """
     class_path = os.path.join(BASE_DIR, f'content/class_{class_number}')
     
     if not os.path.exists(class_path):
@@ -111,3 +216,7 @@ def get_subjects(class_number):
         return jsonify({"error": f"No subjects found for Class {class_number}"}), 404
     
     return jsonify({"class": class_number, "subjects": subjects}), 200
+@content_bp.route('/api/content/test', methods=['GET'])
+def test_content():
+    from . import db  # ✅ Import inside the function
+    return {"message": "Content API working!"}

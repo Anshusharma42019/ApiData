@@ -1,30 +1,37 @@
-# app/admin_auth.py
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, session
+from werkzeug.security import generate_password_hash, check_password_hash
 from .models import Admin
 from . import db
+import os
 
 admin_auth_bp = Blueprint('admin_auth_bp', __name__)
 
 # ================================
-# ADMIN REGISTRATION
+# ADMIN REGISTRATION (ONE-TIME ONLY)
 # ================================
 @admin_auth_bp.route('/api/admin/register', methods=['POST'])
 def register_admin():
     data = request.json
+    
+    # Extract data
     username = data.get('username')
     email = data.get('email')
-    password = data.get('password')
+    password_hash = data.get('password')
 
-    if not (username and email and password):
-        return jsonify({"error": "All fields are required"}), 400
+    # Check if all required fields are provided
+    if not (username and email and password_hash):
+        return jsonify({"error": "All fields (username, email, password) are required"}), 400
 
-    # Check if admin already exists
-    if Admin.query.filter_by(email=email).first():
-        return jsonify({"error": "Admin already exists"}), 400
+    # Check if admin already exists (one admin only)
+    existing_admin = Admin.query.first()
+    if existing_admin:
+        return jsonify({"error": "Admin already registered"}), 400
 
-    admin = Admin(username=username, email=email)
-    admin.set_password(password)
-    
+    # Hash the password before storing it
+    hashed_password = generate_password_hash(password_hash)
+
+    admin = Admin(username=username, email=email, password_hash=hashed_password)
+
     try:
         db.session.add(admin)
         db.session.commit()
@@ -40,11 +47,18 @@ def register_admin():
 def login_admin():
     data = request.json
     email = data.get('email')
-    password = data.get('password')
+    password_hash = data.get('password')
+
+    # Check if email and password are provided
+    if not (email and password_hash):
+        return jsonify({"error": "Both email and password are required"}), 400
 
     admin = Admin.query.filter_by(email=email).first()
 
-    if admin and admin.check_password(password):
+    if admin and check_password_hash(admin.password_hash, password_hash):
+        # Store admin ID in session for authentication
+        session['admin_id'] = admin.id
+        
         return jsonify({
             "message": "Login successful",
             "admin": {
@@ -55,3 +69,13 @@ def login_admin():
         }), 200
     else:
         return jsonify({"error": "Invalid credentials"}), 401
+
+# ================================
+# ADMIN LOGOUT
+# ================================
+@admin_auth_bp.route('/api/admin/logout', methods=['POST'])
+def logout_admin():
+    # Remove the admin ID from the session to log out
+    session.pop('admin_id', None)
+    
+    return jsonify({"message": "Logged out successfully"}), 200

@@ -1,6 +1,9 @@
-# models.py
-from . import db
+# app/models.py
+from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
+
+# Directly import db from __init__.py
+from . import db
 
 class Video(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -15,7 +18,7 @@ class Quiz(db.Model):
     description = db.Column(db.Text)
     total_marks = db.Column(db.Integer, nullable=False)
     created_at = db.Column(db.TIMESTAMP, server_default=db.func.now())
-    questions = db.relationship('Question', backref='quiz', lazy=True)  # Relationship to Question model
+    questions = db.relationship('Question', backref='quiz', lazy=True)
 
 class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -41,7 +44,6 @@ class LMSContent(db.Model):
     content_type = db.Column(db.String(100))
     created_at = db.Column(db.TIMESTAMP, server_default=db.func.now())
 
-# New Admin model
 class Admin(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(100), nullable=False, unique=True)
