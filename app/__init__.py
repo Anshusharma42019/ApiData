@@ -47,7 +47,6 @@ def create_app():
     from .content_api import content_bp
     from .admin_content_api import admin_content_bp
     from .admin_auth import admin_auth_bp
-    
 
     # 🚀 Register without extra '/api' since it's already in the blueprint
     app.register_blueprint(auth_bp)
