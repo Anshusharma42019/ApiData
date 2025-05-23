@@ -1,9 +1,20 @@
-from flask import Blueprint, jsonify, redirect, request
+from flask import Blueprint, jsonify, redirect, request, Response
+import requests
 import os
 import json
 import re
 from . import db  # Importing db for MySQL connection
 from .models import Video, Quiz, LMSContent  # Importing models for MySQL interaction
+# Load image data
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGE_JSON_PATH = os.path.join(BASE_DIR, 'content/images/images.json')
+
+try:
+    with open(IMAGE_JSON_PATH, 'r', encoding='utf-8') as f:
+        image_data = json.load(f)
+except Exception as e:
+    print(f"Error loading image data: {e}")
+    image_data = {}
 
 content_bp = Blueprint('content_bp', __name__)
 
@@ -33,6 +44,34 @@ def get_content_file(class_number, subject, file_type):
 
 
 # Dynamic route for fetching content for any class and subject from JSON files
+
+@content_bp.route('/api/image/class_<class_name>/<subject>', methods=['GET'])
+def get_images(class_name, subject):
+    # Normalize keys to match your JSON structure
+    key_class = f"Class_{class_name}"   # e.g., '3' => 'Class_3'
+    key_subject = subject.capitalize()  # e.g., 'english' => 'English'
+
+    images_dict = image_data.get('class_subject_images', {})
+
+    if key_class not in images_dict:
+        return jsonify({'error': f'Class {key_class} not found'}), 404
+
+    if key_subject not in images_dict[key_class]:
+        return jsonify({'error': f'Images for {key_subject} in {key_class} not found'}), 404
+
+    image_url = images_dict[key_class][key_subject]
+
+    try:
+        resp = requests.get(image_url, timeout=10)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"Failed to fetch image from URL: {image_url} - Error: {e}")
+        return jsonify({'error': 'Failed to fetch image from source URL'}), 502
+
+    content_type = resp.headers.get('Content-Type', 'image/jpeg')
+
+    return Response(resp.content, content_type=content_type)
+
 @content_bp.route('/api/class/<int:class_number>/<subject>/content', methods=['GET'])
 def get_content(class_number, subject):
     data = get_content_file(class_number, subject, 'content')
@@ -216,6 +255,7 @@ def get_subjects(class_number):
         return jsonify({"error": f"No subjects found for Class {class_number}"}), 404
     
     return jsonify({"class": class_number, "subjects": subjects}), 200
+
 @content_bp.route('/api/content/test', methods=['GET'])
 def test_content():
     from . import db  # ✅ Import inside the function
